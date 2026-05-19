@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" fill="none">
+  <!-- Background circle -->
+  <circle cx="200" cy="160" r="140" fill="#E9F5EF" opacity="0.6"/>
+
+  <!-- Book spine left -->
+  <rect x="95" y="75" width="24" height="180" rx="3" fill="#1B4332"/>
+  <rect x="97" y="80" width="4" height="170" rx="1" fill="#2D6A4F" opacity="0.4"/>
+
+  <!-- Book cover front -->
+  <rect x="115" y="70" width="170" height="185" rx="4" fill="#2D6A4F"/>
+  <rect x="120" y="75" width="160" height="175" rx="2" fill="#1B4332"/>
+
+  <!-- Book pages side -->
+  <rect x="285" y="78" width="12" height="169" rx="2" fill="#F5F5F0"/>
+  <line x1="288" y1="82" x2="288" y2="243" stroke="#E6E2D9" stroke-width="0.8"/>
+  <line x1="291" y1="82" x2="291" y2="243" stroke="#E6E2D9" stroke-width="0.8"/>
+  <line x1="294" y1="82" x2="294" y2="243" stroke="#E6E2D9" stroke-width="0.8"/>
+
+  <!-- Gold accent on cover -->
+  <rect x="135" y="95" width="130" height="3" rx="1.5" fill="#D4A853"/>
+  <rect x="135" y="235" width="80" height="2" rx="1" fill="#D4A853" opacity="0.6"/>
+
+  <!-- Title text on book -->
+  <text x="200" y="130" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#F5F5F0">WARREN BUFFETT</text>
+  <text x="200" y="152" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#A7C9B5" letter-spacing="2">SHAREHOLDER LETTERS</text>
+  <text x="200" y="175" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#7EC39C" letter-spacing="1">1956 — 2025</text>
+
+  <!-- Decorative lines -->
+  <line x1="155" y1="190" x2="245" y2="190" stroke="#D4A853" stroke-width="1" opacity="0.5"/>
+  <line x1="170" y1="196" x2="230" y2="196" stroke="#D4A853" stroke-width="0.8" opacity="0.3"/>
+
+  <!-- Small quote mark -->
+  <text x="150" y="220" font-family="Georgia, serif" font-size="28" fill="#D4A853" opacity="0.3">"</text>
+  <text x="200" y="218" text-anchor="middle" font-family="Georgia, serif" font-size="7" font-style="italic" fill="#7EC39C" opacity="0.7">Price is what you pay.</text>
+  <text x="200" y="228" text-anchor="middle" font-family="Georgia, serif" font-size="7" font-style="italic" fill="#7EC39C" opacity="0.7">Value is what you get.</text>
+
+  <!-- Floating elements -->
+  <circle cx="340" cy="100" r="8" fill="#D4A853" opacity="0.2"/>
+  <circle cx="80" cy="200" r="6" fill="#2D6A4F" opacity="0.15"/>
+  <circle cx="350" cy="240" r="10" fill="#7EC39C" opacity="0.1"/>
+  <rect x="70" y="110" width="16" height="16" rx="3" fill="#D4A853" opacity="0.15" transform="rotate(15 78 118)"/>
+  <rect x="330" y="170" width="12" height="12" rx="2" fill="#2D6A4F" opacity="0.12" transform="rotate(-10 336 176)"/>
+
+  <!-- Knowledge nodes floating around -->
+  <circle cx="310" cy="75" r="3" fill="#D4A853" opacity="0.4"/>
+  <circle cx="325" cy="85" r="2" fill="#2D6A4F" opacity="0.3"/>
+  <line x1="310" y1="75" x2="325" y2="85" stroke="#D4A853" stroke-width="0.5" opacity="0.3"/>
+
+  <circle cx="90" cy="160" r="2.5" fill="#7EC39C" opacity="0.4"/>
+  <circle cx="105" cy="150" r="2" fill="#2D6A4F" opacity="0.3"/>
+  <line x1="90" y1="160" x2="105" y2="150" stroke="#7EC39C" stroke-width="0.5" opacity="0.3"/>
+</svg>

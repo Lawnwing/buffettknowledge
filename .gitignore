@@ -1,0 +1,67 @@
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# Build
+dist/
+build/
+
+# Environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+!.env.local.example
+
+# Misc
+.DS_Store
+*.pem
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temp / Working files
+*.pdf
+*.txt
+*.html
+*.json
+!package.json
+!package-lock.json
+!tsconfig.json
+!next.config.js
+!tailwind.config.ts
+!postcss.config.js
+!wrangler.toml
+!.eslintrc.json
+!SPEC.md
+!docx_extracted.json
+
+extracted_letters/
+partnership_extracted/
+__pycache__/
+*.pyc
+scripts/
+fix_*.ps1
+fix_*.py
+debug_*.py
+rebuild_*.py
+simple_restore.py
+verify_out.py
+count_*.py
+check_*.py
+analyze_*.py
+add_*.py

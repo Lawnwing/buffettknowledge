@@ -1,0 +1,379 @@
+'use client'
+
+/**
+ * ChatWidget - Floating AI Chat Component
+ *
+ * Provides a floating chat button that expands into a chat panel
+ * for asking questions about Buffett letters.
+ */
+
+import { useState, useRef, useEffect } from 'react'
+import { MessageCircle, X, Send, Loader2, ExternalLink } from 'lucide-react'
+
+// ─────────────────────────────────────────────────────────────
+// Types
+// ─────────────────────────────────────────────────────────────
+
+interface Message {
+  id: string
+  role: 'user' | 'assistant'
+  content: string
+  sources?: SourceRef[]
+  timestamp: Date
+}
+
+interface SourceRef {
+  type: string
+  slug: string
+  title: string
+  year?: number
+  url: string
+}
+
+interface AskResponse {
+  answer: string
+  sources: SourceRef[]
+  error?: string
+}
+
+// ─────────────────────────────────────────────────────────────
+// Default welcome message
+// ─────────────────────────────────────────────────────────────
+
+const WELCOME_MESSAGE: Message = {
+  id: 'welcome',
+  role: 'assistant',
+  content: `Hello! I'm your Buffett Knowledge assistant. I can help you explore Warren Buffett's shareholder letters and investment wisdom.
+
+**Try asking me about:**
+• Investment concepts (intrinsic value, margin of safety, economic moat)
+• Specific companies (Coca-Cola, GEICO, Apple)
+• Buffett's philosophy on various topics
+• Key lessons from specific letters
+
+**Note:** This feature requires a Cloudflare Worker deployment. See .env.local.example for setup instructions.
+
+What would you like to know?`,
+  timestamp: new Date(),
+}
+
+// ─────────────────────────────────────────────────────────────
+// Configuration
+// ─────────────────────────────────────────────────────────────
+
+// Cloudflare Worker URL - set via environment variable
+// Format: https://buffettknowledge-ask.your-subdomain.workers.dev
+// Or set NEXT_PUBLIC_ASK_API_URL in your environment
+const ASK_API_URL = process.env.NEXT_PUBLIC_ASK_API_URL || ''
+
+// ─────────────────────────────────────────────────────────────
+// Component
+// ─────────────────────────────────────────────────────────────
+
+export function ChatWidget() {
+  const [isOpen, setIsOpen] = useState(false)
+  const [messages, setMessages] = useState<Message[]>([WELCOME_MESSAGE])
+  const [input, setInput] = useState('')
+  const [isLoading, setIsLoading] = useState(false)
+  const [apiConfigured, setApiConfigured] = useState(!!ASK_API_URL)
+  const messagesEndRef = useRef<HTMLDivElement>(null)
+
+  // Auto-scroll to bottom when new messages arrive
+  useEffect(() => {
+    messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' })
+  }, [messages])
+
+  // Example questions for quick start
+  const exampleQuestions = [
+    'What is intrinsic value?',
+    'How did Buffett invest in Coca-Cola?',
+    'What did Buffett say about the 2008 crisis?',
+    'Explain economic moat',
+  ]
+
+  // Handle sending a message
+  const handleSend = async (question?: string) => {
+    const q = question || input.trim()
+    if (!q || isLoading) return
+
+    // Add user message
+    const userMessage: Message = {
+      id: `user-${Date.now()}`,
+      role: 'user',
+      content: q,
+      timestamp: new Date(),
+    }
+    setMessages((prev) => [...prev, userMessage])
+    setInput('')
+    setIsLoading(true)
+
+    try {
+      // Determine API endpoint
+      const apiUrl = ASK_API_URL || '/api/ask'
+
+      // Call the AI API
+      const response = await fetch(apiUrl, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ question: q }),
+      })
+
+      const data: AskResponse = await response.json()
+
+      if (data.error) {
+        throw new Error(data.error)
+      }
+
+      // Add assistant response
+      const assistantMessage: Message = {
+        id: `assistant-${Date.now()}`,
+        role: 'assistant',
+        content: data.answer,
+        sources: data.sources,
+        timestamp: new Date(),
+      }
+      setMessages((prev) => [...prev, assistantMessage])
+    } catch (error) {
+      // Add error message
+      const errorMessage: Message = {
+        id: `error-${Date.now()}`,
+        role: 'assistant',
+        content: `I'm sorry, I encountered an error processing your question. This might be because:
+
+1. **API not configured** - The AI service needs to be set up
+2. **Network issue** - Please check your connection
+3. **Rate limit** - Please try again in a moment
+
+Try refreshing the page or asking a simpler question.`,
+        timestamp: new Date(),
+      }
+      setMessages((prev) => [...prev, errorMessage])
+    } finally {
+      setIsLoading(false)
+    }
+  }
+
+  // Handle keyboard submission
+  const handleKeyDown = (e: React.KeyboardEvent) => {
+    if (e.key === 'Enter' && !e.shiftKey) {
+      e.preventDefault()
+      handleSend()
+    }
+  }
+
+  return (
+    <>
+      {/* Floating button */}
+      <button
+        onClick={() => setIsOpen(!isOpen)}
+        className="fixed bottom-6 right-6 z-50 flex items-center justify-center w-14 h-14 rounded-full shadow-lg transition-all duration-200 hover:scale-105"
+        style={{
+          backgroundColor: '#2D6A4F',
+          color: '#fff',
+        }}
+        aria-label={isOpen ? 'Close chat' : 'Open chat'}
+      >
+        {isOpen ? (
+          <X className="w-6 h-6" />
+        ) : (
+          <>
+            <MessageCircle className="w-6 h-6" />
+            {/* Notification dot */}
+            {messages.length === 1 && (
+              <span
+                className="absolute top-0 right-0 w-3 h-3 rounded-full animate-pulse"
+                style={{ backgroundColor: '#EF4444' }}
+              />
+            )}
+          </>
+        )}
+      </button>
+
+      {/* Chat panel */}
+      {isOpen && (
+        <div
+          className="fixed bottom-24 right-6 z-50 w-96 max-w-[calc(100vw-3rem)] flex flex-col rounded-2xl shadow-2xl overflow-hidden"
+          style={{
+            backgroundColor: '#fff',
+            border: '1px solid #E6E2D9',
+            height: '32rem',
+            maxHeight: 'calc(100vh - 10rem)',
+          }}
+        >
+          {/* Header */}
+          <div
+            className="flex items-center justify-between px-4 py-3"
+            style={{ backgroundColor: '#2D6A4F', color: '#fff' }}
+          >
+            <div className="flex items-center gap-2">
+              <MessageCircle className="w-5 h-5" />
+              <div>
+                <div className="font-semibold text-sm">Ask Buffett</div>
+                <div className="text-xs opacity-80">AI-powered Q&A</div>
+              </div>
+            </div>
+            <button
+              onClick={() => setIsOpen(false)}
+              className="p-1 rounded hover:bg-white/20 transition-colors"
+              aria-label="Close"
+            >
+              <X className="w-5 h-5" />
+            </button>
+          </div>
+
+          {/* Messages */}
+          <div className="flex-1 overflow-y-auto p-4 space-y-4">
+            {messages.map((message) => (
+              <div
+                key={message.id}
+                className={`flex ${message.role === 'user' ? 'justify-end' : 'justify-start'}`}
+              >
+                <div
+                  className={`max-w-[85%] rounded-2xl px-4 py-3 ${
+                    message.role === 'user'
+                      ? 'rounded-br-md'
+                      : 'rounded-bl-md'
+                  }`}
+                  style={{
+                    backgroundColor:
+                      message.role === 'user' ? '#2D6A4F' : '#F5F3EF',
+                    color: message.role === 'user' ? '#fff' : '#18181B',
+                  }}
+                >
+                  {/* Message content with markdown-like formatting */}
+                  <div className="text-sm leading-relaxed whitespace-pre-wrap">
+                    {message.content.split('\n').map((line, i) => {
+                      // Handle bold text (**text**)
+                      const parts = line.split(/(\*\*[^*]+\*\*)/g)
+                      return (
+                        <p key={i} className="mb-1 last:mb-0">
+                          {parts.map((part, j) => {
+                            if (part.startsWith('**') && part.endsWith('**')) {
+                              return (
+                                <strong key={j} className="font-semibold">
+                                  {part.slice(2, -2)}
+                                </strong>
+                              )
+                            }
+                            return part
+                          })}
+                        </p>
+                      )
+                    })}
+                  </div>
+
+                  {/* Sources */}
+                  {message.sources && message.sources.length > 0 && (
+                    <div className="mt-3 pt-3 border-t" style={{ borderColor: 'rgba(0,0,0,0.1)' }}>
+                      <div className="text-xs opacity-70 mb-2">Sources:</div>
+                      <div className="flex flex-wrap gap-1">
+                        {message.sources.slice(0, 3).map((source) => (
+                          <a
+                            key={source.slug}
+                            href={source.url}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="inline-flex items-center gap-1 px-2 py-1 rounded-full text-xs transition-colors"
+                            style={{
+                              backgroundColor:
+                                message.role === 'user'
+                                  ? 'rgba(255,255,255,0.2)'
+                                  : 'rgba(45, 106, 79, 0.1)',
+                              color:
+                                message.role === 'user' ? '#fff' : '#2D6A4F',
+                            }}
+                          >
+                            {source.title}
+                            <ExternalLink className="w-3 h-3" />
+                          </a>
+                        ))}
+                      </div>
+                    </div>
+                  )}
+                </div>
+              </div>
+            ))}
+
+            {/* Loading indicator */}
+            {isLoading && (
+              <div className="flex justify-start">
+                <div
+                  className="rounded-2xl rounded-bl-md px-4 py-3"
+                  style={{ backgroundColor: '#F5F3EF' }}
+                >
+                  <div className="flex items-center gap-2 text-sm" style={{ color: '#71717A' }}>
+                    <Loader2 className="w-4 h-4 animate-spin" />
+                    Thinking...
+                  </div>
+                </div>
+              </div>
+            )}
+
+            {/* Empty state with examples */}
+            {messages.length === 1 && !isLoading && (
+              <div className="mt-4">
+                <div className="text-xs mb-2" style={{ color: '#71717A' }}>
+                  Try these questions:
+                </div>
+                <div className="flex flex-wrap gap-2">
+                  {exampleQuestions.map((q) => (
+                    <button
+                      key={q}
+                      onClick={() => handleSend(q)}
+                      className="text-xs px-3 py-1.5 rounded-full transition-colors"
+                      style={{
+                        backgroundColor: '#F0FFF4',
+                        color: '#2D6A4F',
+                        border: '1px solid #A9D7BD',
+                      }}
+                    >
+                      {q}
+                    </button>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            <div ref={messagesEndRef} />
+          </div>
+
+          {/* Input */}
+          <div
+            className="p-3 border-t"
+            style={{ borderColor: '#E6E2D9', backgroundColor: '#FAFAF8' }}
+          >
+            <div className="flex gap-2">
+              <input
+                type="text"
+                value={input}
+                onChange={(e) => setInput(e.target.value)}
+                onKeyDown={handleKeyDown}
+                placeholder="Ask about Buffett's letters..."
+                className="flex-1 px-4 py-2 rounded-full text-sm outline-none"
+                style={{
+                  backgroundColor: '#fff',
+                  border: '1px solid #E6E2D9',
+                  color: '#18181B',
+                }}
+                disabled={isLoading}
+              />
+              <button
+                onClick={() => handleSend()}
+                disabled={!input.trim() || isLoading}
+                className="flex items-center justify-center w-10 h-10 rounded-full transition-colors disabled:opacity-50"
+                style={{ backgroundColor: '#2D6A4F', color: '#fff' }}
+                aria-label="Send message"
+              >
+                {isLoading ? (
+                  <Loader2 className="w-5 h-5 animate-spin" />
+                ) : (
+                  <Send className="w-5 h-5" />
+                )}
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+    </>
+  )
+}

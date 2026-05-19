@@ -1,0 +1,146 @@
+// ============================================================
+// BuffettKnowledge — Core Type Definitions
+// ============================================================
+
+export type LetterType = 'partnership' | 'berkshire' | 'special'
+
+export type CrossRefRelevance = 'first' | 'key' | 'mention' | 'refinement'
+
+export interface CrossReference {
+  letterSlug: string
+  year: number
+  passage: string
+  relevance: CrossRefRelevance
+}
+
+// --------------------------------------------------------
+// Letter Interpretation
+// --------------------------------------------------------
+export interface InterpretationSection {
+  title: string
+  content: string
+  type?: 'key-point' | 'background' | 'principle' | 'insight' | 'quote'
+}
+
+export interface MarketContext {
+  description: string
+  sp500Return?: string
+  fedFundsRate?: string
+  inflation?: string
+  marketPhase?: 'bull' | 'bear' | 'recession' | 'stagflation' | 'recovery'
+}
+
+export interface KeyNumber {
+  label: string
+  value: string
+  unit?: string
+  context?: string
+}
+
+export interface ThenVsNow {
+  then: string
+  now: string
+}
+
+export interface Interpretation {
+  overview: string
+  sections: InterpretationSection[]
+  keyTakeaways: string[]
+  relatedConcepts: string[]
+  relatedCompanies: string[]
+  relatedPeople: string[]
+  marketContext?: MarketContext
+  keyNumbers?: KeyNumber[]
+  thenVsNow?: ThenVsNow
+}
+
+// --------------------------------------------------------
+// Letter
+// --------------------------------------------------------
+export interface Letter {
+  slug: string
+  year: number
+  type: LetterType
+  title: string
+  date: string
+  summary: string
+  fullText: string
+  concepts: string[]
+  companies: string[]
+  people: string[]
+  crossReferences: CrossReference[]
+  keyQuotes: string[]
+  featured: boolean
+  sourceUrl: string
+  readingTimeMinutes: number
+  interpretation?: Interpretation
+}
+
+// --------------------------------------------------------
+// Concept
+// --------------------------------------------------------
+export interface Concept {
+  slug: string
+  name: string
+  definition: string
+  firstMentioned: number
+  letterCount: number
+  crossReferences: CrossReference[]
+  relatedConcepts: string[]
+  featured: boolean
+}
+
+// --------------------------------------------------------
+// Company
+// --------------------------------------------------------
+export interface CompanyMention {
+  year: number
+  letterSlug: string
+  passage: string
+  position?: string
+}
+
+export interface Company {
+  slug: string
+  name: string
+  ticker?: string
+  industry: string
+  firstMentioned: number
+  letterCount: number
+  timeline: CompanyMention[]
+  featured: boolean
+}
+
+// --------------------------------------------------------
+// Person
+// --------------------------------------------------------
+export interface PersonQuote {
+  year: number
+  letterSlug: string
+  passage: string
+}
+
+export interface Person {
+  slug: string
+  name: string
+  role: string
+  firstMentioned: number
+  letterCount: number
+  relationship: string
+  quotes: PersonQuote[]
+  featured: boolean
+}
+
+// --------------------------------------------------------
+// Search
+// --------------------------------------------------------
+export type SearchResultType = 'letter' | 'concept' | 'company' | 'person'
+
+export interface SearchResult {
+  type: SearchResultType
+  slug: string
+  title: string
+  subtitle: string
+  snippet?: string
+  year?: number
+}
