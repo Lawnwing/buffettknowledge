@@ -213,7 +213,7 @@ export const partnershipLetters: Letter[] = [
     date: '1957-01-01',
     summary:
       "Buffett's first annual letter to partnership investors. Markets were relatively flat; the partnership was formed late in the year with starting capital of $105,000. Performance was modest but positive.",
-        fullText: `<p>1957 Letter</p>
+        fullText: `<h2>1957 Letter</h2>
 
 <h2>WARREN E. BUFFETT</h2>
 
@@ -221,7 +221,11 @@ export const partnershipLetters: Letter[] = [
 
 <h2>SECOND ANNUAL LETTER TO LIMITED PARTNERS</h2>
 
-<p>The General Stock Market Picture in 1957 In last year's letter to partners, I said the following: My view of the general market level is that it is priced above intrinsic value. This view relates to blue-chip securities. This view, if accurate, carries with it the possibility of a substantial decline in all stock prices, both undervalued and otherwise. In any event I think the probability is very slight that current market levels will be thought of as cheap five years from now. Even a full-scale bear market, however, should not hurt the market value of our work-outs substantially.</p>
+<h2>The General Stock Market Picture in 1957</h2>
+
+<p>In last year's letter to partners, I said the following:</p>
+
+<p>My view of the general market level is that it is priced above intrinsic value. This view relates to blue-chip securities. This view, if accurate, carries with it the possibility of a substantial decline in all stock prices, both undervalued and otherwise. In any event I think the probability is very slight that current market levels will be thought of as cheap five years from now. Even a full-scale bear market, however, should not hurt the market value of our work-outs substantially.</p>
 
 <p>If the general market were to return to an undervalued status our capital might be employed exclusively in general issues and perhaps some borrowed money would be used in this operation at that time. Conversely, if the market should go considerably higher our policy will be to reduce our general issues as profits present themselves and increase the work-out portfolio.</p>
 
@@ -229,11 +233,15 @@ export const partnershipLetters: Letter[] = [
 
 <p>The past year witnessed a moderate decline in stock prices. I stress the word "moderate" since casual reading of the press or conversing with those who have had only recent experience with stocks would tend to create an impression of a much greater decline. Actually, it appears to me that the decline in stock prices has been considerably less than the decline in corporate earning power under present business conditions. This means that the public is still very bullish on blue chip stocks and the general economic picture. I make no attempt to forecast either business or the stock market; the above is simply intended to dispel any notions that stocks have suffered any drastic decline or that the general market, is at a low level. I still consider the general market to be priced on the high side based on long term investment value.</p>
 
-<p>Our Activities in 1957 The market decline has created greater opportunity among undervalued situations so that, generally, our portfolio is heavier in undervalued situations relative to work-outs than it was last year. Perhaps an explanation of the term "work-out" is in order. A work-out is an investment which is dependent on a specific corporate action for its profit rather than a general advance in the price of the stock as in the case of undervalued situations. Work-outs come about through: sales, mergers, liquidations, tenders, etc. In each case, the risk is that something will upset the applecart and cause the abandonment of the planned action, not that the economic picture will deteriorate and stocks decline generally. At the end of 1956, we had a ratio of about 70-30 between general issues and work-outs. Now it is about 85-15.</p>
+<h2>Our Activities in 1957</h2>
+
+<p>The market decline has created greater opportunity among undervalued situations so that, generally, our portfolio is heavier in undervalued situations relative to work-outs than it was last year. Perhaps an explanation of the term "work-out" is in order. A work-out is an investment which is dependent on a specific corporate action for its profit rather than a general advance in the price of the stock as in the case of undervalued situations. Work-outs come about through: sales, mergers, liquidations, tenders, etc. In each case, the risk is that something will upset the applecart and cause the abandonment of the planned action, not that the economic picture will deteriorate and stocks decline generally. At the end of 1956, we had a ratio of about 70-30 between general issues and work-outs. Now it is about 85-15.</p>
 
 <p>During the past year we have taken positions in two situations which have reached a size where we may expect to take some part in corporate decisions. One of these positions accounts for between 10% and 20% of the portfolio of the various partnerships and the other accounts for about 5%. Both of these will probably take in the neighborhood of three to five years of work but they presently appear to have potential for a high average annual rate of return with a minimum of risk. While not in the classification of work-outs, they have very little dependence on the general action of the stock market. Should the general market have a substantial rise, of course, I would expect this section of our portfolio to lag behind the action of the market.</p>
 
-<p>Results for 1957 In 1957 the three partnerships which we formed in 1956 did substantially better than the general market. At the beginning of the year, the Dow-Jones Industrials stood at 499 and at the end of the year it was at 435 for a loss of 64 points. If one had owned the Averages, he would have received 22 points in dividends reducing the overall loss to 42 points or 8.470% for the year. This loss is roughly equivalent to what would have been achieved by investing in most investment funds and, to my knowledge, no investment fund invested in stocks showed a gain for the year.</p>
+<h2>Results for 1957</h2>
+
+<p>In 1957 the three partnerships which we formed in 1956 did substantially better than the general market. At the beginning of the year, the Dow-Jones Industrials stood at 499 and at the end of the year it was at 435 for a loss of 64 points. If one had owned the Averages, he would have received 22 points in dividends reducing the overall loss to 42 points or 8.470% for the year. This loss is roughly equivalent to what would have been achieved by investing in most investment funds and, to my knowledge, no investment fund invested in stocks showed a gain for the year.</p>
 
 <p>All three of the 1956 partnerships showed a gain during the year amounting to about 6.2%, 7.8% and 25% on yearend 1956 net worth. Naturally a question is created as to the vastly superior performance of the last partnership, particularly in the mind of the partners ofthe first two. This performance emphasizes the importance of luck in the short run, particularly in regard to when funds are received. The third partnership was started the latest in 1956 when the market was at a lower level and when several securities were particularly attractive. Because of the availability of funds, large positions were taken in these issues. Whereas the two partnerships formed earlier were already substantially invested so that they could only take relatively small positions in these issues.</p>
 
@@ -269,7 +277,9 @@ export const partnershipLetters: Letter[] = [
     date: '1958-01-01',
     summary:
       "Markets fell sharply in 1958 amid recession fears. The partnership posted gains while the Dow declined. Buffett introduced the concept of \"Mr. Market\" - the market as a bipolar personality offering daily prices.",
-        fullText: `<p>1958 Letter Warren E Buffett 5202 Underwood Ave. Omaha, Nebraska</p>
+        fullText: `<h2>1958 Letter</h2>
+
+<p>Warren E Buffett 5202 Underwood Ave. Omaha, Nebraska</p>
 
 <h2>THE GENERAL STOCK MARKET IN 1958</h2>
 
@@ -283,7 +293,9 @@ export const partnershipLetters: Letter[] = [
 
 <h2>RESULTS IN 1958</h2>
 
-<p>In my letter of last year, I wrote: “Our performance, relatively, is likely to be better in a bear market than in a bull market so that deductions made from the above results should be tempered by the fact that it was the type of year when we should have done relatively will. In a year when the general market had a substantial advance, I would be well satisfied to match the advance of the averages.” The latter sentence describes the type of year we had in 1958 and my forecast worked out. The Dow-Jones Industrial average advanced from 435 to 583 which, after adding back dividends of about 20 points, gave an overall gain of 38.5% from the Dow-Jones unit. The five partnerships that operated throughout the entire year obtained results averaging slightly better than this 38.5%. Based on market values at the end of both years, their gains ranged from 36.7% to 46.2%. Considering the fact that a substantial portion of assets has been and still is invested in securities, which benefit very little from a fast-rising market, I believe these results are reasonably good. I will continue to forecast that our results will be above average in a declining or level market, but it will be all we can do to keep pace with a rising market.</p>
+<p>In my letter of last year, I wrote:</p>
+
+<blockquote>“Our performance, relatively, is likely to be better in a bear market than in a bull market so that deductions made from the above results should be tempered by the fact that it was the type of year when we should have done relatively will. In a year when the general market had a substantial advance, I would be well satisfied to match the advance of the averages.” The latter sentence describes the type of year we had in 1958 and my forecast worked out. The Dow-Jones Industrial average advanced from 435 to 583 which, after adding back dividends of about 20 points, gave an overall gain of 38.5% from the Dow-Jones unit. The five partnerships that operated throughout the entire year obtained results averaging slightly better than this 38.5%. Based on market values at the end of both years, their gains ranged from 36.7% to 46.2%. Considering the fact that a substantial portion of assets has been and still is invested in securities, which benefit very little from a fast-rising market, I believe these results are reasonably good. I will continue to forecast that our results will be above average in a declining or level market, but it will be all we can do to keep pace with a rising market.</blockquote>
 
 <h2>TYPICAL SITUATION</h2>
 
@@ -332,7 +344,7 @@ export const partnershipLetters: Letter[] = [
     date: '1959-01-01',
     summary:
       "A bull market year. The Dow rose sharply. Buffett wrote about the dangers of euphoria and the difficulty of maintaining discipline when prices are rising. The partnership maintained its approach of focusing on fundamentals rather than market trends.",
-        fullText: `<p>1959 Letter</p>
+        fullText: `<h2>1959 Letter</h2>
 
 <h2>WARREN E. BUFFETT</h2>
 
@@ -340,13 +352,19 @@ export const partnershipLetters: Letter[] = [
 
 <p>Despite this indication of a robust market, more stocks declined than advanced on the New York Stock Exchange during the year by a margin of 710 to 628. Both the Dow-Jones Railroad Average and Utility Average registered declines.</p>
 
-<p>Most investment trusts had a difficult time in comparison with the Industrial Average. Tri-Continental Corp. the nation's largest closed-end investment company (total asset $400 million) had an overall gain of about 5.7% for the year. Fred Brown, its President, had this to say about the 1959 marked in a recent speech to the Analysts Society: "But, even though we like the portfolio, the market performance of Tri-Continental's holdings in 1959 was disappointing to us. Markets in which investor sentiment and enthusiasm play so large a part as those of 1959, are difficult for investment managers trained in values and tuned to investing for the long-term. Perhaps we haven't had our space boots adjusted properly. However, we believe that there is a limit to risks that an investing institution such as Tri-Continental should take with its stockholders'</p>
+<p>Most investment trusts had a difficult time in comparison with the Industrial Average. Tri-Continental Corp. the nation's largest closed-end investment company (total asset $400 million) had an overall gain of about 5.7% for the year. Fred Brown, its President, had this to say about the 1959 marked in a recent speech to the Analysts Society:</p>
 
-<p>money, and we believe that the portfolio is in shape for the year ahead." Massachusetts Investors Trust, the country's largest mutual fund with assets of $1.5 billion showed an overall gain of about 9% for the year.</p>
+<blockquote>"But, even though we like the portfolio, the market performance of Tri-Continental's holdings in 1959 was disappointing to us. Markets in which investor sentiment and enthusiasm play so large a part as those of 1959, are difficult for investment managers trained in values and tuned to investing for the long-term. Perhaps we haven't had our space boots adjusted properly. However, we believe that there is a limit to risks that an investing institution such as Tri-Continental should take with its stockholders' money, and we believe that the portfolio is in shape for the year ahead."</blockquote>
+
+<p>Massachusetts Investors Trust, the country's largest mutual fund with assets of $1.5 billion showed an overall gain of about 9% for the year.</p>
 
 <p>Most of you know I have been very apprehensive about general stock market levels for several years. To date, this caution has been unnecessary. By previous standards, the present level of "blue chip " security prices contains a substantial speculative component with a corresponding risk of loss. Perhaps other standards of valuation are evolving which will permanently replace the old standard. I don't think so. I may very well be wrong; however, I would rather sustain the penalties resulting from over-conservatism than face the consequences of error, perhaps with permanent capital loss, resulting from the adoption of a "New Era"</p>
 
-<p>philosophy where trees really do grow to the sky. Results in 1959: There has been emphasis in previous letters on a suggested standard of performance involving relatively good results (compared to the general market indices and leading investment trusts) in periods of declining or level prices but relatively unimpressive results in rapidly rising markets.</p>
+<p>philosophy where trees really do grow to the sky.</p>
+
+<h2>Results in 1959</h2>
+
+<p>There has been emphasis in previous letters on a suggested standard of performance involving relatively good results (compared to the general market indices and leading investment trusts) in periods of declining or level prices but relatively unimpressive results in rapidly rising markets.</p>
 
 <p>We were fortunate to achieve reasonably good results in 1959. The six partnerships that operated throughout the year achieved overall net gains ranging from 22.3% to 30.0%, and averaging about 25.9%. Portfolios of these partnerships are now about 80%comparable, but there is some difference due to securities and cash becoming available at varying times, payments made to partners, etc. Over the past few years, there hasn't been any partnership which has consistently been at the top or bottom of performance from year to year, and the variance is narrowing as the portfolios tend to become comparable.</p>
 
@@ -358,7 +376,7 @@ export const partnershipLetters: Letter[] = [
 
 <p>Presently this investment is about 35% of assets. This is an unusually large percentage, but has been made for strong reasons. In effect, this company is partially an investment trust owing some thirty or forty other securities of high quality. Our investment was made and is carried at a substantial discount from asset value based on market value of their securities and a conservative appraisal of the operating business.</p>
 
-<p>We are the company’s largest stockholder by a considerable margin, and the two other large holders agree with our ideas. The probability is extremely high that the performance of this investment will be superior to that of  the general market until its disposition, and I am hopeful that this will take place this year.</p>
+<p>We are the company’s largest stockholder by a considerable margin, and the two other large holders agree with our ideas. The probability is extremely high that the performance of this investment will be superior to that of the general market until its disposition, and I am hopeful that this will take place this year.</p>
 
 <p>The remaining 65% of the portfolio is in securities which I consider undervalued and work-out operations. To the extent possible, I continue to attempt to invest in situations at least partially insulated from the behavior of the general market.</p>
 
