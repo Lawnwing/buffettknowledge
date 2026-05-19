@@ -14,6 +14,41 @@ interface ChangelogEntry {
 
 const changelog: ChangelogEntry[] = [
   {
+    date: '2026-05-19',
+    version: 'v1.8',
+    title: 'Partnership Letters Full-Text Data Entry (1965)',
+    items: [
+      '1965 mid-year letter (Jul 9, 1965): fullText from 1965-1.docx — "First Half Performance", 10.4% vs 0.8% Dow (9.6pt advantage), Berkshire controlling interest acquisition discussed',
+      '1965 special letter (Nov 1, 1965): fullText from 1965-2.docx — commitment letter for 1966, Ground Rule 7 introduced, Berkshire Hathaway valuation methodology explained',
+      '1965 partnership letter (Jan 20, 1966): fullText from 1965-3.docx — "Our Performance in 1965", partnership gained 47.2% vs 14.2% Dow, widest margin in BPL history',
+    ],
+  },
+  {
+    date: '2026-05-19',
+    version: 'v1.7',
+    title: 'Partnership Letters Full-Text Data Entry (1963-1964)',
+    items: [
+      '1963 mid-year letter (Jul 10, 1963): fullText from 1963-1.docx — Dempster Mill turnaround, 14% vs 10% Dow',
+      '1963 partnership letter (Jan 18, 1964): fullText from 1963-3.docx — "Our Performance in 1963", 38.7% vs 20.7% Dow',
+      '1963 special letter (Nov 6, 1963): fullText from 1963-2.docx — annual administrative letter to partners for 1964',
+      '1964 mid-year letter (Jul 8, 1964): fullText from 1964-1.docx — plus 8.1% vs Dow plus 3.8% in first half',
+      '1964 partnership letter (Jan 18, 1965): fullText from 1964-2.docx — "Our Performance in 1964", 27.8% vs 18.7% Dow',
+    ],
+  },
+  {
+    date: '2026-05-19',
+    version: 'v1.6',
+    title: 'Partnership Letters Full-Text Data Entry (1960-1962)',
+    items: [
+      '1960 partnership letter (Jan 30, 1961): fullText populated from 1960.docx',
+      '1961 mid-year letter (Jul 22, 1961): fullText populated from 1961.docx',
+      '1961 partnership letter (Jan 24, 1962): fullText populated from 1961.docx',
+      '1962 mid-year letter (Jul 6, 1962): fullText populated from 1962.docx',
+      '1962 partnership letter corrected (Jan 18, 1963): replaced incorrect content from 1962-2.docx with correct text from 1962-3.docx',
+      'Automated .docx parsing pipeline: HTML table extraction, format preservation, letters.ts injection',
+    ],
+  },
+  {
     date: '2026-05-18',
     version: 'v1.5',
     title: 'UI Polish & Cross-Reference Enhancement',

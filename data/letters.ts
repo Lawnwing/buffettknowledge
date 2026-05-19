@@ -1098,41 +1098,736 @@ Miscellaneous</p>
   },
 
   {
+    slug: '1963-mid-year-letter',
+    year: 1963,
+    type: 'partnership',
+    title: 'First Half Performance — July 1963',
+    date: '1963-07-10',
+    summary:
+      "Mid-1963 report showing partnership gains of 14% vs the Dow's 10% advance. Discusses Dempster Mill turnaround continuing under Harry Bottle, with per-share value rising from $35.25 (Nov 1961) to $64.81 (Nov 1963). Investment companies comparison table included.",
+    fullText: `      <p>BUFFETT PARTNERSHIP, LTD.</p>
+      <p>810 KIEWIT PLAZA</p>
+      <p>OMAHA 31, NEBRASKA</p>
+      <p>July 10, 1963 First Half Performance</p>
+      <p>During the first half of 1963, the Dow Jones Industrial Average (hereinafter called the &amp;quot;Dow&amp;quot;) advanced from 652.10 to 706.88. If one had owned the Dow during this period, dividends of $10.66 would have been received, bringing the overall return from the Dow during the first half to plus 10.0%.</p>
+      <p>Our incantation has been: </p>
+      <p>that short-term results (less than three years) have little meaning, particularly in reference to an investment operation such as ours that devotes a portion of resources to control situations, and;</p>
+      <p>(2) That our results relative to the Dow and other common-stock-form media, will be better in declining markets and may well have a difficult time just matching such media in bubbling markets.</p>
+      <p>Nevertheless, our first-half performance, excluding any change in Dempster valuation (and its valuation did</p>
+      <p>change --I&#x27;m saving this for dessert later in the letter) was plus 14%. This 14% is computed on total net assets</p>
+      <p>(not non-Dempster assets) and is after expenses, but before monthly payments (to those who take them) to</p>
+      <p>partners and allocation to the General Partner. Such allocations are academic on an interim basis, but if we were also plus 14% at yearend, the first 6% would be allocated to partners according to their capital, plus three -</p>
+      <p>quarters ofthe balance of 8% (14% -6%), or an additional 6%, giving the limited partners a plus 12% performance.</p>
+      <p>Despite the relatively pleasant results of the first half the admonitions stated two paragraphs earlier hold in full</p>
+      <p>force. At plus 14% versus plus 10% for the Dow, this six months has been a less satisfactory period than the first half of 1962 when we were minus 7.5% versus minus 21.7% for the Dow. You should completely understand</p>
+      <p>our thinking in this regard which has been emphasized in previous letters.</p>
+      <p>During the first half we had an average net investment in &amp;quot;generals&amp;quot; (long positions in generals minus short</p>
+      <p>positions in generals) of approximately $5,275,000. Our overall gain from this net investment in generals (for a description of our investment categories see the last annual letter) was about $1 , 100,000 for a percentage gain from this category of roughly 21%. This again illustrates the extent to which the allocation of our resources</p>
+      <p>among various categories affects short-term results. In 1962 the generals were down for the year and only an</p>
+      <p>outstanding performance by both of the other two categories, &amp;quot;work-outs&amp;quot; and &amp;quot;controls,&amp;quot; gave us our unusually favorable results for that year.</p>
+      <p>Now this year, our work-outs have done poorer than the Dow and have been a drag on performance, as they are expected to be in rising markets. While it would be very nice to be 100% in generals in advancing markets and 100% in work-outs in declining markets, I make no attempt to guess the course of the stock market in such a</p>
+      <p>manner. We consider all three of our categories to be good businesses on a long-term basis, although their short- term price behavior characteristics differ substantially in various types of markets. We consider attempting to</p>
+      <p>gauge stock market fluctuations to be a very poor business on a long-term basis and are not going to be in it,</p>
+      <p>either directly or indirectly through the process of trying to guess which of our categories is likely to do best in the near future.</p>
+      <p>Investment Companies</p>
+      <p>Shown below are the usual statistics on a cumulative basis for the Dow and Buffett Partnership. Ltd. (including predecessor partnerships) as well as for the two largest open-end (mutual funds) and two largest closed-end investment companies following a diversified common-stock investment policy:</p>
+      <table><tr><td>Year</td><td>Dow</td><td>Mass.Inv. Trust (1)</td><td>Investors Stock (1)</td><td>Tri-Cont. (2)</td></tr><tr><td>1957</td><td>-8.4%</td><td>-11.4%</td><td>-12.4%</td><td>-2.4%</td></tr><tr><td>1957 – 58</td><td>26.9%</td><td>26.4%</td><td>29.2%</td><td>30.0%</td></tr><tr><td>1957 – 59</td><td>52.3%</td><td>37.8%</td><td>42.5%</td><td>40.9%</td></tr><tr><td>1957 – 60</td><td>42.9%</td><td>36.4%</td><td>41.6%</td><td>44.8%</td></tr><tr><td>1957 – 61</td><td>74.9%</td><td>71.3%</td><td>76.9%</td><td>77.4%</td></tr><tr><td>1957 – 62</td><td>61.6%</td><td>54.5%</td><td>53.2%</td><td>59.7%</td></tr><tr><td>1957 – 6/30/63</td><td>77.8%</td><td>72.4%</td><td>69.3%</td><td>75.7%</td></tr><tr><td>AnnualCompounded Rate</td><td>9.3%</td><td>8.7%</td><td>8.4%</td><td>9.1%</td></tr></table>
+      <table><tr><td>Year</td><td>Lehman (2)</td><td>Partnership (3)</td><td>Limited Partners (4)</td></tr><tr><td>1957</td><td>-11.4%</td><td>10.4%</td><td>9.3%</td></tr><tr><td>1957 – 58</td><td>24.7%</td><td>55.6%</td><td>44.5%</td></tr><tr><td>1957 – 59</td><td>34.8%</td><td>95.9%</td><td>74.7%</td></tr><tr><td>1957 – 60</td><td>38.2%</td><td>140.6%</td><td>107.2%</td></tr><tr><td>1957 – 61</td><td>70.8%</td><td>251.0%</td><td>181.6%</td></tr><tr><td>1957 – 62</td><td>46.2%</td><td>299.8%</td><td>215.1%</td></tr><tr><td>1957 – 6/30/63</td><td>60.8%</td><td>355.8%</td><td>252.9%</td></tr><tr><td>AnnualCompounded Rate</td><td>7.6%</td><td>26.3%</td><td>21.4%</td></tr></table>
+      <p><strong>Footnotes</strong><strong> </strong>:</p>
+      <p>(1)  Computed from changes in asset value plus any distributions to holders of record during year.</p>
+      <p>(2) From 1963 Moody&#x27;s Bank &amp;amp; Finance Manual for 1957-62. Estimated for first half 1963.</p>
+      <p>(3) For 1957-61 consists of combined results of all predecessor limited partnerships operating throughout entire year after all expenses but before distributions to partners or allocations to the general partner.</p>
+      <p>(4) For 1957-61 computed on basis of preceding column of partnership results allowing for allocation to general partner based upon present partnership agreement.</p>
+      <p>The results continue to show that the most highly paid and respected investment advice has difficulty matching the performance of an unmanaged index of blue-chip stocks. This in no sense condemns these institutions or the investment advisers and trust departments whose methods, reasoning, and results largely parallel such</p>
+      <p>investment companies. These media perform a substantial service to millions of investors in achieving adequate diversification, providing convenience and peace of mind, avoiding issues of inferior quality, etc. However,</p>
+      <p>their services do not include (and in the great majority of cases, are not represented to include) the compounding of money at a rate greater than that achieved by the general market.</p>
+      <p>Our partnership&#x27;s fundamental reason for existence is to compound funds at a better-than-average rate with less exposure to long-term loss of capital than the above investment media. We certainly cannot represent that we</p>
+      <p>will achieve this goal. We can and do say that if we don&#x27;t achieve this goal over any reasonable period excluding</p>
+      <p>an extensive speculative boom, we will cease operation.</p>
+      <p>Dempster Mill Manufacturing Company</p>
+      <p>In our most recent annual letter, I described Harry Bottle as the “man of the year” . If this was an understatement.</p>
+      <p>Last year Harry did an extraordinary job of converting unproductive assets into cash which we then, of course, began to invest in undervalued securities. Harry has continued this year to turn under-utilized assets into cash, but in addition, he has made the remaining needed assets productive. Thus we have had the following</p>
+      <p>transformation in balance sheets during the last nineteen months:</p>
+      <p>November 30, 1961 (000’s omitted)</p>
+      <table><tr><td>Assets</td><td>Book Figure</td><td>Valued @</td><td>AdjustedValuation</td><td>Liabilities</td><td></td></tr><tr><td>Cash</td><td>$166</td><td>100%</td><td>$166</td><td>Notes Payable</td><td>$1,230</td></tr><tr><td>Accts. Rec. (net)</td><td>$1,040</td><td>85%</td><td>$884</td><td>OtherLiabilities</td><td>$1,088</td></tr><tr><td>Inventory</td><td>$4,203</td><td>60%</td><td>$2,522</td><td></td><td></td></tr><tr><td>Ppd. Exp. Etc.</td><td>$82</td><td>25%</td><td>$21</td><td>TotalLiabilities</td><td>$2,318</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Current Assets</td><td>$5,491</td><td></td><td>$3,593</td><td>Net Worth:</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>Per Books</td><td>$4,601</td></tr><tr><td>Cash Value Life ins., etc.</td><td>$45</td><td>100%</td><td>$45</td><td>As adjusted to quicklyrealizable values</td><td>$2,120</td></tr><tr><td>Net Plant &amp;amp;amp;equipment</td><td>$1,383</td><td>Est. NetAuction Value</td><td>$800</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total Assets</td><td>$6,919</td><td></td><td>$4,438</td><td>Shareoutstanding60,146. Adj. Value perShare</td><td>$35.25</td></tr></table>
+      <p>November 30, 1962 (000’s omitted)</p>
+      <table><tr><td>Assets</td><td>Book Figure</td><td>Valued @</td><td>AdjustedValuation</td><td>Liabilities</td><td></td></tr><tr><td>Cash</td><td>$60</td><td>100%</td><td>$60</td><td>Notes payable</td><td>$0</td></tr><tr><td>Marketable Securities</td><td>$758</td><td>Mkt. 12/31/62</td><td>$834</td><td>Otherliabilities</td><td>$346</td></tr><tr><td>Accts. Rec. (net)</td><td>$796</td><td>85%</td><td>$676</td><td>Total liabilities</td><td>$346</td></tr><tr><td>Inventory</td><td>$1,634</td><td>60%</td><td>$981</td><td></td><td></td></tr><tr><td>Cash value life ins.</td><td>$41</td><td>100%</td><td>$41</td><td>Net Worth:</td><td></td></tr><tr><td>Recoverableincome tax</td><td>$170</td><td>100%</td><td>$170</td><td>Per books</td><td>$4,077</td></tr><tr><td>Ppd. Exp. Etc</td><td>$14</td><td>25%</td><td>$4</td><td>As adjusted to quicklyrealizable values</td><td>$3,125</td></tr><tr><td></td><td></td><td></td><td></td><td>Add: proceedsfrom potential exercise ofoption toHarry Bottle</td><td>$60</td></tr><tr><td>Current Assets</td><td>$3,473</td><td></td><td>$2,766</td><td></td><td>$3,185</td></tr><tr><td></td><td></td><td></td><td></td><td>SharesOutstanding 60,146</td><td></td></tr><tr><td>Misc. Invest.</td><td>$5</td><td>100%</td><td>$5</td><td>Add: shs.Potentially outstandingunder option: 2,000</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>Total shs. 62,146</td><td></td></tr><tr><td>Net plant &amp;amp;amp;equipment</td><td>$945</td><td>Est. netauction value</td><td>$700</td><td>Adj. Value per Share</td><td>$51.26</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total Assets</td><td>$4,423</td><td></td><td>$3,471</td><td></td><td></td></tr></table>
+      <p>November 30, 1963 (000’s omitted)</p>
+      <table><tr><td>Assets</td><td>Book Figure</td><td>Valued @</td><td>AdjustedValuation</td><td>Liabilities</td><td></td></tr><tr><td>Cash</td><td>$144</td><td>100%</td><td>$144</td><td>Notes payable(paid 7/3/63)</td><td>$125</td></tr><tr><td>Marketable Securities</td><td>$1,772</td><td>Mkt. 6/30/63</td><td>$2,029</td><td>Otherliabilities</td><td>$394</td></tr><tr><td>Accts. Rec. (net)</td><td>$1,262</td><td>85%</td><td>$1,073</td><td>TotalLiabilities</td><td>$519</td></tr><tr><td>Inventory</td><td>$977</td><td>60%</td><td>$586</td><td></td><td></td></tr><tr><td>Ppd. Exp. Etc</td><td>$12</td><td>25%</td><td>$3</td><td>Net Worth:</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>Per books</td><td>$4,582</td></tr><tr><td>Current Assets</td><td>$4,167</td><td></td><td>$3,835</td><td>As adjusted to quicklyrealizable values</td><td>$4,028</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Misc. Invest</td><td>$62</td><td>100%</td><td>$62</td><td>Sharesoutstanding 62,146</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Net plant &amp;amp;amp; equip.</td><td>$872</td><td>Est. netauction value</td><td>$650</td><td>Adj. Value per share</td><td>$64.81</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total assets</td><td>$5,101</td><td></td><td>$4,547</td><td></td><td></td></tr></table>
+      <p>I have included above the conversion factors we have previously used in valuing Dempster for B.P.L. purposes to reflect estimated immediate sale values of non-earning assets.</p>
+      <p>As can be seen, Harry has converted the assets at a much more favorable basis than was implied by my</p>
+      <p>valuations. This largely reflects Harry&#x27;s expertise and, perhaps, to a minor degree my own conservatism in valuation.</p>
+      <p>As can also be seen, Dempster earned a very satisfactory operating profit in the first half (as well as a substantial unrealized gain in securities) and there is little question that the operating business, as now conducted, has at</p>
+      <p>least moderate earning power on the vastly reduced assets needed to conduct it. Because of a very important-</p>
+      <p>seasonal factor and also the presence of a tax carry forward, however, the earning power is not nearly what</p>
+      <p>might be inferred simply by a comparison of the 11/30/62 and 6/30/63 balance sheets. Partly because of this</p>
+      <p>seasonality, but more importantly, because of possible developments in Dempster before 1963 yearend, we have left our Dempster holdings at the same $51.26 valuation used at yearend 1962 in our figures for B.P.L’s first</p>
+      <p>half. However, I would be very surprised if it does not work out higher than this figure at yearend.</p>
+      <p>One sidelight for the fundamentalists in our group: B.P.L. owns 71.7% of Dempster acquired at a cost of</p>
+      <p>$1,262,577.27. On June 30, 1963 Dempster had a small safe deposit box at the Omaha National Bank containing securities worth $2,028,415.25. Our 71.7% share of $2,028,415.25 amounts to $1,454,373.70. Thus, everything above ground (and part ofit underground) is profit. My security analyst friends may find this a rather primitive method of accounting, but I must confess that I find a bit more substance in this fingers and toes method than in any prayerful reliance that someone will pay me 35 times next year&#x27;s earnings.</p>
+      <p>Advance Payments and Advance Withdrawals</p>
+      <p>We accept advance payments from partners and prospective partners at 6% interest from date of receipt until the end of the year. While there is no obligation to convert the payment to a partnership interest at the end of the</p>
+      <p>year, this should be the intent at the time of payment.</p>
+      <p>Similarly, we allow partners to withdraw up to 20% of their partnership account prior to yearend and charge</p>
+      <p>them 6% from date of withdrawal until yearend when it is charged against their capital account. Again, it is not intended that partners use US like a bank, but that they use the withdrawal right for unanticipated need for</p>
+      <p>funds.</p>
+      <p>The willingness to both borrow and lend at 6% may seem &amp;quot;un-Buffett-like.” We look at the withdrawal right as a means of giving some liquidity for unexpected needs and, as a practical matter, are reasonably sure it will be far more than covered by advance payments.</p>
+      <p>Why then the willingness to pay 6% for advance payment money when we can borrow from commercial banks at substantially lower rates? For example, in the first half we obtained a substantial six-month bank loan at 4%. The answer is that we expect on a long-term basis to earn better than 6% (the general partner&#x27;s allocation is zero unless we do although it is largely a matter of chance whether we achieve the 6% figure in any short period.</p>
+      <p>Moreover, I can adopt a different attitude in the investment of money that can be expected to soon be a part of</p>
+      <p>our equity capital than I can on short-term borrowed money. The advance payments have the added advantage to us of spreading the investment of new money over the year, rather than having it hit us all at once in January. On the other hand, 6% is more than can be obtained in short-term dollar secure investments by our partners, so I</p>
+      <p>consider it mutually profitable. On June 30, 1963 we had advance withdrawals of $21,832.00 and advance payments of $562,437.11.</p>
+      <p>Taxes</p>
+      <p>There is some possibility that we may have fairly substantial realized gains this year. Of course, this may not materialize at all and actually does not have anything to do with our investment performance this year. I am an outspoken advocate of paying large amounts of income taxes -- at low rates. A tremendous number of fuzzy,  confused investment decisions are rationalized through so-called &amp;quot;tax considerations.”</p>
+      <p>My net worth is the market value of holdings less the tax payable upon sale. The liability is just as real as the asset unless the value of the asset declines (ouch), the asset is given away (no comment), or I die with it. The latter course of action would appear to at least border on a Pyrrhic victory.</p>
+      <p>Investment decisions should be made on the basis of the most probable compounding of after-tax net worth with minimum risk. Any isolation of low-basis securities merely freezes a portion of net worth at a compounding</p>
+      <p>factor identical with the assets isolated. While this may work out either well or badly in individual cases, it is a nullification of investment management. The group experience holding various low basis securities will</p>
+      <p>undoubtedly approximate group experience on securities as a whole, namely compounding at the compounding rate of the Dow. We do not consider this the optimum in after-tax compounding rates.</p>
+      <p>I have said before that if earnings from the partnership can potentially amount to a sizable portion of your total taxable income, the safe thing to do is to estimate this year the same tax you incurred last year. If you do this,</p>
+      <p>you cannot run into penalties. In any event, tax liabilities for those who entered the partnership on 1/1/63 will be minimal because of the terms of our partnership agreement first allocating capital gains to those having an</p>
+      <p>interest in unrealized appreciation.</p>
+      <p>As in past years, we will have a letter out about November 1st (to partners and those who have indicated an</p>
+      <p>interest to me by that time in becoming partners) with the amendment to the partnership agreement, commitment letter for 1964, estimate of the 1963 tax situation, etc.</p>
+      <p>My closing plea for questions regarding anything not clear always draws a blank. Maybe no one reads this far. Anyway, the offer is still open.</p>
+      <p>Cordially,</p>
+      <p>Warren E. Buffett</p>`,
+
+    concepts: ['general-partnerships', 'dempster-mill', 'workouts', 'investment-companies'],
+    companies: ['dempster-mill-manufacturing'],
+    people: ['harry-bottle'],
+    crossReferences: [],
+    keyQuotes: [
+      'Short-term results (less than three years) have little meaning, particularly in reference to an investment operation such as ours.',
+      'Our fundamental reason for existence is to compound funds at a better-than-average rate with less exposure to long-term loss of capital.',
+    ],
+    featured: false,
+    sourceUrl: 'https://www.berkshirehathaway.com/letters/1962.html',
+    readingTimeMinutes: 7,
+  },
+  {
     slug: '1963-partnership-letter',
     year: 1963,
     type: 'partnership',
-    title: 'The Year of Unisuper and American Express - 1963',
-    date: '1963-01-01',
+    title: 'Our Performance in 1963',
+    date: '1964-01-18',
     summary:
-      "Buffett discussed his investment in American Express following the Salad Oil scandal, which he saw as a temporary setback rather than a structural problem. He also introduced the Unisuper trade - a complex arbitrage of significant magnitude.",
-        fullText: `[[PLACEHOLDER]]`,
+      "Buffett's 1963 annual letter written in January 1964. The partnership gained 38.7% vs the Dow's 20.7%, a remarkable 18 percentage point advantage. The letter discusses American Express following the Salad Oil scandal, the Unisuper arbitrage trade, and compares performance against four major investment companies. Dempster Mill's operating assets were sold on a going-concern basis, with Harry Bottle celebrated for extraordinary value creation.",
+    fullText: `      <p>BUFFETT PARTNERSHIP, LTD.</p>
+      <p>810 KIEWIT PLAZA</p>
+      <p>OMAHA 31, NEBRASKA</p>
+      <p>January 18, 1964 Our Performance in 1963</p>
+      <p>1963 was a good year. It was not a good year because we had an overall gain of $3,637,167 or 38.7% on our</p>
+      <p>beginning net assets, pleasant as that experience may be to the pragmatists in our group. Rather it was a good</p>
+      <p>year because our performance was substantially better than that ofour fundamental yardstick --the Dow-Jones  Industrial Average (hereinafter called the “Dow”). If we had been down 20% and the Dow had been down 30%, this letter would still have begun “ 1963 was a good year.” Regardless of whether we are plus or minus in a</p>
+      <p>particular year, if we can maintain a satisfactory edge on the Dow over an extended period of time, our long term results will be satisfactory -- financially as well as philosophically.</p>
+      <p>To bring the record up to date, the following summarizes the year-by-year performance of the Dow, the</p>
+      <p>performance of the Partnership before allocation to the general partner, and the limited partners&#x27; results for all full years of BPL&#x27;s and predecessor partnerships&#x27; activities:</p>
+      <table><tr><td>Year</td><td>Overall Results FromDow (1)</td><td>Partnership Results(2)</td><td>’Results (3)</td></tr><tr><td>1957</td><td>-8.4%</td><td>10.4%</td><td>9.3%</td></tr><tr><td>1958</td><td>38.5%</td><td>40.9%</td><td>32.2%</td></tr><tr><td>1959</td><td>20.0%</td><td>25.9%</td><td>20.9%</td></tr><tr><td>1960</td><td>-6.2%</td><td>22.8%</td><td>18.6%</td></tr><tr><td>1961</td><td>22.4%</td><td>45.9%</td><td>35.9%</td></tr><tr><td>1962</td><td>-7.6%</td><td>13.9%</td><td>11.9%</td></tr><tr><td>1963</td><td>20.7%</td><td>38.7%</td><td>30.5%</td></tr></table>
+      <p>(1) Based on yearly changes in the value of the Dow plus dividends that would have been received through ownership of the Dow during that year.</p>
+      <p>(2) For 1957-61 consists of combined results of all predecessor limited partnerships operating</p>
+      <p>throughout the entire year after all expenses but before distributions to partners or allocations to the general partner.</p>
+      <p>(3) For 1957-61 computed on the basis of the preceding column of partnership results allowing for allocation to the general partner based upon the present partnership agreement.</p>
+      <p>One wag among the limited partners has suggested I add a fourth column showing the results of the general partner --let&#x27;s just say he, too, has an edge on the Dow.</p>
+      <p>The following table shows the cumulative or compounded results based on the preceding table:</p>
+      <table><tr><td>Year</td><td>Overall Results FromDow</td><td>Partnership Results</td><td>’Results</td></tr><tr><td>1957</td><td>-8.4%</td><td>10.4%</td><td>9.3%</td></tr><tr><td>1957 – 58</td><td>26.9%</td><td>55.6%</td><td>44.5%</td></tr><tr><td>1957 – 59</td><td>52.3%</td><td>95.9%</td><td>74.7%</td></tr></table>
+      <table><tr><td>1957 – 60</td><td>42.9%</td><td>140.6%</td><td>107.2%</td></tr><tr><td>1957 – 61</td><td>74.9%</td><td>251.0%</td><td>181.6%</td></tr><tr><td>1957 – 62</td><td>61.6%</td><td>299.8%</td><td>215.1%</td></tr><tr><td>1957 – 63</td><td>95.1%</td><td>454.5%</td><td>311.2%</td></tr><tr><td>Annual CompoundedRate</td><td>10.0%</td><td>27.7%</td><td>22.3%</td></tr></table>
+      <p>It appears that we have completed seven fat years. With apologies to Joseph we shall attempt to ignore the biblical script. (I&#x27;ve never gone overboard for Noah&#x27;s ideas on diversification either.)</p>
+      <p>In a more serious vein, I would like to emphasize that, in my judgment; our 17.7 margin over the Dow shown above is unattainable over any long period of time. A ten percentage point advantage would be a very</p>
+      <p>satisfactory accomplishment and even a much more modest edge would produce impressive gains as will be</p>
+      <p>touched upon later. This view (and it has to be guesswork -- informed or otherwise) carries with it the corollary that we must expect prolonged periods of much narrower margins over the Dow as well as at least occasional</p>
+      <p>years when our record will be inferior (perhaps substantially so) to the Dow.</p>
+      <p>Much of the above sermon is reflected in &amp;quot;The Ground Rules&amp;quot; sent to everyone in November , but it can stand repetition.</p>
+      <p>Investment Companies</p>
+      <p>We regularly compare our results with the two largest open-end investment companies (mutual funds) that</p>
+      <p>follow a policy of being, typically, 95 -100% invested in common stocks, and the two largest diversified closed- end investment companies. These four companies, Massachusetts Investors Trust, Investors Stock Fund, Tri -</p>
+      <p>Continental Corp. and Lehman Corp. manage about $4 billion and are probably typical of most of the $25</p>
+      <p>billion investment company industry. My opinion is that their results roughly parallel those of the vast majority or other investment advisory organizations which handle, in aggregate, vastly greater sums.</p>
+      <p>The purpose or this tabulation, which is shown below, is to illustrate that the Dow is no pushover as an index or investment achievement. The advisory talent managing just the four companies shown commands&#x27; annual fees of over $7 million, and this represents a very small fraction of the industry. The public batting average of this</p>
+      <p>highly-paid talent indicates they achieved results slightly less favorable than the Dow.</p>
+      <p>Both our portfolio and method of operation differ substantially from the investment companies in the table.</p>
+      <p>However, most partners, as an alternative to their interest in the Partnership would probably have their funds invested in media producing results comparable with investment companies, and I, therefore, feel they offer a meaningful standard of performance.</p>
+      <p><strong>YEARLY RESULTS</strong></p>
+      <table><tr><td>Year</td><td>Mass. Inv.Trust (1)</td><td>InvestorsStock (1)</td><td>Lehman (2)</td><td>Tri-Cont.(2)</td><td>Dow</td><td>LimitedPartners</td></tr><tr><td>1957</td><td>-11.4%</td><td>-12.4%</td><td>-11.4%</td><td>-2.4%</td><td>-8.4%</td><td>9.3%</td></tr><tr><td>1958</td><td>42.7%</td><td>47.5%</td><td>40.8%</td><td>33.2%</td><td>38.5%</td><td>32.2%</td></tr><tr><td>1959</td><td>9.0%</td><td>10.3%</td><td>8.1%</td><td>8.4%</td><td>20.0%</td><td>20.9%</td></tr><tr><td>1960</td><td>-1.0%</td><td>-0.6%</td><td>2.5%</td><td>2.8%</td><td>-6.2%</td><td>18.6%</td></tr><tr><td>1961</td><td>25.6%</td><td>24.9%</td><td>23.6%</td><td>22.5%</td><td>22.4%</td><td>35.9%</td></tr><tr><td>1962</td><td>-9.8%</td><td>-13.4%</td><td>-14.4%</td><td>-10.0%</td><td>-7.6%</td><td>11.9%</td></tr><tr><td>1963</td><td>20.0%</td><td>16.5%</td><td>23.8%</td><td>19.5%</td><td>20.7%</td><td>30.5%</td></tr></table>
+      <p>(1) Computed from changes in asset value plus any distributions to holders of record during year.</p>
+      <p>(2) From 1963 Moody&#x27;s Bank &amp;amp; Finance Manual for 1957-62; Estimated for 1963.</p>
+      <p><strong>COMPOUNDED</strong></p>
+      <table><tr><td>Year</td><td>Mass. Inv.Trust</td><td>InvestorsStock</td><td>Lehman</td><td>Tri-Cont.</td><td>Dow</td><td>LimitedPartners</td></tr><tr><td>1957</td><td>-11.4%</td><td>-12.4%</td><td>-11.4%</td><td>-2.4%</td><td>-8.4%</td><td>9.3%</td></tr><tr><td>1957 – 58</td><td>26.4%</td><td>29.2%</td><td>24.7%</td><td>30.0%</td><td>26.9%</td><td>44.5%</td></tr><tr><td>1957 – 59</td><td>37.8%</td><td>42.5%</td><td>34.8%</td><td>40.9%</td><td>52.3%</td><td>74.7%</td></tr><tr><td>1957 – 60</td><td>36.4%</td><td>41.6%</td><td>38.2%</td><td>44.8%</td><td>42.9%</td><td>107.2%</td></tr><tr><td>1957 – 61</td><td>71.3%</td><td>76.9%</td><td>70.8%</td><td>77.4%</td><td>74.9%</td><td>181.6%</td></tr><tr><td>1957 – 62</td><td>54.5%</td><td>53.2%</td><td>46.2%</td><td>59.7%</td><td>61.6%</td><td>215.1%</td></tr><tr><td>1957 – 63</td><td>85.4%</td><td>78.5%</td><td>81.0%</td><td>90.8%</td><td>95.1%</td><td>311.2%</td></tr><tr><td>AnnualCompoundedRate</td><td>9.2%</td><td>8.6%</td><td>8.8%</td><td>9.7%</td><td>10.0%</td><td>22.3%</td></tr></table>
+      <p>The Dow, of course, is an unmanaged index, and it may seem strange to the reader to contemplate the high</p>
+      <p>priests of Wall Street striving vainly to surpass or even equal it. However, this is demonstrably the case.</p>
+      <p>Moreover, such a failure cannot be rationalized by the assumption that the investment companies et al are</p>
+      <p>handling themselves in a more conservative manner than the Dow. As the table above indicates, and as more</p>
+      <p>extensive studies bear out, the behavior of common stock portfolio managed by this group, on average, have</p>
+      <p>declined in concert with the Dow. By such a test of behavior in declining markets, our own methods of</p>
+      <p>operation have proven to be considerably more conservative than the common stock component of the</p>
+      <p>investment company or investment advisor group. While this has been true in the past, there obviously can be no guarantees about the future.</p>
+      <p>The above may seem like rather strong medicine, but it is offered as a factual presentation and in no way as</p>
+      <p>criticism. Within their institutional framework and handling the many billions of dollars involved, the results</p>
+      <p>achieved are the only ones attainable. To behave unconventionally within this framework is extremely difficult. Therefore, the collective record of such investment media is necessarily tied to the record of corporate America. Their merits, except in the unusual case, do not lie in superior results or greater resistance to decline in value.</p>
+      <p>Rather, I feel they earn their keep by the ease of handling, the freedom from decision making and the automatic diversification they provide, plus, perhaps most important, the insulation afforded from temptation to practice patently inferior techniques which seem to entice so many world-be investors.</p>
+      <p>The Joys of Compounding</p>
+      <p>Now to the pulse-quickening portion of our essay. Last year, in order to drive home the point on compounding, I took a pot shot at Queen Isabella and her financial advisors. You will remember they were euchred into such an obviously low-compound situation as the discovery of a new hemisphere.</p>
+      <p>Since the whole subject of compounding has such a crass ring to it, I will attempt to introduce a little class into this discussion by turning to the art world. Francis I of France paid 4,000 ecus in 1540 for Leonardo da Vinci’s Mona Lisa. On the off chance that a few of you have not kept track of the fluctuations of the ecu 4,000</p>
+      <p>converted out to about $20,000.</p>
+      <p>If Francis had kept his feet on the ground and he (and his trustees) had been able to find a 6% after-tax</p>
+      <p>investment, the estate now would be worth something over $1,000,000,000,000,000.00. That&#x27;s $1 quadrillion or over 3,000 times the present national debt, all from 6%. I trust this will end all discussion in our household</p>
+      <p>about any purchase or paintings qualifying as an investment.</p>
+      <p>However, as I pointed out last year, there are other morals to be drawn here. One is the wisdom of living a long time. The other impressive factor is the swing produced by relatively small changes in the rate of compound.</p>
+      <p>Below are shown the gains from $100,000 compounded at various rates:</p>
+      <table><tr><td></td><td>4%</td><td>8%</td><td>12%</td><td>16%</td></tr><tr><td>10 Years</td><td>$48,024</td><td>$115,892</td><td>$210,584</td><td>$341,143</td></tr><tr><td>20 Years</td><td>$119,111</td><td>$366,094</td><td>$864,627</td><td>$1,846,060</td></tr><tr><td>30 Years</td><td>$224,337</td><td>$906,260</td><td>$2,895,970</td><td>$8,484,940</td></tr></table>
+      <p>It is obvious that a variation of merely a few percentage points has an enormous effect on the success of a</p>
+      <p>compounding (investment) program. It is also obvious that this effect mushrooms as the period lengthens. If, over a meaningful period of time, Buffett Partnership can achieve an edge of even a modest number of</p>
+      <p>percentage points over the major investment media, its function will be fulfilled.</p>
+      <p>Some of you may be downcast because I have not included in the above table the rate of 22.3% mentioned on</p>
+      <p>page 3. This rate, of course, is before income taxes which are paid directly by you --not the Partnership. Even</p>
+      <p>excluding this factor, such a calculation would only prove the absurdity of the idea of compounding at very high rates -- even with initially modest sums. My opinion is that the Dow is quite unlikely to compound for any</p>
+      <p>important length of time at the rate it has during the past seven years and, as mentioned earlier, I believe our</p>
+      <p>margin over the Dow cannot be maintained at its level to date. The product of these assumptions would be a</p>
+      <p>materially lower average rate of compound for BPL in the future than the rate achieved to date. Injecting a</p>
+      <p>minus 30% year (which is going to happen from time to time) into our tabulation of actual results to date, with, say, a corresponding minus 40% for the Dow brings both the figures on the Dow and BPL more in line with</p>
+      <p>longer range possibilities. As the compounding table above suggests, such a lowered rate can still provide highly satisfactory long term investment results.</p>
+      <p>Our Method of Operation</p>
+      <p>At this point I always develop literary schizophrenia. On the one hand, I know that we have in the audience a</p>
+      <p>number of partners to whom details of our business are interesting. We also have a number to whom this whole thing is Greek and who undoubtedly wish I would quit writing and get back to work.</p>
+      <p>To placate both camps, I am just going to sketch briefly our three categories at this point and those who are interested in getting their doctorate can refer to the appendix for extended treatment of examples.</p>
+      <p>Our three investment categories are not differentiated by their expected profitability over an extended period of time. We are hopeful that they will each, over a ten or fifteen year period, produce something like the ten</p>
+      <p>percentage point margin over the Dow that is our goal. However, in a given year they will have violently</p>
+      <p>different behavior characteristics, depending primarily on the type of year it turns out to be for the stock market generally. Briefly this is how they shape up:</p>
+      <p>“Generals” - A category of generally undervalued stocks, determined primarily by quantitative</p>
+      <p>standards, but with considerable attention also paid to the qualitative factor. There is often little or</p>
+      <p>nothing to indicate immediate market improvement. The issues lack glamour or market sponsorship.</p>
+      <p>Their main qualification is a bargain price; that is, an overall valuation on the enterprise substantially below what careful analysis indicates its value to a private owner to be. Again let me emphasize that</p>
+      <p>while the quantitative comes first and is essential, the qualitative is important. We like good</p>
+      <p>management - we like a decent industry - we like a certain amount of “ferment” in a previously dormant management or stockholder group. But we demand value. The general group behaves very much in</p>
+      <p>sympathy with the Dow and will turn in a big minus result during a year of substantial decline by the Dow. Contrarywise, it should be the star performer in a strongly advancing market. Over the years we expect it, of course, to achieve a satisfactory margin over the Dow.</p>
+      <p>“Workouts” - These are the securities with a timetable. They arise from corporate activity - sell-outs,</p>
+      <p>mergers, reorganizations, spin-offs, etc. In this category we are not talking about rumors or &amp;quot;inside</p>
+      <p>information&amp;quot; pertaining to such developments, but to publicly announced activities of this sort. We wait until we can read it in the paper. The risk pertains not primarily to general market behavior (although</p>
+      <p>that is sometimes tied in to a degree), but instead to something upsetting the applecart so that the</p>
+      <p>expected development does not materialize. Such killjoys could include anti-trust or other negative</p>
+      <p>government action, stockholder disapproval, withholding of tax rulings, etc. The gross profits in many workouts appear quite small. A friend refers to this as getting the last nickel after the other fellow has</p>
+      <p>made the first ninety-five cents. However, the predictability coupled with a short holding period</p>
+      <p>produces quite decent annual rates of return. This category produces more steady absolute profits from year to year than generals do. In years of market decline, it piles up a big edge for us; during bull</p>
+      <p>markets, it is a drag on performance. On a long term basis, I expect it to achieve the same sort of margin over the Dow attained by generals.</p>
+      <p>“Controls” - These are rarities, but when they occur they are likely to be of significant size. Unless we start off with the purchase of a sizable block or stock, controls develop from the general category. They result from situations where a cheap security does nothing price-wise for such an extended period of</p>
+      <p>time that we are able to buy a significant percentage of the company&#x27;s stock. At that point we are</p>
+      <p>probably in a position to assume some degree of, or perhaps complete, control of the company&#x27;s</p>
+      <p>activities; whether we become active or remain relatively passive at this point depends upon our</p>
+      <p>assessment of the company’s future and the management&#x27;s capabilities. The general we have been</p>
+      <p>buying the most aggressively in recent months possesses excellent management following policies that appear to make very good sense to us. Ifour continued buying puts us in a controlling position at some point in the future, we will probably remain very passive regarding the operation or this business.</p>
+      <p>We do not want to get active merely for the sake of being active. Everything else being equal I would much rather let others do the work. However, when an active role is necessary to optimize the</p>
+      <p>employment of capital you can be sure we will not be standing in the wings.</p>
+      <p>Active or passive, in a control situation there should be a built-in profit. The sine qua non of this operation is an attractive purchase price. Once control is achieved, the value of our investment is determined by the value of the enterprise, not the oftentimes irrationalities of the marketplace.</p>
+      <p>Our willingness and financial ability to assume a controlling position gives us two-way stretch on many purchases in our group of generals. If the market changes its opinion for the better, the security will</p>
+      <p>advance in price. If it doesn&#x27;t, we will continue to acquire stock until we can look to the business itself rather than the market for vindication of our judgment.</p>
+      <p>Investment results in the control category have to be measured on the basis of at least several years.</p>
+      <p>Proper buying takes time. If needed, strengthening management, re-directing the utilization of capital, perhaps effecting a satisfactory sale or merger, etc., are also all factors that make this a business to be measured in years rather than months. For this reason, in controls, we are looking for wide margins of profit-if it looks at all close, we pass.</p>
+      <p>Controls in the buying stage move largely in sympathy with the Dow. In the later stages their behavior is geared more to that of workouts.</p>
+      <p>As I have mentioned in the past, the division of our portfolio among the three categories is largely determined</p>
+      <p>by the accident or availability. Therefore, in a minus year for the Dow, whether we are primarily in generals or workouts is largely a matter of luck, but it will have a great deal to do with our performance relative to the Dow. This is one or many reasons why a single year&#x27;s performance is of minor importance and, good or bad, should</p>
+      <p>never be taken too seriously.</p>
+      <p>If there is any trend as our assets grow, I would expect it to be toward controls which heretofore have been our  smallest category. I may be wrong in this expectation - a great deal depends, of course, on the future behavior of the market on which your guess is as good as mine (I have none). At this writing, we have a majority of our</p>
+      <p>capital in generals, workouts rank second, and controls are third.</p>
+      <p>Miscellaneous</p>
+      <p>We are starting off the year with net assets of $17,454,900. Our rapid increase in assets always raises the</p>
+      <p>question of whether this will result in a dilution of future performance. To date, there is more of a positive than inverse correlation between size of the Partnership and its margin over the Dow. This should not be taken</p>
+      <p>seriously however. Larger sums may be an advantage at some times and a disadvantage at others. My opinion is that our present portfolio could not be improved if our assets were $1 million or $5 million. Our idea inventory has always seemed to be 10% ahead of our bank account. If that should change, you can count on hearing from me.</p>
+      <p>Susie and I have an investment of $2,392,900 in the Partnership. For the first time I had to withdraw funds in addition to my monthly payments, but it was a choice of this or disappointing the Internal Revenue Service.</p>
+      <p>Susie and I have a few non-marketable (less than 300 holders) securities of nominal size left over from earlier years which in aggregate are worth perhaps 1% of our partnership interest. In addition we have one non -</p>
+      <p>marketable holding of more material size of a local company purchased in 1960 which we expect to hold</p>
+      <p>indefinitely. Aside from this all our eggs are in the BPL basket and they will continue to be. I can&#x27;t promise</p>
+      <p>results but I can promise a common destiny. In addition, that endless stream of relatives of mine consisting of my three children, mother, father, two sisters, two brothers-in-law, father-in-law, four aunts four cousins and five nieces and nephews, have interests in BPL directly or indirectly totaling $1,247, 190.</p>
+      <p>Bill Scott is also in with both feet, having an interest along with his wife or $237,400, the large majority or their net worth. Bill has done an excellent job and on several or our more interesting situations going into 1964, he</p>
+      <p>has done the majority or the contact work. I have also shoved off on him as much as possible of the</p>
+      <p>administrative work so if you need anything done or have any questions, don&#x27;t hesitate to ask for Bill if I&#x27;m not around.</p>
+      <p>Beth and Donna have kept an increasing work load flowing in an excellent manner. During December and January, I am sure they wish they had found employment elsewhere, but they always manage to keep a</p>
+      <p>mountain of work ship-shape.</p>
+      <p>Peat, Marwick, Mitchell has done their usual excellent job of meeting a tough timetable. We have instructed</p>
+      <p>them to conduct two surprise checks a year (rather than one as in past years) on our securities, cash, etc., in the future. These are relatively inexpensive, and I think make a good deal of sense in any financial organization.</p>
+      <p>Within the next week you will receive:</p>
+      <p>(1) A tax letter giving you all BPL information needed for your 1963 federal income tax return. This letter</p>
+      <p>is the only item that counts for tax purposes.</p>
+      <p>(2) An audit from Peat, Marwick, Mitchell &amp;amp; Co. for 1963, setting forth the operations and financial position of BPL as well as your own capital account.</p>
+      <p>(3) A letter signed by me setting forth the status of your BPL interest on 1/1/64. This is identical with the figure developed in the audit.</p>
+      <p>(4)  Schedule “A” to the partnership agreement listing all partners.</p>
+      <p>Let me know if anything needs clarifying. As we grow, there is more chance of missing letters, a name skipped over, a figure transposition, etc., so speak up if it appears we might have erred. Our next letter will be about July 15th summarizing the first half.</p>
+      <p>Cordially,</p>
+      <p>Warren E. Buffett</p>
+      <p>APPENDIX</p>
+      <p>TEXAS NATIONAL PETROLEUM</p>
+      <p>This situation was a run-of-the-mill workout arising from the number one source of workouts in recent years -- the sellouts of oil and gas producing companies.</p>
+      <p>TNP was a relatively small producer with which I had been vaguely familiar for years.</p>
+      <p>Early in 1962 I heard rumors regarding a sellout to Union Oil of California. I never act on such information, but in this case it was correct and substantially more money would have been made if we had gone in at the rumor  stage rather than the announced stage. However, that&#x27;s somebody else&#x27;s business, not mine.</p>
+      <p>In early April, 1962, the general terms of the deal were announced. TNP had three classes of securities outstanding:</p>
+      <p>(1)  6 1/2% debentures callable at 104 1/4 which would bear interest until the sale transpired and at that time would be called. There were $6.5 million outstanding of which we purchased $264,000 principal</p>
+      <p>amount before the sale closed.</p>
+      <p>(2) About 3.7 million shares of common stock of which the officers and directors owned about 40%. The proxy statement estimated the proceeds from the liquidation would produce $7.42 per share. We</p>
+      <p>purchased 64,035 shares during the six months or so between announcement and closing.</p>
+      <p>(3)  650,000 warrants to purchase common stock at $3.50 per share. Using the proxy statement estimate of $7.42 for the workout on the common resulted in $3.92 as a workout on the warrants. We were able to buy 83,200 warrants or about 13% of the entire issue in six months.</p>
+      <p>The risk of stockholder disapproval was nil. The deal was negotiated by the controlling stockholders, and the price was a good one. Any transaction such as this is subject to title searches, legal opinions, etc., but this risk could also be appraised at virtually nil. There were no anti-trust problems. This absence of legal or anti-trust problems is not always the case, by any means.</p>
+      <p>The only fly in the ointment was the obtaining of the necessary tax ruling. Union Oil was using a standard ABC production payment method of financing. The University of Southern California was the production payment</p>
+      <p>holder and there was some delay because of their eleemosynary status.</p>
+      <p>This posed a new problem for the Internal Revenue Service, but we understood USC was willing to waive this status which still left them with a satisfactory profit after they borrowed all the money from a bank. While</p>
+      <p>getting this ironed out created delay, it did not threaten the deal.</p>
+      <p>When we talked with the company on April 23rd and 24th, their estimate was that the closing would take place in August or September. The proxy material was mailed May 9th and stated the sale &amp;quot;will be consummated</p>
+      <p>during the summer of 1962 and that within a few months thereafter the greater part of the proceeds will be distributed to stockholders in liquidation.” As mentioned earlier, the estimate was $7.42 per share.</p>
+      <p>Bill Scott attended the stockholders meeting in Houston on May 29th where it was stated they still expected to close on September 1st.</p>
+      <p>The following are excerpts from some of the telephone conversations we had with company officials in ensuing months:</p>
+      <p>On June 18th the secretary stated &amp;quot;Union has been told a favorable IRS ruling has been formulated but must be passed on by additional IRS people. Still hoping for ruling in July.”</p>
+      <p>On July 24th the president said that he expected the IRS ruling“early next week.”</p>
+      <p>On August 13th the treasurer informed us that the TNP, Union Oil, and USC people were all in Washington attempting to thrash out a ruling.</p>
+      <p>On September 18th the treasurer informed us &amp;quot;No news, although the IRS says the ruling could be ready by next week.”</p>
+      <p>The estimate on payout was still $7.42.</p>
+      <p>The ruling was received in late September, and the sale closed October 31st. Our bonds were called November13th.We converted our warrants to common stock shortly thereafter and received payments on the common of$3.50 December 14, 1962, $3.90 February 4, 1963, and 15 cent on April 24, 1963. We will probably get another4 cent in a year or two. On 147,235 shares (after exercise of warrants) even 4 cent per share is meaningful.</p>
+      <p>This illustrates the usual pattern: (1) the deals take longer than originally projected; and (2) the payouts tend to average a little better than estimates. With TNP it took a couple of extra months, and we received a couple of extra percent.</p>
+      <p>The financial results ofTNP were as follows:</p>
+      <p>(1) On the bonds we invested $260,773 and had an average holding period of slightly under five months.</p>
+      <p>We received 6 ½% interest on our money and realized a capital gain of $14,446 . This works out to an overall rate of return of approximately 20%per annum.</p>
+      <p>(2) On the stock and warrants we have realized capital gain of $89,304, and we have stubs presently valued at $2,946 . From an investment or $146,000 in April, our holdings ran to $731,000 in October. Based on the time the money was employed, the rate or return was about 22%per annum.</p>
+      <p>In both cases,the return is computed on an all equity investment. I definitely feel some borrowed money is warranted against a portfolio of workouts,but feel it is a very dangerous practice against generals.</p>
+      <p>We are not presenting TNP as any earth-shaking triumph. We have had workouts which were much better and some which were poorer. It is typical of our bread-and-butter type of operation.We attempt to obtain all facts possible, continue to keep abreast of developments and evaluate all of this in terms of our experience. We certainly don&#x27;t go into all the deals that come along --there is considerable variation in their attractiveness. When a workout falls through, the resulting market value shrink is substantial. Therefore, you cannot afford many errors, although we fully realize we are going to have them occasionally.</p>
+      <p>DEMPSTER MILL MFG.</p>
+      <p>This situation started as a general in 1956. At that time the stock was selling at $18 with about $72 in book value of which $50 per share was in current assets (Cash, receivables and inventory) less all liabilities. Dempster had earned good money in the past but was only breaking even currently.</p>
+      <p>The qualitative situation was on the negative side (a fairly tough industry and unimpressive management),but the figures were extremely attractive. Experience shows you can buy 100 situations like this and have perhaps70 or 80 work out to reasonable profits in one to three years. Just why any particular one should do so is hard to say at the time of purchase, but the group expectancy is favorable, whether the impetus is from an improved industry situation, a takeover offer, a change in investor psychology, etc.</p>
+      <p>We continued to buy the stock in small quantities for five years. During most or this period I was a director and was becoming consistently less impressed with the earnings prospects under existing management. However, I also became more familiar with the assets and operations and my evaluation of the quantitative factors remained very favorable.</p>
+      <p>By mid-1961 we owned about 30% or Dempster (we had made several tender offers with poor results), but in August and September 1961 made, several large purchases at $30.25 per share, which coupled with a</p>
+      <p>subsequent tender offer at the same price, brought our holding to over 70%. Our purchases over the previous five years had been in the $16-$25 range.</p>
+      <p>On assuming control, we elevated the executive vice president to president to see what he would do unfettered by the previous policies. The results were unsatisfactory and on April 23, 1962 we hired Harry Bottle as</p>
+      <p>president.</p>
+      <p>Harry was the perfect man for the job. I have recited his triumphs before and the accompanying comparative balance sheets speak louder than any words in demonstrating the re-employment of capital.</p>
+      <table><tr><td>11/30/61</td><td></td><td>7/31/63 (unaudited)</td></tr><tr><td>Cash</td><td>$166,000</td><td>$89,000</td></tr><tr><td>US Gov’t Securities – at cost</td><td></td><td>$289,000</td></tr><tr><td>Other marketable securities – atmarket (which exceeds cost)</td><td></td><td>$2,049,000</td></tr><tr><td>Total Cash and Securities</td><td>$166,000</td><td>$2,436,000</td></tr></table>
+      <table><tr><td>Accounts receivable (net)</td><td>$1,040,000</td><td>$864,000</td></tr><tr><td>Inventory</td><td>$4,203,000</td><td>$890,000</td></tr><tr><td>Prepaid expenses, etc.</td><td>$82,000</td><td>$12,000</td></tr><tr><td>Current Assets</td><td>$5,491,000</td><td>$4,202,000</td></tr></table>
+      <table><tr><td>Other Assets</td><td>$45,000</td><td>$62,000</td></tr><tr><td>Net Plant and Equipment</td><td>$1,383,000</td><td>$862,000</td></tr><tr><td>Total Assets</td><td>$6,919,000</td><td>$5,126,000</td></tr></table>
+      <table><tr><td>Notes Payable</td><td>$1,230,000</td><td></td></tr><tr><td>Other Liability</td><td>$1,088,000</td><td>$274,000</td></tr><tr><td>Total Liabilities</td><td>$2,318,000</td><td>$274,000</td></tr></table>
+      <p>Net worth</p>
+      <p>60,146 shs. 11/30/61</p>
+      <p>62,146 shs.   7/31/63                                                           $4,601,000                                        $4,852,000</p>
+      <p><strong>Total liabilities and net worth                                         $6,</strong><strong>919,000                                        $5,126,000</strong></p>
+      <p>Harry:</p>
+      <p>(1) took the inventory from over $4 million (much ofit slow moving) to under $1 million reducing carrying costs and obsolescence risks tremendously;</p>
+      <p>(2)  correspondingly freed up capital for marketable security purchases from which we gained over $400,000</p>
+      <p>(3)  cut administration and selling expense from $150,000 to $75,000 per month;</p>
+      <p>(4)  cut factory overhead burden from $6 to $4.50 per direct labor hour;</p>
+      <p>(5)  closed the five branches operating unprofitably (leaving us with three good ones) and replaced them with more productive distributors;</p>
+      <p>(6)  cleaned up a headache at an auxiliary factory operation at Columbus, Nebraska;</p>
+      <p>(7)  eliminated jobbed lines tying up considerable money (which could be used profitably in securities) while producing no profits;</p>
+      <p>(8)  adjusted prices of repair parts, thereby producing an estimated $200,000 additional profit with virtually no loss of volume; and most important;</p>
+      <p>(9) through these and many other steps, restored the earning capacity to a level commensurate with the capital employed.</p>
+      <p>In 1963, the heavy corporate taxes we were facing (Harry surprised me by the speed with which he had earned up our tax loss carry-forward) coupled with excess liquid funds within the corporation compelled us to either in some way de-incorporate or to sell the business.</p>
+      <p>We set out to do either one or the other before the end of 1963. De-incorporating had many problems but would have, in effect, doubled earnings for our partners and also eliminated the problem of corporate capital gain tax on Dempster securities.</p>
+      <p>At virtually the last minute, after several earlier deals had fallen through at reasonably advanced stages, a sale of assets was made. Although there were a good many wrinkles to the sale, the net effect was to bring</p>
+      <p>approximately book value. This, coupled with the gain we have in our portfolio of marketable securities, gives us a realization of about $80 per share. Dempster (now named First Beatrice Corp. - we sold the name to the  new Co.) is down to almost entirely cash and marketable securities now. On BPL&#x27;s yearend audit, our First</p>
+      <p>Beatrice holdings were valued at asset value (with securities at market) less a $200,000 reserve for various contingencies.</p>
+      <p>I might mention that we think the buyers will do very well with Dempster. They impress us as people of ability and they have sound plans to expand the business and its profitability. We would have been quite happy to</p>
+      <p>operate Dempster on an unincorporated basis, but we are also quite happy to sell it for a reasonable price. Our business is making excellent purchases -- not making extraordinary sales.</p>
+      <p>Harry works the same way I do -- he likes big carrots. He is presently a limited partner of BPL, and the next belt-tightening operation we have, he&#x27;s our man.</p>
+      <p>The Dempster saga points up several morals:</p>
+      <p>(1)  Our business is one requiring patience. It has little in common with a portfolio of high-flying glamour stocks and during periods of popularity for the latter, we may appear quite stodgy.</p>
+      <p>It is to our advantage to have securities do nothing price wise for months, or perhaps years, why we are buying them. This points up the need to measure our results over an adequate period of time. We suggest three years as a minimum.</p>
+      <p>(2) We cannot talk about our current investment operations. Such an open-mouth policy could never improve our results and in some situations could seriously hurt us. For this reason, should anyone, including partners, ask us whether we are interested in any security, we must plead the“5th Amendment.”</p>`,
 
-    concepts: ['intrinsic-value', 'margin-of-safety', 'franchise', 'second-level-thinking'],
-    companies: ['american-express', 'berkshire-hathaway'],
-    people: ['benjamin-graham'],
+    concepts: ['intrinsic-value', 'margin-of-safety', 'unisuper', 'american-express', 'dempster-mill', 'investment-companies'],
+    companies: ['american-express', 'berkshire-hathaway', 'dempster-mill-manufacturing'],
+    people: ['benjamin-graham', 'harry-bottle'],
     crossReferences: [],
     keyQuotes: [
       'American Express has a franchise that cannot be measured by its current balance sheet.',
       'Our best investment is a business that earns high returns on capital and reinvests at high returns.',
+      'If we don\'t achieve a satisfactory edge over the Dow over an extended period of time, we will cease operation.',
     ],
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1963.html',
-    readingTimeMinutes: 9,
+    readingTimeMinutes: 10,
+  },
+  {
+    slug: '1963-special-letter',
+    year: 1963,
+    type: 'special',
+    title: 'To My Partners for 1964 — November 1963',
+    date: '1963-11-06',
+    summary:
+      "Annual administrative letter sent to partners each November. Enclosed partnership agreement amendments for 1964, commitment letters, and a copy of 'The Ground Rules'. At end of October 1963, the partnership had gained approximately 32% vs the Dow's 18.8%, with Dempster Mill operating assets sold on a going-concern basis.",
+    fullText: `      <p>BUFFETT PARTNERSHIP, LTD.</p>
+      <p>810 KIEWIT PLAZA</p>
+      <p>OMAHA 31, NEBRASKA</p>
+      <p>November 6, 1963 To My Partners for 1964:</p>
+      <p>Enclosed is the usual assortment of Thanksgiving reading material:</p>
+      <p>(1)  Two copies of an amended partnership agreement for 1964. The one with the General Provisions</p>
+      <p>attached is to be kept by you (exactly the same as last year) and the other single page agreement is to be signed, notarized and returned to us. Partners in Omaha may come in and obtain the notarization at our office.</p>
+      <p>(2) A copy of that priceless treatise, &amp;quot;The Ground Rules,” I would like every partner to read this at least once a year, and it is going to be a regular item in my November package. Don&#x27;t sign the partnership agreement unless you fully understand the concepts set forth and are in accord with them -- mentally and viscerally.</p>
+      <p>(3)  Two copies of the commitment letter for 1964, one to be kept by you and one returned to us. You may amend this commitment letter right up to midnight, December 31st, so get it back to us early, and if it needs to be changed, just let us know by letter or phone.</p>
+      <p>Any withdrawals will be paid immediately after January 1st. You may withdraw any amount you desire from $100 up to your entire equity. Similarly, additions can be for any amount and should reach us by January 10th. In the event you are disposing of anything, this will give you a chance to have the transaction in 1964 if that</p>
+      <p>appears to be advantageous for tax reasons. If additions reach us in November, they take on the status of</p>
+      <p>advance payments and draw interest at the rate of 6% until yearend. This is not true of additions reaching us in December.</p>
+      <p>Complete tax information for your 1963 return will be in your hands by January 25th. If you should need an</p>
+      <p>estimate of your tax position before that time, let me know and I will give you a rough idea. We will also send out a short letter on taxes in late December.</p>
+      <p>At the end of October, the overall result from the Dow for 1963 was plus 18.8%. We have had a good year in all three categories, generals, work-outs and controls. A satisfactory sale on a going concern basis of Dempster Mill Manufacturing operating assets was made about a month ago. I will give the full treatment to the Dempster story in the annual letter, perhaps climaxed by some lyrical burst such as “Ode to Harry Bottle.” While we always had a built-in profit in Dempster because of our bargain purchase price, Harry accounted for several extra servings</p>
+      <p>of dessert by his extraordinary job. Harry, incidentally, has made an advance payment toward becoming a limited partner in 1964-- we consider this the beginning, not the end.</p>
+      <p>However, 1963 has not been all Dempster. While a great deal can happen the last two months and therefore</p>
+      <p>interim results should not be taken too seriously, at the end of October the overall gain for the partnership was</p>
+      <p>about 32%. Based on the allocation embodied in our agreement, this works out to plus 25 1/2% for the limited</p>
+      <p>partners before monthly payments to those who take them. Of our approximate $3 million gain, something over $2 million came from marketable securities and a little less than $1 million from Dempster operating assets. The combined gain from our single best general and best work-out situation approximated the gain on the Dempster operating assets.</p>
+      <p>You should be aware that ifour final results relative to the Dow for 1963 are as favorable as on October 31st, I will regard it as an abnormal year. I do not consider a 13.2 percentage point margin to be in the cards on a long term basis. A considerably more moderate annual edge over the Dow will be quite satisfactory.</p>
+      <p>Cordially</p>
+      <p>Warren E. Buffett</p>
+      <p>P/S. Last year we announced there would be no prizes for the last ones to get the material back to us. This</p>
+      <p>continues to be our policy. Save us some last minute scurrying by getting your agreement and commitment letter back pronto. Give Bill or me a call if we can be of any help. Thanks!</p>`,
+
+    concepts: ['general-partnerships', 'ground-rules', 'dempster-mill'],
+    companies: ['dempster-mill-manufacturing'],
+    people: ['harry-bottle'],
+    crossReferences: [],
+    keyQuotes: [
+      "Don't sign the partnership agreement unless you fully understand the concepts set forth and are in accord with them -- mentally and viscerally.",
+    ],
+    featured: false,
+    sourceUrl: 'https://www.berkshirehathaway.com/letters/1962.html',
+    readingTimeMinutes: 4,
   },
 
 
 
+
+
+  {
+    slug: '1964-mid-year-letter',
+    year: 1964,
+    type: 'partnership',
+    title: 'First Half Performance — July 1964',
+    date: '1964-07-08',
+    summary:
+      "Mid-1964 report with first-half figures. The Dow advanced from 831.68 to 849.79 (plus 2.2%), with dividends bringing overall return to plus 3.8%. Partnership results reported at plus 8.1% — 4.3 percentage points ahead of the Dow for the first half.",
+    fullText: `      <p>BUFFETT PARTNERSHIP, LTD.</p>
+      <p>810 KIEWIT PLAZA</p>
+      <p>OMAHA 31, NEBRASKA</p>
+      <p>July 8, 1964 First Half Performance</p>
+      <p>The whole family is leaving for California on June 23rd so I am fudging a bit on this report and writing it June 18th. However, for those of you who set your watches by the receipt of our letters. I will maintain our usual</p>
+      <p>chronological symmetry in reporting, leaving a few blanks which Bill will fill in after the final June 30th figures are available.</p>
+      <p>During the first half of 1964 the Dow-Jones Industrial Average (hereinafter called the &amp;quot;DOW&amp;quot;） advanced from 762.95 to 831.50. If one had owned the Dow during this period, dividends of approximately 14.40 would have</p>
+      <p>been received, bringing the overall return from the Dow during the first half to plus 10.0%. As I write this on</p>
+      <p>June 18th, it appears that our results will differ only insignificantly from those of the Dow. I would feel much</p>
+      <p>better reporting to you that the Dow had broken even, and we had been plus 5%, or better still, that the Dow had been minus 10%, and we had broken even. I have always pointed out, however, that gaining an edge on the Dow is more difficult for us in advancing markets than in static or declining ones.</p>
+      <p>To bring the record up to date, the following summarizes the performance of the Dow, the performance of the Partnership before allocation to the general partner and the limited partners&#x27; results:</p>
+      <table><tr><td>Year</td><td>Overall Results From</td><td>Partnership Results (2)</td><td>’</td></tr><tr><td></td><td>Dow (1)</td><td></td><td>Results (3)</td></tr><tr><td>1957</td><td>-8.4%</td><td>10.4%</td><td>9.3%</td></tr><tr><td>1958</td><td>38.5%</td><td>40.9%</td><td>32.2%</td></tr><tr><td>1959</td><td>20.0%</td><td>25.9%</td><td>20.9%</td></tr><tr><td>1960</td><td>-6.2%</td><td>22.8%</td><td>18.6%</td></tr><tr><td>1961</td><td>22.4%</td><td>45.9%</td><td>35.9%</td></tr><tr><td>1962</td><td>-7.6%</td><td>13.9%</td><td>11.9%</td></tr><tr><td>1963</td><td>20.6%</td><td>38.7%</td><td>30.5%</td></tr><tr><td>1st half 1964</td><td>10.9%</td><td>12.0%</td><td>10.5%</td></tr><tr><td>Cumulative results</td><td>116.1%</td><td>521.0%</td><td>354.4%</td></tr><tr><td>Annual compoundedrate</td><td>10.8%</td><td>27.6%</td><td>22.2%</td></tr></table>
+      <p>(See next page for footnotes to table.)</p>
+      <p><strong>Footnotes to preceding tab</strong><strong>le</strong>:</p>
+      <p>(1) Based on yearly changes in the value of the Dow plus dividends that would have been received through ownership of the Dow during that year. The table includes all complete years of partnership activity.</p>
+      <p>(2) For 1957-61 consists of combined results of all predecessor limited partnerships operating throughout</p>
+      <p>the entire year after all expenses but before distributions to partners or allocations to the general partner.</p>
+      <p>(3) For 1957-61 computed on the basis of the preceding column of partnership results allowing for</p>
+      <p>allocation to the general partner based up on the present partnership agreement, but before monthly withdrawals by limited partners.</p>
+      <p>Buying activities during the first half were quite satisfactory. This is of particular satisfaction to me since I</p>
+      <p>consider the buying end to be about 90% of this business. Our General category now includes three companies where B.P.L. is the largest single stockholder. These stocks have been bought and are continuing to be bought at prices considerably below their value to a private owner. We have been buying one of these situations for</p>
+      <p>approximately eighteen months and both of the others for about a year. It would not surprise me if we continue to do nothing but patiently buy these securities week after week for at least another year, and perhaps even two years or more.</p>
+      <p>What we really like to see in situations like the three mentioned above is a condition where the company is</p>
+      <p>making substantial progress in terms of improving earnings, increasing asset values, etc., but where the market price of the stock is doing very little while we continue to acquire it. This doesn&#x27;t do much for our short-term</p>
+      <p>performance, particularly relative to a rising market, but it is a comfortable and logical producer of longer-term profits. Such activity should usually result in either appreciation of market prices from external factors or the</p>
+      <p>acquisition by us of a controlling position in a business at a bargain price. Either alternative suits me.</p>
+      <p>It is important to realize, however, that most of our holdings in the General category continue to be securities which we believe to be considerably undervalued, but where there is not the slightest possibility that we could have a controlling position. We expect the market to justify our analyses of such situations in a reasonable</p>
+      <p>period of time, but we do not have the two strings to our bow mentioned in the above paragraph working for us in these securities.</p>
+      <p>Investment Companies</p>
+      <p>We regularly compare our results with the two largest open-end investment companies (mutual funds) that</p>
+      <p>follow a policy of being typically 95%-100% invested in common stocks, and the two largest diversified closed- end investment companies. These four companies, Massachusetts Investors Trust, Investors Stock Fund, Tri-</p>
+      <p>Continental Corp., and Lehman Corp., manage over $4 billion and are probably typical of most of the $28</p>
+      <p>billion investment company industry. Their results are shown below. My opinion is that this performance</p>
+      <p>roughly parallels that of the overwhelming majority of other investment advisory organizations which handle, in aggregate, vastly greater sums.</p>
+      <table><tr><td>Year</td><td>Mass. Inv.</td><td>Investors</td><td>Lehman (2)</td><td>Tri Cont.</td><td>Dow</td><td>Limited</td></tr><tr><td></td><td>Trust (1)</td><td>Stock (1)</td><td></td><td>(2)</td><td></td><td>Partners</td></tr><tr><td>1957</td><td>-11.4%</td><td>-12.4%</td><td>-11.4%</td><td>-2.4%</td><td>-8.4%</td><td>9.3%</td></tr><tr><td>1958</td><td>42.7%</td><td>47.5%</td><td>40.8%</td><td>33.2%</td><td>38.5%</td><td>32.2%</td></tr><tr><td>1959</td><td>9.0%</td><td>10.3%</td><td>8.1%</td><td>8.4%</td><td>20.0%</td><td>20.9%</td></tr><tr><td>1960</td><td>-1.0%</td><td>-0.6%</td><td>2.5%</td><td>2.8%</td><td>-6.2%</td><td>18.6%</td></tr><tr><td>1961</td><td>25.6%</td><td>24.9%</td><td>23.6%</td><td>22.5%</td><td>22.4%</td><td>35.9%</td></tr><tr><td>1962</td><td>-9.8%</td><td>-13.4%</td><td>-14.4%</td><td>-10.0%</td><td>-7.6%</td><td>11.9%</td></tr><tr><td>1963</td><td>20.0%</td><td>16.5%</td><td>23.7%</td><td>18.3%</td><td>20.6%</td><td>30.5%</td></tr><tr><td>1st half 1964</td><td>11.0%</td><td>9.5%</td><td>9.6%</td><td>8.6%</td><td>10.9%</td><td>10.5%</td></tr><tr><td>Cumulative Results</td><td>105.8%</td><td>95.5%</td><td>98.2%</td><td>105.1%</td><td>116.1%</td><td>354.4%</td></tr><tr><td>Annual</td><td>10.1%</td><td>9.4%</td><td>9.6%</td><td>10.1%</td><td>10.8%</td><td>22.2%</td></tr><tr><td>Compounded Rate</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
+      <p>(1)  Computed from changes in asset value plus any distributions to holders of record during year.</p>
+      <p>(2) From 1964 Moody&#x27;s Bank &amp;amp; Finance Manual for 1957-63. Estimated for first half 1964.</p>
+      <p>These figures continue to show that the most highly paid and respected investment management has difficulty</p>
+      <p>matching the performance of an unmanaged index of blue chip stocks. The results of these companies in some</p>
+      <p>ways resemble the activity of a duck sitting on a pond. When the water (the market) rises, the duck rises; when it falls, back goes the duck. SPCA or no SPCA, I think the duck can only take the credit (or blame) for his own</p>
+      <p>activities. The rise and fall of the lake is hardly something for him to quack about. The water level has been of</p>
+      <p>great importance to B.P.L’s performance as the table on page one indicates. However, we have also occasionally flapped our wings.</p>
+      <p>I would like to emphasize that I am not saying that the Dow is the only way of measuring investment</p>
+      <p>performance in common stocks. However, I do say that all investment managements (including self-</p>
+      <p>management) should be subjected to objective tests, and that the standards should be selected a priori rather than conveniently chosen retrospectively.</p>
+      <p>The management of money is big business. Investment managers place great stress on evaluating company</p>
+      <p>managements in the auto industry, steel industry, chemical industry, etc. These evaluations take enormous</p>
+      <p>amounts of work, are usually delivered with great solemnity, and are devoted to finding out which companies are well managed and which companies have management weaknesses. After devoting strenuous efforts to</p>
+      <p>objectively measuring the managements of portfolio companies, it seems strange indeed that similar</p>
+      <p>examination is not applied to the portfolio managers themselves. We feel it is essential that investors and</p>
+      <p>investment managements establish standards of performance and, regularly and objectively, study their own results just as carefully as they study their investments.</p>
+      <p>We will regularly follow this policy wherever it may lead. It is perhaps too obvious to say that our policy of</p>
+      <p>measuring performance in no way guarantees good results--it merely guarantees objective evaluation. I want to stress the points mentioned in the &amp;quot;Ground Rules&amp;quot; regarding application of the standard--namely that it should</p>
+      <p>be applied on at least a three-year basis because of the nature of our operation and also that during a speculative boom we may lag the field. However, one thing I can promise you. We started out with a 36-inch yardstick and we&#x27;ll keep it that way. If we don&#x27;t measure up, we won&#x27;t change yardsticks. In my opinion, the entire field of</p>
+      <p>investment management, involving hundreds of billions of dollars, would be more satisfactorily conducted if</p>
+      <p>everyone had a good yardstick for measurement of ability and sensibly applied it. This is regularly done by most people in the conduct of their own business when evaluating markets, people, machines, methods, etc., and</p>
+      <p>money management is the largest business in the world.</p>
+      <p>Taxes</p>
+      <p>We entered 1964 with net unrealized gains of $2,991,090 which is all attributable to partners belonging during 1963. Through June 30th we have realized capital gains of $2,826,248.76 (of which 96% are long term) so it</p>
+      <p>appears very likely that at least all the unrealized appreciation attributable to your interest and reported to you in our letter of January 25, 1964, (item 3) will be realized this year. I again want to emphasize that this has nothing to do with how we are doing. It is possible that I could have made the above statement, and the market value of your B.P.L. interest could have shrunk substantially since January 1st, so the fact that we have large realized</p>
+      <p>gains is no cause for exultation. Similarly when our realized gains are very small there is not necessarily any</p>
+      <p>reason to be discouraged. We do not play any games to either accelerate or defer taxes. We make investment</p>
+      <p>decisions based on our evaluation of the most profitable combination of probabilities. If this means paying taxes I&#x27;m glad the rates on long-term capital gains are as low as they are.</p>
+      <p>As previously stated in our most recent tax letter of April 1, 1964 the safe course to follow on interim estimates</p>
+      <p>is to pay the same estimated tax for 1964 as your actual tax was for 1963. There can be no penalties if you follow this procedure.</p>
+      <p>The tax liability for partners who entered January 1st will, of course,be quite moderate, as it always is in the first year for any partner. This occurs because realized capital gains are first attributed to old partners having an interest in unrealized appreciation. This, again, of course, has nothing to do with economic performance. All limited partners, new and old, (except for Bill Scott, Ruth Scott and Susan Buffett per paragraph five of the Partnership Agreement) end up with exactly the same results. As usual, net ordinary income for all partners is nominal to date.</p>
+      <p>As in past years, we will have a letter out about November 1st (to partners and those who have indicated an interest,to us by that time in becoming partners) with the amendment to the Partnership Agreement, Commitment Letter for 1965, estimate or the 1964 tax situation, etc. In the meantime, keep Bill busy this summer clearing up anything in this letter that comes out fuzzy.</p>
+      <p>Cordially,</p>
+      <p>Warren E. Buffett</p>`,
+
+    concepts: ['general-partnerships', 'dow-theory'],
+    companies: [],
+    people: [],
+    crossReferences: [],
+    keyQuotes: [
+      'Short-term results (less than three years) have little meaning.',
+    ],
+    featured: false,
+    sourceUrl: 'https://www.berkshirehathaway.com/letters/1964.html',
+    readingTimeMinutes: 6,
+  },
   {
     slug: '1964-partnership-letter',
     year: 1964,
     type: 'partnership',
-    title: 'The Year of Discipline - 1964',
-    date: '1964-01-01',
+    title: 'Our Performance in 1964',
+    date: '1965-01-18',
     summary:
-      "Buffett wrote about the importance of discipline in selling - specifically, when he sold Disney and American Express (too early and too late respectively). He also announced his decision to take control of Berkshire Hathaway.",
-        fullText: `[[PLACEHOLDER]]`,
+      "Buffett's 1964 annual letter written in January 1965. Partnership gained 27.8% vs the Dow's 18.7%, a 9.1 percentage point advantage. Discusses the Berkshire Hathaway takeover, the decision to end the partnership at yearend 1969, and the 'Year of Discipline' theme — specifically the importance of selling at the right price. Mentions Disney and American Express as lessons in opportunity cost.",
+    fullText: `      <p>BUFFETT PARTNERSHIP, LTD.</p>
+      <p>810 KIEWIT PLAZA</p>
+      <p>OMAHA 31, NEBRASKA</p>
+      <p>January 18, 1965 Our Performance in 1964</p>
+      <p>Although we had an overall gain of $4,846,312.37 in 1964, it was not one ofour better years as judged by our</p>
+      <p>fundamental yardstick, the Dow-Jones Industrial Average (hereinafter called the &amp;quot;Dow&amp;quot;). The overall result for BPL was plus 27.8% compared to an overall plus 18.7% for the Dow. The overall result for limited partners was plus 22.3%. Both the advantage of 9.1 percentage points on a partnership basis and 3.6 points by the limited</p>
+      <p>partners were the poorest since 1959, which was a year of roughly comparable gains for the Dow.</p>
+      <p>Nevertheless, I am not depressed. It was a strong year for the general market, and it is always tougher for us to outshine the Dow in such a year. We are certain to have years when the Dow gives us a drubbing and, in some respects, I feel rather fortunate that 1964 wasn&#x27;t the year. Because of the problems that galloping markets pose for us, a Dow repeat in 1965 of 1964 results would make it most difficult for us to match its performance, let alone surpass it by a decent margin.</p>
+      <p>To bring the record up to date, the following summarizes the year-by-year performance of the Dow, the performance of the Partnership before allocation to the general partner, and the limited partner&#x27;s results:</p>
+      <table><tr><td>Year</td><td>Overall Results From</td><td>Partnership Results (2)</td><td>’</td></tr><tr><td>1957</td><td>Dow (1)</td><td></td><td>Results (3)</td></tr><tr><td></td><td>-8.4%</td><td>10.4%</td><td>9.3%</td></tr><tr><td>1958</td><td>38.5%</td><td>40.9%</td><td>32.2%</td></tr><tr><td>1959</td><td>20.0%</td><td>25.9%</td><td>20.9%</td></tr><tr><td>1960</td><td>-6.2%</td><td>22.8%</td><td>18.6%</td></tr><tr><td>1961</td><td>22.4%</td><td>45.9%</td><td>35.9%</td></tr><tr><td>1962</td><td>-7.6%</td><td>13.9%</td><td>11.9%</td></tr><tr><td>1963</td><td>20.6%</td><td>38.7%</td><td>30.5%</td></tr><tr><td>1964</td><td>18.7%</td><td>27.8%</td><td>22.3%</td></tr></table>
+      <p>(1) Based on yearly changes in the value of the Dow plus dividends that would have been received through ownership of the Dow during that year. The table includes all complete years of partnership activity.</p>
+      <p>(2) For 1957-61 consists of combined results of all predecessor limited partnerships operating throughout the entire year after all expenses, but before distributions to partners or allocations to the general</p>
+      <p>partner.</p>
+      <p>(3) For 1957-61 computed on the basis of the preceding column of partnership results allowing for</p>
+      <p>allocation to the general partner based upon the present partnership agreement, but before monthly withdrawals by limited partners.</p>
+      <p>On a cumulative or compounded basis, the results are:</p>
+      <table><tr><td>Year</td><td>Overall Results FromDow</td><td>Partnership Results</td><td>’Results</td></tr><tr><td>1957</td><td>-8.4%</td><td>10.4%</td><td>9.3%</td></tr><tr><td>1957 – 58</td><td>26 9%</td><td>55 6%</td><td>44 5%</td></tr></table>
+      <table><tr><td>1957    59</td><td>52.3%</td><td>95.9%</td><td>74.7%</td></tr><tr><td>1957 – 60</td><td>42.9%</td><td>140.9%</td><td>107.2%</td></tr><tr><td>1957 – 61</td><td>74.9%</td><td>251.0%</td><td>181.6%</td></tr><tr><td>1957 – 62</td><td>61.6%</td><td>299.8%</td><td>215.1%</td></tr><tr><td>1957 – 63</td><td>94.9%</td><td>454.5%</td><td>311.2%</td></tr><tr><td>1957 – 64</td><td>131.3%</td><td>608.7%</td><td>402.9%</td></tr><tr><td>Annual CompoundedRate</td><td>11.1%</td><td>27.7%</td><td>22.3%</td></tr></table>
+      <p>Investment Companies</p>
+      <p>We regularly compare our results with the two largest open-end investment companies (mutual funds) that</p>
+      <p>follow a policy of being typically 95-100% invested in common stock, and the two largest diversified closed-</p>
+      <p>end investment companies. These four companies, Massachusetts Investors Trust, Investors Stock Fund, Tri -</p>
+      <p>Continental Corporation, and Lehman Corporation, manage about $4.5 billion, are owned by about 550,000</p>
+      <p>shareholders, and are probably typical of most of the $30 billion investment company industry. My opinion is</p>
+      <p>that their results roughly parallel those of the overwhelming majority of other investment advisory organizations which handle, in aggregate, vastly greater sums.</p>
+      <p>The purpose of this tabulation, which is shown below, is to illustrate that the Dow is no pushover as an index of investment achievement. The advisory talent managing just the four companies shown commands annual fees of over $8 million and this represents a very small fraction of the professional investment management industry.</p>
+      <p>The public batting average of this highly-paid and widely respected talent indicates performance a shade below that of the Dow, an unmanaged index.</p>
+      <p>YEARLY RESULTS</p>
+      <table><tr><td>Year</td><td>Mass. Inv.</td><td>Investors</td><td>Lehman (2)</td><td>Tri Cont</td><td>Dow</td><td>Limited</td></tr><tr><td></td><td>Trust (1)</td><td>Stock (1)</td><td></td><td>(2)</td><td></td><td>Partners</td></tr><tr><td>1957</td><td>-11.4%</td><td>-12.4%</td><td>-11.4%</td><td>-2.4%</td><td>-8.4%</td><td>9.3%</td></tr><tr><td>1958</td><td>42.7%</td><td>47.5%</td><td>40.8%</td><td>33.2%</td><td>38.5%</td><td>32.2%</td></tr><tr><td>1959</td><td>9.0%</td><td>10.3%</td><td>8.1%</td><td>8.4%</td><td>20.0%</td><td>20.9%</td></tr><tr><td>1960</td><td>-1.0%</td><td>-0.6%</td><td>2.5%</td><td>2.8%</td><td>-6.2%</td><td>18.6%</td></tr><tr><td>1961</td><td>25.6%</td><td>24.9%</td><td>23.6%</td><td>22.5%</td><td>22.4%</td><td>35.9%</td></tr><tr><td>1962</td><td>-9.8%</td><td>-13.4%</td><td>-14.4%</td><td>-10.0%</td><td>-7.6%</td><td>11.9%</td></tr><tr><td>1963</td><td>20.0%</td><td>16.5%</td><td>23.7%</td><td>18.3%</td><td>20.6%</td><td>30.5%</td></tr><tr><td>1964</td><td>15.9%</td><td>14.3%</td><td>13.6%</td><td>12.6%</td><td>18.7%</td><td>22.3%</td></tr></table>
+      <p>(1)  Computed from changes in asset value plus any distributions to holders of record during year.</p>
+      <p>(2) From 1964 Moody&#x27;s Bank &amp;amp; Finance Manual for 1957-63. Estimated for 1964.</p>
+      <p>COMPOUNDED</p>
+      <table><tr><td>Year</td><td>Mass. Inv.</td><td>Investors</td><td>Lehman (2)</td><td>Tri Cont</td><td>Dow</td><td>Limited</td></tr><tr><td></td><td>Trust (1)</td><td>Stock (1)</td><td></td><td>(2)</td><td></td><td>Partners</td></tr><tr><td>1957</td><td>-11.4%</td><td>-12.4%</td><td>-11.4%</td><td>-2.4%</td><td>-8.4%</td><td>9.3%</td></tr><tr><td>1957 – 58</td><td>26.4%</td><td>29.2%</td><td>24.7%</td><td>30.0%</td><td>26.9%</td><td>44.5%</td></tr><tr><td>1957 – 59</td><td>37.8%</td><td>42.5%</td><td>34.8%</td><td>40.9%</td><td>52.3%</td><td>74.7%</td></tr><tr><td>1957 – 60</td><td>36.4%</td><td>41.6%</td><td>38.2%</td><td>44.8%</td><td>42.9%</td><td>107.2%</td></tr></table>
+      <table><tr><td>1957    61</td><td>71.3%</td><td>76.9%</td><td>70.8%</td><td>77.4%</td><td>74.9%</td><td>181.6%</td></tr><tr><td>1957 – 62</td><td>54.5%</td><td>53.2%</td><td>46.2%</td><td>59.7%</td><td>61.6%</td><td>215.1%</td></tr><tr><td>1957 – 63</td><td>85.4%</td><td>78.5%</td><td>80.8%</td><td>88.9%</td><td>94.9%</td><td>311.2%</td></tr><tr><td>1957 – 64</td><td>114.9%</td><td>104.0%</td><td>105.4%</td><td>112.7%</td><td>131.3%</td><td>402.9%</td></tr><tr><td>Annual</td><td>10.0%</td><td>9.3%</td><td>9.4%</td><td>9.9%</td><td>11.1%</td><td>22.3%</td></tr><tr><td>CompoundedRate</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
+      <p>The repetition of these tables has caused partners to ask: &amp;quot;Why in the world does this happen to very intelligent managements working with (1) bright, energetic staff people, (2) virtually unlimited resources, (3) the most</p>
+      <p>extensive business contacts, and (4) literally centuries of aggregate investment experience?&amp;quot; (The latter</p>
+      <p>qualification brings to mind the fellow who applied for a job and stated he had twenty years of experience - which was corrected by the former employer to read “one year&#x27;s experience -twenty times.”)</p>
+      <p>This question is of enormous importance, and you would expect it to be the subject of considerable study by</p>
+      <p>investment managers and substantial investors. After all, each percentage point on $30 billion is $300 million</p>
+      <p>per year. Curiously enough, there is practically nothing in the literature of Wall Street attracting this problem,</p>
+      <p>and discussion ofit is virtually absent at security analyst society meetings, conventions, seminars, etc. My</p>
+      <p>opinion is that the first job of any investment management organization is to analyze its own techniques and</p>
+      <p>results before pronouncing judgment on the managerial abilities and performance of the major corporate entities of the United States.</p>
+      <p>In the great majority of cases the lack of performance exceeding or even matching an unmanaged index in no</p>
+      <p>way reflects lack of either intellectual capacity or integrity. I think it is much more the product of: (1) group</p>
+      <p>decisions - my perhaps jaundiced view is that it is close to impossible for outstanding investment management to come from a group of any size with all parties really participating in decisions; (2) a desire to conform to the policies and (to an extent) the portfolios of other large well-regarded organizations; (3) an institutional</p>
+      <p>framework whereby average is &amp;quot;safe&amp;quot; and the personal rewards for independent action are in no way</p>
+      <p>commensurate with the general risk attached to such action; (4) an adherence to certain diversification practices which are irrational; and finally and importantly, (5) inertia.</p>
+      <p>Perhaps the above comments are unjust. Perhaps even our statistical comparisons are unjust. Both our portfolio and method of operation differ substantially from the investment companies in the table. However, I believe</p>
+      <p>both our partners and their stockholders feel their managements are seeking the same goal - the maximum long- term average return on capital obtainable with the minimum risk of permanent loss consistent with a program of continuous investment in equities. Since we should have common goals, and most partners, as an alternative to  their interest in BPL, would probably have their funds invested in media producing results comparable with</p>
+      <p>these investment companies, I feel their performance record is meaningful in judging our own results.</p>
+      <p>There is no question that an important service is provided to investors by investment companies, investment</p>
+      <p>advisors, trust departments, etc. This service revolves around the attainment of adequate diversification, the</p>
+      <p>preservation of a long-term outlook, the ease of handling investment decisions and mechanics, and most</p>
+      <p>importantly, the avoidance of the patently inferior investment techniques which seem to entice some individuals. All but a few of the organizations do not specifically promise to deliver superior investment performance</p>
+      <p>although it is perhaps not unreasonable for the public to draw such an inference from their advertised emphasis on professional management.</p>
+      <p>One thing I pledge to you as partners -just as I consider the previously stated performance comparison to be</p>
+      <p>meaningful now, so will I in future years, no, matter what tale unfolds. Correspondingly, I ask that you, if you</p>
+      <p>do not feel such a standard to be relevant, register such disagreement now and suggest other standards which can be applied prospectively rather than retrospectively.</p>
+      <p>One additional thought - I have not included a column in my table for the most widely-used investment advisor in the world - Bell management. People who watch their weight, golf scores, and fuel bills seem to shun</p>
+      <p>quantitative evaluation of their investment management skills although it involves the most important client in the world - themselves. While it may be of academic interest to evaluate the management accomplishments of Massachusetts Investors Trust or Lehman Corporation, it is of enormous dollars-and-cents importance to</p>
+      <p>evaluate objectively the accomplishments of the fellow who is actually handling your money - even if it’s you.</p>
+      <p>The Question of Conservatism</p>
+      <p>In looking at the table of investment company performance, the question might be asked: “Yes, but aren&#x27;t those companies run more conservatively than the Partnership?&amp;quot; If you asked that question of the investment company managements, they, in absolute honesty, would say they were more conservative. If you asked the first hundred security analysts you met, I am sure that a very large majority of them also would answer for the investment</p>
+      <p>companies. I would disagree. I have over 90% of my net worth in BPL, and most of my family have percentages in that area, but of course, that only demonstrates the sincerity of my view - not the validity of it.</p>
+      <p>It is unquestionably true that the investment companies have their money more conventionally invested than we do. To many people conventionality is indistinguishable from conservatism. In my view, this represents</p>
+      <p>erroneous thinking. Neither a conventional nor an unconventional approach, per se, is conservative.</p>
+      <p>Truly conservative actions arise from intelligent hypotheses, correct facts and sound reasoning. These qualities may lead to conventional acts, but there have been many times when they have led to unorthodoxy. In some</p>
+      <p>corner of the world they are probably still holding regular meetings ofthe Flat Earth Society.</p>
+      <p>We derive no comfort because important people, vocal people, or great numbers of people agree with us. Nor do we derive comfort if they don&#x27;t. A public opinion poll is no substitute for thought. When we really sit back with a smile on our face is when we run into a situation we can understand, where the facts are ascertainable and</p>
+      <p>clear, and the course of action obvious. In that case - whether other conventional or unconventional - whether others agree or disagree - we feel - we are progressing in a conservative manner.</p>
+      <p>The above may seem highly subjective. It is. You should prefer an objective approach to the question. I do. My suggestion as to one rational way to evaluate the conservativeness of past policies is to study performance in</p>
+      <p>declining markets. We have only three years of declining markets in our table and unfortunately (for purposes of this test only) they were all moderate declines. In all three of these years we achieved appreciably better</p>
+      <p>investment results than any of the more conventional portfolios.</p>
+      <p>Specifically, if those three years had occurred in sequence, the cumulative results would have been:</p>
+      <p>Tri-Continental Corp.                                                          -9.7%</p>
+      <p>Dow                                                                       -20.6%</p>
+      <p>Mass. Investors Trust                                                          -20.9%</p>
+      <p>Lehman Corp.                                                                 -22.3%</p>
+      <p>Investors Stock Fund                                                           -24.6%</p>
+      <p>Limited Partners                                                               +45.0%</p>
+      <p>We don’t think this comparison is all important, but we do think it has some relevance. We certainly think it</p>
+      <p>makes more sense than saying “We own (regardless of price) A.T. &amp;amp;T., General Electric, IBM and General</p>
+      <p>Motors and are therefore conservative.” In any event, evaluation of the conservatism of any investment program or management (including self-management) should be based upon rational objective standards, and I suggest</p>
+      <p>performance in declining markets to be at least one meaningful test.</p>
+      <p>The Joys of Compounding</p>
+      <p>Readers of our early annual letters registered discontent at a mere recital of contemporary investment</p>
+      <p>experience, but instead hungered for the intellectual stimulation that only could be provided by a depth study of investment strategy spanning the centuries. Hence, this section.</p>
+      <p>Our last two excursions into the mythology of financial expertise have revealed that purportedly shrewd</p>
+      <p>investments by Isabella (backing the voyage of Columbus) and Francis I (original purchase of Mona Lisa)</p>
+      <p>bordered on fiscal lunacy. Apologists for these parties have presented an array of sentimental trivia. Through it all, our compounding tables have not been dented by attack.</p>
+      <p>Nevertheless, one criticism has stung a bit. The charge has been made that this column has acquired a negative tone with only the financial incompetents of history receiving comment. We have been challenged to record on these pages a story of financial perspicacity which will be a bench mark of brilliance down through the ages.</p>
+      <p>One story stands out. This, of course, is the saga of trading acumen etched into history by the Manhattan Indians when they unloaded their island to that notorious spendthrift, Peter Minuit in 1626. My understanding is that</p>
+      <p>they received $24 net. For this, Minuit received 22.3 square miles which works out to about 621,688,320 square feet. While on the basis of comparable sales, it is difficult to arrive at a precise appraisal, a $20 per square foot  estimate seems reasonable giving a current land value for the island of $12,433,766,400 ($12  1/2 billion). To the novice, perhaps this sounds like a decent deal. However, the Indians have only had to achieve a 6 1/2% return</p>
+      <p>(The tribal mutual fund representative would have promised them this.) to obtain the last laugh on Minuit. At 6 1/2%, $24 becomes $42,105,772,800 ($42 billion) in 338 years, and if they just managed to squeeze out an extra half point to get to 7%, the present value becomes $205 billion.</p>
+      <p>So much for that.</p>
+      <p>Some of you may view your investment policies on a shorter term basis. For your convenience, we include our usual table indicating the gains from compounding $100,000 at various rates:</p>
+      <table><tr><td></td><td>4%</td><td>8%</td><td>12%</td><td>16%</td></tr><tr><td>10 Years</td><td>$48,024</td><td>$115,892</td><td>$210,584</td><td>$341,143</td></tr><tr><td>20 Years</td><td>$119,111</td><td>$366,094</td><td>$864,627</td><td>$1,846,060</td></tr><tr><td>30 Years</td><td>$224,337</td><td>$906,260</td><td>$2,895,970</td><td>$8,484,940</td></tr></table>
+      <p>This table indicates the financial advantages of:</p>
+      <p>(1) A long life (in the erudite vocabulary of the financial sophisticate this is referred to as the Methusalah Technique)</p>
+      <p>(2) A high compound rate</p>
+      <p>(3) A combination of both (especially recommended by this author)</p>
+      <p>To be observed are the enormous benefits produced by relatively small gains in the annual earnings rate. This</p>
+      <p>explains our attitude which while hopeful of achieving a striking margin of superiority over average investment results, nevertheless, regards every percentage point of investment return above average as having real meaning.</p>
+      <p>Our Goal</p>
+      <p>You will note that there are no columns in the preceding table for the 27.7% average of the Partnership during its eight-year lifespan or the 22.3% average of the limited partners. Such figures are nonsensical for the long term for several reasons: (Don&#x27;t worry about me &amp;quot;holding back&amp;quot; to substantiate this prophecy.)</p>
+      <p>(1) Any significant sums compounded at such rates take on national debt proportions at alarming speed.</p>
+      <p>(2) During our eight-year history a general revaluation of securities has produced average annual rates of overall gain from the whole common stock field which I believe unattainable in future decades. Over a span of 20 or 30 years, I would expect something more like 6% - 7% overall annual gain from the Dow instead of the 11.1% during our brief history. This factor alone would tend to knock 4 points or so off of our annual compounding rate. It would only take a minus 20.5% year in 1965 for the Dow to bring it down to a 7% average figure for the nine years. Such years (or worse) should definitely be expected from time to time by those holding equity investments. If a 20% or 30% drop in the market value of your equity holdings (such as BPL) is going to produce emotional or financial distress, you should simply avoid common stock type investments. In the words of the poet -Harry Truman –“If you can’t stand the heat, stay out of the kitchen. It is preferable, of course, to consider the problem before you enter the“kitchen.”</p>
+      <p>(3) We do not consider it possible on an extended basis to maintain the 16.6 percentage point advantage over the Dow of the Partnership or the 11.2 percentage point edge enjoyed by the limited partners. We have had eight consecutive years in which our pool of money has out-performed the Dow, although the profit allocation arrangement left the limited partners short of Dow results in one of those years. We are certain to have years (note the plural) when the Partnership results fall short of the Dow despite considerable gnashing of teeth by the general partner (I hope not too much by the limited partners). When that happens our average margin of superiority will drop sharply. I might say that I also think we will continue to have some years of very decent margins in our favor. However,to date we have benefited by the fact that we have not had a really mediocre (or worse) year included in our average, and this obviously cannot be expected to be a permanent experience.</p>
+      <p>So what can we expect to achieve? Of course, anything I might say is largely guesswork, and my own investment philosophy has developed around the theory that prophecy reveals far more of the frailties of the prophet than it reveals of the future.</p>
+      <p>Nevertheless, you, as partners, are entitled to know my expectations,tenuous as they may be. I am hopeful that our longer term experience will unfold along the following basis:</p>
+      <p>(1) An overall gain from the Dow (including dividends, of course) averaging in the area of 7%per annum, exhibiting customarily wide amplitudes in achieving this average -- say, on the order or minus 40% to plus 50% at the extremes with the majority of years in the minus 10% to plus 20%range;</p>
+      <p>(2) An average advantage often percentage points per annum for BPL before allocation to the general partner - again with large amplitudes in the margin from perhaps 10 percentage points worse than the Dow in a bad year to 25 percentage points better when everything clicks; and</p>
+      <p>(3) The product of these two assumptions gives an average of 17% to BPL or about 14% to limited partners. This figure would vary enormously from year to year; the final amplitudes, of course, depending, on the interplay of the extremes hypothesized in (1) and (2). </p>
+      <p>I would like to emphasize that the above is conjecture,perhaps heavily influenced by self-interest, ego, etc. Anyone with a sense of financial history knows this sort of guesswork is subject to enormous error. It might better be left out of this letter,but it is a question frequently and legitimately asked by partners. Long-range</p>
+      <p>expectable return is the primary consideration of all of us belonging to BPL, and it is reasonable that I should be put on record, foolish as that may later make me appear. My rather puritanical view is that any investment</p>
+      <p>manager, whether operating as broker, investment counselor, trust department, Investment Company, etc., should be willing to state unequivocally what he is going to attempt to accomplish and how he proposes to measure the extent to which he gets the job done.</p>
+      <p>Our Method of Operation</p>
+      <p>In past annual letters I have always utilized three categories to describe investment operations we conduct. I now feel that a four-category division is more appropriate. Partially, the addition of a new section - &amp;quot;Generals</p>
+      <p>Relatively Undervalued&amp;quot; - reflects my further consideration of essential differences that have always existed to a small extent with our &amp;quot;Generals&amp;quot; group. Partially, it reflects the growing importance of what once was a very</p>
+      <p>small sub-category but is now a much more significant part ofour total portfolio. This increasing importance has been accompanied by excellent results to date justifying significant time and effort devoted to finding additional opportunities in this area. Finally, it partially reflects the development and implementation of a new and</p>
+      <p>somewhat unique investment technique designed to improve the expectancy and consistency of operations in this category. Therefore, our four present categories are:</p>
+      <p>1. “Generals -Private Owner Basis” - a category of generally undervalued stocks, determined by quantitative</p>
+      <p>standards, but with considerable attention also paid to the qualitative factor. There is often little or nothing to</p>
+      <p>indicate immediate market improvement. The issues lack glamour or market sponsorship. Their main</p>
+      <p>qualification is a bargain price; that is, an overall valuation of the enterprise substantially below what careful</p>
+      <p>analysis indicates its value to a private owner to be. Again, let me emphasize that while the quantitative comes   first and is essential, the qualitative is important. We like good management - we like a decent industry - we like a certain amount of “ferment” in a previously dormant management or stockholder group. But, we demand</p>
+      <p>value.</p>
+      <p>Many times in this category we have the desirable &amp;quot;two strings to our bow&amp;quot; situation where we should either</p>
+      <p>achieve appreciation of market prices from external factors or from the acquisition of a controlling position in a business at a bargain price. While the former happens in the overwhelming majority of cases, the latter</p>
+      <p>represents an insurance policy most investment operations don&#x27;t have. We have continued to enlarge the</p>
+      <p>positions in the three companies described in our 1964 midyear report where we are the largest stockholder. All three companies are increasing their fundamental value at a very satisfactory rate, and we are completely passive in two situations and active only on a very minor scale in the third. It is unlikely that we will ever take a really</p>
+      <p>active part in policy-making in any of these three companies, but we stand ready if needed.</p>
+      <p>2. &amp;quot;Generals -Relatively Undervalued&amp;quot; - this category consists of securities selling at prices relatively cheap</p>
+      <p>compared to securities of the same general quality. We demand substantial discrepancies from current valuation standards, but (usually because of large size) do not feel value to a private owner to be a meaningful concept. It is important in this category, of course, that apples be compared to apples - and not to oranges, and we work</p>
+      <p>hard at achieving that end. In the great majority of cases we simply do not know enough about the industry or company to come to sensible judgments -in that situation we pass.</p>
+      <p>As mentioned earlier, this new category has been growing and has produced very satisfactory results. We have recently begun to implement a technique, which gives promise of very substantially reducing the risk from an overall change in valuation standards; e.g. I we buy something at 12 times earnings when comparable or poorer quality companies sell at 20 times earnings, but then a major revaluation takes place so the latter only sell at 10 times.</p>
+      <p>This risk has always bothered us enormously because of the helpless position in which we could be left</p>
+      <p>compared to the &amp;quot;Generals -Private Owner&amp;quot; or &amp;quot;Workouts&amp;quot; types. With this risk diminished, we think this category has a promising future.</p>
+      <p>3. &amp;quot;Workouts&amp;quot; - these are the securities with a timetable. They arise from corporate activity - sell-outs, mergers, reorganizations, spin-offs, etc. In this category we are not talking about rumors or &amp;quot;inside information&amp;quot;</p>
+      <p>pertaining to such developments, but to publicly announced activities of this sort. We wait until we can read it in the paper. The risk pertains not primarily to general market behavior (although that is sometimes tied in to a</p>
+      <p>degree), but instead to something upsetting the applecart so that the expected development does not materialize. Such killjoys could include anti-trust or other negative government action, stockholder disapproval, withholding of tax rulings, etc. The gross profits in many workouts appear quite small. It&#x27;s a little like looking for parking</p>
+      <p>meters with some time left on them. However, the predictability coupled with a short holding period produces quite decent average annual rates of return after allowance for the occasional substantial loss. This category</p>
+      <p>produces more steady absolute profits from year to year than generals do. In years of market decline it should</p>
+      <p>usually pile up a big edge for us; during bull markets it will probably be a drag on performance. On a long-term basis, I expect the workouts to achieve the same sort of margin over the Dow attained by generals.</p>
+      <p>4. &amp;quot;Controls&amp;quot; - these are rarities, but when they occur they are likely to be of significant size. Unless we start off with the purchase of a sizable block of stock, controls develop from the general - private owner category. They result from situations where a cheap security does nothing pricewise for such an extended period of time that we are able to buy a significant percentage of the company&#x27;s stock. At that point we are probably in a position to</p>
+      <p>assume a degree of or perhaps complete control of the company&#x27;s activities. Whether we become active or remain relatively passive at this point depends upon our assessment of the company&#x27;s future and the</p>
+      <p>managements capabilities.</p>
+      <p>We do not want to get active merely for the sake of being active. Everything else being equal, I would much</p>
+      <p>rather let others do the work. However, when an active role is necessary to optimize the employment of capital, you can be sure we will not be standing in the wings.</p>
+      <p>Active or passive, in a control situation there should be a built-in profit. The sine qua non of this operation is an attractive purchase price. Once control is achieved, the value of our investment is determined by the value of the enterprise, not the oftentimes irrationalities of the market place.</p>
+      <p>Any of the three situations where we are now the largest stockholders mentioned under Generals - Private</p>
+      <p>Owner could, by virtue of the two-way stretch they possess, turn into controls. That would suit us fine, but it also suits us if they advance in the market to a price more in line with intrinsic value enabling us to sell them, thereby completing a successful generals - private owner operation.</p>
+      <p>Investment results in the control category have to be measured on the basis of at least several years. Proper</p>
+      <p>buying takes time. If needed, strengthening management, redirecting the utilization of capital, perhaps effecting a satisfactory sale or merger, etc., are also all factors that make this a business to be measured in years rather</p>
+      <p>than months. For this reason, in controls, we are looking for wide margins of profit -if it appears at all close, we quitclaim.</p>
+      <p>Controls in the buying stage move largely in sympathy with the Dow. In the later stages their behavior is geared more to that of workouts.</p>
+      <p>You might be interested to know that the buyers ofour former control situation, Dempster Mill Manufacturing, seem to be doing very well with it. This fulfills our expectation and is a source of satisfaction. An investment  operation that depends on the ultimate buyer making a bum deal (in Wall Street they call this the &amp;quot;Bigger Fool Theory&amp;quot;) is tenuous indeed. How much more satisfactory it is to buy at really bargain prices so that only an</p>
+      <p>average disposition brings pleasant results.</p>
+      <p>As I have mentioned in the past, the division of our portfolio among categories is largely determined by the</p>
+      <p>accident of availability. Therefore, in any given year the mix between generals, workouts, or controls is largely a matter of chance, and this fickle factor will have a great deal to do with our performance relative to the Dow.</p>
+      <p>This is one of many reasons why single year&#x27;s performance is of minor importance and good or bad, should never be taken too seriously.</p>
+      <p>To give an example of just how important the accident of division between these categories is, let me cite the example of the past three years. Using an entirely different method of calculation than that used to measure the performance of BPL in entirety, whereby the average monthly investment at market value by category is</p>
+      <p>utilized, borrowed money and office operating expenses excluded, etc., (this gives the most accurate basis for intergroup comparisons but does not reflect overall BPL results) the generals (both present categories</p>
+      <p>combined), workouts, and the Dow, shape up as follows:</p>
+      <table><tr><td>Year</td><td>Generals</td><td>Workouts</td><td>Dow</td></tr><tr><td>1962</td><td>-1.0%</td><td>14.6%</td><td>-8.6%</td></tr><tr><td>1963</td><td>20.5%</td><td>30.6%</td><td>18.4%</td></tr><tr><td>1964</td><td>27 8%</td><td>10 3%</td><td>16 7%</td></tr></table>
+      <p>Obviously the workouts (along with controls) saved the day in 1962, and if we had been light in this category that year, our final result would have been much poorer, although still quite respectable considering market</p>
+      <p>conditions during the year. We could just as well have had a much smaller percentage of our portfolio in</p>
+      <p>workouts that year; availability decided it, not any notion on my part as to what the market was going to do. Therefore, it is important to realize that in 1962 we were just plain lucky regarding mix of categories.</p>
+      <p>In 1963 we had one sensational workout which greatly influenced results, and generals gave a good account of themselves, resulting in a banner year. If workouts had been normal, (say, more like 1962) we would have</p>
+      <p>looked much poorer compared to the Dow. Here it wasn&#x27;t our mix that did much for us, but rather excellent situations.</p>
+      <p>Finally, in 1964 workouts were a big drag on performance. This would be normal in any event during a big plus year for the Dow such as 1964, but they were even a greater drag than expected because of mediocre experience. In retrospect it would have been pleasant to have been entirely in generals, but we don’t play the game in</p>
+      <p>retrospect.</p>
+      <p>I hope the preceding table drives home the point that results in a given year are subject to many variables - some regarding which we have little control or insight. We consider all categories to be good businesses and we are</p>
+      <p>very happy we have several to rely on rather than just one. It makes for more discrimination within each</p>
+      <p>category and reduces the chance we will be put completely out of operation by the elimination of opportunities in a single category.</p>
+      <p>Taxes</p>
+      <p>We have had a chorus of groans this year regarding partners&#x27; tax liabilities. Of course, we also might have had a few if the tax sheet had gone out blank.</p>
+      <p>More investment sins are probably committed by otherwise quite intelligent people because of &amp;quot;tax</p>
+      <p>considerations&amp;quot; than from any other cause. One of my friends - a noted West Coast philosopher maintains that a majority of life&#x27;s errors are caused by forgetting what one is really trying to do. This is certainly the case when an emotionally supercharged element like taxes enters the picture (I have another friend -a noted East Coast</p>
+      <p>philosopher who says it isn&#x27;t the lack of representation he minds -it&#x27;s the taxation).</p>
+      <p>Let&#x27;s get back to the West Coast. What is one really trying to do in the investment world? Not pay the least</p>
+      <p>taxes, although that may be a factor to be considered in achieving the end. Means and end should not be</p>
+      <p>confused, however, and the end is to come away with the largest after-tax rate of compound. Quite obviously if two courses of action promise equal rates of pre-tax compound and one involves incurring taxes and the other doesn&#x27;t the latter course is superior. However, we find this is rarely the case.</p>
+      <p>It is extremely improbable that 20 stocks selected from, say, 3000 choices are going to prove to be the optimum portfolio both now and a year from now at the entirely different prices (both for the selections and the</p>
+      <p>alternatives) prevailing at that later date. If our objective is to produce the maximum after-tax compound rate, we simply have to own the most attractive securities obtainable at current prices, And, with 3,000 rather rapidly shifting variables, this must mean change (hopefully “tax-generating” change).</p>
+      <p>It is obvious that the performance of a stock last year or last month is no reason, per se, to either own it or to not own it now. It is obvious that an inability to &amp;quot;get even&amp;quot; in a security that has declined is of no importance. It is  obvious that the inner warm glow that results from having held a winner last year is of no importance in making a decision as to whether it belongs in an optimum portfolio this year.</p>
+      <p>If gains are involved, changing portfolios involves paying taxes. Except in very unusual cases (I will readily admit there are some cases), the amount of the tax is of minor importance if the difference in expectable</p>
+      <p>performance is significant. I have never been able to understand why the tax comes as such a body blow to many people since the rate on long-term capital gain is lower than on most lines of endeavor (tax policy</p>
+      <p>indicates digging ditches is regarded as socially less desirable than shuffling stock certificates).</p>
+      <p>I have a large percentage of pragmatists in the audience so I had better get off that idealistic kick. There are only three ways to avoid ultimately paying the tax: (1) die with the asset - and that&#x27;s a little too ultimate for me even  the zealots would have to view this &amp;quot;cure&amp;quot; with mixed emotions; (2) give the asset away - you certainly don&#x27;t</p>
+      <p>pay any taxes this way, but of course you don&#x27;t pay for any groceries, rent, etc., either; and (3) lose back the gain if your mouth waters at this tax-saver, I have to admire you -you certainly have the courage of your convictions.</p>
+      <p>So it is going to continue to be the policy of BPL to try to maximize investment gains, not minimize taxes. We will do our level best to create the maximum revenue for the Treasury -at the lowest rates the rules will allow.</p>
+      <p>An interesting sidelight on this whole business of taxes, vis-à-vis investment management, has appeared in the</p>
+      <p>last few years. This has arisen through the creation of so-called &amp;quot;swap funds&amp;quot; which are investment companies</p>
+      <p>created by the exchange of the investment company&#x27;s shares for general market securities held by potential</p>
+      <p>investors. The dominant sales argument has been the deferment (deferment, when pronounced by an enthusiastic salesman, sometimes comes very close phonetically to elimination) of capital gains taxes while trading a single  security for a diversified portfolio. The tax will only finally be paid when the swap fund&#x27;s shares are redeemed. For the lucky ones, it will be avoided entirely when any of those delightful alternatives mentioned two</p>
+      <p>paragraphs earlier eventuates.</p>
+      <p>The reasoning implicit in the swapee&#x27;s action is rather interesting. He obviously doesn&#x27;t really want to hold what he is holding or he wouldn&#x27;t jump at the chance to swap it (and pay a fairly healthy commission - usually up to $100,000) for a grab-bag of similar hot potatoes held by other tax-numbed investors. In all fairness, I should</p>
+      <p>point out that after all offerees have submitted their securities for exchange and had a chance to review the proposed portfolio they have a chance to back out but I understand a relatively small proportion do so.</p>
+      <p>There have been twelve such funds (that I know of) established since origination ofthe idea in 1960, and several more are currently in the works. The idea is not without appeal since sales totaled well over $600 million. All of the funds retain an investment manager to whom they usually pay 1/2 of 1% of asset value. This investment</p>
+      <p>manager faces an interesting problem; he is paid to manage the fund intelligently (in each of the five largest</p>
+      <p>funds this fee currently ranges from $250,000 to $700,000 per year), but because of the low tax basis inherited</p>
+      <p>from the contributors of securities, virtually his every move creates capital gains tax liabilities. And, of course, he knows that if he incurs such liabilities, he is doing so for people who are probably quite sensitive to taxes or they wouldn&#x27;t own shares in the swap fund in the first place.</p>
+      <p>I am putting all of this a bit strongly, and I am sure there are some cases where a swap fund may be the best answer to an individual&#x27;s combined tax and investment problems. Nevertheless, I feel they offer a very</p>
+      <p>interesting test-tube to measure the ability of some of the most respected investment advisors when they are trying to manage money without paying (significant) taxes.</p>
+      <p>The three largest swap funds were all organized in 1961, and combined have assets now of about $300 million. One of these, Diversification Fund, reports on a fiscal year basis which makes extraction of relevant data quite difficult for calendar year comparisons. The other two, Federal Street Fund and Westminster Fund (respectively first and third largest in the group) are managed by investment advisors who oversee at least $2 billion of</p>
+      <p>institutional money.</p>
+      <p>Here&#x27;s how they shape up for all full years of existence:</p>
+      <table><tr><td>Year</td><td>Federal Street</td><td>Westminster</td><td>Dow</td></tr><tr><td>1962</td><td>-19.0%</td><td>-22.5%</td><td>-7.6%</td></tr><tr><td>1963</td><td>17.0%</td><td>18.7%</td><td>20.6%</td></tr><tr><td>1964</td><td>13.8%</td><td>12.3%</td><td>18.7%</td></tr><tr><td>Annual CompoundedRate</td><td>2.6%</td><td>1.1%</td><td>9.8%</td></tr></table>
+      <p>This is strictly the management record. No allowance has been made for the commission in entering and any taxes paid by the fund on behalf of the shareholders have been added back to performance.</p>
+      <p>Anyone for taxes?</p>
+      <p>Miscellaneous</p>
+      <p>In the December 21st issue of AUTOMOTIVE NEWS it was reported that Ford Motor Co. plans to spend $700 million in 1965 to add 6,742,000 square feet to its facilities throughout the world. Buffett Partnership, Ltd.,</p>
+      <p>never far behind, plans to add 227 1/4 square feet to its facilities in the spring of 1965.</p>
+      <p>Our growth in net assets from $105,100 (there&#x27;s no prize for guessing who put in the $100) on May 5, 1956</p>
+      <p>when the first predecessor limited partnership.(Buffett Associates, Ltd. ) was organized, to $26,074,000 on</p>
+      <p>1/1/65 creates the need for an occasional reorganization in internal routine. Therefore, roughly</p>
+      <p>contemporaneously with the bold move from 682 to 909 ¼ square feet, a highly capable is going to join our</p>
+      <p>organization with responsibility for the administrative (and certain other) functions. This move will particularly serve to free up more of Bill Scott&#x27;s time for security analysis which is his forte. I’ll have more to report on this in the midyear letter.</p>
+      <p>Bill (who continues to do a terrific job) and his wife have an investment in the Partnership of $298,749, a very</p>
+      <p>large majority of their net worth. Our new associate (his name is being withheld until his present employer has</p>
+      <p>replaced him), along with his wife and children, has made an important investment in the Partnership. Susie and I presently have an interest of $3,406,700 in BPL which represents virtually our entire net worth, with the</p>
+      <p>exception of our continued holding of Mid-Continent Tab Card Co., a local company into which I bought in</p>
+      <p>1960 when it had less than 10 stockholders. Additionally, my relatives, consisting of three children, mother , two sisters, two brothers-in-law, father-in-Law, four aunts, four cousins and six nieces and nephews, have interests</p>
+      <p>in BPL, directly or indirectly, totaling $1,942,592. So we all continue to eat home cooking.</p>
+      <p>We continue to represent the ultimate in seasonal businesses --open one day a year. This creates real problems in keeping the paper flowing smoothly, but Beth and Donna continue to do an outstanding job of coping with this  and other problems.</p>
+      <p>Peat, Marwick, Mitchell has distinguished itself in its usual vital role of finding out what belongs to whom. We continue to throw impossible deadlines at them --and they continue to perform magnificently. You will note in their certificate this year that they have implemented the new procedure whereby they now pounce on us</p>
+      <p>unannounced twice a year in addition to the regular yearend effort.</p>
+      <p>Finally -and most sincerely -let me thank you partners who cooperate magnificently in getting things to us</p>
+      <p>promptly and properly and thereby maximize the time we can spend working where we should be -by the cash  register. I am extremely fortunate in being able to spend the great majority of my time thinking about where our money should be invested, rather than getting bogged down in the minutiae that seems to overwhelm so many  business entities. We have an organizational structure which makes this efficiency a possibility, and more</p>
+      <p>importantly, we have a group of partners that make it a reality. For this, I am most appreciative and we are all wealthier.</p>
+      <p>Our past policy has been to admit close relatives of present partners without a minimum capital limitation. This year a flood of children, grandchildren, etc., appeared which called this policy into question; therefore, I have  decided to institute a $25,000 minimum on interests of immediate relatives of present partners.</p>
+      <p>Within the coming two weeks you will receive:</p>
+      <p>(1) A tax letter giving you all BPL information needed for your 1964 federal income tax return. This letter is the only item that counts for tax purposes.</p>
+      <p>(2) An audit from Peat, Marwick, Mitchell &amp;amp; Co. for 1964, setting forth the operations and financial position of BPL as well as your own capital account.</p>
+      <p>(3) A letter signed by me setting forth the status of your BPL interest on 111165. This is identical with the figure developed in the audit.</p>
+      <p>(4)  Schedule “A” to the partnership agreement listing all partners.</p>
+      <p>Let Bill or me know if anything needs clarifying. Even with our splendid staff our growth means there is more chance of missing letters, overlooked instructions, a name skipped over, a figure transposition, etc., so speak up if you have any question at all that we might have erred. My next letter will be about July 15th&amp;quot; summarizing</p>
+      <p>the first half of this year.</p>
+      <p>Cordially,</p>
+      <p>Warren E. Buffet</p>`,
 
-    concepts: ['intrinsic-value', 'margin-of-safety', 'opportunity-cost', 'cigar-butts'],
+    concepts: ['intrinsic-value', 'margin-of-safety', 'opportunity-cost', 'cigar-butts', 'berkshire-hathaway'],
     companies: ['berkshire-hathaway', 'american-express'],
     people: ['benjamin-graham'],
     crossReferences: [],
@@ -1142,24 +1837,333 @@ Miscellaneous</p>
     ],
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1964.html',
-    readingTimeMinutes: 9,
+    readingTimeMinutes: 10,
+  },
+
+  {
+    slug: '1965-mid-year-letter',
+    year: 1965,
+    type: 'partnership',
+    title: 'First Half Performance - 1965',
+    date: '1965-07-09',
+    summary:
+      "Mid-year letter covering first half 1965. Partnership gained 10.4% vs Dow's 0.8%, a 9.6 percentage point advantage. Discusses the controlling interest in Berkshire Hathaway acquisition — a 'General Private Owner' situation where assets and earning power become the dominant factors in value. Mentions the firm's constant goal of a 10 percentage point per annum advantage over the Dow.",
+    fullText: `      <blockquote>BUFFETT PARTNERSHIP, LTD.</blockquote>
+      <blockquote>810 KIEWIT PLAZA</blockquote>
+      <blockquote>OMAHA 31, NEBRASKA</blockquote>
+      <p>July 9, 1965 Warren E. Buffett, General Partner</p>
+      <p>William Scott</p>
+      <p>John M. Harding</p>
+      <p><u>First</u><u> </u><u>Half</u><u> </u><u>Performance</u><u>:</u></p>
+      <p>During the first half of 1965, the Dow Jones Industrial Average (hereinafter call the “Dow”) declined from</p>
+      <p>874.13 to 868.03. This minor change was accomplished in a decidedly non-Euclidian manner. The Dow instead took the scenic route, reaching a high of 939.62 on May 14th. Adding back dividends on the Dow of 13.49 gives an overall gain through ownership of the Dow for the first half of 7.39 or 0.8%.</p>
+      <p>We had one of our better periods with an overall gain, before allocation to the general partner, of 10.4% or a 9.6 percentage point advantage over the Dow. To bring the record up to date, the following summarizes the year-by- year performance of the Dow, the performance of the Partnership before allocation to the general partner, and</p>
+      <p>the limited partners ’ results:</p>
+      <table><tr><td style="width:2689;"><p>Year</p></td><td style="width:2031;"><p><strong>Overall Results From</strong></p></td><td style="width:3209;"><p><strong>Partnership Results (2)</strong></p></td><td style="width:1347;"></td><td style="width:348;"><p><strong>’</strong></p></td></tr><tr><td style="width:2689;"></td><td style="width:2031;"><p><strong>Dow</strong><strong> </strong><strong>(1)</strong></p></td><td style="width:3209;"></td><td style="width:1347;"><p><strong>Results</strong><strong> </strong><strong>(3)</strong></p></td><td style="width:348;"></td></tr><tr><td style="width:2689;"><blockquote>1957</blockquote></td><td style="width:2031;"><blockquote>-8.4%</blockquote></td><td style="width:3209;"><blockquote>10.4%</blockquote></td><td style="width:1347;"><p>9.3%</p></td><td style="width:348;"></td></tr><tr><td style="width:2689;"><blockquote>1958</blockquote></td><td style="width:2031;"><blockquote>38.5%</blockquote></td><td style="width:3209;"><blockquote>40.9%</blockquote></td><td style="width:1347;"><p>32.2%</p></td><td style="width:348;"></td></tr><tr><td style="width:2689;"><blockquote>1959</blockquote></td><td style="width:2031;"><blockquote>20.0%</blockquote></td><td style="width:3209;"><blockquote>25.9%</blockquote></td><td style="width:1347;"><p>20.9%</p></td><td style="width:348;"></td></tr><tr><td style="width:2689;"><blockquote>1960</blockquote></td><td style="width:2031;"><blockquote>-6.2%</blockquote></td><td style="width:3209;"><blockquote>22.8%</blockquote></td><td style="width:1347;"><p>18.6%</p></td><td style="width:348;"></td></tr><tr><td style="width:2689;"><blockquote>1961</blockquote></td><td style="width:2031;"><blockquote>22.4%</blockquote></td><td style="width:3209;"><blockquote>45.9%</blockquote></td><td style="width:1347;"><p>35.9%</p></td><td style="width:348;"></td></tr><tr><td style="width:2689;"><blockquote>1962</blockquote></td><td style="width:2031;"><blockquote>-7.6%</blockquote></td><td style="width:3209;"><blockquote>13.9%</blockquote></td><td style="width:1347;"><p>11.9%</p></td><td style="width:348;"></td></tr><tr><td style="width:2689;"><blockquote>1963</blockquote></td><td style="width:2031;"><blockquote>20.6%</blockquote></td><td style="width:3209;"><blockquote>38.7%</blockquote></td><td style="width:1347;"><p>30.5%</p></td><td style="width:348;"></td></tr><tr><td style="width:2689;"><blockquote>1964</blockquote></td><td style="width:2031;"><blockquote>18.7%</blockquote></td><td style="width:3209;"><blockquote>27.8%</blockquote></td><td style="width:1347;"><p>22.3%</p></td><td style="width:348;"></td></tr><tr><td style="width:2689;"><p>1st half 1965</p></td><td style="width:2031;"><blockquote>0.8%</blockquote></td><td style="width:3209;"><blockquote>10.4%</blockquote></td><td style="width:1347;"><p>9.3%</p></td><td style="width:348;"></td></tr><tr><td style="width:2689;"><p><strong>Cumulative results</strong></p></td><td style="width:2031;"><p><strong>133.2%</strong></p></td><td style="width:3209;"><blockquote><strong>682.4%</strong></blockquote></td><td style="width:1347;"><p><strong>449.7%</strong></p></td><td style="width:348;"></td></tr><tr><td style="width:2689;"><p><strong>Annual compounded</strong></p></td><td style="width:2031;"><blockquote><strong>10.5%</strong></blockquote></td><td style="width:3209;"><blockquote><strong>27.4%</strong></blockquote></td><td style="width:1347;"><p><strong>22.2%</strong></p></td><td style="width:348;"></td></tr><tr><td style="width:2689;"><p><strong>rate</strong></p></td><td style="width:2031;"></td><td style="width:3209;"></td><td style="width:1347;"></td><td style="width:348;"></td></tr></table>
+      <p>(1)        Based on yearly changes in the value of the Dow plus dividends that would have been received</p>
+      <blockquote>through ownership of the Dow during that year. The table includes all complete years of partnership activity.</blockquote>
+      <p>(2)        For 1957-61 consists of combined results of all predecessor limited partnerships operating</p>
+      <blockquote>throughout the entire year after all expenses but before distributions to partners or allocations to the general partner.</blockquote>
+      <p>(3)        For 1957-61 computed on the basis of the preceding column of partnership results allowing for</p>
+      <blockquote>allocation to the general partner based upon the present partnership agreement, but before monthly withdrawals by limited partners.</blockquote>
+      <p>Our constant admonitions have been: (1) that short-term results (less than three years) have little meaning,</p>
+      <p>particularly in reference to an investment operation such as ours that may devote a portion of resources to</p>
+      <p>control situations; and, (2) that our results, relative to the Dow and other common-stock-form media usually will be better in declining markets and may well have a difficult time just matching such media in very strong</p>
+      <p>markets.</p>
+      <p>With the latter point in mind, it might be imagined that we struggled during the first four months of the half to stay even with the Dow and then opened up our margin as it declined in May and June. Just the opposite</p>
+      <p>occurred. We actually achieved a wide margin during the upswing and then fell at a rate fully equal to the Dow during the market decline.</p>
+      <p>I don’t mention this because I am proud of such performance – on the contrary, I would prefer it if we had</p>
+      <p>achieved our gain in the hypothesized manner. Rather, I mention it for two reasons: (1) you are always entitled to know when I am wrong as well as right; and, (2) it demonstrates that although we deal with probabilities and expectations, the actual results can deviate substantially from such expectations, particularly on a short-term</p>
+      <p>basis. As mentioned in the most recent annual letter, our long-term goal is to achieve a ten percentage point per annum advantage over the Dow. Our advantage of 9.6 points achieved during the first six months must be</p>
+      <p>regarded as substantially above average. The fortitude demonstrated by our partners in tolerating such favorable variations is commendable. We shall most certainly encounter periods when the variations are in the other</p>
+      <p>direction.</p>
+      <p>During the first half, a series of purchases resulted in the acquisition of a controlling interest in one of the</p>
+      <p>situations described in the “General Private Owner” section of the last annual letter. When such a controlling   interest is acquired, the assets and earning power of the business become the immediate predominant factors in value. When a small minority interest in a company is held, earning power and assets are, of course, very</p>
+      <p>important, but they represent an indirect influence on value which, in the short run, may or may not dominate the factors bearing on supply and demand which result in price.</p>
+      <p>When a controlling interest is held, we own a business rather then a stock, and a business valuation is</p>
+      <p>appropriate. We have carried our controlling position at a conservative valuation at midyear and will reevaluate it in terms of assets and earning power at yearend. The annual letter, issued in January, 1966, will carry a full</p>
+      <p>story on this current control situation. At this time it is enough to say that we are delighted with both the</p>
+      <p>acquisition cost and the business operation, and even happier about the people we have managing the business.</p>
+      <p><u>Investment Companies:</u></p>
+      <p>We regularly compare our results with the two largest open-end investment companies (mutual funds) that</p>
+      <p>follow a policy of being, typically, 95-100% invested in common stocks, and the two largest diversified closed- end investment companies. These four companies, Massachusetts Investors Trust, Investors Stock Fund, Tri -</p>
+      <p>Continental Corp., and Lehman Corp., manage over $4 billion and are probably typical of most of the $30</p>
+      <p>billion investment company industry. Their results are shown in the following table. My opinion is that this performance roughly parallels that of the overwhelming majority of other investment advisory organizations which handle, in aggregate, vastly greater sums.</p>
+      <table><tr><td style="width:1388;"><p>Year</p></td><td style="width:1458;"><p><strong>Mass. Inv.</strong></p></td><td style="width:1606;"><p><strong>Investors</strong></p></td><td style="width:1095;"><p><strong>Lehman (2)</strong></p></td><td style="width:1473;"><p><strong>Tri-Cont</strong><strong> </strong><strong>(2)</strong></p></td><td style="width:1498;"><p><strong>Dow</strong></p></td><td style="width:1207;"><p><strong>Limited</strong></p></td></tr><tr><td style="width:1388;"></td><td style="width:1458;"><p><strong>Trust</strong><strong> </strong><strong>(1)</strong></p></td><td style="width:1606;"><p><strong>Stock</strong><strong> </strong><strong>(1)</strong></p></td><td style="width:1095;"></td><td style="width:1473;"></td><td style="width:1498;"></td><td style="width:1207;"><p><strong>Partners</strong></p></td></tr><tr><td style="width:1388;"><p>1957</p></td><td style="width:1458;"><p>-11.4%</p></td><td style="width:1606;"><p>-12.4%</p></td><td style="width:1095;"><p>-11.4%</p></td><td style="width:1473;"><p>-2.4%</p></td><td style="width:1498;"><p>-8.4%</p></td><td style="width:1207;"><p>9.3%</p></td></tr><tr><td style="width:1388;"><p>1958</p></td><td style="width:1458;"><p>42.7</p></td><td style="width:1606;"><p>47.5</p></td><td style="width:1095;"><p>40.8</p></td><td style="width:1473;"><p>33.2</p></td><td style="width:1498;"><p>38.5</p></td><td style="width:1207;"><p>32.2</p></td></tr><tr><td style="width:1388;"><p>1959</p></td><td style="width:1458;"><p>9.0</p></td><td style="width:1606;"><p>10.3</p></td><td style="width:1095;"><p>8.1</p></td><td style="width:1473;"><blockquote>8.4</blockquote></td><td style="width:1498;"><p>20.0</p></td><td style="width:1207;"><p>20.9</p></td></tr><tr><td style="width:1388;"><p>1960</p></td><td style="width:1458;"><p>-1.0</p></td><td style="width:1606;"><p>-0.6</p></td><td style="width:1095;"><p>2.5</p></td><td style="width:1473;"><blockquote>2.8</blockquote></td><td style="width:1498;"><p>-6.2</p></td><td style="width:1207;"><p>18.6</p></td></tr><tr><td style="width:1388;"><p>1961</p></td><td style="width:1458;"><p>25.6</p></td><td style="width:1606;"><p>24.9</p></td><td style="width:1095;"><p>23.6</p></td><td style="width:1473;"><p>22.5</p></td><td style="width:1498;"><p>22.4</p></td><td style="width:1207;"><p>35.9</p></td></tr><tr><td style="width:1388;"><p>1962</p></td><td style="width:1458;"><p>-9.8</p></td><td style="width:1606;"><p>-13.4</p></td><td style="width:1095;"><p>-14.4</p></td><td style="width:1473;"><p>-10.0</p></td><td style="width:1498;"><p>-7.6</p></td><td style="width:1207;"><p>11.9</p></td></tr><tr><td style="width:1388;"><p>1963</p></td><td style="width:1458;"><p>20.0</p></td><td style="width:1606;"><p>16.5</p></td><td style="width:1095;"><p>23.7</p></td><td style="width:1473;"><blockquote>18.7</blockquote></td><td style="width:1498;"><p>20.6</p></td><td style="width:1207;"><p>30.5</p></td></tr><tr><td style="width:1388;"><p>1964</p></td><td style="width:1458;"><p>15.9</p></td><td style="width:1606;"><p>14.3</p></td><td style="width:1095;"><p>14.0</p></td><td style="width:1473;"><blockquote>13.6</blockquote></td><td style="width:1498;"><p>18.7</p></td><td style="width:1207;"><p>22.3</p></td></tr><tr><td style="width:1388;"><p>1st half 1965</p></td><td style="width:1458;"><p>0.0</p></td><td style="width:1606;"><p>-0.6</p></td><td style="width:1095;"><p>2.7</p></td><td style="width:1473;"><blockquote>0.0</blockquote></td><td style="width:1498;"><blockquote>0.8</blockquote></td><td style="width:1207;"><p>9.3</p></td></tr></table>
+      <table><tr><td style="width:1512;"><p>Cumulative Results</p></td><td style="width:1300;"><p>114.9</p></td><td style="width:1450;"><p>102.8</p></td><td style="width:1451;"><p>111.7</p></td><td style="width:1454;"><p>115.4</p></td><td style="width:1423;"><p>133.2</p></td><td style="width:972;"><p>449.7</p></td></tr><tr><td style="width:1512;"><p>Annual</p></td><td style="width:1300;"><p>9.4</p></td><td style="width:1450;"><p>8.7</p></td><td style="width:1451;"><p>9.2</p></td><td style="width:1454;"><p>9.5</p></td><td style="width:1423;"><p>10.5</p></td><td style="width:972;"><p>22.2</p></td></tr><tr><td style="width:1512;"><p>Compounded Rate</p></td><td style="width:1300;"></td><td style="width:1450;"></td><td style="width:1451;"></td><td style="width:1454;"></td><td style="width:1423;"></td><td style="width:972;"></td></tr></table>
+      <p>(1)  Computed from changes in asset value plus any distributions to holders of record during year.</p>
+      <p>(2) From 1965 Moody’s Bank &amp; Finance Manual for 1957-64. Estimated for first half 1965.</p>
+      <p>Last year I mentioned that the performance of these companies in some ways resembles the activity of a duck</p>
+      <p>sitting on a pond. When the water (the market) rises, the duck rises; when if falls, back goes the duck. The water level was virtually unchanged during the first half of 1965. The ducks, as you can see from the table, are still</p>
+      <p>sitting on the pond.</p>
+      <p>As I mentioned earlier in the letter, the ebb of the tide in May and June also substantially affected us.</p>
+      <p>Nevertheless, the fact we had flapped our wings a few times in the preceding four months enabled us to gain a little altitude on the rest ofthe flock. Utilizing a somewhat more restrained lexicon, James H. Lorie, director of the University of Chicago’s Center for Research in Security Prices was quoted in the May 25, 1965, WALL</p>
+      <p>STREET JOURNAL as saying: “There is no evidence that mutual funds select stocks better than by the random method.”</p>
+      <p>Of course, the beauty of the American economic scene has been that random results have been pretty darned</p>
+      <p>good results. The water level has been rising. In our opinion, the probabilities are that over a long period of time, it will continue to rise, though, certainly not without important interruptions. It will be our policy, however, to</p>
+      <p>endeavor to swim strongly, with or against the tide. If our performance declines to a level you can achieve by floating on your back, we will turn in our suits.</p>
+      <p><u>Advance Payments and Advance Withd</u><u>rawals:</u></p>
+      <p>We accept advance payments from partners and prospective partners at 6% interest from date of receipt until the end of the year. While there is no obligation to convert such advance payments to a partnership interest at the</p>
+      <p>end of the year, this should be the intent at the time it is paid to us.</p>
+      <p>Similarly, we allow partners to withdraw up to 20% of their partnership account prior to yearend and charge</p>
+      <p>them 6% from date of withdrawal until yearend when it is charged against their capital account. Again, it is not intended that partners use us like a bank, but that they use the withdrawal right for a truly unexpected need for funds. Predictable needs for funds such as quarterly federal tax payments should be handled by a beginning-of- the-year reduction in capital rather than through advance withdrawals from B.P.L. during the year. The</p>
+      <p>withdrawal privilege is to provide for the unanticipated.</p>
+      <p>The willingness to borrow (through advance payments) and lend (through advance withdrawals) at the same 6% rate may sound downright “un-Buffettlike” . (You can be sure it doesn’t start my adrenaline flowing.) Certainly such a no-spread arbitrage is devoid of the commercial overtones an observer might impute to the</p>
+      <p>preponderance of our transactions. Nevertheless, we think it makes sense and is in the best interest of all partners.</p>
+      <p>The partner who has a large investment in indirect ownership of a group of liquid assets should have some</p>
+      <p>liquidity present in his partnership interest other than at yearend. As a practical matter, we are reasonably certain</p>
+      <p>that advance withdrawals will be far more than covered by advance payments. For example, on June 30, 1965, we had $98,851 of advance withdrawals and $652,931 of advance payments.</p>
+      <p>Why then the willingness to pay 6% for the net of advance payments over advance withdrawals when we can</p>
+      <p>borrow from commercial banks at substantially lower rates? The answer is that we expect on a long-term basis to earn better than 6% (the general partner’s allocation is zero unless we do) although it is largely a matter of</p>
+      <p>chance whether we achieve the 6% figure in any short period. Moreover, I can adopt a different attitude</p>
+      <p>regarding the investment of money that can be expected to soon be a part ofour equity capital than I can on</p>
+      <p>short-term borrowed money. The advance payments have the added advantage to us of spreading the investment of new money over the year, rather than having it hit us all at once in January. On the other hand, 6% is more</p>
+      <p>than can be obtained in short-term dollar secure investments by our partners, so I consider it mutually profitable.</p>
+      <p><strong>Miscellaneous:</strong></p>
+      <p>The bold expansion program to 909 ¼ square feet described in the annual letter was carried off without a hitch (the Pepsi’s never even got warm).</p>
+      <p>John Harding joined us in April and is continuing the record whereby all the actions in the personnel field have been winning ones.</p>
+      <p>As in past years, we will have a letter out about November 1st  (to partners and those who have indicated an</p>
+      <p>interest to me by that time in becoming partners) with the commitment letter for 1966, estimate of the 1965 tax situation, etc.</p>
+      <p>Cordially,</p>
+      <p>Warren E. Buffett</p>`,
+
+    concepts: ['berkshire-hathaway', 'control-situations', 'general-private-owner'],
+    companies: ['berkshire-hathaway'],
+    people: ['william-scott'],
+    crossReferences: [],
+    keyQuotes: [
+      'Our constant admonitions have been: short-term results (less than three years) have little meaning.',
+    ],
+    featured: false,
+    sourceUrl: '',
+    readingTimeMinutes: 6,
+  },
+  {
+    slug: '1965-special-letter',
+    year: 1965,
+    type: 'special',
+    title: 'Commitment Letter for 1966',
+    date: '1965-11-01',
+    summary:
+      "November commitment letter to partners outlining 1966 partnership terms. Introduces Ground Rule 7 reflecting a moderate shift in Buffett's attitude over time. Describes valuation methodology for Berkshire Hathaway controlling interest — halfway between net current asset value and book value, effectively valuing current assets at 100 cents on the dollar and fixed assets at 50 cents.",
+    fullText: `      <blockquote>BUFFETT PARTNERSHIP, LTD.</blockquote>
+      <blockquote>810 KIEWIT PLAZA</blockquote>
+      <blockquote>OMAHA 31, NEBRASKA</blockquote>
+      <p>November 1, 1965 To My Partners for 1966:</p>
+      <p>Enclosed are:</p>
+      <blockquote>(1)  Two copies or the commitment letter for 1966, one to be kept by you and one returned to us. You may amend the commitment letter right up to midnight, December 31st. So get it back to us early, and if it</blockquote>
+      <blockquote>needs to be changed, just let us know by letter or phone. Commitment letters become final on December 31st. Every year I get a number or calls in the first week in January expressing a desire to add to the</blockquote>
+      <blockquote>January 1st capital. THIS CAN'T BE DONE.</blockquote>
+      <p>(2) A copy of our ever-popular &quot;The Ground Rules.&quot; It is essential that we see eye-to-eye on the matters</p>
+      <blockquote>covered therein. If you have different views - fine, yours may be better - but you shouldn't be in the</blockquote>
+      <blockquote>partnership. Please particularly note Ground Rule 7. This has been added this year reflecting a moderate shift in my attitude over a period of time. It represents a decidedly unconventional (but logical in my</blockquote>
+      <blockquote>opinion when applied to our operation) approach and is therefore specifically called to your attention.</blockquote>
+      <p>Any withdrawals will be paid January 5th. You may withdraw any amount you desire from $100 up to your</p>
+      <p>entire equity. Similarly, additions can be for any amount and should reach us by January 10th. In the event you are disposing of anything, this will give you a chance to have the transaction in 1966 if that appears to be</p>
+      <p>advantageous for tax reasons. If additions reach us in November, they take on the status of advance payments and draw 6% interest until yearend. This is not true of additions reaching us in December.</p>
+      <p>The partnership owns a controlling interest in Berkshire Hathaway Inc., a publicly-traded security. As</p>
+      <p>mentioned in my midyear letter, asset values and earning power are the dominant factors affecting the</p>
+      <p>valuation of a controlling interest in a business. Market price, which governs valuation of minority interest</p>
+      <p>positions, is of little or no importance in valuing a controlling interest. We will value our position in Berkshire Hathaway at yearend at a price halfway between net current asset value and book value. Because of the nature of our receivables and inventory this, in effect, amounts to valuation of our current assets at 100 cents on the  dollar and our fixed assets at 50 cents on the dollar. Such a value in my opinion is fair to both adding and</p>
+      <p>withdrawing partners. It may be either of lower than market value at the time.</p>
+      <p>As I write this, we are orbiting in quite satisfactory fashion. Our margin over the Dow is well above average, and even those Neanderthal partners who utilize such crude yardsticks as net profit would find performance satisfactory. This is all, of course, subject to substantial change by yearend.</p>
+      <p>If anything needs clarification, call or write John Harding who is in charge of &quot;de-confusing&quot; partners. The tax situation is about as reported in the August letter, but if you would like John to make the calculation for you,  he will be glad to do it.</p>
+      <p>Cordially,</p>
+      <p>Warren E. Buffett</p>`,
+
+    concepts: ['ground-rules', 'berkshire-hathaway', 'control-situations'],
+    companies: ['berkshire-hathaway'],
+    people: ['john-harding'],
+    crossReferences: [],
+    keyQuotes: [
+      'Ground Rule 7 represents a decidedly unconventional (but logical in my opinion) approach.',
+    ],
+    featured: false,
+    sourceUrl: '',
+    readingTimeMinutes: 4,
   },
   {
     slug: '1965-partnership-letter',
     year: 1965,
     type: 'partnership',
-    title: 'The Berkshire Hathaway Takeover - 1965',
-    date: '1965-01-01',
+    title: 'Our Performance in 1965',
+    date: '1966-01-20',
     summary:
-      "The partnership took effective control of Berkshire Hathaway. Buffett described the textile business's decline and its poor capital allocation. This was the year he began transitioning from Graham's cigar-butt approach to buying quality businesses.",
-        fullText: `[[PLACEHOLDER]]`,
+      "Annual letter reporting 1965 results: partnership gained 47.2% vs the Dow's 14.2%, the widest margin in BPL's history. The partnership took effective control of Berkshire Hathaway. Buffett reflects on compounding, critiques institutional investment management, and discusses the joys and challenges of operating increasingly large capital.",
+    fullText: `      <blockquote>BUFFETT PARTNERSHIP, LTD.</blockquote>
+      <blockquote>810 KIEWIT PLAZA</blockquote>
+      <blockquote>OMAHA 31, NEBRASKA</blockquote>
+      <p>January 20, 1966 <u>Our Performance in</u><u> </u><u>1965</u></p>
+      <p>Our War on Poverty was successful in 1965.</p>
+      <p>Specially, we were $12,304,060 less poor at the end of the year.</p>
+      <p>Last year under a section in the annual letter entitled “Our Goal” (please particularly note it was not headed</p>
+      <p>&quot;Our Promise&quot;), I stated we were trying to achieve “ … An average advantage (relative to the Dow) often</p>
+      <p>”</p>
+      <p>”</p>
+      <p>My fallibility as a forecaster was quickly demonstrated when the first year fell outside my parameters. We</p>
+      <p>achieved our widest margin over the Dow in the history of BPL with an overall gain of 47.2% compared to an  overall gain (including dividends which would have been received through ownership of the Dow) of 14.2% for the Dow. Naturally, no writer likes to be publicly humiliated by such a mistake. It is unlikely to be repeated.</p>
+      <p>The following summarizes the year-by-year performance of the Dow, the performance of the Partnership before allocation (one quarter of the excess over 6%) to the general partner, and the results for limited partners:</p>
+      <table><tr><td style="width:1035;"><p><strong>Year</strong></p></td><td style="width:2746;"><p><strong>Overall Results From</strong></p></td><td style="width:2721;"><p><strong>Partnership Results (2)</strong></p></td><td style="width:1751;"><p><strong>’</strong></p></td></tr><tr><td style="width:1035;"><p>1957</p></td><td style="width:2746;"><blockquote><strong>Dow</strong><strong> </strong><strong>(1)</strong></blockquote></td><td style="width:2721;"></td><td style="width:1751;"><p><strong>Results</strong><strong> </strong><strong>(3)</strong></p></td></tr><tr><td style="width:1035;"></td><td style="width:2746;"><blockquote>-8.4%</blockquote></td><td style="width:2721;"><blockquote>10.4%</blockquote></td><td style="width:1751;"><p>9.3%</p></td></tr><tr><td style="width:1035;"><p>1958</p></td><td style="width:2746;"><blockquote>38.5%</blockquote></td><td style="width:2721;"><blockquote>40.9%</blockquote></td><td style="width:1751;"><p>32.2%</p></td></tr><tr><td style="width:1035;"><p>1959</p></td><td style="width:2746;"><blockquote>20.0%</blockquote></td><td style="width:2721;"><blockquote>25.9%</blockquote></td><td style="width:1751;"><p>20.9%</p></td></tr><tr><td style="width:1035;"><p>1960</p></td><td style="width:2746;"><blockquote>-6.2%</blockquote></td><td style="width:2721;"><blockquote>22.8%</blockquote></td><td style="width:1751;"><p>18.6%</p></td></tr><tr><td style="width:1035;"><p>1961</p></td><td style="width:2746;"><blockquote>22.4%</blockquote></td><td style="width:2721;"><blockquote>45.9%</blockquote></td><td style="width:1751;"><p>35.9%</p></td></tr><tr><td style="width:1035;"><p>1962</p></td><td style="width:2746;"><blockquote>-7.6%</blockquote></td><td style="width:2721;"><blockquote>13.9%</blockquote></td><td style="width:1751;"><p>11.9%</p></td></tr><tr><td style="width:1035;"><p>1963</p></td><td style="width:2746;"><blockquote>20.6%</blockquote></td><td style="width:2721;"><blockquote>38.7%</blockquote></td><td style="width:1751;"><p>30.5%</p></td></tr><tr><td style="width:1035;"><p>1964</p></td><td style="width:2746;"><blockquote>18.7%</blockquote></td><td style="width:2721;"><blockquote>27.8%</blockquote></td><td style="width:1751;"><p>22.3%</p></td></tr><tr><td style="width:1035;"><p>1965</p></td><td style="width:2746;"><blockquote>14 2%</blockquote></td><td style="width:2721;"><blockquote>47 2%</blockquote></td><td style="width:1751;"><p>36 9%</p></td></tr></table>
+      <blockquote>(1) Based on yearly changes in the value of the Dow plus dividends that would have been received through ownership of the Dow during that year. The table includes all complete years of partnership activity.</blockquote>
+      <blockquote>(2) For 1957-61 consists of combined results of all predecessor limited partnerships operating throughout the entire year after all expenses, but before distributions to partners or allocations to the general</blockquote>
+      <blockquote>partner.</blockquote>
+      <p>(3) For 1957-61 computed on the basis of the preceding column of partnership results allowing for</p>
+      <blockquote>allocation to the general partner based upon the present partnership agreement, but before monthly withdrawals by limited partners.</blockquote>
+      <p>On a cumulative or compounded basis, the results are:</p>
+      <table><tr><td style="width:2181;"><blockquote><strong>Year</strong></blockquote></td><td style="width:2386;"><p><strong>Overall Results From</strong></p></td><td style="width:2588;"><p><strong>Partnership Results</strong></p></td><td style="width:1739;"><p><strong>’</strong></p></td></tr><tr><td style="width:2181;"></td><td style="width:2386;"><blockquote><strong>Dow</strong></blockquote></td><td style="width:2588;"></td><td style="width:1739;"><p><strong>Results</strong></p></td></tr><tr><td style="width:2181;"><blockquote>1957</blockquote></td><td style="width:2386;"><blockquote>-8.4%</blockquote></td><td style="width:2588;"><blockquote>10.4%</blockquote></td><td style="width:1739;"><p>9.3%</p></td></tr><tr><td style="width:2181;"><p>1957 – 58</p></td><td style="width:2386;"><blockquote>26.9%</blockquote></td><td style="width:2588;"><blockquote>55.6%</blockquote></td><td style="width:1739;"><p>44.5%</p></td></tr><tr><td style="width:2181;"><p>1957 – 59</p></td><td style="width:2386;"><blockquote>52.3%</blockquote></td><td style="width:2588;"><blockquote>95.9%</blockquote></td><td style="width:1739;"><p>74.7%</p></td></tr><tr><td style="width:2181;"><p>1957 – 60</p></td><td style="width:2386;"><blockquote>42.9%</blockquote></td><td style="width:2588;"><blockquote>140.6%</blockquote></td><td style="width:1739;"><p>107.2%</p></td></tr><tr><td style="width:2181;"><p>1957 – 61</p></td><td style="width:2386;"><blockquote>74.9%</blockquote></td><td style="width:2588;"><blockquote>251.0%</blockquote></td><td style="width:1739;"><p>181.6%</p></td></tr><tr><td style="width:2181;"><p>1957 – 62</p></td><td style="width:2386;"><blockquote>61.6%</blockquote></td><td style="width:2588;"><blockquote>299.8%</blockquote></td><td style="width:1739;"><p>215.1%</p></td></tr><tr><td style="width:2181;"><p>1957 – 63</p></td><td style="width:2386;"><blockquote>95.1%</blockquote></td><td style="width:2588;"><blockquote>454.5%</blockquote></td><td style="width:1739;"><p>311.2%</p></td></tr><tr><td style="width:2181;"><p>1957 – 64</p></td><td style="width:2386;"><blockquote>131.3%</blockquote></td><td style="width:2588;"><blockquote>608.7%</blockquote></td><td style="width:1739;"><p>402.9%</p></td></tr><tr><td style="width:2181;"><p>1957 – 65</p></td><td style="width:2386;"><blockquote>164.1%</blockquote></td><td style="width:2588;"><blockquote>943.2%</blockquote></td><td style="width:1739;"><p>588.5%</p></td></tr><tr><td style="width:2181;"><p><strong>Annual Compounded</strong></p><blockquote><strong>Rate</strong></blockquote></td><td style="width:2386;"><blockquote><strong>11.4%</strong></blockquote></td><td style="width:2588;"><blockquote><strong>29.8%</strong></blockquote></td><td style="width:1739;"><p><strong>23.9%</strong></p></td></tr></table>
+      <p>After last year the question naturally arises, &quot;What do we do for an encore?” A disadvantage of this business is that it does not possess momentum to any significant degree. If General Motors accounts for 54% of domestic  new car registrations in 1965, it is a pretty safe bet that they are going to come fairly close to that figure in 1966 due to owner loyalties, dealer capabilities, productive capacity, consumer image, etc. Not so for BPL. We start  from scratch each year with everything valued at market when the gun goes off. Partners in 1966, new or old,</p>
+      <p>benefit to only a very limited extent from the efforts of 1964 and 1965. The success of past methods and ideas does not transfer forward to future ones.</p>
+      <p>I continue to hope, on a longer-range basis, for the sort of achievement outlined in the &quot;Our Goal&quot; section of last year's letter (copies still available). However, those who believe 1965 results can be achieved with any</p>
+      <p>frequency are probably attending weekly meetings ofthe Halley’s Comet Observers Club. We are going to have loss years and are going to have years inferior to the Dow - no doubt about it. But I continue to believe we can  achieve average performance superior to the Dow in the future. If my expectation regarding this should change, you will hear immediately.</p>
+      <p><u>Investment Companies</u></p>
+      <p>We regularly compare our results with the two largest open-end investment companies (mutual funds) that</p>
+      <p>follow a policy of being typically 95% - 100% invested in common stocks, and the two largest diversified</p>
+      <p>closed-end investment companies. These four companies, Massachusetts Investors Trust, Investors Stock Fund, Tri-Continental Corp., and Lehman Corp. manage over $5 billion, are owned by about 600,000 shareholders,</p>
+      <p>and are probably typical of most of the $35 billion investment company industry. My opinion is that their results roughly parallel those of the overwhelming majority of other investment advisory organizations which handle,</p>
+      <p>in aggregate, vastly greater sums.</p>
+      <p>The purpose of this tabulation is to illustrate that the Dow is no pushover as an index of investment</p>
+      <p>achievement. The advisory talent managing just the four companies shown commands annual fees of about $10 million and this represents a very small fraction of the professional investment management industry. The public batting average of this highly paid and widely respected talent indicates performance a shade below that of the</p>
+      <p>Dow, an unmanaged index.</p>
+      <blockquote><u>YEARLY RESULTS</u></blockquote>
+      <p><strong>Year           Mass. Inv.         Investors       Lehman (2)       Tri-Cont              Dow        </strong><strong>      Limited</strong></p>
+      <table><tr><td style="width:776;"><p>1957</p></td><td style="width:1469;"><p><strong>Trust</strong><strong> </strong><strong>(1)</strong></p></td><td style="width:1418;"><p><strong>Stock</strong><strong> </strong><strong>(1)</strong></p></td><td style="width:1319;"></td><td style="width:1384;"><p><strong>(2)</strong></p></td><td style="width:1288;"></td><td style="width:1159;"><p><strong>Partners</strong></p></td></tr><tr><td style="width:776;"></td><td style="width:1469;"><p>-11.4%</p></td><td style="width:1418;"><p>-12.4%</p></td><td style="width:1319;"><p>-11.4%</p></td><td style="width:1384;"><p>-2.4%</p></td><td style="width:1288;"><p>-8.4%</p></td><td style="width:1159;"><p>9.3%</p></td></tr><tr><td style="width:776;"><p>1958</p></td><td style="width:1469;"><p>42.7%</p></td><td style="width:1418;"><p>47.5%</p></td><td style="width:1319;"><p>40.8%</p></td><td style="width:1384;"><p>33.2%</p></td><td style="width:1288;"><p>38.5%</p></td><td style="width:1159;"><p>32.2%</p></td></tr><tr><td style="width:776;"><p>1959</p></td><td style="width:1469;"><p>9.0%</p></td><td style="width:1418;"><p>10.3%</p></td><td style="width:1319;"><p>8.1%</p></td><td style="width:1384;"><p>8.4%</p></td><td style="width:1288;"><p>20.0%</p></td><td style="width:1159;"><p>20.9%</p></td></tr><tr><td style="width:776;"><p>1960</p></td><td style="width:1469;"><p>-1.0%</p></td><td style="width:1418;"><p>-0.6%</p></td><td style="width:1319;"><p>2.5%</p></td><td style="width:1384;"><p>2.8%</p></td><td style="width:1288;"><p>-6.2%</p></td><td style="width:1159;"><p>18.6%</p></td></tr><tr><td style="width:776;"><p>1961</p></td><td style="width:1469;"><p>25.6%</p></td><td style="width:1418;"><p>24.9%</p></td><td style="width:1319;"><p>23.6%</p></td><td style="width:1384;"><p>22.5%</p></td><td style="width:1288;"><p>22.4%</p></td><td style="width:1159;"><p>35.9%</p></td></tr><tr><td style="width:776;"><p>1962</p></td><td style="width:1469;"><p>-9.8%</p></td><td style="width:1418;"><p>-13.4%</p></td><td style="width:1319;"><p>-14.4%</p></td><td style="width:1384;"><p>-10.0%</p></td><td style="width:1288;"><p>-7.6%</p></td><td style="width:1159;"><p>11.9%</p></td></tr><tr><td style="width:776;"><p>1963</p></td><td style="width:1469;"><p>20.0%</p></td><td style="width:1418;"><p>16.5%</p></td><td style="width:1319;"><p>23.7%</p></td><td style="width:1384;"><p>18.3%</p></td><td style="width:1288;"><p>20.6%</p></td><td style="width:1159;"><p>30.5%</p></td></tr><tr><td style="width:776;"><p>1964</p></td><td style="width:1469;"><p>15.9%</p></td><td style="width:1418;"><p>14.3%</p></td><td style="width:1319;"><p>13.6%</p></td><td style="width:1384;"><p>12.6%</p></td><td style="width:1288;"><p>18.7%</p></td><td style="width:1159;"><p>22.3%</p></td></tr><tr><td style="width:776;"><p>1965</p></td><td style="width:1469;"><p>10.2%</p></td><td style="width:1418;"><p>9.8%</p></td><td style="width:1319;"><p>19.0%</p></td><td style="width:1384;"><p>10.7%</p></td><td style="width:1288;"><p>14.2%</p></td><td style="width:1159;"><p>36.9%</p></td></tr></table>
+      <p>(1)  Computed from changes in asset value plus any distributions to holders of record during year.</p>
+      <p>(2) From 1965 Moody's Bank &amp; Finance Manual for 1957-64. Estimated for 1965.</p>
+      <blockquote><u>COMPOUNDED</u></blockquote>
+      <table><tr><td style="width:1415;"><p><strong>Year</strong></p></td><td style="width:1303;"><p><strong>Mass. Inv.</strong></p></td><td style="width:1296;"><p><strong>Investors</strong></p></td><td style="width:1467;"><p><strong>Lehman (2)</strong></p></td><td style="width:1324;"><p><strong>Tri</strong><strong> </strong><strong>Cont</strong></p></td><td style="width:1273;"><p><strong>Dow</strong></p></td><td style="width:1122;"><p><strong>Limited</strong></p></td></tr><tr><td style="width:1415;"></td><td style="width:1303;"><p><strong>Trust</strong><strong> </strong><strong>(1)</strong></p></td><td style="width:1296;"><p><strong>Stock</strong><strong> </strong><strong>(1)</strong></p></td><td style="width:1467;"></td><td style="width:1324;"><p><strong>(2)</strong></p></td><td style="width:1273;"></td><td style="width:1122;"><p><strong>Partners</strong></p></td></tr><tr><td style="width:1415;"><p>1957</p></td><td style="width:1303;"><p>-11.4%</p></td><td style="width:1296;"><p>-12.4%</p></td><td style="width:1467;"><p>-11.4%</p></td><td style="width:1324;"><p>-2.4%</p></td><td style="width:1273;"><p>-8.4%</p></td><td style="width:1122;"><p>9.3%</p></td></tr><tr><td style="width:1415;"><p>1957 – 58</p></td><td style="width:1303;"><p>26.4%</p></td><td style="width:1296;"><p>29.2%</p></td><td style="width:1467;"><p>24.7%</p></td><td style="width:1324;"><p>30.0%</p></td><td style="width:1273;"><p>26.9%</p></td><td style="width:1122;"><p>44.5%</p></td></tr><tr><td style="width:1415;"><p>1957 – 59</p></td><td style="width:1303;"><p>37.8%</p></td><td style="width:1296;"><p>42.5%</p></td><td style="width:1467;"><p>34.8%</p></td><td style="width:1324;"><p>40.9%</p></td><td style="width:1273;"><p>52.3%</p></td><td style="width:1122;"><p>74.7%</p></td></tr><tr><td style="width:1415;"><p>1957 – 60</p></td><td style="width:1303;"><p>36.4%</p></td><td style="width:1296;"><p>41.6%</p></td><td style="width:1467;"><p>38.2%</p></td><td style="width:1324;"><p>44.8%</p></td><td style="width:1273;"><p>42.9%</p></td><td style="width:1122;"><p>107.2%</p></td></tr><tr><td style="width:1415;"><p>1957 – 61</p></td><td style="width:1303;"><p>71.3%</p></td><td style="width:1296;"><p>76.9%</p></td><td style="width:1467;"><p>70.8%</p></td><td style="width:1324;"><p>77.4%</p></td><td style="width:1273;"><p>74.9%</p></td><td style="width:1122;"><p>181.6%</p></td></tr><tr><td style="width:1415;"><p>1957 – 62</p></td><td style="width:1303;"><p>54.5%</p></td><td style="width:1296;"><p>53.2%</p></td><td style="width:1467;"><p>46.2%</p></td><td style="width:1324;"><p>59.7%</p></td><td style="width:1273;"><p>61.6%</p></td><td style="width:1122;"><p>215.1%</p></td></tr><tr><td style="width:1415;"><p>1957 – 63</p></td><td style="width:1303;"><p>85.4%</p></td><td style="width:1296;"><p>78.5%</p></td><td style="width:1467;"><p>80.8%</p></td><td style="width:1324;"><p>88.9%</p></td><td style="width:1273;"><p>94.9%</p></td><td style="width:1122;"><p>311.2%</p></td></tr><tr><td style="width:1415;"><p>1957 – 64</p></td><td style="width:1303;"><p>114.9%</p></td><td style="width:1296;"><p>104.0%</p></td><td style="width:1467;"><p>105.4%</p></td><td style="width:1324;"><p>112.7%</p></td><td style="width:1273;"><p>131.3%</p></td><td style="width:1122;"><p>402.9%</p></td></tr><tr><td style="width:1415;"><p>1957 – 65</p></td><td style="width:1303;"><p>136.8%</p></td><td style="width:1296;"><p>124.0%</p></td><td style="width:1467;"><p>145.3%</p></td><td style="width:1324;"><p>138.4%</p></td><td style="width:1273;"><p>164.1%</p></td><td style="width:1122;"><p>588.5%</p></td></tr><tr><td style="width:1415;"><p><strong>Annual</strong></p></td><td style="width:1303;"><p><strong>10.1%</strong></p></td><td style="width:1296;"><p><strong>9.4%</strong></p></td><td style="width:1467;"><p><strong>10.5%</strong></p></td><td style="width:1324;"><p><strong>10.1%</strong></p></td><td style="width:1273;"><p><strong>11.4%</strong></p></td><td style="width:1122;"><p><strong>23.9%</strong></p></td></tr><tr><td style="width:1415;"><p><strong>Compounded</strong></p><p><strong>Rate</strong></p></td><td style="width:1303;"></td><td style="width:1296;"></td><td style="width:1467;"></td><td style="width:1324;"></td><td style="width:1273;"></td><td style="width:1122;"></td></tr></table>
+      <p>A number of the largest investment advisory operations (managing, in some cases, well into the billions of dollars) also manage investment companies partly as a convenience for smaller clients and partly as a public showcase. The results of these funds roughly parallel those of the four funds on which we report.</p>
+      <p>I strongly believe in measurement. The investment managers mentioned above utilize measurement constantly  in their activities. They constantly study changes in market shares, profit margins, return on capital, etc. Their  entire decision-making process is geared to measurement - of managements, industries, comparative yields, etc. I am sure they keep score on their new business efforts as well as the profitability of their advisory operation.</p>
+      <p>What then can be more fundamental than the measurement, in turn, of investment ideas and decisions? I</p>
+      <p>certainly do not believe the standards I utilize (and wish my partners to utilize) in measuring my performance are the applicable ones for all money managers. But I certainly do believe anyone engaged in the management of money should have a standard of measurement, and that both he and the party whose money is managed</p>
+      <p>should have a clear understanding why it is the appropriate standard, what time period should be utilized, etc.</p>
+      <p>Frank Block put it very well in the November-December 1965 issue of the Financial Analysts Journal. Speaking of measurement of investment performance he said,&quot; ...However, the fact is that literature suffers a yawning</p>
+      <p>hiatus in this subject. If investment management organizations sought always the best performance, there would be nothing unique in careful measurement of investment results. It does not matter that the customer has failed  to ask for a formal presentation of the results. Pride alone should be sufficient to demand that each or us</p>
+      <p>determine objectively the quality of his recommendations. This can hardly be done without precise knowledge</p>
+      <p>of the outcome. Once this knowledge is in hand, it should be possible to extend the analysis to some point at</p>
+      <p>which patterns of weakness and strength begin to assert themselves. We criticize a corporate management for  failure to use the best of tools to keep it aware of the progress of a complicated industrial organization. We can hardly be excused for failure to provide ourselves with equal tools to show the efficiency of our own efforts to handle other people’s money. ...Thus, it is our dreary duty to report that systems of performance measurement are not automatically included in the data processing programs of most investment management organizations. The sad fact is that some seem to prefer not to know how well or poorly they are doing.</p>
+      <p>Frankly, I have several selfish reasons for insisting that we apply a yardstick and that we both utilize the same</p>
+      <p>yardstick. Naturally, I get a kick out of beating par - in the lyrical words of Casey Stengel, &quot;Show me a good</p>
+      <p>loser, and I’ll show you a loser.” More importantly, I insure that I will not get blamed for the wrong reason</p>
+      <p>(having losing years) but only for the right reason (doing poorer than the Dow). Knowing partners will grade me on the right basis helps me do a better job. Finally, setting up the relevant yardsticks ahead of time insures that we will all get out of this business if the results become mediocre (or worse). It means that past successes cannot cloud judgment of current results. It should reduce the chance of ingenious rationalizations of inept</p>
+      <p>performance. (Bad lighting has been bothering me at the bridge table lately.) While this masochistic approach to measurement may not sound like much ofan advantage, I can assure you from my observations of business</p>
+      <p>entities that such evaluation would have accomplished a great deal in many investment and industrial organizations.</p>
+      <p>So if you are evaluating others (or yourself!) in the investment field, think out some standards - apply them -</p>
+      <p>interpret them. If you do not feel our standard (a minimum of a three-year test versus the Dow) is an applicable one, you should not be in the Partnership. If you do feel it is applicable, you should be able to take the minus</p>
+      <p>years with equanimity in the visceral regions as well as the cerebral regions -as long as we are surpassing the results of the Dow.</p>
+      <p><u>The</u><u> </u><u>Sorrows</u><u> </u><u>of</u><u> </u><u>Compounding</u></p>
+      <p>Usually, at this point in my letter, I have paused to modestly attempt to set straight the historical errors of the</p>
+      <p>last four or five hundred years. While it might seem difficult to accomplish this in only a few paragraphs a year, I feel I have done my share to reshape world opinion on Columbus, Isabella, Francis I, Peter Minuit and the</p>
+      <p>Manhattan Indians. A by-product of this endeavor has been to demonstrate the overwhelming power of</p>
+      <p>compound interest. To insure reader attention I have entitled these essays &quot;The Joys of Compounding. &quot; The sharp-eyed may notice a slight change this year.</p>
+      <p>A decent rate (better we have an indecent rate) of compound -plus the addition of substantial new money has brought our beginning capital this year to $43,645,000. Several times in the past I have raised the question</p>
+      <p>whether increasing amounts of capital would harm our investment performance. Each time I have answered negatively and promised you that if my opinion changed, I would promptly report it.</p>
+      <p>I do not feel that increased capital has hurt our operation to date. As a matter of fact, I believe that we have done somewhat better during the past few years with the capital we have had in the Partnership than we would have  done if we had been working with a substantially smaller amount. This was due to the partly fortuitous</p>
+      <p>development of several investments that were just the right size for us -big enough to be significant and small enough to handle.</p>
+      <p>I now feel that we are much closer to the point where increased size may prove disadvantageous. I don't want to ascribe too much precision to that statement since there are many variables involved. What may be the optimum size under some market and business circumstances can be substantially more or less than optimum under other circumstances. There have been a few times in the past when on a very short-term basis I have felt it would have been advantageous to be smaller but substantially more times when the converse was true.</p>
+      <p>Nevertheless, as circumstances presently appear, I feel substantially greater size is more likely to harm future results than to help them. This might not be true for my own personal results, but it is likely to be true for your results.</p>
+      <p>Therefore, unless it appears that circumstances have changed (under some conditions added capital would improve results) or unless new partners can bring some asset to the Partnership other than simply capital, I intend to admit no additional partners to BPL.</p>
+      <p>The only way to make this effective is to apply it across-the-board and I have notified Susie that if we have any more children, it is up to her to find some other partnership for them.</p>
+      <p>Because I anticipate that withdrawals (for taxes, among other reasons) may well approach additions by present partners and also because I visualize the curve of expectable performance sloping only very mildly as capital   increases, I presently see no reason why we should restrict capital additions by existing partners.</p>
+      <p>The medically oriented probably will interpret this entire section as conclusive evidence that an effective antithyroid pill has been developed.</p>
+      <p><u>Trends in Our Business</u></p>
+      <p>Last year I discussed our various categories of investments. Knowing the penalties for cruel and unusual</p>
+      <p>punishments, I will skip a rehash of the characteristics of each category, but merely refer you to last year's letter. However, a few words should be said to bring you up to date on the various segments of the business, and</p>
+      <p>perhaps to give you a better insight into their strengths and weaknesses.</p>
+      <p>The &quot;Workout&quot; business has become very spasmodic. We were able to employ an average of only about $6</p>
+      <p>million during the year in the Workout section, and this involved only a very limited number of situations.</p>
+      <p>Although we earned about $1,410,000 or about 23 ½% on average capital employed (this is calculated on an all equity basis - borrowed money is appropriate in most Workout situations, and we utilize it, which improves our rate of return above this percentage), over half of this was earned from one situation. I think it unlikely that a</p>
+      <p>really interesting rate of return can be earned consistently on large sums of money in this business under present conditions. Nevertheless, we will continue to try to remain alert for the occasional important opportunity and</p>
+      <p>probably continue to utilize a few of the smaller opportunities where we like the probabilities.</p>
+      <p>The &quot;Generals-Private Owner Basis&quot; category was very good to us in 1965. Opportunities in this area have</p>
+      <p>become more scarce with a rising Dow, but when they come along, they are often quite significant. I mentioned at the start of last year that we were the largest stockholder of three companies in this category. Our largest</p>
+      <p>yearend 1964 investment in this category was disposed of in 1965 pursuant to a tender offer resulting in a</p>
+      <p>realized gain for BPL of $3,188,000. At yearend 1964 we had unrealized appreciation in this investment of $451,000. Therefore, the economic gain attributable to 1965 for this transaction was only $2,737,000 even   though the entire tax effect fell in that year. I mention these figures to illustrate how our realized gain for tax purposes in any year bears no necessary relationship to our economic gain.</p>
+      <p>The fundamental concept underlying the Generals-Private Owner category is demonstrated by the above case. A private owner was quite willing (and in our opinion quite wise) to pay a price for control of the business which  isolated stock buyers were not willing to pay for very small fractions ofthe business. This has been a quite</p>
+      <p>common condition in the securities markets over many years, and although purchases in this category work out satisfactorily in terms of just general stock market behavior, there is the occasional dramatic profit due to</p>
+      <p>corporate action such as the one above.</p>
+      <p>The &quot;Control&quot; section of our business received a transfer member from our “Private Owner” category. Shares in Berkshire Hathaway had been acquired since November 1962 on much the same line of reasoning as prevailed  in the security mentioned above. In the case of Berkshire, however, we ended up purchasing enough stock to</p>
+      <p>assume a controlling position ourselves rather than the more usual case of either selling our stock in the market or to another single buyer.</p>
+      <p>Our purchases of Berkshire started at a price of $7.60 per share in 1962. This price partially reflected large</p>
+      <p>losses incurred by the prior management in closing some of the mills made obsolete by changing conditions</p>
+      <p>within the textile business (which the old management had been quite slow to recognize). In the postwar period the company had slid downhill a considerable distance, having hit a peak in 1948 when about $29 1/2 million was earned before tax and about 11,000 workers were employed. This reflected output from 11 mills.</p>
+      <p>At the time we acquired control in spring of 1965, Berkshire was down to two mills and about 2,300 employees. It was a very pleasant surprise to find that the remaining units had excellent management personnel, and we</p>
+      <p>have not had to bring a single man from the outside into the operation. In relation to our beginning acquisition</p>
+      <p>cost of $7.60 per share (the average cost, however, was $14.86 per share, reflecting very heavy purchases in</p>
+      <p>early 1965), the company on December 31, 1965, had net working capital alone (before placing any value on the plants and equipment) of about $19 per share.</p>
+      <p>Berkshire is a delight to own. There is no question that the state of the textile industry is the dominant factor in determining the earning power of the business, but we are most fortunate to have Ken Chace running the</p>
+      <p>business in a first-class manner, and we also have several of the best sales people in the business heading up this end of their respective divisions.</p>
+      <p>While a Berkshire is hardly going to be as profitable as a Xerox, Fairchild Camera or National Video in a</p>
+      <p>hypertensed market, it is a very comfort able sort of thing to own. As my West Coast philosopher says, “It is well to have a diet consisting of oatmeal as well as cream puffs.”</p>
+      <p>Because of our controlling interest, our investment in Berkshire is valued for our audit as a business, not as a</p>
+      <p>marketable security. If Berkshire advances $5 per share in the market, it does BPL no good - our holdings are</p>
+      <p>not going to be sold. Similarly, if it goes down $5 per share, it is not meaningful to us. The value of our holding is determined directly by the value of the business. I received no divine inspiration in that valuation of our</p>
+      <p>holdings. (Maybe the owners of the three wonder stocks mentioned above do receive such a message in respect to their holdings -I feel I would need something at least that reliable to sleep well at present prices.) I attempt to apply a conservative valuation based upon my knowledge of assets, earning power, industry conditions,</p>
+      <p>competitive position, etc. We would not be a seller of our holdings at such a figure, but neither would we be a seller of the other items in our portfolio at yearend valuations –otherwise, we would already have sold them.</p>
+      <p>Our final category is &quot;Generals-Relatively Undervalued.” This category has been growing in relative importance as opportunities in the other categories become less frequent.</p>
+      <p>Frankly, operating in this field is somewhat more ethereal than operating in the other three categories, and I'm</p>
+      <p>just not an ethereal sort. Therefore, I feel accomplishments here are less solid and perhaps less meaningful for</p>
+      <p>future projections than in the other categories. Nevertheless, our results in 1965 were quite good in the</p>
+      <p>“Relatively Undervalued” group, partly due to implementation of the technique referred to in last year's letter</p>
+      <p>which serves to reduce risk and potentially augment gains. It should reduce risk in any year, and it definitely</p>
+      <p>augmented the gains in 1965. It is necessary to point out that results in this category were greatly affected for the better by only two investments.</p>
+      <p>Candor also demands I point out that during 1965 we had our worst single investment experience in the history of BPL on one idea in this group.</p>
+      <p>Overall, we had more than our share of good breaks in 1965. We did not have a great quantity of ideas, but the quality, with the one important exception mentioned above, was very good and circumstances developed which accelerated the timetable in several. I do not have a great flood of good ideas as I go into 1966, although again I believe I have at least several potentially good ideas of substantial size. Much depends on whether market</p>
+      <p>conditions are favorable for obtaining a larger position.</p>
+      <p>All in all, however, you should recognize that more came out of the pipeline in 1965 than went in. <u>Diversification</u></p>
+      <p>Last year in commenting on the inability of the overwhelming majority of investment managers to achieve</p>
+      <p>performance superior to that of pure chance, I ascribed it primarily to the product of: &quot;(1) group decisions - my perhaps jaundiced view is that it is close to impossible for outstanding investment management to come from a group of any size with all parties really participating in decisions; (2) a desire to conform to the policies and (to an extent) the portfolios of other large well-regarded organizations; (3) an institutional framework whereby</p>
+      <p>average is &quot;safe&quot; and the personal rewards for independent action are in no way commensurate with the general risk attached to such action; (4) an adherence to certain diversification practices which are irrational; and finally and importantly, (5) inertia.”</p>
+      <p>This year in the material which went out in November, I specifically called your attention to a new Ground Rule reading, &quot;7. We diversify substantially less than most investment operations. We might invest up to 40% of our net worth in a single security under conditions coupling an extremely high probability that our facts and</p>
+      <p>reasoning are correct with a very low probability that anything could drastically change the underlying value of the investment.&quot;</p>
+      <p>We are obviously following a policy regarding diversification which differs markedly from that of practically all public investment operations. Frankly, there is nothing I would like better than to have 50 different investment  opportunities, all of which have a mathematical expectation (this term reflects the range of all possible relative  performances, including negative ones, adjusted for the probability of each -  no yawning, please) of achieving performance surpassing the Dow by, say, fifteen percentage points per annum. If the fifty individual</p>
+      <p>expectations were not intercorelated (what happens to one is associated with what happens to the other) I could put 2% of our capital into each one and sit back with a very high degree of certainty that our overall results</p>
+      <p>would be very close to such a fifteen percentage point advantage.</p>
+      <p>It doesn't work that way.</p>
+      <p>We have to work extremely hard to find just a very few attractive investment situations. Such a situation by</p>
+      <p>definition is one where my expectation (defined as above) of performance is at least ten percentage points per</p>
+      <p>annum superior to the Dow. Among the few we do find, the expectations vary substantially. The question</p>
+      <p>always is, “How much do I put in number one (ranked by expectation of relative performance) and how much</p>
+      <p>do I put in number eight?&quot; This depends to a great degree on the wideness of the spread between the</p>
+      <p>mathematical expectation of number one versus number eight.” It also depends upon the probability that number one could turn in a really poor relative performance. Two securities could have equal mathematical</p>
+      <p>expectations, but one might have .05 chance of performing fifteen percentage points or more worse than the Dow, and the second might have only .01 chance of such performance. The wider range of expectation in the first case reduces the desirability of heavy concentration in it.</p>
+      <p>The above may make the whole operation sound very precise. It isn't. Nevertheless, our business is that of</p>
+      <p>ascertaining facts and then applying experience and reason to such facts to reach expectations. Imprecise and  emotionally influenced as our attempts may be, that is what the business is all about. The results of many years</p>
+      <p>of decision-making in securities will demonstrate how well you are doing on making such calculations -whether you consciously realize you are making the calculations or not. I believe the investor operates at a distinct advantage when he is aware of what path his thought process is following.</p>
+      <p>There is one thing of which I can assure you. If good performance of the fund is even a minor objective, any portfolio encompassing one hundred stocks (whether the manager is handling one thousand dollars or one billion dollars) is not being operated logically. The addition of the one hundredth stock simply can't reduce the potential variance in portfolio performance sufficiently to compensate for the negative effect its inclusion has on the overall portfolio expectation.</p>
+      <p>Anyone owning such numbers of securities after presumably studying their investment merit (and I don't care how prestigious their labels) is following what I call the Noah School of Investing -two of everything. Such investors should be piloting arks. While Noah may have been acting in accord with certain time-tested biological principles,the investors have left the track regarding mathematical principles. (I only made it through plane geometry,but with one exception, I have carefully screened out the mathematicians from our Partnership.)</p>
+      <p>Of course,the fact that someone else is behaving illogically in owning one hundred securities doesn't prove our case.While they may be wrong in overdiversifying, we have to affirmatively reason through a proper diversification policy in terms of our objectives.</p>
+      <p>The optimum portfolio depends on the various expectations of choices available and the degree of variance in performance which is tolerable. The greater the number of selections,the less will be the average year-to-year variation in actual versus expected results. Also, the lower will be the expected results, assuming different choices have different expectations of performance.</p>
+      <p>I am willing to give up quite a bit in terms of leveling of year-to-year results (remember when I talk of“results,”I am talking of performance relative to the Dow) in order to achieve better overall long-term performance. Simply stated,this means I am willing to concentrate quite heavily in what I believe to be the best investment opportunities recognizing very well that this may cause an occasional very sour year - one somewhat more sour, probably, than if I had diversified more. While this means our results will bounce around more, I think it also means that our long-term margin of superiority should be greater.</p>
+      <p>You have already seen some examples of this. Our margin versus the Dow has ranged from 2.4 percentage points in 1958 to 33.0 points in 1965. If you check this against the deviations of the funds listed on page three, you will find our variations have a much wider amplitude. I could have operated in such a manner as to reduce our amplitude,but I would also have reduced our overall performance somewhat although it still would have substantially exceeded that of the investment companies. Looking back, and continuing to think this problem through, I feel that if anything, I should have concentrated slightly more than I have in the past. Hence, the new Ground Rule and this long-winded explanation.</p>
+      <p>Again let me state that this is somewhat unconventional reasoning (this doesn't make it right or wrong - it does mean you have to do your own thinking on it), and you may well have a different opinion - if you do, the Partnership is not the place for you. We are obviously only going to go to 40% in very rare situations -this rarity, of course, is what makes it necessary that we concentrate so heavily, when we see such an opportunity. We probably have had only five or six situations in the nine-year history of the Partnership where we have exceeded 25%. Any such situations are going to have to promise very significantly superior performance relative to the Dow compared to other opportunities available at the time. They are also going to have to possess such superior qualitative and/or quantitative factors that the chance of serious permanent loss is minimal(anything can happen on a short-term quotational basis which partially explains the greater risk of widened yearto-year variation in results). In selecting the limit to which I will go in anyone investment, I attempt to reduce to a tiny figure the probability that the single investment (or group, if there is intercorrelation) can produce a result for our total portfolio that would be more than ten percentage points poorer than the Dow.</p>
+      <p>We presently have two situations in the over 25% category - one a controlled company, and the other a large company where we will never take an active part. It is worth pointing out that our performance in</p>
+      <p>1965 was overwhelmingly the product of five investment situations. The 1965 gains (in some cases there were also gains applicable to the same holding in prior years) from these situations ranged from about $800,000 to about $3 1/2 million. If you should take the overall performance of our five smallest general investments in1965, the results are lackluster (I chose a very charitable adjective).</p>
+      <p>Interestingly enough, the literature of investment management is virtually devoid of material relative to deductive calculation of optimal diversification.</p>
+      <p>All texts counsel &quot;adequate&quot; diversification,but the ones who quantify &quot;adequate&quot; virtually never explain how they arrive at their conclusion. Hence, for our summation on overdiversification,we turn to that eminent academician Billy Rose,who says, &quot;You've got a harem of seventy girls; you don't get to know any of them very well.”</p>
+      <p><u>Miscellaneous</u></p>
+      <p>Last year we boldly announced an expansion move, encompassing an additional 227 1/4 square feet. Older partners shook their heads. I feel that our gain from operations in 1965 of $12,304,060 indicates</p>
+      <p>that we did not overextend ourselves. Fortunately, we didn't sign a percentage lease. Operationally, things have never been running more smoothly, and I think our present setup unquestionably lets me devote a higher percentage of my time to thinking about the investment process than virtually anyone else in the money management business. This, of course, is the result of really outstanding personnel and cooperative partners.</p>
+      <p>John Harding has taken complete charge of all administrative operations with splendid results. Bill Scott continues to develop detailed information on investments which substantially enhances our net profit figure. Beth Feehan, Donna Walter and Elizabeth Hanon (who joined us in November) have all handled large workloads (secretary's note -Amen!) accurately and efficiently.</p>
+      <p>The above people,their spouses (one apiece) and children have a combined investment in the Partnership of over $600,000 . Susie and I have an investment of $6,849,936, which should keep me from slipping away to the movies in the afternoon. This represents virtually our entire net worth, with the exception of our continued holding of Mid-Continent Tab Card, a local company into which I bought in 1960 when it had less than 10 stockholders.</p>
+      <p>Additionally, my relatives, consisting of three children,mother, two sisters,two brothers-in-law, father-in-law, three aunts,two uncles, five cousins, and six nieces and nephews have interests in BPL, directly or indirectly, totaling $2,708,233 . So don't get any ideas about voting a change in the Partnership name.</p>
+      <p>Peat, Marwick, Mitchell &amp; Co. has done the customary excellent job of expediting the audit and tax information. This requires great effort and ability, and they supply both. This year a computer was brought to bear on our problems, and naturally, I was a little worried someone else would come out as the general partner. However, it all worked quite smoothly.</p>
+      <p>Within the coming two weeks you will receive:</p>
+      <p>1. A tax letter giving you all BPL information needed for your 1965 federal income tax return. This letter is the only item that counts for tax purposes.</p>
+      <p>2. An audit from Peat, Marwick, Mitchell &amp; Co. for 1965, setting forth the operations and financial position of BPL, as well as your own capital account.</p>
+      <p>3. A letter signed by me setting forth the status of your BPL interest on 1/1/66. This is identical with the figures developed in the audit.</p>
+      <p>Let me know if anything in this letter or that occurs during the year needs clarifying. It is difficult to anticipate all of the questions you may have and if there is anything that is confusing, I want to hear about it. For instance, we received an excellent suggestion last year from a partner regarding the presentation of the reconciliation of personal capital accounts.</p>
+      <p>My next letter will be about July 15th, summarizing the first ha1f of this year.</p>
+      <p>Cordially,</p>
+      <p>Warren E. Buffett</p>`,
 
-    concepts: ['capital-allocation', 'cigar-butts', 'intrinsic-value', 'roe', 'debt-free'],
+    concepts: ['compounding', 'intrinsic-value', 'margin-of-safety', 'opportunity-cost', 'berkshire-hathaway'],
     companies: ['berkshire-hathaway'],
     people: ['benjamin-graham'],
     crossReferences: [],
     keyQuotes: [
-      'The textile business was a very poor business... but I was making a major mistake in buying it.',
+      'Our War on Poverty was successful in 1965. Specifically, we were $12,304,060 less poor at the end of the year.',
+      'The success of past methods and ideas does not transfer forward to future ones.',
+      'In anyone year, the variations from expected results are significant.',
     ],
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1965.html',
