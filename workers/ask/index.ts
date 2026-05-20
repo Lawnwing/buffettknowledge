@@ -48,12 +48,12 @@ const LETTERS_DATA = [
   { slug: '1988-berkshire-letter', year: 1988, title: 'The Coca-Cola Investment — 1988', summary: 'Major Coca-Cola investment announced at $592.5 million. Discusses brand value and franchise moat.' },
   { slug: '1996-berkshire-letter', year: 1996, title: 'The Derivatives Warning — 1996', summary: 'First detailed warning about derivatives and their systemic risks to the financial system.' },
   { slug: '2008-berkshire-letter', year: 2008, title: 'The Financial Crisis — 2008', summary: '"Buy American. I am." Famous letter written during financial crisis. Discusses financial contagion and long-term investing.' },
-  { slug: '2014-berkshire-letter', year: 2014, title: 'The American Tailwind — 2014', summary: 'Celebrates America's economic dynamism and compound interest over 200 years.' },
+  { slug: '2014-berkshire-letter', year: 2014, title: 'The American Tailwind — 2014', summary: 'Celebrates America\'s economic dynamism and compound interest over 200 years.' },
   { slug: '2020-berkshire-letter', year: 2020, title: 'The Pandemic Year — 2020', summary: 'COVID-19 impact on Berkshire and businesses. Discusses resilience and long-term thinking.' },
   { slug: '2022-berkshire-letter', year: 2022, title: 'The Berkshire Annual Meeting — 2022', summary: 'Discussion of Berkshire Hathaway business structure and shareholder letter tradition.' },
-  { slug: '2023-berkshire-letter', year: 2023, title: 'The Buybacks & Capital Allocation — 2023', summary: 'Explains Berkshire's stock buyback philosophy and capital allocation framework.' },
+  { slug: '2023-berkshire-letter', year: 2023, title: 'The Buybacks & Capital Allocation — 2023', summary: 'Explains Berkshire\'s stock buyback philosophy and capital allocation framework.' },
   { slug: '2024-berkshire-letter', year: 2024, title: 'The Charlie Tribute — 2024', summary: 'Tribute to Charlie Munger, partner and vice chairman. Discusses their 50+ year partnership.' },
-  { slug: '2025-berkshire-letter', year: 2025, title: 'The Farewell Letter — 2025', summary: 'Farewell letter discussing Berkshire Hathaway journey and America's economic future.' },
+  { slug: '2025-berkshire-letter', year: 2025, title: 'The Farewell Letter — 2025', summary: 'Farewell letter discussing Berkshire Hathaway journey and America\'s economic future.' },
 ]
 
 // Concept definitions and key passages
@@ -64,7 +64,7 @@ const CONCEPTS_DATA = [
   { slug: 'owner-earnings', name: 'Owner Earnings', definition: 'Net income plus depreciation minus capital expenditures needed to maintain position.', passages: ['Owner earnings are the true measure of profitability', 'Better than accounting earnings for valuation'] },
   { slug: 'circle-of-competence', name: 'Circle of Competence', definition: 'Area around investors genuine expertise where they can evaluate with confidence.', passages: ['Know what you know and what you dont know', 'Stay within your circle of competence'] },
   { slug: 'free-cash-flow', name: 'Free Cash Flow', definition: 'Cash generated after all operating expenses and capital investments.', passages: ['Cash machine vs cash consumer', 'Key for evaluating business quality'] },
-  { slug: 'float', name: 'Float', definition: 'Insurance float: premiums collected but not yet paid out in claims.', passages: ['Float is essentially free money we hold', 'Berkshire's insurance operations generate float'] },
+  { slug: 'float', name: 'Float', definition: 'Insurance float: premiums collected but not yet paid out in claims.', passages: ['Float is essentially free money we hold', 'Berkshire\'s insurance operations generate float'] },
   { slug: 'franchise', name: 'Franchise', definition: 'Business with pricing power granted by brand, patent, or monopoly status.', passages: ['Franchise businesses have durable competitive advantages', 'Pricing power is key indicator of franchise'] },
 ]
 
