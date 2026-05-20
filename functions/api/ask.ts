@@ -190,13 +190,24 @@ export async function onRequestPost(context: { request: Request; env: PagesFunct
     }
 
     if (!apiKey) {
+      let envKeys: string[] = []
+      try {
+        if (env && typeof env === 'object') {
+          envKeys = Object.keys(env)
+        }
+      } catch {
+        envKeys = ['(error reading env keys)']
+      }
+
       const debug = {
         error: 'Gemini API key not configured.',
         debug: {
-          envKeys: env ? Object.keys(env as any) : 'env is undefined',
+          envType: typeof env,
+          envKeys: envKeys,
           hasEnv: !!env,
           hasContextEnv: !!(context?.env),
           envGemini: env?.GEMINI_API_KEY ? 'present' : 'missing',
+          contextEnvGemini: context?.env?.GEMINI_API_KEY ? 'present' : 'missing',
         },
       }
       return new Response(
@@ -240,10 +251,14 @@ export async function onRequestPost(context: { request: Request; env: PagesFunct
       status: 200,
       headers: { ...corsHeaders, 'Content-Type': 'application/json' },
     })
-  } catch (error) {
+  } catch (error: any) {
     console.error('Error:', error)
     return new Response(
-      JSON.stringify({ error: 'An error occurred while processing your question.' }),
+      JSON.stringify({
+        error: 'An error occurred while processing your question.',
+        detail: error?.message || String(error),
+        stack: error?.stack || 'no stack',
+      }),
       { status: 500, headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
     )
   }
