@@ -355,13 +355,13 @@ export default function LetterPage({ params }: PageProps) {
         <AdUnit client="ca-pub-XXXXXXXX" slot="XXXXXXXX" format="rectangle" variant="inline" />
 
         {/* Bottom Navigation */}
-        <div className="mt-12 pt-8" style={{ borderTop: '1px solid #E6E2D9' }}>
+        <div className="mt-12 pt-8 pb-12" style={{ borderTop: '1px solid #E6E2D9' }}>
           <div className="flex items-center justify-between">
             {prevLetter ? (
               <Link
                 href={`/letters/${prevLetter.slug}`}
-                className="flex items-center gap-2 text-sm transition-colors hover:text-zinc-900"
-                style={{ color: '#71717A' }}
+                className="flex items-center gap-3 text-sm transition-colors hover:text-zinc-900 rounded-lg px-5 py-3"
+                style={{ color: '#71717A', backgroundColor: '#F5F3EF', border: '1px solid #E6E2D9' }}
               >
                 <ArrowLeft className="w-4 h-4" />
                 <div>
@@ -375,8 +375,8 @@ export default function LetterPage({ params }: PageProps) {
             {nextLetter ? (
               <Link
                 href={`/letters/${nextLetter.slug}`}
-                className="flex items-center gap-2 text-sm transition-colors hover:text-zinc-900 text-right"
-                style={{ color: '#71717A' }}
+                className="flex items-center gap-3 text-sm transition-colors hover:text-zinc-900 text-right rounded-lg px-5 py-3"
+                style={{ color: '#71717A', backgroundColor: '#F5F3EF', border: '1px solid #E6E2D9' }}
               >
                 <div>
                   <div className="text-xs" style={{ color: '#71717A' }}>Next</div>
