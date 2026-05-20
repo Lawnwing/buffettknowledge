@@ -13,6 +13,7 @@ import { getPersonBySlug } from '@/data/people'
 import { LetterBacklinks } from '@/components/LetterBacklinks'
 import { getLetterBacklinks } from '@/lib/letter-backlinks'
 import LetterText from '@/components/LetterText'
+import { interpretations } from '@/data/interpretations'
 import { concepts } from '@/data/concepts'
 import { companies } from '@/data/companies'
 import { people } from '@/data/people'
@@ -67,6 +68,8 @@ export default function LetterPage({ params }: PageProps) {
   const letterConcepts = letter.concepts.map((s) => getConceptBySlug(s)).filter(Boolean)
   const letterCompanies = letter.companies.map((s) => getCompanyBySlug(s)).filter(Boolean)
   const letterPeople = letter.people.map((s) => getPersonBySlug(s)).filter(Boolean)
+
+  const interpretation = letter.interpretation || interpretations[letter.slug]
 
   const relatedLetters = allLetters
     .filter((l) => l.slug !== letter.slug && l.year >= letter.year - 2 && l.year <= letter.year + 2)
@@ -228,8 +231,8 @@ export default function LetterPage({ params }: PageProps) {
             </div>
 
             {/* Letter Interpretation */}
-            {letter.interpretation && (
-              <LetterInterpretation interpretation={letter.interpretation} />
+            {interpretation && (
+              <LetterInterpretation interpretation={interpretation} />
             )}
           </article>
 
