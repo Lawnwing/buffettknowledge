@@ -183,10 +183,24 @@ export async function onRequestPost(context: { request: Request; env: PagesFunct
   }
 
   try {
-    const apiKey = env.GEMINI_API_KEY
+    // Try multiple ways to read the API key for compatibility
+    let apiKey = env?.GEMINI_API_KEY
+    if (!apiKey && context?.env?.GEMINI_API_KEY) {
+      apiKey = context.env.GEMINI_API_KEY
+    }
+
     if (!apiKey) {
+      const debug = {
+        error: 'Gemini API key not configured.',
+        debug: {
+          envKeys: env ? Object.keys(env as any) : 'env is undefined',
+          hasEnv: !!env,
+          hasContextEnv: !!(context?.env),
+          envGemini: env?.GEMINI_API_KEY ? 'present' : 'missing',
+        },
+      }
       return new Response(
-        JSON.stringify({ error: 'Gemini API key not configured.' }),
+        JSON.stringify(debug),
         { status: 500, headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
       )
     }
