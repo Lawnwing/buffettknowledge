@@ -3,12 +3,17 @@
  * Cloudflare Worker for RAG-based Q&A
  *
  * Deploy with: wrangler deploy
- * Requires: OPENAI_API_KEY in Cloudflare Workers secrets
+ * Requires: GEMINI_API_KEY in Cloudflare Workers secrets
+ *
+ * Free tier: Gemini 1.5 Flash
+ *   - 15 requests/minute
+ *   - 1500 requests/day
+ *   - Completely free (no credit card required)
  */
 
-// ─────────────────────────────────────────────────────────────
+// ────────────────────────────────────────────────────────────
 // Types
-// ─────────────────────────────────────────────────────────────
+// ────────────────────────────────────────────────────────────
 
 interface AskRequest {
   question: string
@@ -29,9 +34,9 @@ interface AskResponse {
   error?: string
 }
 
-// ─────────────────────────────────────────────────────────────
+// ────────────────────────────────────────────────────────────
 // In-memory search index (simplified version for Edge)
-// ─────────────────────────────────────────────────────────────
+// ────────────────────────────────────────────────────────────
 
 // Letter summaries and key quotes for context
 const LETTERS_DATA = [
@@ -43,12 +48,12 @@ const LETTERS_DATA = [
   { slug: '1988-berkshire-letter', year: 1988, title: 'The Coca-Cola Investment — 1988', summary: 'Major Coca-Cola investment announced at $592.5 million. Discusses brand value and franchise moat.' },
   { slug: '1996-berkshire-letter', year: 1996, title: 'The Derivatives Warning — 1996', summary: 'First detailed warning about derivatives and their systemic risks to the financial system.' },
   { slug: '2008-berkshire-letter', year: 2008, title: 'The Financial Crisis — 2008', summary: '"Buy American. I am." Famous letter written during financial crisis. Discusses financial contagion and long-term investing.' },
-  { slug: '2014-berkshire-letter', year: 2014, title: 'The American Tailwind — 2014', summary: 'Celebrates Americas economic dynamism and compound interest over 200 years.' },
+  { slug: '2014-berkshire-letter', year: 2014, title: 'The American Tailwind — 2014', summary: 'Celebrates America's economic dynamism and compound interest over 200 years.' },
   { slug: '2020-berkshire-letter', year: 2020, title: 'The Pandemic Year — 2020', summary: 'COVID-19 impact on Berkshire and businesses. Discusses resilience and long-term thinking.' },
   { slug: '2022-berkshire-letter', year: 2022, title: 'The Berkshire Annual Meeting — 2022', summary: 'Discussion of Berkshire Hathaway business structure and shareholder letter tradition.' },
-  { slug: '2023-berkshire-letter', year: 2023, title: 'The Buybacks & Capital Allocation — 2023', summary: 'Explains Berkshires stock buyback philosophy and capital allocation framework.' },
+  { slug: '2023-berkshire-letter', year: 2023, title: 'The Buybacks & Capital Allocation — 2023', summary: 'Explains Berkshire's stock buyback philosophy and capital allocation framework.' },
   { slug: '2024-berkshire-letter', year: 2024, title: 'The Charlie Tribute — 2024', summary: 'Tribute to Charlie Munger, partner and vice chairman. Discusses their 50+ year partnership.' },
-  { slug: '2025-berkshire-letter', year: 2025, title: 'The Farewell Letter — 2025', summary: 'Farewell letter discussing Berkshire Hathaway journey and Americas economic future.' },
+  { slug: '2025-berkshire-letter', year: 2025, title: 'The Farewell Letter — 2025', summary: 'Farewell letter discussing Berkshire Hathaway journey and America's economic future.' },
 ]
 
 // Concept definitions and key passages
@@ -59,22 +64,22 @@ const CONCEPTS_DATA = [
   { slug: 'owner-earnings', name: 'Owner Earnings', definition: 'Net income plus depreciation minus capital expenditures needed to maintain position.', passages: ['Owner earnings are the true measure of profitability', 'Better than accounting earnings for valuation'] },
   { slug: 'circle-of-competence', name: 'Circle of Competence', definition: 'Area around investors genuine expertise where they can evaluate with confidence.', passages: ['Know what you know and what you dont know', 'Stay within your circle of competence'] },
   { slug: 'free-cash-flow', name: 'Free Cash Flow', definition: 'Cash generated after all operating expenses and capital investments.', passages: ['Cash machine vs cash consumer', 'Key for evaluating business quality'] },
-  { slug: 'float', name: 'Float', definition: 'Insurance float: premiums collected but not yet paid out in claims.', passages: ['Float is essentially free money we hold', 'Berkshires insurance operations generate float'] },
+  { slug: 'float', name: 'Float', definition: 'Insurance float: premiums collected but not yet paid out in claims.', passages: ['Float is essentially free money we hold', 'Berkshire's insurance operations generate float'] },
   { slug: 'franchise', name: 'Franchise', definition: 'Business with pricing power granted by brand, patent, or monopoly status.', passages: ['Franchise businesses have durable competitive advantages', 'Pricing power is key indicator of franchise'] },
 ]
 
 // Company mentions
 const COMPANIES_DATA = [
-  { slug: 'coca-cola', name: 'Coca-Cola', industry: 'Beverages', keyPoints: ['$592.5M investment in 1988', 'Brand value and global franchise', 'See糖果 acquired 1972'] },
+  { slug: 'coca-cola', name: 'Coca-Cola', industry: 'Beverages', keyPoints: ['$592.5M investment in 1988', 'Brand value and global franchise', 'See\'s Candies acquired 1972'] },
   { slug: 'geico', name: 'GEICO', industry: 'Insurance', keyPoints: ['Acquired 1996 for $2.3B', 'Direct-to-consumer insurance model', 'Major competitive advantages in underwriting'] },
   { slug: 'berkshire-hathaway', name: 'Berkshire Hathaway', industry: 'Conglomerate', keyPoints: ['Textile company turned investment conglomerate', 'Insurance Float is core', 'Holdings in railroads, utilities, consumer brands'] },
   { slug: 'apple', name: 'Apple', industry: 'Technology', keyPoints: ['Began accumulating 2016', 'Consumer brand with pricing power', 'Largest holding by 2023'] },
   { slug: 'american-express', name: 'American Express', industry: 'Financial Services', keyPoints: ['Major partnership investment 1960s', 'Franchise business with pricing power', 'Economic moat through brand trust'] },
 ]
 
-// ─────────────────────────────────────────────────────────────
+// ────────────────────────────────────────────────────────────
 // Search function (simple keyword matching for Edge)
-// ─────────────────────────────────────────────────────────────
+// ────────────────────────────────────────────────────────────
 
 function search(query: string) {
   const q = query.toLowerCase()
@@ -165,22 +170,22 @@ function buildContext(query: string): string {
   return sections.join('\n')
 }
 
-// ─────────────────────────────────────────────────────────────
-// OpenAI API call
-// ─────────────────────────────────────────────────────────────
+// ────────────────────────────────────────────────────────────
+// Gemini API call (FREE tier — Gemini 1.5 Flash)
+// ────────────────────────────────────────────────────────────
 
 async function generateAnswer(
   question: string,
   context: string,
   apiKey: string
 ): Promise<string> {
-  const systemPrompt = `You are an AI assistant specialized in Warren Buffett and Berkshire Hathaway shareholder letters. You help users understand Buffetts investment philosophy, business principles, and wisdom as expressed in his letters to shareholders.
+  const systemPrompt = `You are an AI assistant specialized in Warren Buffett and Berkshire Hathaway shareholder letters. You help users understand Buffett's investment philosophy, business principles, and wisdom as expressed in his letters to shareholders.
 
 Guidelines:
 - Answer based on the provided context from Buffett letters
 - Be conversational but informed
 - Reference specific letters or years when relevant
-- If you dont have enough context, say so honestly
+- If you don't have enough context, say so honestly
 - Never make up specific quotes or facts not in the provided context
 - Keep answers focused and practical`
 
@@ -188,37 +193,41 @@ Guidelines:
     ? `${context}\n\nUser question: ${question}`
     : `User question: ${question}
 
-Note: I dont have specific context about this topic in Buffetts letters. Please ask about investment philosophy, specific letters, companies mentioned, or concepts from Buffetts shareholder letters.`
+Note: I don't have specific context about this topic in Buffett's letters. Please ask about investment philosophy, specific letters, companies mentioned, or concepts from Buffett's shareholder letters.`
 
-  const response = await fetch('https://api.openai.com/v1/chat/completions', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      Authorization: `Bearer ${apiKey}`,
-    },
-    body: JSON.stringify({
-      model: 'gpt-4o-mini',
-      messages: [
-        { role: 'system', content: systemPrompt },
-        { role: 'user', content: userPrompt },
-      ],
-      temperature: 0.7,
-      max_tokens: 500,
-    }),
-  })
+  const response = await fetch(
+    `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${apiKey}`,
+    {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        contents: [
+          {
+            parts: [{ text: `${systemPrompt}\n\n${userPrompt}` }],
+          },
+        ],
+        generationConfig: {
+          temperature: 0.7,
+          maxOutputTokens: 500,
+        },
+      }),
+    }
+  )
 
   if (!response.ok) {
     const error = await response.text()
-    throw new Error(`OpenAI API error: ${response.status} - ${error}`)
+    throw new Error(`Gemini API error: ${response.status} - ${error}`)
   }
 
   const data = await response.json()
-  return data.choices[0]?.message?.content || 'I could not generate an answer.'
+  return data.candidates?.[0]?.content?.parts?.[0]?.text || 'I could not generate an answer.'
 }
 
-// ─────────────────────────────────────────────────────────────
+// ────────────────────────────────────────────────────────────
 // Request handler
-// ─────────────────────────────────────────────────────────────
+// ────────────────────────────────────────────────────────────
 
 async function handleRequest(request: Request): Promise<Response> {
   // CORS headers
@@ -242,11 +251,11 @@ async function handleRequest(request: Request): Promise<Response> {
   }
 
   try {
-    const apiKey = OPENAI_API_KEY
+    const apiKey = GEMINI_API_KEY
 
     if (!apiKey) {
       return new Response(
-        JSON.stringify({ error: 'OpenAI API key not configured.' }),
+        JSON.stringify({ error: 'Gemini API key not configured. Please set GEMINI_API_KEY in Cloudflare Workers secrets.' }),
         { status: 500, headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
       )
     }
@@ -274,7 +283,7 @@ async function handleRequest(request: Request): Promise<Response> {
     // Build context from search
     const context = buildContext(question)
 
-    // Generate answer
+    // Generate answer using Gemini
     const answer = await generateAnswer(question, context, apiKey)
 
     // Get source references
@@ -314,17 +323,17 @@ async function handleRequest(request: Request): Promise<Response> {
   }
 }
 
-// ─────────────────────────────────────────────────────────────
+// ────────────────────────────────────────────────────────────
 // Worker entry point
-// ─────────────────────────────────────────────────────────────
+// ────────────────────────────────────────────────────────────
 
 // Declare global for TypeScript
-declare const OPENAI_API_KEY: string | undefined
+declare const GEMINI_API_KEY: string | undefined
 
 export default {
-  async fetch(request: Request, env: { OPENAI_API_KEY?: string }): Promise<Response> {
+  async fetch(request: Request, env: { GEMINI_API_KEY?: string }): Promise<Response> {
     // Set global for API key (in Cloudflare Workers, env vars are accessed via env)
-    ;(globalThis as any).OPENAI_API_KEY = env.OPENAI_API_KEY
+    ;(globalThis as any).GEMINI_API_KEY = env.GEMINI_API_KEY
     return handleRequest(request)
   },
 }

@@ -1,0 +1,246 @@
+/**
+ * BuffettKnowledge AI Ask API
+ * Cloudflare Pages Function (runs on the edge)
+ *
+ * Endpoint: POST /api/ask
+ * Requires: GEMINI_API_KEY in Cloudflare Pages environment variables
+ *
+ * Free tier: Gemini 1.5 Flash
+ *   - 15 requests/minute
+ *   - 1500 requests/day
+ */
+
+// ────────────────────────────────────────────────────────────
+// Types
+// ────────────────────────────────────────────────────────────
+
+interface AskRequest {
+  question: string
+  conversationHistory?: Array<{ role: string; content: string }>
+}
+
+interface SourceRef {
+  type: string
+  slug: string
+  title: string
+  year?: number
+  url: string
+}
+
+interface AskResponse {
+  answer: string
+  sources: SourceRef[]
+  error?: string
+}
+
+interface PagesFunctionEnv {
+  GEMINI_API_KEY: string
+}
+
+// ────────────────────────────────────────────────────────────
+// In-memory search index
+// ────────────────────────────────────────────────────────────
+
+const LETTERS_DATA = [
+  { slug: '1957-partnership-letter', year: 1957, title: 'The First Year - 1957', summary: 'Warren Buffett 1957 letter discussing partnership performance and market conditions.' },
+  { slug: '1962-partnership-letter', year: 1962, title: 'The Turnaround Year - 1962', summary: 'Partnership letter discussing American Express investment and market decline opportunities.' },
+  { slug: '1977-berkshire-letter', year: 1977, title: 'The Owner Earnings Letter - 1977', summary: 'First letter introducing the concept of "economic moat" and owner earnings.' },
+  { slug: '1985-berkshire-letter', year: 1985, title: 'The Textile Exit - 1985', summary: 'Buffett explains why he exited the textile business and the importance of capital allocation.' },
+  { slug: '1987-berkshire-letter', year: 1987, title: 'The Crash Year - 1987', summary: 'Black Monday analysis and why the market crash did not change long-term prospects.' },
+  { slug: '1988-berkshire-letter', year: 1988, title: 'The Coca-Cola Investment - 1988', summary: 'Major Coca-Cola investment announced at $592.5 million. Discusses brand value and franchise moat.' },
+  { slug: '1996-berkshire-letter', year: 1996, title: 'The Derivatives Warning - 1996', summary: 'First detailed warning about derivatives and their systemic risks to the financial system.' },
+  { slug: '2008-berkshire-letter', year: 2008, title: 'The Financial Crisis - 2008', summary: '"Buy American. I am." Famous letter written during financial crisis.' },
+  { slug: '2014-berkshire-letter', year: 2014, title: 'The American Tailwind - 2014', summary: 'Celebrates America\'s economic dynamism and compound interest over 200 years.' },
+  { slug: '2020-berkshire-letter', year: 2020, title: 'The Pandemic Year - 2020', summary: 'COVID-19 impact on Berkshire and businesses. Discusses resilience and long-term thinking.' },
+  { slug: '2022-berkshire-letter', year: 2022, title: 'The Berkshire Annual Meeting - 2022', summary: 'Discussion of Berkshire Hathaway business structure and shareholder letter tradition.' },
+  { slug: '2023-berkshire-letter', year: 2023, title: 'The Buybacks & Capital Allocation - 2023', summary: 'Explains Berkshire\'s stock buyback philosophy and capital allocation framework.' },
+  { slug: '2024-berkshire-letter', year: 2024, title: 'The Charlie Tribute - 2024', summary: 'Tribute to Charlie Munger, partner and vice chairman. Discusses their 50+ year partnership.' },
+  { slug: '2025-berkshire-letter', year: 2025, title: 'The Farewell Letter - 2025', summary: 'Farewell letter discussing Berkshire Hathaway journey and America\'s economic future.' },
+]
+
+const CONCEPTS_DATA = [
+  { slug: 'intrinsic-value', name: 'Intrinsic Value', definition: 'The discounted value of the cash that can be taken out of a business during its remaining life.', passages: ['The intrinsic value is an estimate rather than a precise figure'] },
+  { slug: 'margin-of-safety', name: 'Margin of Safety', definition: 'Only buying securities when market price is significantly below intrinsic value.', passages: ['Margin of safety allows for errors in calculation'] },
+  { slug: 'economic-moat', name: 'Economic Moat', definition: 'Sustainable competitive advantage allowing high returns on capital for long periods.', passages: ['A durable competitive advantage is the moat'] },
+  { slug: 'owner-earnings', name: 'Owner Earnings', definition: 'Net income plus depreciation minus capital expenditures needed to maintain position.', passages: ['Owner earnings are the true measure of profitability'] },
+  { slug: 'circle-of-competence', name: 'Circle of Competence', definition: 'Area around investors genuine expertise where they can evaluate with confidence.', passages: ['Know what you know and what you dont know'] },
+  { slug: 'free-cash-flow', name: 'Free Cash Flow', definition: 'Cash generated after all operating expenses and capital investments.', passages: ['Cash machine vs cash consumer'] },
+  { slug: 'float', name: 'Float', definition: 'Insurance float: premiums collected but not yet paid out in claims.', passages: ['Float is essentially free money we hold'] },
+  { slug: 'franchise', name: 'Franchise', definition: 'Business with pricing power granted by brand, patent, or monopoly status.', passages: ['Franchise businesses have durable competitive advantages'] },
+]
+
+const COMPANIES_DATA = [
+  { slug: 'coca-cola', name: 'Coca-Cola', industry: 'Beverages', keyPoints: ['$592.5M investment in 1988', 'Brand value and global franchise'] },
+  { slug: 'geico', name: 'GEICO', industry: 'Insurance', keyPoints: ['Acquired 1996 for $2.3B', 'Direct-to-consumer insurance model'] },
+  { slug: 'berkshire-hathaway', name: 'Berkshire Hathaway', industry: 'Conglomerate', keyPoints: ['Textile company turned investment conglomerate', 'Insurance Float is core'] },
+  { slug: 'apple', name: 'Apple', industry: 'Technology', keyPoints: ['Began accumulating 2016', 'Consumer brand with pricing power'] },
+  { slug: 'american-express', name: 'American Express', industry: 'Financial Services', keyPoints: ['Major partnership investment 1960s', 'Franchise business with pricing power'] },
+]
+
+// ────────────────────────────────────────────────────────────
+// Search
+// ────────────────────────────────────────────────────────────
+
+function search(query: string) {
+  const q = query.toLowerCase()
+  const results: Array<{ type: string; slug: string; title: string; context: string; score: number }> = []
+
+  LETTERS_DATA.forEach((letter) => {
+    let score = 0
+    if (letter.title.toLowerCase().includes(q)) score += 3
+    if (letter.summary.toLowerCase().includes(q)) score += 2
+    if (q.includes(letter.year.toString())) score += 2
+    if (score > 0) {
+      results.push({ type: 'letter', slug: letter.slug, title: letter.title, context: letter.summary, score })
+    }
+  })
+
+  CONCEPTS_DATA.forEach((concept) => {
+    let score = 0
+    if (concept.name.toLowerCase().includes(q)) score += 3
+    if (concept.definition.toLowerCase().includes(q)) score += 2
+    concept.passages.forEach((p) => { if (p.toLowerCase().includes(q)) score += 1 })
+    if (score > 0) {
+      results.push({ type: 'concept', slug: concept.slug, title: concept.name, context: concept.definition, score })
+    }
+  })
+
+  COMPANIES_DATA.forEach((company) => {
+    let score = 0
+    if (company.name.toLowerCase().includes(q)) score += 3
+    company.keyPoints.forEach((p) => { if (p.toLowerCase().includes(q)) score += 1 })
+    if (score > 0) {
+      results.push({ type: 'company', slug: company.slug, title: company.name, context: `${company.industry}: ${company.keyPoints.join('. ')}`, score })
+    }
+  })
+
+  return results.sort((a, b) => b.score - a.score).slice(0, 5)
+}
+
+function buildContext(query: string): string {
+  const results = search(query)
+  if (results.length === 0) return ''
+  const sections: string[] = ['Based on Warren Buffett shareholder letters:\n']
+  results.forEach((r) => {
+    sections.push(`${r.type === 'letter' ? 'Letter' : r.type === 'concept' ? 'Concept' : 'Company'}: ${r.title}`)
+    sections.push(r.context)
+    sections.push('')
+  })
+  return sections.join('\n')
+}
+
+// ────────────────────────────────────────────────────────────
+// Gemini API
+// ────────────────────────────────────────────────────────────
+
+async function generateAnswer(question: string, context: string, apiKey: string): Promise<string> {
+  const systemPrompt = `You are an AI assistant specialized in Warren Buffett and Berkshire Hathaway shareholder letters. You help users understand Buffett's investment philosophy, business principles, and wisdom as expressed in his letters to shareholders.
+
+Guidelines:
+- Answer based on the provided context from Buffett letters
+- Be conversational but informed
+- Reference specific letters or years when relevant
+- If you don't have enough context, say so honestly
+- Never make up specific quotes or facts not in the provided context
+- Keep answers focused and practical`
+
+  const userPrompt = context
+    ? `${context}\n\nUser question: ${question}`
+    : `User question: ${question}\n\nNote: I don't have specific context about this topic in Buffett's letters.`
+
+  const response = await fetch(
+    `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${apiKey}`,
+    {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        contents: [{ parts: [{ text: `${systemPrompt}\n\n${userPrompt}` }] }],
+        generationConfig: { temperature: 0.7, maxOutputTokens: 500 },
+      }),
+    }
+  )
+
+  if (!response.ok) {
+    const error = await response.text()
+    throw new Error(`Gemini API error: ${response.status} - ${error}`)
+  }
+
+  const data = await response.json()
+  return data.candidates?.[0]?.content?.parts?.[0]?.text || 'I could not generate an answer.'
+}
+
+// ────────────────────────────────────────────────────────────
+// Handler
+// ────────────────────────────────────────────────────────────
+
+export async function onRequestPost(context: { request: Request; env: PagesFunctionEnv }) {
+  const { request, env } = context
+
+  const corsHeaders = {
+    'Access-Control-Allow-Origin': '*',
+    'Access-Control-Allow-Methods': 'POST, OPTIONS',
+    'Access-Control-Allow-Headers': 'Content-Type',
+  }
+
+  try {
+    const apiKey = env.GEMINI_API_KEY
+    if (!apiKey) {
+      return new Response(
+        JSON.stringify({ error: 'Gemini API key not configured.' }),
+        { status: 500, headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
+      )
+    }
+
+    let body: AskRequest
+    try {
+      body = await request.json()
+    } catch {
+      return new Response(
+        JSON.stringify({ error: 'Invalid JSON in request body.' }),
+        { status: 400, headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
+      )
+    }
+
+    const { question } = body
+    if (!question || typeof question !== 'string' || question.trim().length < 2) {
+      return new Response(
+        JSON.stringify({ error: 'Please provide a valid question (at least 2 characters).' }),
+        { status: 400, headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
+      )
+    }
+
+    const ctx = buildContext(question)
+    const answer = await generateAnswer(question, ctx, apiKey)
+
+    const searchResults = search(question)
+    const sources: SourceRef[] = searchResults.map((r) => {
+      let url = ''
+      if (r.type === 'letter') url = `/letters/${r.slug}/`
+      else if (r.type === 'concept') url = `/concepts/${r.slug}/`
+      else if (r.type === 'company') url = `/companies/${r.slug}/`
+      const letterData = r.type === 'letter' ? LETTERS_DATA.find((l) => l.slug === r.slug) : null
+      return { type: r.type, slug: r.slug, title: r.title, year: letterData?.year, url }
+    })
+
+    return new Response(JSON.stringify({ answer, sources }), {
+      status: 200,
+      headers: { ...corsHeaders, 'Content-Type': 'application/json' },
+    })
+  } catch (error) {
+    console.error('Error:', error)
+    return new Response(
+      JSON.stringify({ error: 'An error occurred while processing your question.' }),
+      { status: 500, headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
+    )
+  }
+}
+
+export async function onRequestOptions() {
+  return new Response(null, {
+    headers: {
+      'Access-Control-Allow-Origin': '*',
+      'Access-Control-Allow-Methods': 'POST, OPTIONS',
+      'Access-Control-Allow-Headers': 'Content-Type',
+    },
+  })
+}
