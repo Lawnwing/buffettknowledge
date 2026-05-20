@@ -6982,91 +6982,133 @@ export const berkshireLetters: Letter[] = [
     date: '1971-02-01',
     summary:
       "1971 was a pivotal year as Buffett fully took control of Berkshire. The textile business showed mixed results while insurance operations began to contribute meaningfully. This marked the beginning of Berkshire's transformation from a struggling textile company to an investment powerhouse.",
-        fullText: `Berkshire Hathaway Letter 1971
+        fullText: `<h2>Berkshire Hathaway Letter 1971</h2>
 
-To the Stockholders of Berkshire Hathaway Inc.:
+<p>To the Stockholders of Berkshire Hathaway Inc.:</p>
 
-It is a pleasure to report that operating earnings in 1971, excluding capital gains, amounted to
-more than 14% of beginning shareholders ’ equity. This result—considerably above the average of American industry—was achieved in the face of inadequate earnings in our textile operation, making clear the benefits of redeployment of capital inaugurated five years ago. It will continue to be the objective of management to improve return on total capitalization (long term debt plus equity), as well as the return on equity capital. However, it should be realized that merely
-maintaining the present relatively high rate of return may well prove more difficult than was
-improvement from the very low levels of return which prevailed throughout most of the 1960’s.
+<p>It is a pleasure to report that operating earnings in 1971, excluding capital gains, amounted to</p>
 
-Textile Operations
+<p>more than 14% of beginning shareholders ’ equity. This result—considerably above the average of American industry—was achieved in the face of inadequate earnings in our textile operation, making clear the benefits of redeployment of capital inaugurated five years ago. It will continue to be the objective of management to improve return on total capitalization (long term debt plus equity), as well as the return on equity capital. However, it should be realized that merely</p>
 
-We, in common with most of the textile industry, continued to struggle throughout 1971 with
-inadequate gross margins. Strong efforts to hammer down costs and a continuous search for less price-sensitive fabrics produced only marginal profits. However, without these efforts we would have operated substantially in the red. Employment was more stable throughout the year as our program to improve control of inventories achieved reasonable success.
+<p>maintaining the present relatively high rate of return may well prove more difficult than was</p>
 
-As mentioned last year, Ken Chace and his management group have been swimming against a
-strong industry tide. This negative environment has only caused them to intensify their efforts.
-Currently we are witnessing a mild industry pickup which we intend to maximize with our
-greatly strengthened sales force. With the improvement now seen in volume and mix of business, we would expect better profitability—although not of a dramatic nature—from our textile
-operation in 1972.
+<p>improvement from the very low levels of return which prevailed throughout most of the 1960’s.</p>
 
-Insurance Operations
+<h3>Textile Operations</h3>
 
-An unusual combination offactors—reduced auto accident frequency, sharply higher effective
-rates in large volume lines, and the absence of major catastrophes—produced an extraordinarily good year for the property and casualty insurance industry. We shared in these benefits, although they are not without their negative connotations.
+<p>We, in common with most of the textile industry, continued to struggle throughout 1971 with</p>
 
-Our traditional business—and still our largest segment—is in the specialized policy or non-
-standard insured. When standard markets become tight because of unprofitable industry
-underwriting, we experience substantial volume increases as producers look to us. This was the condition several years ago, and largely accounts for the surge of direct volume experienced in 1970 and 1971. Now that underwriting has turned very profitable on an industry-wide basis,
-more companies are seeking the insureds they were rejecting a short while back and rates are
-being cut in some areas. We continue to have underwriting profitability as our primary goal and this may well mean a substantial decrease in National Indemnity’s direct volume during 1972.  Jack Ringwalt and Phil Liesche continue to guide this operation in a manner matched by very
-few in the business.
+<p>inadequate gross margins. Strong efforts to hammer down costs and a continuous search for less price-sensitive fabrics produced only marginal profits. However, without these efforts we would have operated substantially in the red. Employment was more stable throughout the year as our program to improve control of inventories achieved reasonable success.</p>
 
-Our reinsurance business, which has been developed to a substantial operation in just two years by the outstanding efforts of George Young, faces much the same situation. We entered the
-reinsurance business late in 1969 at a time when rates had risen substantially and capacity was
-tight. The reinsurance industry was exceptionally profitable in 1971, and we are now seeing rate- cutting as well as the formation of well-capitalized aggressive new competitors. These lower
-rates are frequently accompanied by greater exposure. Against this background we expect to see our business curtailed somewhat in 1972. We set no volume goals in our insurance business
-generally—and certainly not in reinsurance—as virtually any volume can be achieved if
-profitability standards are ignored. When catastrophes occur and underwriting experience sours, we plan to have the resources available to handle the increasing volume which we will then
-expect to be available at proper prices.
+<p>As mentioned last year, Ken Chace and his management group have been swimming against a</p>
 
-We inaugurated our “home-state” insurance operation in 1970 by the formation of Cornhusker
-Casualty Company. To date, this has worked well from both a marketing and an underwriting
-standpoint. We have therefore further developed this approach by the formation of Lakeland Fire & Casualty Company in Minnesota during 1971, and Texas United Insurance in 1972. Each of
-these companies will devote its entire efforts to a single state seeking to bring the agents and
-insureds ofits area a combination of large company capability and small company accessibility and sensitivity. John Ringwalt has been in overall charge of this operation since inception.
-Combining hard work with imagination and intelligence, he has transformed an idea into a well organized business. The “home-state” companies are still very small, accounting for a little over $1.5 million in premium volume during 1971. It looks as though this volume will more than
-double in 1972 and we will develop a more creditable base upon which to evaluate underwriting performance.
+<p>strong industry tide. This negative environment has only caused them to intensify their efforts.</p>
 
-A highlight of 1971 was the acquisition of Home & Automobile Insurance Company, located in Chicago. This company was built by Victor Raab from a small initial investment into a major
-auto insurer in Cook County, writing about $7.5 million in premium volume during 1971. Vic is cut from the same cloth as Jack Ringwalt and Gene Abegg, with a talent for operating profitably accompanied by enthusiasm for his business. These three men have built their companies from  scratch and, after selling their ownership position for cash, retain every bit of the proprietary
-interest and pride that they have always had.
+<p>Currently we are witnessing a mild industry pickup which we intend to maximize with our</p>
 
-While Vic has multiplied the original equity of Home & Auto many times since its founding, his ideas and talents have always been circumscribed by his capital base. We have added capital
-funds to the company, which will enable it to establish branch operations extending its highly- concentrated and on-the-spot marketing and claims approach to other densely populated areas.
+<p>greatly strengthened sales force. With the improvement now seen in volume and mix of business, we would expect better profitability—although not of a dramatic nature—from our textile</p>
 
-All in all, it is questionable whether volume added by Home & Auto, plus the “home-state”
-business in 1972, will offset possible declines in direct and reinsurance business of National
-Indemnity Company. However, our large volume gains in 1970 and 1971 brought in additional  funds for investment at a time of high interest rates, which will be of continuing benefit in future years. Thus, despite the unimpressive prospects regarding premium volume, the outlook for
-investment income and overall earnings from insurance in 1972 is reasonably good.
+<p>operation in 1972.</p>
 
-Banking Operations
+<p>Insurance Operations</p>
 
-Our banking subsidiary, The Illinois National Bank & Trust Company, continued to lead its
-industry as measured by earnings as a percentage of deposits. In 1971, Illinois National earned
-well over 2% after tax on average deposits while (1) not using borrowed funds except for very
-occasional reserve balancing transactions; (2) maintaining a liquidity position far above average; (3) recording loan losses far below average; and (4) utilizing a mix of over 50% time deposits
-with all consumer savings accounts receiving maximum permitted interest rates throughout the year. This reflects a superb management job by Gene Abegg and Bob Kline.
+<p>An unusual combination offactors—reduced auto accident frequency, sharply higher effective</p>
 
-Interest rates received on loans and investments were down substantially throughout the banking industry during 1971. In the last few years, Illinois National’s mix of deposits has moved
-considerably more than the industry average away from demand money to much more expensive time money. For example, interest paid on deposits has gone from under $1.7 million in 1969 to over $2.7 million in 1971. Nevertheless, the unusual profitability of the Bank has been
-maintained. Marketing efforts were intensified during the year, with excellent results.
+<p>rates in large volume lines, and the absence of major catastrophes—produced an extraordinarily good year for the property and casualty insurance industry. We shared in these benefits, although they are not without their negative connotations.</p>
 
-With interest rates even lower now than in 1971, the banking industry is going to have trouble
-achieving gains in earnings during 1972. Our deposit gains at Illinois National continue to come in the time money area, which produces only very marginal incremental income at present. It
-will take very close cost control to enable Illinois National to maintain its 1971 level of earnings during 1972.
+<p>Our traditional business—and still our largest segment—is in the specialized policy or non-</p>
 
-Financial
+<p>standard insured. When standard markets become tight because of unprofitable industry</p>
 
-Because of the volume gains being experienced by our insurance subsidiaries early in 1971, we re-cast Berkshire Hathaway’s bank loan so as to provide those companies with additional capital funds. This financing turned out to be particularly propitious when the opportunity to purchase Home & Auto occurred later in the year.
+<p>underwriting, we experience substantial volume increases as producers look to us. This was the condition several years ago, and largely accounts for the surge of direct volume experienced in 1970 and 1971. Now that underwriting has turned very profitable on an industry-wide basis,</p>
 
-Our insurance and banking subsidiaries possess a fiduciary relationship with the public. We
-retain a fundamental belief in operating from a very strongly financed position so as to be in a position to unquestionably fulfill our responsibilities. Thus, we will continue to map our
-financial future for maximum financial strength in our subsidiaries as well as at the parent company level.
+<p>more companies are seeking the insureds they were rejecting a short while back and rates are</p>
 
-Warren E. Buffett Chairman of the Board March 13, 1972`,
+<p>being cut in some areas. We continue to have underwriting profitability as our primary goal and this may well mean a substantial decrease in National Indemnity’s direct volume during 1972.  Jack Ringwalt and Phil Liesche continue to guide this operation in a manner matched by very</p>
+
+<h3>few in the business.</h3>
+
+<p>Our reinsurance business, which has been developed to a substantial operation in just two years by the outstanding efforts of George Young, faces much the same situation. We entered the</p>
+
+<p>reinsurance business late in 1969 at a time when rates had risen substantially and capacity was</p>
+
+<p>tight. The reinsurance industry was exceptionally profitable in 1971, and we are now seeing rate- cutting as well as the formation of well-capitalized aggressive new competitors. These lower</p>
+
+<p>rates are frequently accompanied by greater exposure. Against this background we expect to see our business curtailed somewhat in 1972. We set no volume goals in our insurance business</p>
+
+<p>generally—and certainly not in reinsurance—as virtually any volume can be achieved if</p>
+
+<p>profitability standards are ignored. When catastrophes occur and underwriting experience sours, we plan to have the resources available to handle the increasing volume which we will then</p>
+
+<p>expect to be available at proper prices.</p>
+
+<p>We inaugurated our “home-state” insurance operation in 1970 by the formation of Cornhusker</p>
+
+<p>Casualty Company. To date, this has worked well from both a marketing and an underwriting</p>
+
+<p>standpoint. We have therefore further developed this approach by the formation of Lakeland Fire &amp; Casualty Company in Minnesota during 1971, and Texas United Insurance in 1972. Each of</p>
+
+<p>these companies will devote its entire efforts to a single state seeking to bring the agents and</p>
+
+<p>insureds ofits area a combination of large company capability and small company accessibility and sensitivity. John Ringwalt has been in overall charge of this operation since inception.</p>
+
+<p>Combining hard work with imagination and intelligence, he has transformed an idea into a well organized business. The “home-state” companies are still very small, accounting for a little over $1.5 million in premium volume during 1971. It looks as though this volume will more than</p>
+
+<p>double in 1972 and we will develop a more creditable base upon which to evaluate underwriting performance.</p>
+
+<p>A highlight of 1971 was the acquisition of Home &amp; Automobile Insurance Company, located in Chicago. This company was built by Victor Raab from a small initial investment into a major</p>
+
+<p>auto insurer in Cook County, writing about $7.5 million in premium volume during 1971. Vic is cut from the same cloth as Jack Ringwalt and Gene Abegg, with a talent for operating profitably accompanied by enthusiasm for his business. These three men have built their companies from  scratch and, after selling their ownership position for cash, retain every bit of the proprietary</p>
+
+<p>interest and pride that they have always had.</p>
+
+<p>While Vic has multiplied the original equity of Home &amp; Auto many times since its founding, his ideas and talents have always been circumscribed by his capital base. We have added capital</p>
+
+<p>funds to the company, which will enable it to establish branch operations extending its highly- concentrated and on-the-spot marketing and claims approach to other densely populated areas.</p>
+
+<p>All in all, it is questionable whether volume added by Home &amp; Auto, plus the “home-state”</p>
+
+<p>business in 1972, will offset possible declines in direct and reinsurance business of National</p>
+
+<p>Indemnity Company. However, our large volume gains in 1970 and 1971 brought in additional  funds for investment at a time of high interest rates, which will be of continuing benefit in future years. Thus, despite the unimpressive prospects regarding premium volume, the outlook for</p>
+
+<p>investment income and overall earnings from insurance in 1972 is reasonably good.</p>
+
+<h3>Banking Operations</h3>
+
+<p>Our banking subsidiary, The Illinois National Bank &amp; Trust Company, continued to lead its</p>
+
+<p>industry as measured by earnings as a percentage of deposits. In 1971, Illinois National earned</p>
+
+<p>well over 2% after tax on average deposits while (1) not using borrowed funds except for very</p>
+
+<p>occasional reserve balancing transactions; (2) maintaining a liquidity position far above average; (3) recording loan losses far below average; and (4) utilizing a mix of over 50% time deposits</p>
+
+<p>with all consumer savings accounts receiving maximum permitted interest rates throughout the year. This reflects a superb management job by Gene Abegg and Bob Kline.</p>
+
+<p>Interest rates received on loans and investments were down substantially throughout the banking industry during 1971. In the last few years, Illinois National’s mix of deposits has moved</p>
+
+<p>considerably more than the industry average away from demand money to much more expensive time money. For example, interest paid on deposits has gone from under $1.7 million in 1969 to over $2.7 million in 1971. Nevertheless, the unusual profitability of the Bank has been</p>
+
+<p>maintained. Marketing efforts were intensified during the year, with excellent results.</p>
+
+<p>With interest rates even lower now than in 1971, the banking industry is going to have trouble</p>
+
+<p>achieving gains in earnings during 1972. Our deposit gains at Illinois National continue to come in the time money area, which produces only very marginal incremental income at present. It</p>
+
+<p>will take very close cost control to enable Illinois National to maintain its 1971 level of earnings during 1972.</p>
+
+<h3>Financial</h3>
+
+<p>Because of the volume gains being experienced by our insurance subsidiaries early in 1971, we re-cast Berkshire Hathaway’s bank loan so as to provide those companies with additional capital funds. This financing turned out to be particularly propitious when the opportunity to purchase Home &amp; Auto occurred later in the year.</p>
+
+<p>Our insurance and banking subsidiaries possess a fiduciary relationship with the public. We</p>
+
+<p>retain a fundamental belief in operating from a very strongly financed position so as to be in a position to unquestionably fulfill our responsibilities. Thus, we will continue to map our</p>
+
+<p>financial future for maximum financial strength in our subsidiaries as well as at the parent company level.</p>
+
+<p>Warren E. Buffett Chairman of the Board March 13, 1972</p>`,
 
     concepts: ['intrinsic-value', 'moat', 'compounding', 'owner-earnings'],
     companies: ['berkshire-hathaway'],
@@ -7085,97 +7127,143 @@ Warren E. Buffett Chairman of the Board March 13, 1972`,
     date: '1972-02-01',
     summary:
       "1972 saw improved performance across Berkshire's operations. Insurance underwriting benefited from favorable market conditions. The investment portfolio showed gains while Buffett continued to look for acquisition opportunities.",
-        fullText: `Ber kshire Hathaway Letter 1972
+        fullText: `<h2>Ber kshire Hathaway Letter 1972</h2>
 
-To the Stockholders of Berkshire Hathaway Inc.:
+<p>To the Stockholders of Berkshire Hathaway Inc.:</p>
 
-Operating earnings of Berkshire Hathaway during 1972 amounted to a highly satisfactory 19.8% of beginning shareholders ’ equity. Significant improvement was recorded in all of our major
-lines of business, but the most dramatic gains were in insurance underwriting profit. Due to an
-unusual convergence of favorable factors—diminishing auto accident frequency, moderating
-accident severity, and an absence of major catastrophes—underwriting profit margins achieved a level far above averages ofthe past or expectations of the future.
+<p>Operating earnings of Berkshire Hathaway during 1972 amounted to a highly satisfactory 19.8% of beginning shareholders ’ equity. Significant improvement was recorded in all of our major</p>
 
-While we anticipate a modest decrease in operating earnings during 1973, it seems clear that our diversification moves of recent years have established a significantly higher base of normal
-earning power. Your present management assumed policy control of the company in May, 1965. Eight years later, our 1972 operating earnings of $11,116,256 represent a return many-fold
-higher than would have been produced had we continued to devote our resources entirely to the textile business. At the end of the 1964 fiscal year, shareholders ’ equity totaled $22,138,753.
-Since that time, no additional equity capital has been introduced into the business, either through cash sale or through merger. On the contrary, some stock has been reacquired, reducing
-outstanding shares by 14%. The increase in book value per share from $19.46 at fiscal year-end 1964 to $69.72 at 1972 year-end amounts to about 16.5% compounded annually.
+<p>lines of business, but the most dramatic gains were in insurance underwriting profit. Due to an</p>
 
-Our three major acquisitions of recent years have all worked out exceptionally well—from both the financial and human standpoints. In all three cases, the founders were major sellers and
-received significant proceeds in cash—and, in all three cases, the same individuals, Jack
-Ringwalt, Gene Abegg and Vic Raab, have continued to run the businesses with undiminished energy and imagination which have resulted in further improvement of the fine records
-previously established.
+<p>unusual convergence of favorable factors—diminishing auto accident frequency, moderating</p>
 
-We will continue to search for logical extensions ofour present operations, and also for new operations which will allow us to continue to employ our capital effectively.
-Textile Operations
+<p>accident severity, and an absence of major catastrophes—underwriting profit margins achieved a level far above averages ofthe past or expectations of the future.</p>
 
-As predicted in last year’s annual report, the textile industry experienced a pickup in 1972. In recent years, Ken Chace and Ralph Rigby have developed an outstanding sales organization
-enjoying a growing reputation for service and reliability. Manufacturing capabilities have been restructured to complement our sales strengths.
+<p>While we anticipate a modest decrease in operating earnings during 1973, it seems clear that our diversification moves of recent years have established a significantly higher base of normal</p>
 
-Helped by the industry recovery, we experienced some payoff from these efforts in 1972.
-Inventories were controlled, minimizing close-out losses in addition to minimizing capital
-requirements; product mix was greatly improved. While the general level of profitability of the industry will always be the primary factor in determining the level of our textile earnings, we believe that our relative position within the industry has noticeably improved. The outlook for 1973 is good.
+<p>earning power. Your present management assumed policy control of the company in May, 1965. Eight years later, our 1972 operating earnings of $11,116,256 represent a return many-fold</p>
 
-Insurance Underwriting
+<p>higher than would have been produced had we continued to devote our resources entirely to the textile business. At the end of the 1964 fiscal year, shareholders ’ equity totaled $22,138,753.</p>
 
-Our exceptional underwriting profits during 1972 in the large traditional area of our insurance business at National Indemnity present a paradox. They served to swell substantially total
-corporate profits for 1972, but the factors which produced such profits induced exceptional
-amounts of new competition at what we believe to be a non-compensatory level of rates. Over- all, we probably would have retained better prospects for the next five years if profits had not  risen so dramatically this year.
+<p>Since that time, no additional equity capital has been introduced into the business, either through cash sale or through merger. On the contrary, some stock has been reacquired, reducing</p>
 
-Substantial new competition was forecast in our annual report for last year and we experienced
-in 1972 the decline in premium volume that we stated such competition implied. Our belief is
-that industry underwriting profit margins will narrow substantially in 1973 or 1974 and, in time, this may produce an environment in which our historical growth can be resumed. Unfortunately, there is a lag between deterioration of underwriting results and tempering of competition. During this period we expect to continue to have negative volume comparisons in our traditional
-operation. Our seasoned management, headed by Jack Ringwalt and Phil Liesche, will continue to underwrite to produce a profit, although not at the level of 1972, and base our rates on long-
-term expectations rather than short-term hopes. Although this approach has meant dips in volume from time to time in the past, it has produced excellent long-term results.
+<p>outstanding shares by 14%. The increase in book value per share from $19.46 at fiscal year-end 1964 to $69.72 at 1972 year-end amounts to about 16.5% compounded annually.</p>
 
-Also as predicted in last year’s report, our reinsurance division experienced many of the same
-competitive factors in 1972. A multitude of new organizations entered what has historically been a rather small field, and rates were often cut substantially, and we believe unsoundly, particularly in the catastrophe area. The past year turned out to be unusually free of catastrophes and our
-underwriting experience was good.
+<p>Our three major acquisitions of recent years have all worked out exceptionally well—from both the financial and human standpoints. In all three cases, the founders were major sellers and</p>
 
-George Young has built a substantial and profitable reinsurance operation in just a few years. In the longer term we plan to be a very major factor in the reinsurance field, but an immediate
-expansion of volume is not sensible against a background of deteriorating rates. In our view,
-underwriting exposures are greater than ever. When the loss potential inherent in such exposures becomes an actuality, repricing will take place which should give us a chance to expand
-significantly.
+<p>received significant proceeds in cash—and, in all three cases, the same individuals, Jack</p>
 
-In the “home state” operation, our oldest and largest such company, Cornhusker Casualty
-Company, operating in Nebraska only, achieved good underwriting results. In the second full year, the home state marketing appeal has been proven with the attainment of volume on the
-order of one-third of that achieved by “old line” giants who have operated in the state for many decades.
-Our two smaller companies, in Minnesota and Texas, had unsatisfactory loss ratios on very small volume. The home state managements understand that underwriting profitably is the yardstick of success and that operations can only be expanded significantly when it is clear that we are doing the right job in the underwriting area. Expense ratios at the new companies are also high, but that is to be expected when they are in the development stage.
+<p>Ringwalt, Gene Abegg and Vic Raab, have continued to run the businesses with undiminished energy and imagination which have resulted in further improvement of the fine records</p>
 
-John Ringwalt has done an excellent job of launching this operation, and plans to expand into at least one additional state during 1973. While there is much work yet to be done, the home state operation appears to have major long-range potential.
+<h3>previously established.</h3>
 
-Last year it was reported that we had acquired Home and Automobile Insurance Company of
-Chicago. We felt good about the acquisition at the time, and we feel even better now. Led by Vic Raab, this company continued its excellent record in 1972. During 1973 we expect to enter the
-Florida (Dade County) and California (Los Angeles) markets with the same sort of specialized urban auto coverage which Home and Auto has practiced so successfully in Cook County. Vic has the managerial capacity to run a much larger operation. Our expectation is that Home and Auto will expand significantly within a few years.
-Insurance Investment Results
-We were most fortunate to experience dramatic gains in premium volume from 1969 to 1971
-coincidental with virtually record-high interest rates. Large amounts of investable funds were   thus received at a time when they could be put to highly advantageous use. Most of these funds were placed in tax-exempt bonds and our investment income, which has increased from
-$2,025,201 in 1969 to $6,755,242 in 1972, is subject to a low effective tax rate.
+<p>We will continue to search for logical extensions ofour present operations, and also for new operations which will allow us to continue to employ our capital effectively.</p>
 
-Our bond portfolio possesses unusually good call protection, and we will benefit for many years to come from the high average yield of the present portfolio. The lack of current premium
-growth, however, will moderate substantially the growth in investment income during the next several years.
-Banking Operations
+<h3>Textile Operations</h3>
 
-Our banking subsidiary, The Illinois Bank and Trust Co. of Rockford, maintained its position of industry leadership in profitability. After-tax earnings of 2.2% on average deposits in 1972 are
-the more remarkable when evaluated against such moderating factors as: (1) a mix of 50% time deposits heavily weighted toward consumer savings instruments, all paying the maximum rates permitted by law; (2) an unvaryingly strong liquid position and avoidance of money-market
-borrowings; (3) a loan policy which has produced a net charge-off ratio in the last two years of about 5% of that of the average commercial bank. This record is a direct tribute to the leadership of Gene Abegg and Bob Kline who run a bank where the owners and the depositors can both eat well and sleep well.
+<p>As predicted in last year’s annual report, the textile industry experienced a pickup in 1972. In recent years, Ken Chace and Ralph Rigby have developed an outstanding sales organization</p>
 
-During 1972, interest paid to depositors was double the amount paid in 1969. We have
-aggressively sought consumer time deposits, but have not pushed for large “money market” certificates of deposit although, during the past several years, they have generally been a less costly source of time funds.
+<p>enjoying a growing reputation for service and reliability. Manufacturing capabilities have been restructured to complement our sales strengths.</p>
 
-During the past year, loans to our customers expanded approximately 38%. This is considerably more than indicated by the enclosed balance sheet which includes $10.9 million in short-term
-commercial paper in the 1971 loan total, but which has no such paper included at the end of 1972.
+<p>Helped by the industry recovery, we experienced some payoff from these efforts in 1972.</p>
 
-Our position as “Rockford’s Leading Bank” was enhanced during 1972. Present rate structures, a decrease in investable funds due to new Federal Reserve collection procedures, and a probable
-increase in already substantial non-federal taxes make it unlikely that Illinois National will be able to increase its earnings during 1973.
-Financial
-On March 15, 1973, Berkshire Hathaway borrowed $20 million at 8% from twenty institutional lenders. This loan is due March 1, 1993, with principal repayments beginning March 1, 1979.
-From the proceeds, $9 million was used to repay our bank loan and the balance is being invested in insurance subsidiaries. Periodically, we expect that there will be opportunities to achieve
-significant expansion in our insurance business and we intend to have the financial resources available to maximize such opportunities.
+<p>Inventories were controlled, minimizing close-out losses in addition to minimizing capital</p>
 
-Our subsidiaries in banking and insurance have major fiduciary responsibilities to their
-customers. In these operations we maintain capital strength far above industry norms, but still achieve a good level of profitability on such capital. We will continue to adhere to the former objective and make every effort to continue to maintain the latter.
+<p>requirements; product mix was greatly improved. While the general level of profitability of the industry will always be the primary factor in determining the level of our textile earnings, we believe that our relative position within the industry has noticeably improved. The outlook for 1973 is good.</p>
 
-Warren E. Buffett Chairman of the Board March 16, 1973`,
+<h3>Insurance Underwriting</h3>
+
+<p>Our exceptional underwriting profits during 1972 in the large traditional area of our insurance business at National Indemnity present a paradox. They served to swell substantially total</p>
+
+<p>corporate profits for 1972, but the factors which produced such profits induced exceptional</p>
+
+<p>amounts of new competition at what we believe to be a non-compensatory level of rates. Over- all, we probably would have retained better prospects for the next five years if profits had not  risen so dramatically this year.</p>
+
+<p>Substantial new competition was forecast in our annual report for last year and we experienced</p>
+
+<p>in 1972 the decline in premium volume that we stated such competition implied. Our belief is</p>
+
+<p>that industry underwriting profit margins will narrow substantially in 1973 or 1974 and, in time, this may produce an environment in which our historical growth can be resumed. Unfortunately, there is a lag between deterioration of underwriting results and tempering of competition. During this period we expect to continue to have negative volume comparisons in our traditional</p>
+
+<p>operation. Our seasoned management, headed by Jack Ringwalt and Phil Liesche, will continue to underwrite to produce a profit, although not at the level of 1972, and base our rates on long-</p>
+
+<p>term expectations rather than short-term hopes. Although this approach has meant dips in volume from time to time in the past, it has produced excellent long-term results.</p>
+
+<p>Also as predicted in last year’s report, our reinsurance division experienced many of the same</p>
+
+<p>competitive factors in 1972. A multitude of new organizations entered what has historically been a rather small field, and rates were often cut substantially, and we believe unsoundly, particularly in the catastrophe area. The past year turned out to be unusually free of catastrophes and our</p>
+
+<h3>underwriting experience was good.</h3>
+
+<p>George Young has built a substantial and profitable reinsurance operation in just a few years. In the longer term we plan to be a very major factor in the reinsurance field, but an immediate</p>
+
+<p>expansion of volume is not sensible against a background of deteriorating rates. In our view,</p>
+
+<p>underwriting exposures are greater than ever. When the loss potential inherent in such exposures becomes an actuality, repricing will take place which should give us a chance to expand</p>
+
+<h3>significantly.</h3>
+
+<p>In the “home state” operation, our oldest and largest such company, Cornhusker Casualty</p>
+
+<p>Company, operating in Nebraska only, achieved good underwriting results. In the second full year, the home state marketing appeal has been proven with the attainment of volume on the</p>
+
+<p>order of one-third of that achieved by “old line” giants who have operated in the state for many decades.</p>
+
+<p>Our two smaller companies, in Minnesota and Texas, had unsatisfactory loss ratios on very small volume. The home state managements understand that underwriting profitably is the yardstick of success and that operations can only be expanded significantly when it is clear that we are doing the right job in the underwriting area. Expense ratios at the new companies are also high, but that is to be expected when they are in the development stage.</p>
+
+<p>John Ringwalt has done an excellent job of launching this operation, and plans to expand into at least one additional state during 1973. While there is much work yet to be done, the home state operation appears to have major long-range potential.</p>
+
+<p>Last year it was reported that we had acquired Home and Automobile Insurance Company of</p>
+
+<p>Chicago. We felt good about the acquisition at the time, and we feel even better now. Led by Vic Raab, this company continued its excellent record in 1972. During 1973 we expect to enter the</p>
+
+<p>Florida (Dade County) and California (Los Angeles) markets with the same sort of specialized urban auto coverage which Home and Auto has practiced so successfully in Cook County. Vic has the managerial capacity to run a much larger operation. Our expectation is that Home and Auto will expand significantly within a few years.</p>
+
+<h3>Insurance Investment Results</h3>
+
+<p>We were most fortunate to experience dramatic gains in premium volume from 1969 to 1971</p>
+
+<p>coincidental with virtually record-high interest rates. Large amounts of investable funds were   thus received at a time when they could be put to highly advantageous use. Most of these funds were placed in tax-exempt bonds and our investment income, which has increased from</p>
+
+<p>$2,025,201 in 1969 to $6,755,242 in 1972, is subject to a low effective tax rate.</p>
+
+<p>Our bond portfolio possesses unusually good call protection, and we will benefit for many years to come from the high average yield of the present portfolio. The lack of current premium</p>
+
+<p>growth, however, will moderate substantially the growth in investment income during the next several years.</p>
+
+<h3>Banking Operations</h3>
+
+<p>Our banking subsidiary, The Illinois Bank and Trust Co. of Rockford, maintained its position of industry leadership in profitability. After-tax earnings of 2.2% on average deposits in 1972 are</p>
+
+<p>the more remarkable when evaluated against such moderating factors as: (1) a mix of 50% time deposits heavily weighted toward consumer savings instruments, all paying the maximum rates permitted by law; (2) an unvaryingly strong liquid position and avoidance of money-market</p>
+
+<p>borrowings; (3) a loan policy which has produced a net charge-off ratio in the last two years of about 5% of that of the average commercial bank. This record is a direct tribute to the leadership of Gene Abegg and Bob Kline who run a bank where the owners and the depositors can both eat well and sleep well.</p>
+
+<p>During 1972, interest paid to depositors was double the amount paid in 1969. We have</p>
+
+<p>aggressively sought consumer time deposits, but have not pushed for large “money market” certificates of deposit although, during the past several years, they have generally been a less costly source of time funds.</p>
+
+<p>During the past year, loans to our customers expanded approximately 38%. This is considerably more than indicated by the enclosed balance sheet which includes $10.9 million in short-term</p>
+
+<p>commercial paper in the 1971 loan total, but which has no such paper included at the end of 1972.</p>
+
+<p>Our position as “Rockford’s Leading Bank” was enhanced during 1972. Present rate structures, a decrease in investable funds due to new Federal Reserve collection procedures, and a probable</p>
+
+<p>increase in already substantial non-federal taxes make it unlikely that Illinois National will be able to increase its earnings during 1973.</p>
+
+<h3>Financial</h3>
+
+<p>On March 15, 1973, Berkshire Hathaway borrowed $20 million at 8% from twenty institutional lenders. This loan is due March 1, 1993, with principal repayments beginning March 1, 1979.</p>
+
+<p>From the proceeds, $9 million was used to repay our bank loan and the balance is being invested in insurance subsidiaries. Periodically, we expect that there will be opportunities to achieve</p>
+
+<p>significant expansion in our insurance business and we intend to have the financial resources available to maximize such opportunities.</p>
+
+<p>Our subsidiaries in banking and insurance have major fiduciary responsibilities to their</p>
+
+<p>customers. In these operations we maintain capital strength far above industry norms, but still achieve a good level of profitability on such capital. We will continue to adhere to the former objective and make every effort to continue to maintain the latter.</p>
+
+<p>Warren E. Buffett Chairman of the Board March 16, 1973</p>`,
 
     concepts: ['intrinsic-value', 'moat', 'compounding', 'owner-earnings'],
     companies: ['berkshire-hathaway'],
@@ -7194,108 +7282,153 @@ Warren E. Buffett Chairman of the Board March 16, 1973`,
     date: '1973-02-01',
     summary:
       "1973 was a challenging year with the market decline. Berkshire's diversified operations helped weather the storm while maintaining the investment approach. This period demonstrated the value of having businesses with strong cash generation.",
-        fullText: `Berkshire Hathaway Letter 1973
+        fullText: `<h2>Berkshire Hathaway Letter 1973</h2>
 
-To the Stockholders of Berkshire Hathaway Inc.:
+<p>To the Stockholders of Berkshire Hathaway Inc.:</p>
 
-Our financial results for 1973 were satisfactory, with operating earnings of $11,930,592,
-producing a return of 17.4% on beginning stockholders ’ equity. Although operating earnings improved from $11.43 to $12.18 per share, earnings on equity decreased from the 19.8% of
-1972. This decline occurred because the gain in earnings was not commensurate with the
-increase in shareholders’ investment. We had forecast in last year’s report that such a decline was likely. Unfortunately, our forecast proved to be correct.
+<p>Our financial results for 1973 were satisfactory, with operating earnings of $11,930,592,</p>
 
-Our textile, banking, and most insurance operations had good years, but certain segments of the insurance business turned in poor results. Overall, our insurance business continues to be a most attractive area in which to employ capital.
+<p>producing a return of 17.4% on beginning stockholders ’ equity. Although operating earnings improved from $11.43 to $12.18 per share, earnings on equity decreased from the 19.8% of</p>
 
-Management’s objective is to achieve a return on capital over the long term which averages
-somewhat higher than that of American industry generally—while utilizing sound accounting
-and debt policies. We have achieved this goal in the last few years, and are trying to take those
-steps which will enable us to maintain this performance in the future. Prospects for 1974 indicate some further decline in rate of return on our enlarged capital base.
+<p>1972. This decline occurred because the gain in earnings was not commensurate with the</p>
 
-Textile Operations
+<p>increase in shareholders’ investment. We had forecast in last year’s report that such a decline was likely. Unfortunately, our forecast proved to be correct.</p>
 
-Textile demand remained unusually strong throughout 1973. Our main problems revolved
-around shortages of fiber, which complicated operations and resulted in something less than full utilization of loom capacity. Prices of some fibers skyrocketed during the year.
+<p>Our textile, banking, and most insurance operations had good years, but certain segments of the insurance business turned in poor results. Overall, our insurance business continues to be a most attractive area in which to employ capital.</p>
 
-Cost of Living Council regulations prevented the pricing of many finished products at levels of some of our competitors. However, profits were reasonably commensurate with our capital
-investment, although below those that apparently might have been achieved had we been able to price at market levels. The textile business has been highly cyclical and price controls may have served to cut down some of the hills while still leaving us with the inevitable valleys.
+<p>Management’s objective is to achieve a return on capital over the long term which averages</p>
 
-Because of the extraordinary price rises in raw materials during 1973, which show signs of
-continuing in 1974, we have elected to adopt the “lifo” method of inventory pricing. This method more nearly matches current costs against current revenues, and minimizes inventory “profits”
-included in reported earnings. Further information on this change is included in the footnotes to our financial statements.
-Insurance Operations
+<p>somewhat higher than that of American industry generally—while utilizing sound accounting</p>
 
-During 1973, Jack Ringwalt retired as President of National Indemnity Company after an
-absolutely brilliant record since founding the business in 1940. He was succeeded by Phil
-Liesche who, fortunately for us, possesses the same underwriting and managerial philosophy that worked so well for Jack.
+<p>and debt policies. We have achieved this goal in the last few years, and are trying to take those</p>
 
-Our traditional business, specialized auto and general liability lines conducted through National Indemnity Company and National Fire and Marine Insurance Company, had an exceptionally
-fine underwriting year during 1973. We again experienced a decline in volume. Competition was intense, and we passed up the chance to match rate-cutting by more optimistic underwriters.
-There currently are faint indications that some of these competitors are learning of the
-inadequacy of their rates (and also of their loss reserves) which may result in easing of market pressures as the year develops. If so, we may again experience volume increases.
+<p>steps which will enable us to maintain this performance in the future. Prospects for 1974 indicate some further decline in rate of return on our enlarged capital base.</p>
 
-Our reinsurance operation had a somewhat similar year—good underwriting experience, but
-difficulty in maintaining previous volume levels. This operation, guided by the tireless and well- directed efforts of George Young, has been a major profit producer since its inception in 1969.
+<h3>Textile Operations</h3>
 
-Our “home state” insurance companies made excellent progress in Nebraska and Minnesota,
-with both good growth in volume and acceptable loss ratios. We began operations late in the year in Iowa. To date, our big problem has been Texas. In that state we virtually had to start over
-during 1973 as the initial management we selected proved incapable of underwriting
-successfully. The Texas experience has been expensive, and we still have our work cut out for us. Overall, however, the home state operation appears to have a promising potential.
+<p>Textile demand remained unusually strong throughout 1973. Our main problems revolved</p>
 
-Our specialized urban auto operation, Home and Automobile Insurance Company, experienced very poor underwriting in Chicago during 1973. It would appear that rates are inadequate in our primary Cook County marketing area, although the current energy situation confuses the picture. The question is whether possible lowered accident frequency because of reduced driving will
-more than offset continuing inflation in medical and repair costs, as well as jury awards. We believe that inflation will hurt us more than reduced driving will help us, but some of our
-competitors appear to believe otherwise.
+<p>around shortages of fiber, which complicated operations and resulted in something less than full utilization of loom capacity. Prices of some fibers skyrocketed during the year.</p>
 
-Home and Auto expanded into Florida and California during the year, but it is too early to know how these moves will prove out financially.
+<p>Cost of Living Council regulations prevented the pricing of many finished products at levels of some of our competitors. However, profits were reasonably commensurate with our capital</p>
 
-A contributing factor in our unsatisfactory earnings at Home and Auto during 1973 was an
-accounting system which was not bringing information to management on a sufficiently timely basis.
-On the investment side ofour insurance operation, we made substantial additional commitments in common stocks during 1973. We had significant unrealized depreciation—over $12 million— in our common stock holdings at year-end, as indicated in our financial statements. Nevertheless, we believe that our common stock portfolio at cost represents good value in terms of intrinsic
-business worth. In spite of the large unrealized loss at year-end, we would expect satisfactory results from the portfolio over the longer term.
+<p>investment, although below those that apparently might have been achieved had we been able to price at market levels. The textile business has been highly cyclical and price controls may have served to cut down some of the hills while still leaving us with the inevitable valleys.</p>
 
-Banking Operations
+<p>Because of the extraordinary price rises in raw materials during 1973, which show signs of</p>
 
-The Illinois National Bank & Trust Co. of Rockford again had a record year in 1973. Average deposits were approximately $130 million, of which approximately 60% were time deposits.
+<p>continuing in 1974, we have elected to adopt the “lifo” method of inventory pricing. This method more nearly matches current costs against current revenues, and minimizes inventory “profits”</p>
 
-Interest rates were increased substantially in the important consumer savings area when regulatory maximums were raised at mid-year.
+<p>included in reported earnings. Further information on this change is included in the footnotes to our financial statements.</p>
 
-Despite this mix heavily weighted toward interest bearing deposits, our operating earnings after taxes (including a new Illinois state income tax) were again over 2.1% of average deposits.
+<h3>Insurance Operations</h3>
 
-We continue to be the largest bank in Rockford. We continue to maintain unusual liquidity. We  continue to meet the increasing loan demands ofour customers. And we continue to maintain our unusual profitability. This is a direct tribute to the abilities of Gene Abegg, Chairman, who has
-been running the Bank since it opened its doors in 1931, and Bob Kline, our President.
+<p>During 1973, Jack Ringwalt retired as President of National Indemnity Company after an</p>
 
-Merger With Diversified Retailing Company, Inc.
+<p>absolutely brilliant record since founding the business in 1940. He was succeeded by Phil</p>
 
-Your Directors have approved the merger of Diversified Retailing Company, Inc. into Berkshire Hathaway Inc. on terms involving issuance of 195,000 shares of Berkshire stock for the
-1,000,000 shares of Diversified stock outstanding. Because Diversified and its subsidiaries own 109,551 shares of Berkshire, the net increase in the number of shares of Berkshire outstanding after giving effect to this transaction will not exceed 85,449. Various regulatory approvals must be obtained before this merger can be completed, and proxy material will be submitted to you   later this year so that you may vote upon it.
+<p>Liesche who, fortunately for us, possesses the same underwriting and managerial philosophy that worked so well for Jack.</p>
 
-Diversified Retailing Company, Inc., though subsidiaries, operates a chain of popular-priced
-women’s apparel stores and also conducts a reinsurance business. In the opinion of management, its most important asset is 16% of the stock of Blue Chip Stamps.
+<p>Our traditional business, specialized auto and general liability lines conducted through National Indemnity Company and National Fire and Marine Insurance Company, had an exceptionally</p>
 
-Blue Chip Stamps
+<p>fine underwriting year during 1973. We again experienced a decline in volume. Competition was intense, and we passed up the chance to match rate-cutting by more optimistic underwriters.</p>
 
-Our holdings of stock in Blue Chip Stamps at year-end amounted to approximately 19% of that company’s outstanding shares. Since year-end, we have increased our holdings so that they now represent approximately 22.5%: implementation of the proposed merger with Diversified
-Retailing Company, Inc. would increase this figure to about 38.5%.
+<p>There currently are faint indications that some of these competitors are learning of the</p>
 
-Our equity in earnings of Blue Chip Stamps became significant for the first time in 1973, and
-posed an accounting question as to just what period’s earnings should be recognized by
-Berkshire Hathaway Inc. as applicable to the financial statements covered by this annual report.
+<p>inadequacy of their rates (and also of their loss reserves) which may result in easing of market pressures as the year develops. If so, we may again experience volume increases.</p>
 
-Blue Chip’s fiscal year ends on the Saturday closest to February 28, or two months after the
-fiscal year-end of Berkshire Hathaway Inc. Or, viewed alternatively, their year ends ten months prior to Berkshire Hathaway’s. An acceptable accounting choice for us, and one which, if made, would not have required an auditor’s disclaimer as to scope, was to recognize in our 1973
-income an equity of $632,000 in Blue Chip’s earnings for their year ended March 3, 1973 with regard to the fewer shares of Blue Chip we owned during this earlier period. But such an
-approach seemed at odds with reality, and would have meant a ten month lag each year in the
-future. Therefore, we chose to reflect as 1973 income our equity of $1,008,000 in Blue Chip’s
-earnings based upon unaudited interim earnings through November as publicly reported by Blue Chip Stamps and with regard to our shareholdings during 1973. Because we made this choice of
+<p>Our reinsurance operation had a somewhat similar year—good underwriting experience, but</p>
 
-unaudited but current figures, as opposed to the alternative of audited but far from current figures, Peat, Marwick, Mitchell & Co. were unable to express an opinion on our 1973 earnings attributable to Blue Chip Stamps.
-The annual report of Blue Chip Stamps, which will contain financial statements for the year ending March 2, 1974 audited by Price, Waterhouse and Company, will be available in early May. Any shareholder of Berkshire Hathaway Inc. who desires an annual report of Blue Chip Stamps may obtain it at that time by writing Mr. Robert H. Bird, Secretary, Blue Chip Stamps,5801 South Eastern Avenue, Los Angeles, California 90040.
-Blue Chip’s trading stamp business has declined drastically over the past year or so,but it has important sources of earning power in its See’s Candy Shops subsidiary as well as Wesco Financial Corporation, a 54% owned subsidiary engaged in the savings and loan business. We expect Blue Chip Stamps to achieve satisfactory earnings in future years related to capital employed, although certainly at a much lower level than would have been achieved if the trading stamp business had been maintained at anything close to former levels.
-Your Chairman is on the Board of Directors of Blue Chip Stamps, as well as Wesco Financial Corporation, and is Chairman of the Board of See’s Candy Shops Incorporated. Operating management of all three entities is in the hands of first-class, able, experienced executives.
-Sun Newspapers,Inc.
-In the 1969 annual report we commented on the purchase of Sun Newspapers Inc., a group of weekly papers published in the metropolitan Omaha area. Since that time we have not commented on their operations in the text of our annual reports, nor have we consolidated their financial results since the operation,because of the small investment involved, has been“financially insignificant.”
-During 1973 it was made quite apparent that such insignificance did not extend to publishing quality. On May 7th Sun Newspapers was awarded a Pulitzer Prize for local investigative reporting (the first time in history that a weekly had won in this category) for its special section of March 30,1972 relating to Boys Town. We reported the extraordinary contrast between decreasing services and mounting wealth that had taken place since Father Flanagan’s death in1948.
-In addition to the Pulitzer Prize, the reporting job also won the Public Service Award of Sigma Delta Chi, the national society of professional journalists, as well as seven other national awards.
-Our congratulations go to Paul Williams, Editor, and Stan Lipsey, Publisher, as well as the entire editorial staff of Sun Newspapers for their achievement, which vividly illustrated that size need not be equated with significance in publishing.
-Warren E. Buffett Chairman of the Board March 29, 1974`,
+<p>difficulty in maintaining previous volume levels. This operation, guided by the tireless and well- directed efforts of George Young, has been a major profit producer since its inception in 1969.</p>
+
+<p>Our “home state” insurance companies made excellent progress in Nebraska and Minnesota,</p>
+
+<p>with both good growth in volume and acceptable loss ratios. We began operations late in the year in Iowa. To date, our big problem has been Texas. In that state we virtually had to start over</p>
+
+<p>during 1973 as the initial management we selected proved incapable of underwriting</p>
+
+<p>successfully. The Texas experience has been expensive, and we still have our work cut out for us. Overall, however, the home state operation appears to have a promising potential.</p>
+
+<p>Our specialized urban auto operation, Home and Automobile Insurance Company, experienced very poor underwriting in Chicago during 1973. It would appear that rates are inadequate in our primary Cook County marketing area, although the current energy situation confuses the picture. The question is whether possible lowered accident frequency because of reduced driving will</p>
+
+<p>more than offset continuing inflation in medical and repair costs, as well as jury awards. We believe that inflation will hurt us more than reduced driving will help us, but some of our</p>
+
+<h3>competitors appear to believe otherwise.</h3>
+
+<p>Home and Auto expanded into Florida and California during the year, but it is too early to know how these moves will prove out financially.</p>
+
+<p>A contributing factor in our unsatisfactory earnings at Home and Auto during 1973 was an</p>
+
+<p>accounting system which was not bringing information to management on a sufficiently timely basis.</p>
+
+<p>On the investment side ofour insurance operation, we made substantial additional commitments in common stocks during 1973. We had significant unrealized depreciation—over $12 million— in our common stock holdings at year-end, as indicated in our financial statements. Nevertheless, we believe that our common stock portfolio at cost represents good value in terms of intrinsic</p>
+
+<p>business worth. In spite of the large unrealized loss at year-end, we would expect satisfactory results from the portfolio over the longer term.</p>
+
+<h3>Banking Operations</h3>
+
+<p>The Illinois National Bank &amp; Trust Co. of Rockford again had a record year in 1973. Average deposits were approximately $130 million, of which approximately 60% were time deposits.</p>
+
+<p>Interest rates were increased substantially in the important consumer savings area when regulatory maximums were raised at mid-year.</p>
+
+<p>Despite this mix heavily weighted toward interest bearing deposits, our operating earnings after taxes (including a new Illinois state income tax) were again over 2.1% of average deposits.</p>
+
+<p>We continue to be the largest bank in Rockford. We continue to maintain unusual liquidity. We  continue to meet the increasing loan demands ofour customers. And we continue to maintain our unusual profitability. This is a direct tribute to the abilities of Gene Abegg, Chairman, who has</p>
+
+<p>been running the Bank since it opened its doors in 1931, and Bob Kline, our President.</p>
+
+<p>Merger With Diversified Retailing Company, Inc.</p>
+
+<p>Your Directors have approved the merger of Diversified Retailing Company, Inc. into Berkshire Hathaway Inc. on terms involving issuance of 195,000 shares of Berkshire stock for the</p>
+
+<p>1,000,000 shares of Diversified stock outstanding. Because Diversified and its subsidiaries own 109,551 shares of Berkshire, the net increase in the number of shares of Berkshire outstanding after giving effect to this transaction will not exceed 85,449. Various regulatory approvals must be obtained before this merger can be completed, and proxy material will be submitted to you   later this year so that you may vote upon it.</p>
+
+<p>Diversified Retailing Company, Inc., though subsidiaries, operates a chain of popular-priced</p>
+
+<p>women’s apparel stores and also conducts a reinsurance business. In the opinion of management, its most important asset is 16% of the stock of Blue Chip Stamps.</p>
+
+<h3>Blue Chip Stamps</h3>
+
+<p>Our holdings of stock in Blue Chip Stamps at year-end amounted to approximately 19% of that company’s outstanding shares. Since year-end, we have increased our holdings so that they now represent approximately 22.5%: implementation of the proposed merger with Diversified</p>
+
+<p>Retailing Company, Inc. would increase this figure to about 38.5%.</p>
+
+<p>Our equity in earnings of Blue Chip Stamps became significant for the first time in 1973, and</p>
+
+<p>posed an accounting question as to just what period’s earnings should be recognized by</p>
+
+<p>Berkshire Hathaway Inc. as applicable to the financial statements covered by this annual report.</p>
+
+<p>Blue Chip’s fiscal year ends on the Saturday closest to February 28, or two months after the</p>
+
+<p>fiscal year-end of Berkshire Hathaway Inc. Or, viewed alternatively, their year ends ten months prior to Berkshire Hathaway’s. An acceptable accounting choice for us, and one which, if made, would not have required an auditor’s disclaimer as to scope, was to recognize in our 1973</p>
+
+<p>income an equity of $632,000 in Blue Chip’s earnings for their year ended March 3, 1973 with regard to the fewer shares of Blue Chip we owned during this earlier period. But such an</p>
+
+<p>approach seemed at odds with reality, and would have meant a ten month lag each year in the</p>
+
+<p>future. Therefore, we chose to reflect as 1973 income our equity of $1,008,000 in Blue Chip’s</p>
+
+<p>earnings based upon unaudited interim earnings through November as publicly reported by Blue Chip Stamps and with regard to our shareholdings during 1973. Because we made this choice of</p>
+
+<p>unaudited but current figures, as opposed to the alternative of audited but far from current figures, Peat, Marwick, Mitchell &amp; Co. were unable to express an opinion on our 1973 earnings attributable to Blue Chip Stamps.</p>
+
+<p>The annual report of Blue Chip Stamps, which will contain financial statements for the year ending March 2, 1974 audited by Price, Waterhouse and Company, will be available in early May. Any shareholder of Berkshire Hathaway Inc. who desires an annual report of Blue Chip Stamps may obtain it at that time by writing Mr. Robert H. Bird, Secretary, Blue Chip Stamps,5801 South Eastern Avenue, Los Angeles, California 90040.</p>
+
+<p>Blue Chip’s trading stamp business has declined drastically over the past year or so,but it has important sources of earning power in its See’s Candy Shops subsidiary as well as Wesco Financial Corporation, a 54% owned subsidiary engaged in the savings and loan business. We expect Blue Chip Stamps to achieve satisfactory earnings in future years related to capital employed, although certainly at a much lower level than would have been achieved if the trading stamp business had been maintained at anything close to former levels.</p>
+
+<p>Your Chairman is on the Board of Directors of Blue Chip Stamps, as well as Wesco Financial Corporation, and is Chairman of the Board of See’s Candy Shops Incorporated. Operating management of all three entities is in the hands of first-class, able, experienced executives.</p>
+
+<h3>Sun Newspapers,Inc.</h3>
+
+<p>In the 1969 annual report we commented on the purchase of Sun Newspapers Inc., a group of weekly papers published in the metropolitan Omaha area. Since that time we have not commented on their operations in the text of our annual reports, nor have we consolidated their financial results since the operation,because of the small investment involved, has been“financially insignificant.”</p>
+
+<p>During 1973 it was made quite apparent that such insignificance did not extend to publishing quality. On May 7th Sun Newspapers was awarded a Pulitzer Prize for local investigative reporting (the first time in history that a weekly had won in this category) for its special section of March 30,1972 relating to Boys Town. We reported the extraordinary contrast between decreasing services and mounting wealth that had taken place since Father Flanagan’s death in1948.</p>
+
+<p>In addition to the Pulitzer Prize, the reporting job also won the Public Service Award of Sigma Delta Chi, the national society of professional journalists, as well as seven other national awards.</p>
+
+<p>Our congratulations go to Paul Williams, Editor, and Stan Lipsey, Publisher, as well as the entire editorial staff of Sun Newspapers for their achievement, which vividly illustrated that size need not be equated with significance in publishing.</p>
+
+<p>Warren E. Buffett Chairman of the Board March 29, 1974</p>`,
 
     concepts: ['intrinsic-value', 'moat', 'compounding', 'owner-earnings'],
     companies: ['berkshire-hathaway'],
@@ -7314,105 +7447,153 @@ Warren E. Buffett Chairman of the Board March 29, 1974`,
     date: '1974-02-01',
     summary:
       "1974 brought a severe market decline. Buffett used the downturn to make strategic acquisitions and investments at attractive valuations. The partnership approach to investing continued while building the insurance operations.",
-        fullText: `Berkshire Hathaway Letter 1974
+        fullText: `<h2>Berkshire Hathaway Letter 1974</h2>
 
-To the Stockholders of Berkshire Hathaway Inc.:
+<p>To the Stockholders of Berkshire Hathaway Inc.:</p>
 
-Operating results for 1974 overall were unsatisfactory due to the poor performance of our
-insurance business. In last year’s annual report some decline in profitability was predicted but
-the extent of this decline, which accelerated during the year, was a surprise. Operating earnings  for 1974 were $8,383,576, or $8.56 per share, for a return on beginning shareholders ’ equity of 10.3%. This is the lowest return on equity realized since 1970. Our textile division and our bank both performed very well, turning in improved results against the already good figures of 1973. However, insurance underwriting, which has been mentioned in the last several annual reports as running at levels of unsustainable profitability, turned dramatically worse as the year progressed.
+<p>Operating results for 1974 overall were unsatisfactory due to the poor performance of our</p>
 
-The outlook for 1975 is not encouraging. We undoubtedly will have sharply negative
-comparisons in our textile operation and probably a moderate decline in banking earnings.
-Insurance underwriting is a large question mark at this time—it certainly won’t be a satisfactory year in this area, and could be an extremely poor one. Prospects are reasonably good for an
-improvement in both insurance investment income and our equity in earnings of Blue Chip Stamps. During this period we plan to continue to build financial strength and liquidity,
-preparing for the time when insurance rates become adequate and we can once again aggressively pursue opportunities for growth in this area.
+<p>insurance business. In last year’s annual report some decline in profitability was predicted but</p>
 
-Textile Operations
+<p>the extent of this decline, which accelerated during the year, was a surprise. Operating earnings  for 1974 were $8,383,576, or $8.56 per share, for a return on beginning shareholders ’ equity of 10.3%. This is the lowest return on equity realized since 1970. Our textile division and our bank both performed very well, turning in improved results against the already good figures of 1973. However, insurance underwriting, which has been mentioned in the last several annual reports as running at levels of unsustainable profitability, turned dramatically worse as the year progressed.</p>
 
-During the first nine months of 1974 textile demand was exceptionally strong, resulting in very firm prices. However, in the fourth quarter significant weaknesses began to appear, which have continued into 1975.
-We currently are operating at about one-third of capacity. Obviously, at such levels operating losses must result. As shipments have fallen, we continuously have adjusted our level of
-operations downward so as to avoid building inventory.
+<p>The outlook for 1975 is not encouraging. We undoubtedly will have sharply negative</p>
 
-Our products are largely in the curtain goods area. During a period of consumer uncertainty,
-curtains may well be high on the list of deferrable purchases. Very low levels of housing starts also serve to dampen demand. In addition, retailers have been pressing to cut inventories
-generally, and we probably are feeling some effect from these efforts. These negative trends should reverse in due course, and we are attempting to minimize losses until that time comes.
+<p>comparisons in our textile operation and probably a moderate decline in banking earnings.</p>
 
-Insurance Underwriting
+<p>Insurance underwriting is a large question mark at this time—it certainly won’t be a satisfactory year in this area, and could be an extremely poor one. Prospects are reasonably good for an</p>
 
-In the last few years we consistently have commented on the unusual profitability in insurance
-underwriting. This seemed certain eventually to attract unintelligent competition with consequent inadequate rates. It also has been apparent that many insurance organizations, major as well as
-minor, have been guilty of significant underreserving of losses, which inevitably produces faulty information as to the true cost of the product being sold. In 1974, these factors, along with a high rate of inflation, combined to produce a rapid erosion in underwriting results.
+<p>improvement in both insurance investment income and our equity in earnings of Blue Chip Stamps. During this period we plan to continue to build financial strength and liquidity,</p>
 
-The costs ofthe product we deliver (auto repair, medical payments, compensation benefits, etc.) are increasing at a rate we estimate to be in the area of 1% per month. Of course, this increase
-doesn’t proceed in an even flow but, inexorably, inflation grinds very heavily at the repair
-services—to humans and to property—that we provide. However, rates virtually have been
-unchanged in the property and casualty field for the last few years. With costs moving forward rapidly and prices remaining unchanged, it was not hard to predict what would happen to profit margins.
+<p>preparing for the time when insurance rates become adequate and we can once again aggressively pursue opportunities for growth in this area.</p>
 
-Best’s, the authoritative voice of the insurance industry, estimates that in 1974 all auto insurance premiums in the United States increased only about 2%. Such a growth in the pool of dollars
-available to pay insured losses and expenses was woefully inadequate. Obviously, medical costs applicable to people injured during the year, jury awards for pain and suffering, and body shop
-charges for repairing damaged cars increased at a dramatically greater rate during the year. Since premiums represent the sales dollar and the latter items represent the cost of goods sold, profit
-margins turned sharply negative.
+<h3>Textile Operations</h3>
 
-As this report is being written, such deterioration continues. Loss reserves for many giant
-companies still appear to be understated by significant amounts, which means that these
-competitors continue to underestimate their true costs. Not only must rates be increased
-sufficiently to match the month-by-month increase in cost levels, but the existed expense-
-revenue gap must be overcome. At this time it appears that insurors must experience even more devastating underwriting results before they take appropriate pricing action.
+<p>During the first nine months of 1974 textile demand was exceptionally strong, resulting in very firm prices. However, in the fourth quarter significant weaknesses began to appear, which have continued into 1975.</p>
 
-All major areas of insurance operations, except for the “home state” companies, experienced significantly poorer results for the year.
+<p>We currently are operating at about one-third of capacity. Obviously, at such levels operating losses must result. As shipments have fallen, we continuously have adjusted our level of</p>
 
-The direct business of National Indemnity Company, our largest area of insurance activity,
-produced an underwriting loss of approximately 4% after several years of high profitability.
-Volume increased somewhat, but we are not encouraging such increases until rates are more
-adequate. At some point in the cycle, after major insurance companies have had their fill of red ink, history indicates that we will experience an inflow of business at compensatory rates. This
-operation, headed by Phil Liesche, a most able underwriter, is staffed by highly profit-oriented
-people and we believe it will provide excellent earnings in most future years, as it has in the past.
+<p>operations downward so as to avoid building inventory.</p>
 
-Intense competition in the reinsurance business has produced major losses for practically every company operating in the area. We have been no exception. Our underwriting loss was
-something over 12%—a horrendous figure, but probably little different from the average of the industry. What is even more frightening is that, while about the usual number of insurance
-catastrophes occurred during 1974, there really was no “super disaster” which might have
-accounted for the poor figures of the industry. Rather, a condition of inadequate rates prevails,
-particularly in the casualty area where we have significant exposure. Our reinsurance department is run by George Young, an exceptionally competent and hardworking manager. He has
-cancelled a great many contracts where prices are totally inadequate, and is making no attempt to increase volume except in areas where premiums are commensurate with risk. Based upon
-present rate levels, it seems highly unlikely that the reinsurance industry generally, or we, specifically, will have a profitable year in 1975.
+<p>Our products are largely in the curtain goods area. During a period of consumer uncertainty,</p>
 
-Our “home state” companies, under the leadership of John Ringwalt, made good progress in
-1974. We appear to be developing a sound agency group, capable of producing business with
-acceptable loss ratios. Our expense ratios still are much too high, but will come down as the
-operation develops into units of economic size. The Texas problem which was commented upon in last year’s report seems to be improving. We consider the “home state” operation one of our most promising areas for the future.
+<p>curtains may well be high on the list of deferrable purchases. Very low levels of housing starts also serve to dampen demand. In addition, retailers have been pressing to cut inventories</p>
 
-Our efforts to expand Home and Automobile Insurance Company into Florida proved disastrous. The underwriting loss from operations in that market will come to over $2 million, a very large  portion of which was realized in 1974. We made the decision to drop out of the Florida market in the middle of 1974, but losses in substantial amounts have continued since that time because of  the term nature of insurance contracts, as well as adverse development of outstanding claims. We can’t blame external insurance industry conditions for this mistake. In retrospect, it is apparent
-that our management simply did not have the underwriting information and the pricing
-knowledge necessary to be operating in the area. In Cook County, where Home and Auto’s
-volume traditionally has been concentrated, evidence also became quite clear during 1974 that rates were inadequate. Therefore, rates were increased during the middle of the year but
-competition did not follow; consequently, our volume has dropped significantly in this area as competitors take business from us at prices that we regard as totally unrealistic.
+<p>generally, and we probably are feeling some effect from these efforts. These negative trends should reverse in due course, and we are attempting to minimize losses until that time comes.</p>
 
-While the tone of this section is pessimistic as to 1974 and 1975, we consider the insurance
-business to be inherently attractive. Our overall return on capital employed in this area—even  including the poor results of 1974—remains high. We have made every effort to be realistic in the calculation of loss and administrative expense. Because of accruals, this had a double effect at both the bank and corporate level in 1974.
+<h3>Insurance Underwriting</h3>
 
-Under present money market conditions, we expect bank earnings to be down somewhat in 1975 although we believe they still are likely to compare favorably with those of practically any
-banking institution in the country.
+<p>In the last few years we consistently have commented on the unusual profitability in insurance</p>
 
-Blue Chip Stamps
+<p>underwriting. This seemed certain eventually to attract unintelligent competition with consequent inadequate rates. It also has been apparent that many insurance organizations, major as well as</p>
 
-During 1974 we increased our holdings of Blue Chip Stamps to approximately 25.5% of the
-outstanding shares of that company. Overall, we are quite happy about the results of Blue Chip and its prospects for the future. Stamp sales continue at a greatly reduced level, but the Blue
-Chip management has done an excellent job of adjusting operating costs. The See’s Candy Shops, Inc. subsidiary had an outstanding year, and has excellent prospects for the future.
+<p>minor, have been guilty of significant underreserving of losses, which inevitably produces faulty information as to the true cost of the product being sold. In 1974, these factors, along with a high rate of inflation, combined to produce a rapid erosion in underwriting results.</p>
 
-Your Chairman is on the Board of Directors of Blue Chip Stamps, as well as Wesco Financial
-Corporation, a 64% owned subsidiary, and is Chairman of the Board of See’s Candy Shops, Inc. We expect Blue Chip Stamps to be a source of continued substantial earning power for Berkshire Hathaway Inc.
+<p>The costs ofthe product we deliver (auto repair, medical payments, compensation benefits, etc.) are increasing at a rate we estimate to be in the area of 1% per month. Of course, this increase</p>
 
-The annual report of Blue Chip Stamps, which will contain financial statements for the year
-ended March 1, 1975 audited by Price, Waterhouse and Company, will be available in May. Any shareholder of Berkshire Hathaway Inc. who desires an annual report of Blue Chip Stamps may
+<p>doesn’t proceed in an even flow but, inexorably, inflation grinds very heavily at the repair</p>
 
-obtain it at any time by writing Mr. Robert H. Bird, Secretary, Blue Chip Stamps, 5801 South Eastern Avenue, Los Angeles, California 90040.
+<p>services—to humans and to property—that we provide. However, rates virtually have been</p>
 
-Merger with Diversified Retailing Company, Inc.
+<p>unchanged in the property and casualty field for the last few years. With costs moving forward rapidly and prices remaining unchanged, it was not hard to predict what would happen to profit margins.</p>
 
-As you previously have been informed, the proposed merger with Diversified Retailing
-Company, Inc. was terminated by the respective Boards of Directors on January 28, 1975. We continue to view such a merger as eventually desirable, and hope to reopen the subject at some future time.
-Warren E. Buffett Chairman of the Board March 31, 1975`,
+<p>Best’s, the authoritative voice of the insurance industry, estimates that in 1974 all auto insurance premiums in the United States increased only about 2%. Such a growth in the pool of dollars</p>
+
+<p>available to pay insured losses and expenses was woefully inadequate. Obviously, medical costs applicable to people injured during the year, jury awards for pain and suffering, and body shop</p>
+
+<p>charges for repairing damaged cars increased at a dramatically greater rate during the year. Since premiums represent the sales dollar and the latter items represent the cost of goods sold, profit</p>
+
+<h3>margins turned sharply negative.</h3>
+
+<p>As this report is being written, such deterioration continues. Loss reserves for many giant</p>
+
+<p>companies still appear to be understated by significant amounts, which means that these</p>
+
+<p>competitors continue to underestimate their true costs. Not only must rates be increased</p>
+
+<p>sufficiently to match the month-by-month increase in cost levels, but the existed expense-</p>
+
+<p>revenue gap must be overcome. At this time it appears that insurors must experience even more devastating underwriting results before they take appropriate pricing action.</p>
+
+<p>All major areas of insurance operations, except for the “home state” companies, experienced significantly poorer results for the year.</p>
+
+<p>The direct business of National Indemnity Company, our largest area of insurance activity,</p>
+
+<p>produced an underwriting loss of approximately 4% after several years of high profitability.</p>
+
+<p>Volume increased somewhat, but we are not encouraging such increases until rates are more</p>
+
+<p>adequate. At some point in the cycle, after major insurance companies have had their fill of red ink, history indicates that we will experience an inflow of business at compensatory rates. This</p>
+
+<p>operation, headed by Phil Liesche, a most able underwriter, is staffed by highly profit-oriented</p>
+
+<p>people and we believe it will provide excellent earnings in most future years, as it has in the past.</p>
+
+<p>Intense competition in the reinsurance business has produced major losses for practically every company operating in the area. We have been no exception. Our underwriting loss was</p>
+
+<p>something over 12%—a horrendous figure, but probably little different from the average of the industry. What is even more frightening is that, while about the usual number of insurance</p>
+
+<p>catastrophes occurred during 1974, there really was no “super disaster” which might have</p>
+
+<p>accounted for the poor figures of the industry. Rather, a condition of inadequate rates prevails,</p>
+
+<p>particularly in the casualty area where we have significant exposure. Our reinsurance department is run by George Young, an exceptionally competent and hardworking manager. He has</p>
+
+<p>cancelled a great many contracts where prices are totally inadequate, and is making no attempt to increase volume except in areas where premiums are commensurate with risk. Based upon</p>
+
+<p>present rate levels, it seems highly unlikely that the reinsurance industry generally, or we, specifically, will have a profitable year in 1975.</p>
+
+<p>Our “home state” companies, under the leadership of John Ringwalt, made good progress in</p>
+
+<p>1974. We appear to be developing a sound agency group, capable of producing business with</p>
+
+<p>acceptable loss ratios. Our expense ratios still are much too high, but will come down as the</p>
+
+<p>operation develops into units of economic size. The Texas problem which was commented upon in last year’s report seems to be improving. We consider the “home state” operation one of our most promising areas for the future.</p>
+
+<p>Our efforts to expand Home and Automobile Insurance Company into Florida proved disastrous. The underwriting loss from operations in that market will come to over $2 million, a very large  portion of which was realized in 1974. We made the decision to drop out of the Florida market in the middle of 1974, but losses in substantial amounts have continued since that time because of  the term nature of insurance contracts, as well as adverse development of outstanding claims. We can’t blame external insurance industry conditions for this mistake. In retrospect, it is apparent</p>
+
+<p>that our management simply did not have the underwriting information and the pricing</p>
+
+<p>knowledge necessary to be operating in the area. In Cook County, where Home and Auto’s</p>
+
+<p>volume traditionally has been concentrated, evidence also became quite clear during 1974 that rates were inadequate. Therefore, rates were increased during the middle of the year but</p>
+
+<p>competition did not follow; consequently, our volume has dropped significantly in this area as competitors take business from us at prices that we regard as totally unrealistic.</p>
+
+<p>While the tone of this section is pessimistic as to 1974 and 1975, we consider the insurance</p>
+
+<p>business to be inherently attractive. Our overall return on capital employed in this area—even  including the poor results of 1974—remains high. We have made every effort to be realistic in the calculation of loss and administrative expense. Because of accruals, this had a double effect at both the bank and corporate level in 1974.</p>
+
+<p>Under present money market conditions, we expect bank earnings to be down somewhat in 1975 although we believe they still are likely to compare favorably with those of practically any</p>
+
+<p>banking institution in the country.</p>
+
+<h3>Blue Chip Stamps</h3>
+
+<p>During 1974 we increased our holdings of Blue Chip Stamps to approximately 25.5% of the</p>
+
+<p>outstanding shares of that company. Overall, we are quite happy about the results of Blue Chip and its prospects for the future. Stamp sales continue at a greatly reduced level, but the Blue</p>
+
+<p>Chip management has done an excellent job of adjusting operating costs. The See’s Candy Shops, Inc. subsidiary had an outstanding year, and has excellent prospects for the future.</p>
+
+<p>Your Chairman is on the Board of Directors of Blue Chip Stamps, as well as Wesco Financial</p>
+
+<p>Corporation, a 64% owned subsidiary, and is Chairman of the Board of See’s Candy Shops, Inc. We expect Blue Chip Stamps to be a source of continued substantial earning power for Berkshire Hathaway Inc.</p>
+
+<p>The annual report of Blue Chip Stamps, which will contain financial statements for the year</p>
+
+<p>ended March 1, 1975 audited by Price, Waterhouse and Company, will be available in May. Any shareholder of Berkshire Hathaway Inc. who desires an annual report of Blue Chip Stamps may</p>
+
+<p>obtain it at any time by writing Mr. Robert H. Bird, Secretary, Blue Chip Stamps, 5801 South Eastern Avenue, Los Angeles, California 90040.</p>
+
+<p>Merger with Diversified Retailing Company, Inc.</p>
+
+<p>As you previously have been informed, the proposed merger with Diversified Retailing</p>
+
+<p>Company, Inc. was terminated by the respective Boards of Directors on January 28, 1975. We continue to view such a merger as eventually desirable, and hope to reopen the subject at some future time.</p>
+
+<p>Warren E. Buffett Chairman of the Board March 31, 1975</p>`,
 
     concepts: ['intrinsic-value', 'moat', 'compounding', 'owner-earnings'],
     companies: ['berkshire-hathaway'],
@@ -7431,119 +7612,171 @@ Warren E. Buffett Chairman of the Board March 31, 1975`,
     date: '1975-02-01',
     summary:
       "1975 saw continued market weakness but also created opportunities. Insurance operations began to show better results. The focus remained on building businesses with strong competitive advantages.",
-        fullText: `Berkshire Hathaway Letter 1975
+        fullText: `<h2>Berkshire Hathaway Letter 1975</h2>
 
-To the Stockholders of Berkshire Hathaway Inc.:
+<p>To the Stockholders of Berkshire Hathaway Inc.:</p>
 
-Last year, when discussing the prospects for 1975, we stated “the outlook for 1975 is not
-encouraging.” This forecast proved to be distressingly accurate. Our operating earnings for 1975 were $6,713,592, or $6.85 per share, producing a return on beginning shareholders ’ equity of
-7.6%. This is the lowest return on equity experienced since 1967. Furthermore, as explained later in this letter, a large segment of these earnings resulted from Federal income tax refunds which
-will not be available to assist performance in 1976.
+<p>Last year, when discussing the prospects for 1975, we stated “the outlook for 1975 is not</p>
 
-On balance, however, current trends indicate a somewhat brighter 1976. Operations and
-prospects will be discussed in greater detail below, under specific industry titles. Our expectation is that significantly better results in textiles, earnings added from recent acquisitions, an increase in equity in earnings of Blue Chip Stamps resulting from an enlarged ownership interest, and at  least a moderate improvement in insurance underwriting results will more than offset other
-possible negatives to produce greater earnings in 1976. The major variable—and by far the most difficult to predict with any feeling of confidence—is the insurance underwriting result. Present very tentative indications are that underwriting improvement is in prospect. If such improvement is moderate, our overall gain in earnings in 1976 likewise will prove moderate. More significant underwriting improvement could give us a major gain in earnings.
+<p>encouraging.” This forecast proved to be distressingly accurate. Our operating earnings for 1975 were $6,713,592, or $6.85 per share, producing a return on beginning shareholders ’ equity of</p>
 
-Textile Operations
+<p>7.6%. This is the lowest return on equity experienced since 1967. Furthermore, as explained later in this letter, a large segment of these earnings resulted from Federal income tax refunds which</p>
 
-During the first half of 1975 sales of textile products were extremely depressed, resulting in
-major production curtailments. Operations ran at a significant loss, with employment down as much as 53% from a year earlier.
+<p>will not be available to assist performance in 1976.</p>
 
-In contrast with previous cyclical slumps, however, most textile producers quickly reduced
-production to match incoming orders, thus preventing massive industry-wide accumulation of
-inventories. Such cutbacks caused quite prompt reflection at the mill operating level when
-demand revived at retail. As a result, beginning about midyear business rebounded at a fairly
-rapid rate. This “V” shaped textile depression, while one of the sharpest on record, also became  one of the shortest ones in our experience. The fourth quarter produced an excellent profit for our textile division, bringing results for the year into the black.
+<p>On balance, however, current trends indicate a somewhat brighter 1976. Operations and</p>
 
-On April 28, 1975 we acquired Waumbec Mills Incorporated and Waumbec Dyeing and
-Finishing Co., Inc. located in Manchester, New Hampshire. These companies have long sold
-woven goods into the drapery and apparel trade. Such drapery materials complement and extend the line already marketed through the Home Fabrics Division of Berkshire Hathaway. In the
-period prior to our acquisition, the company had run at a very substantial loss, with only about
-55% of looms in operation and the finishing plant operating at about 50% of capacity. Losses
-continued on a reduced basis for a few months after acquisition. Outstanding efforts by our
-manufacturing, administrative and sales people now have produced major improvements, which, coupled with the general revival in textiles, have moved Waumbec into a significant profit
-position.
+<p>prospects will be discussed in greater detail below, under specific industry titles. Our expectation is that significantly better results in textiles, earnings added from recent acquisitions, an increase in equity in earnings of Blue Chip Stamps resulting from an enlarged ownership interest, and at  least a moderate improvement in insurance underwriting results will more than offset other</p>
 
-We expect a good level of profits from textiles in 1976. Continued progress is being made in the movement ofWaumbec goods into areas of traditional marketing strength of Berkshire
-Hathaway, productivity should improve in both the weaving and finishing areas at Manchester, and textile demand continues to firm at decent prices.
+<p>possible negatives to produce greater earnings in 1976. The major variable—and by far the most difficult to predict with any feeling of confidence—is the insurance underwriting result. Present very tentative indications are that underwriting improvement is in prospect. If such improvement is moderate, our overall gain in earnings in 1976 likewise will prove moderate. More significant underwriting improvement could give us a major gain in earnings.</p>
 
-We have great confidence in the ability ofKen Chace and his team to maximize our strengths in textiles. Therefore, we continue to look for ways to increase further our scale of operations while avoiding major capital investment in new fixed assets which we consider unwise, considering the relatively low returns historically earned on large scale investment in new textile equipment.
+<h3>Textile Operations</h3>
 
-Insurance Underwriting
+<p>During the first half of 1975 sales of textile products were extremely depressed, resulting in</p>
 
-The property and casualty insurance industry had its worst year in history during 1975. We did our share—unfortunately, even somewhat more. Really disastrous results were concentrated in auto and long-tail (contracts where settlement of loss usually occurs long after the loss event)  lines.
-Economic inflation, with the increase in cost of repairing humans and property far outstripping
-the general rate of inflation, produced ultimate loss costs which soared beyond premium levels
-established in a different cost environment. “Social” inflation caused the liability concept to be
-expanded continuously, far beyond limits contemplated when rates were established—in effect, adding coverage beyond what was paid for. Such social inflation increased significantly both the propensity to sue and the possibility of collecting mammoth jury awards for events not
-previously considered statistically significant in the establishment of rates. Furthermore, losses to policyholders which otherwise would result from mushrooming insolvencies of companies
-inadequately reacting to these problems are divided through Guaranty Funds among remaining
-solvent insurers. These trends will continue, and should moderate any optimism which otherwise might be justified by the sharply increased rates now taking effect.
+<p>major production curtailments. Operations ran at a significant loss, with employment down as much as 53% from a year earlier.</p>
 
-Berkshire Hathaway’s insurance subsidiaries have a disproportionate concentration of business
-in precisely the lines which produced the worst underwriting results in 1975. Such lines produce unusually high investment income and, therefore, have been particularly attractive to us under
-previous underwriting conditions. However, our “mix” has been very disadvantageous during the past two years and it well may be that we will remain positioned in the more difficult part of the insurance spectrum during the inflationary years ahead.
+<p>In contrast with previous cyclical slumps, however, most textile producers quickly reduced</p>
 
-The only segment to show improved results for us during 1975 was the “home state” operation, which has made continuous progress under the leadership of John Ringwalt. Although still
-operating at a significant underwriting loss, the combined ratio improved from 1974. Adjusted for excess costs attributable to operations still in the start-up phase, underwriting results are
-satisfactory. Texas United Insurance Company, a major problem a few years ago, has made
-outstanding progress since George Billing has assumed command. With an almost totally new agency force, Texas United was the winner of the “Chairman’s Cup” for achievement of the   lowest loss ratio among the home state companies. Cornhusker Casualty Company, oldest and largest of the home state companies, continues its outstanding operation with major gains in
-premium volume and a combined ratio slightly under 100. Substantial premium growth is
+<p>production to match incoming orders, thus preventing massive industry-wide accumulation of</p>
 
-expected at the home state operation during 1976; the measurement of success, however, will continue to be the achievement of a low combined ratio.
-Our traditional business at National Indemnity Company, representing well over half of our
-insurance volume, had an extraordinarily bad underwriting year in 1975. Although rates were
-increased frequently and significantly, they continually lagged loss experience throughout the
-year. Several special programs instituted in the early 1970s have caused significant losses, as
-well as a heavy drain on managerial time and energies. Present indications are that premium
-volume will show a major increase in 1976, and we hope that underwriting results will improve.
+<p>inventories. Such cutbacks caused quite prompt reflection at the mill operating level when</p>
 
-Reinsurance suffered the same problems as our direct business during 1975. The same remedial efforts were attempted. Because reinsurance contract settlements lag those of direct business, it well may be that any upturn in results from our direct insurance business will precede those of the reinsurance segment.
+<p>demand revived at retail. As a result, beginning about midyear business rebounded at a fairly</p>
 
-At our Home and Automobile Insurance Company subsidiary, now writing auto business only in the Cook County area of Illinois, experience continued very bad in 1975 resulting in a
-management change in October. John Seward was made President at that time, and has
-energetically and imaginatively implemented a completely revamped underwriting approach.
+<p>rapid rate. This “V” shaped textile depression, while one of the sharpest on record, also became  one of the shortest ones in our experience. The fourth quarter produced an excellent profit for our textile division, bringing results for the year into the black.</p>
 
-Overall, our insurance operation will produce a substantial gain in premium volume during 1976. Much of this will reflect increased rates rather than more policies. Under normal circumstances  such a gain in volume would be welcome, but our emotions are mixed at present. Underwriting  experience should improve—and we expect it to—but our confidence level is not high. While
-our efforts will be devoted to obtaining a combined ratio below 100, it is unlikely to be attained during 1976.
+<p>On April 28, 1975 we acquired Waumbec Mills Incorporated and Waumbec Dyeing and</p>
 
-Insurance Investments
-Gains in investment income were moderate during 1975 because premium volume remained flat and underwriting losses reduced funds available for investment. Invested assets, measured at cost at yearend, were close to identical with the level at the beginning of the year.
+<p>Finishing Co., Inc. located in Manchester, New Hampshire. These companies have long sold</p>
 
-At the end of 1974 the net unrealized loss in the stock section of our portfolio amounted to about $17 million, but we expressed the opinion, nevertheless, that this portfolio overall represented
-good value at its carrying value of cost. During 1975 a net capital loss of $2,888,000 before tax credits was realized, but our present expectation is that 1976 will be a year of realized capital
-gain. On March 31, 1976 our net unrealized gains applicable to equities amounted to about $15 million. Our equity investments are heavily concentrated in a few companies which are selected based on favorable economic characteristics, competent and honest management, and a purchase price attractive when measured against the yardstick of value to a private owner.
+<p>woven goods into the drapery and apparel trade. Such drapery materials complement and extend the line already marketed through the Home Fabrics Division of Berkshire Hathaway. In the</p>
 
-When such criteria are maintained, our intention is to hold for a long time; indeed, our largest  equity investment is 467,150 shares of Washington Post “B” stock with a cost of $10.6 million, which we expect to hold permanently.
+<p>period prior to our acquisition, the company had run at a very substantial loss, with only about</p>
 
-With this approach, stock market fluctuations are of little importance to us—except as they may provide buying opportunities—but business performance is of major importance. On this score we have been delighted with progress made by practically all of the companies in which we now have significant investments.
+<p>55% of looms in operation and the finishing plant operating at about 50% of capacity. Losses</p>
 
-We have continued to maintain a strong liquid position in our insurance companies. In last year’s annual report we explained how variations of 1/10 of 1% in interest rates result in million dollar swings in market value of our bonds. We consider such market fluctuation of minor importance as our liquidity and general financial strength make it highly improbable that bonds will have to be sold at times other than those of our choice.
-Banking
+<p>continued on a reduced basis for a few months after acquisition. Outstanding efforts by our</p>
 
-It is difficult to find adjectives to describe the performance of Eugene Abegg, Chief Executive of Illinois National Bank and Trust of Rockford, Illinois, our banking subsidiary.
+<p>manufacturing, administrative and sales people now have produced major improvements, which, coupled with the general revival in textiles, have moved Waumbec into a significant profit</p>
 
-In a year when many banking operations experienced major troubles, Illinois National continued its outstanding record. Against average loans of about $65 million, net loan losses were $24,000, or .04%. Unusually high liquidity is maintained with obligations of the U. S. Government and its agencies, all due within one year, at yearend amounting to about 75% of demand deposits.
-Maximum rates of interest are paid on all consumer savings instruments which make up more
-than $2 million, it consistently has generated favorable earnings. Positioned as we now are with respect to income taxes, the addition of a solid source of taxable income is particularly welcome.
+<h3>position.</h3>
 
-General Review
+<p>We expect a good level of profits from textiles in 1976. Continued progress is being made in the movement ofWaumbec goods into areas of traditional marketing strength of Berkshire</p>
 
-Your present management assumed responsibility at Berkshire Hathaway in May, 1965. At the
-end of the prior fiscal year (September, 1964) the net worth of the Company was $22.1 million,  and 1,137,778 common shares were outstanding, with a resulting book value of $19.46 per share. Ten years earlier, Berkshire Hathaway’s net worth had been $53.4 million. Dividends and stock repurchases accounted for over $21 million of the decline in company net worth, but aggregate
-net losses of $9.8 million had been incurred on sales of $595 million during the decade.
+<p>Hathaway, productivity should improve in both the weaving and finishing areas at Manchester, and textile demand continues to firm at decent prices.</p>
 
-In 1965, two New England textile mills were the company’s only sources of earning power and, before Ken Chace assumed responsibility for the operation, textile earnings had been erratic and, cumulatively, something less than zero subsequent to the merger of Berkshire Fine Spinning and Hathaway Manufacturing. Since 1964, net worth has been built to $92.9 million, or $94.92 per
-share. We have acquired total, or virtually total ownership of six businesses through negotiated purchases for cash (or cash and notes) from private owners, started four others, purchased a
-31.5% interest in a large affiliate enterprise and reduced the number of outstanding shares of
-Berkshire Hathaway to 979,569. Overall, equity per share has compounded at an annual rate of slightly over 15%.
+<p>We have great confidence in the ability ofKen Chace and his team to maximize our strengths in textiles. Therefore, we continue to look for ways to increase further our scale of operations while avoiding major capital investment in new fixed assets which we consider unwise, considering the relatively low returns historically earned on large scale investment in new textile equipment.</p>
 
-While 1975 was a major disappointment, efforts will continue to develop growing and
-diversified sources of earnings. Our objective is a conservatively financed and highly liquid business—possessing extra margins of balance sheet strength consistent with the fiduciary
+<h3>Insurance Underwriting</h3>
 
-obligations inherent in the banking and insurance industries—which will produce a long term rate of return on equity capital exceeding that of American industry as a whole.
+<p>The property and casualty insurance industry had its worst year in history during 1975. We did our share—unfortunately, even somewhat more. Really disastrous results were concentrated in auto and long-tail (contracts where settlement of loss usually occurs long after the loss event)  lines.</p>
 
-Warren E. Buffett, Chairman`,
+<p>Economic inflation, with the increase in cost of repairing humans and property far outstripping</p>
+
+<p>the general rate of inflation, produced ultimate loss costs which soared beyond premium levels</p>
+
+<p>established in a different cost environment. “Social” inflation caused the liability concept to be</p>
+
+<p>expanded continuously, far beyond limits contemplated when rates were established—in effect, adding coverage beyond what was paid for. Such social inflation increased significantly both the propensity to sue and the possibility of collecting mammoth jury awards for events not</p>
+
+<p>previously considered statistically significant in the establishment of rates. Furthermore, losses to policyholders which otherwise would result from mushrooming insolvencies of companies</p>
+
+<p>inadequately reacting to these problems are divided through Guaranty Funds among remaining</p>
+
+<p>solvent insurers. These trends will continue, and should moderate any optimism which otherwise might be justified by the sharply increased rates now taking effect.</p>
+
+<p>Berkshire Hathaway’s insurance subsidiaries have a disproportionate concentration of business</p>
+
+<p>in precisely the lines which produced the worst underwriting results in 1975. Such lines produce unusually high investment income and, therefore, have been particularly attractive to us under</p>
+
+<p>previous underwriting conditions. However, our “mix” has been very disadvantageous during the past two years and it well may be that we will remain positioned in the more difficult part of the insurance spectrum during the inflationary years ahead.</p>
+
+<p>The only segment to show improved results for us during 1975 was the “home state” operation, which has made continuous progress under the leadership of John Ringwalt. Although still</p>
+
+<p>operating at a significant underwriting loss, the combined ratio improved from 1974. Adjusted for excess costs attributable to operations still in the start-up phase, underwriting results are</p>
+
+<p>satisfactory. Texas United Insurance Company, a major problem a few years ago, has made</p>
+
+<p>outstanding progress since George Billing has assumed command. With an almost totally new agency force, Texas United was the winner of the “Chairman’s Cup” for achievement of the   lowest loss ratio among the home state companies. Cornhusker Casualty Company, oldest and largest of the home state companies, continues its outstanding operation with major gains in</p>
+
+<p>premium volume and a combined ratio slightly under 100. Substantial premium growth is</p>
+
+<p>expected at the home state operation during 1976; the measurement of success, however, will continue to be the achievement of a low combined ratio.</p>
+
+<p>Our traditional business at National Indemnity Company, representing well over half of our</p>
+
+<p>insurance volume, had an extraordinarily bad underwriting year in 1975. Although rates were</p>
+
+<p>increased frequently and significantly, they continually lagged loss experience throughout the</p>
+
+<p>year. Several special programs instituted in the early 1970s have caused significant losses, as</p>
+
+<p>well as a heavy drain on managerial time and energies. Present indications are that premium</p>
+
+<p>volume will show a major increase in 1976, and we hope that underwriting results will improve.</p>
+
+<p>Reinsurance suffered the same problems as our direct business during 1975. The same remedial efforts were attempted. Because reinsurance contract settlements lag those of direct business, it well may be that any upturn in results from our direct insurance business will precede those of the reinsurance segment.</p>
+
+<p>At our Home and Automobile Insurance Company subsidiary, now writing auto business only in the Cook County area of Illinois, experience continued very bad in 1975 resulting in a</p>
+
+<p>management change in October. John Seward was made President at that time, and has</p>
+
+<p>energetically and imaginatively implemented a completely revamped underwriting approach.</p>
+
+<p>Overall, our insurance operation will produce a substantial gain in premium volume during 1976. Much of this will reflect increased rates rather than more policies. Under normal circumstances  such a gain in volume would be welcome, but our emotions are mixed at present. Underwriting  experience should improve—and we expect it to—but our confidence level is not high. While</p>
+
+<p>our efforts will be devoted to obtaining a combined ratio below 100, it is unlikely to be attained during 1976.</p>
+
+<h3>Insurance Investments</h3>
+
+<p>Gains in investment income were moderate during 1975 because premium volume remained flat and underwriting losses reduced funds available for investment. Invested assets, measured at cost at yearend, were close to identical with the level at the beginning of the year.</p>
+
+<p>At the end of 1974 the net unrealized loss in the stock section of our portfolio amounted to about $17 million, but we expressed the opinion, nevertheless, that this portfolio overall represented</p>
+
+<p>good value at its carrying value of cost. During 1975 a net capital loss of $2,888,000 before tax credits was realized, but our present expectation is that 1976 will be a year of realized capital</p>
+
+<p>gain. On March 31, 1976 our net unrealized gains applicable to equities amounted to about $15 million. Our equity investments are heavily concentrated in a few companies which are selected based on favorable economic characteristics, competent and honest management, and a purchase price attractive when measured against the yardstick of value to a private owner.</p>
+
+<p>When such criteria are maintained, our intention is to hold for a long time; indeed, our largest  equity investment is 467,150 shares of Washington Post “B” stock with a cost of $10.6 million, which we expect to hold permanently.</p>
+
+<p>With this approach, stock market fluctuations are of little importance to us—except as they may provide buying opportunities—but business performance is of major importance. On this score we have been delighted with progress made by practically all of the companies in which we now have significant investments.</p>
+
+<p>We have continued to maintain a strong liquid position in our insurance companies. In last year’s annual report we explained how variations of 1/10 of 1% in interest rates result in million dollar swings in market value of our bonds. We consider such market fluctuation of minor importance as our liquidity and general financial strength make it highly improbable that bonds will have to be sold at times other than those of our choice.</p>
+
+<h3>Banking</h3>
+
+<p>It is difficult to find adjectives to describe the performance of Eugene Abegg, Chief Executive of Illinois National Bank and Trust of Rockford, Illinois, our banking subsidiary.</p>
+
+<p>In a year when many banking operations experienced major troubles, Illinois National continued its outstanding record. Against average loans of about $65 million, net loan losses were $24,000, or .04%. Unusually high liquidity is maintained with obligations of the U. S. Government and its agencies, all due within one year, at yearend amounting to about 75% of demand deposits.</p>
+
+<p>Maximum rates of interest are paid on all consumer savings instruments which make up more</p>
+
+<p>than $2 million, it consistently has generated favorable earnings. Positioned as we now are with respect to income taxes, the addition of a solid source of taxable income is particularly welcome.</p>
+
+<h3>General Review</h3>
+
+<p>Your present management assumed responsibility at Berkshire Hathaway in May, 1965. At the</p>
+
+<p>end of the prior fiscal year (September, 1964) the net worth of the Company was $22.1 million,  and 1,137,778 common shares were outstanding, with a resulting book value of $19.46 per share. Ten years earlier, Berkshire Hathaway’s net worth had been $53.4 million. Dividends and stock repurchases accounted for over $21 million of the decline in company net worth, but aggregate</p>
+
+<p>net losses of $9.8 million had been incurred on sales of $595 million during the decade.</p>
+
+<p>In 1965, two New England textile mills were the company’s only sources of earning power and, before Ken Chace assumed responsibility for the operation, textile earnings had been erratic and, cumulatively, something less than zero subsequent to the merger of Berkshire Fine Spinning and Hathaway Manufacturing. Since 1964, net worth has been built to $92.9 million, or $94.92 per</p>
+
+<p>share. We have acquired total, or virtually total ownership of six businesses through negotiated purchases for cash (or cash and notes) from private owners, started four others, purchased a</p>
+
+<p>31.5% interest in a large affiliate enterprise and reduced the number of outstanding shares of</p>
+
+<p>Berkshire Hathaway to 979,569. Overall, equity per share has compounded at an annual rate of slightly over 15%.</p>
+
+<p>While 1975 was a major disappointment, efforts will continue to develop growing and</p>
+
+<p>diversified sources of earnings. Our objective is a conservatively financed and highly liquid business—possessing extra margins of balance sheet strength consistent with the fiduciary</p>
+
+<p>obligations inherent in the banking and insurance industries—which will produce a long term rate of return on equity capital exceeding that of American industry as a whole.</p>
+
+<p>Warren E. Buffett, Chairman</p>`,
 
     concepts: ['intrinsic-value', 'moat', 'compounding', 'owner-earnings'],
     companies: ['berkshire-hathaway'],
