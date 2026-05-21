@@ -2,7 +2,7 @@
 
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
-import { useState, useEffect, useCallback } from 'react'
+import { useState, useEffect, useCallback, useRef } from 'react'
 import {
   BookOpen,
   Lightbulb,
@@ -24,7 +24,7 @@ import { concepts } from '@/data/concepts'
 import { companies } from '@/data/companies'
 import { people } from '@/data/people'
 
-// ── Navigation sections ────────────────────────────────────────────────
+// ── Navigation sections ─────────────────────────────────────────────
 
 interface SubLink {
   href: string
@@ -62,7 +62,7 @@ const secondaryLinks = [
   { href: '/changelog', label: 'Changelog', icon: ClipboardList },
 ]
 
-// ── Tag badge colors for search results ────────────────────────────────
+// ── Tag badge colors for search results ──────────────────────────────
 
 function getTypeColor(type: string) {
   switch (type) {
@@ -84,7 +84,7 @@ function getTypeHref(type: string, slug: string) {
   }
 }
 
-// ── Sidebar nav link ───────────────────────────────────────────────────
+// ── Sidebar nav link ─────────────────────────────────────────────────
 
 function NavLink({
   href,
@@ -199,6 +199,10 @@ function CollapsibleNavItem({
 }
 
 // ── Search overlay ─────────────────────────────────────────────────────
+//
+// Uses flexsearch (via @/lib/search) for fast client-side full-text search.
+// Shows recommended letters/concepts when the query is empty.
+// Highlights matched keywords using <mark> (via highlightText in search.ts).
 
 function SearchOverlay({
   onClose,
@@ -207,7 +211,18 @@ function SearchOverlay({
 }) {
   const [query, setQuery] = useState('')
   const [results, setResults] = useState<any[]>([])
+  const [recommended, setRecommended] = useState<any[]>([])
   const [loading, setLoading] = useState(false)
+  const inputRef = useRef<HTMLInputElement>(null)
+
+  // Load recommended content when query is empty
+  useEffect(() => {
+    if (query.trim()) { setRecommended([]); return }
+    ;(async () => {
+      const { getRecommendedResults } = await import('@/lib/search')
+      setRecommended(getRecommendedResults())
+    })()
+  }, [query])
 
   // Debounced search
   useEffect(() => {
@@ -220,21 +235,29 @@ function SearchOverlay({
       } finally {
         setLoading(false)
       }
-    }, 250)
+    }, 200)
     return () => clearTimeout(timer)
   }, [query])
 
   // Keyboard: ESC to close
   useEffect(() => {
-    const handler = (e: KeyboardEvent) => { if (e.key === 'Escape') onClose() }
+    const handler = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') onClose()
+    }
     window.addEventListener('keydown', handler)
     return () => window.removeEventListener('keydown', handler)
   }, [onClose])
 
+  // Focus input on mount
+  useEffect(() => { inputRef.current?.focus() }, [])
+
+  const displayResults = query.trim() ? results : recommended
+  const showHeader = !query.trim() && recommended.length > 0
+
   return (
     <div
-      className="fixed inset-0 z-50 flex items-start justify-center pt-24 px-4"
-      style={{ backgroundColor: 'rgba(28,35,51,0.7)', backdropFilter: 'blur(4px)' }}
+      className="fixed inset-0 z-50 flex items-start justify-center pt-20 px-4"
+      style={{ backgroundColor: 'rgba(28,35,51,0.72)', backdropFilter: 'blur(6px)' }}
       onClick={onClose}
     >
       <div
@@ -246,17 +269,18 @@ function SearchOverlay({
         <div className="flex items-center gap-3 px-5 py-4" style={{ borderBottom: '1px solid #E6E2D9' }}>
           <Search className="w-5 h-5 flex-shrink-0" style={{ color: '#71717A' }} />
           <input
+            ref={inputRef}
             type="text"
             placeholder="Search letters, concepts, companies, people..."
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             className="flex-1 text-base outline-none bg-transparent"
             style={{ color: '#18181B' }}
-            autoFocus
           />
+          <kbd className="hidden sm:inline text-xs px-1.5 py-0.5 rounded font-mono" style={{ backgroundColor: '#E6E2D9', color: '#71717A' }}>ESC</kbd>
           <button
             onClick={onClose}
-            className="flex-shrink-0 p-1 rounded hover:bg-content-border transition-colors"
+            className="flex-shrink-0 p-1 rounded hover:bg-[#E6E2D9] transition-colors"
           >
             <X className="w-4 h-4" style={{ color: '#71717A' }} />
           </button>
@@ -265,24 +289,39 @@ function SearchOverlay({
         {/* Results */}
         <div className="max-h-80 overflow-y-auto">
           {loading && (
-            <div className="px-5 py-4 text-sm" style={{ color: '#71717A' }}>Searching...</div>
-          )}
-          {!loading && query && results.length === 0 && (
-            <div className="px-5 py-6 text-center text-sm" style={{ color: '#71717A' }}>
-              No results for &ldquo;{query}&rdquo;
+            <div className="px-5 py-4 text-sm flex items-center gap-2" style={{ color: '#71717A' }}>
+              <div className="w-3.5 h-3.5 border-2 border-[#71717A] border-t-transparent rounded-full animate-spin" />
+              Searching...
             </div>
           )}
-          {!loading && results.map((result) => {
+
+          {/* No results */}
+          {!loading && query.trim() && results.length === 0 && (
+            <div className="px-5 py-8 text-center">
+              <div className="text-sm mb-1" style={{ color: '#52525B' }}>No results for &ldquo;{query}&rdquo;</div>
+              <div className="text-xs" style={{ color: '#71717A' }}>Try a different keyword or check spelling.</div>
+            </div>
+          )}
+
+          {/* Recommended header */}
+          {showHeader && (
+            <div className="px-5 pt-3 pb-1 text-xs font-semibold uppercase tracking-wider" style={{ color: '#71717A' }}>
+              Recommended
+            </div>
+          )}
+
+          {/* Result items */}
+          {!loading && displayResults.map((result) => {
             const color = getTypeColor(result.type)
             return (
               <Link
                 key={`${result.type}-${result.slug}`}
                 href={getTypeHref(result.type, result.slug)}
                 onClick={onClose}
-                className="flex items-start gap-3 px-5 py-3 transition-colors hover:bg-content-border"
+                className="flex items-start gap-3 px-5 py-3 transition-colors hover:bg-[#E6E2D9]/60"
                 style={{ borderBottom: '1px solid #E6E2D9' }}
               >
-                <span className={`mt-0.5 w-2 h-2 rounded-full flex-shrink-0 ${color.dot}`} />
+                <span className={`mt-1 w-2 h-2 rounded-full flex-shrink-0 ${color.dot}`} />
                 <div className="flex-1 min-w-0">
                   <div className="flex items-center gap-2 mb-0.5">
                     <span className={`text-xs font-medium px-2 py-0.5 rounded-full ${color.bg} ${color.text}`}>
@@ -292,26 +331,53 @@ function SearchOverlay({
                       <span className="text-xs" style={{ color: '#71717A' }}>{result.year}</span>
                     )}
                   </div>
-                  <div className="text-sm font-medium truncate" style={{ color: '#18181B' }}>
+                  <div className="text-sm font-medium leading-snug" style={{ color: '#18181B' }}>
                     {result.title}
                   </div>
-                  {result.subtitle && (
+                  {result.snippet && (
+                    <div
+                      className="text-xs mt-0.5 leading-relaxed line-clamp-2"
+                      style={{ color: '#52525B' }}
+                      dangerouslySetInnerHTML={{ __html: result.snippet }}
+                    />
+                  )}
+                  {!result.snippet && result.subtitle && (
                     <div className="text-xs mt-0.5 truncate" style={{ color: '#71717A' }}>
                       {result.subtitle}
                     </div>
                   )}
                 </div>
-                <ArrowRight className="w-3.5 h-3.5 flex-shrink-0 mt-1 opacity-40" style={{ color: '#71717A' }} />
+                <ArrowRight className="w-3.5 h-3.5 flex-shrink-0 mt-1 opacity-30" style={{ color: '#71717A' }} />
               </Link>
             )
           })}
-          {!loading && !query && (
-            <div className="px-5 py-6 text-center text-sm" style={{ color: '#71717A' }}>
+
+          {/* Empty state (no query, no recommendations) */}
+          {!loading && !query.trim() && recommended.length === 0 && (
+            <div className="px-5 py-8 text-center text-sm" style={{ color: '#71717A' }}>
               Start typing to search across letters, concepts, companies, and people.
             </div>
           )}
         </div>
+
+        {/* Footer hint */}
+        {query.trim() && results.length > 0 && (
+          <div className="px-5 py-2 text-xs flex items-center justify-between" style={{ borderTop: '1px solid #E6E2D9', color: '#71717A' }}>
+            <span>{results.length} result{results.length !== 1 ? 's' : ''} found</span>
+            <span>↑↓ to navigate · ESC to close</span>
+          </div>
+        )}
       </div>
+
+      {/* <mark> highlight style */}
+      <style dangerouslySetInnerHTML={{ __html: `
+        mark {
+          background-color: #FEF08A !important;
+          color: #18181B !important;
+          padding: 0 2px;
+          border-radius: 2px;
+        }
+      `}} />
     </div>
   )
 }

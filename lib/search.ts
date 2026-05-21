@@ -6,45 +6,74 @@ import { companies } from '@/data/companies'
 import { people } from '@/data/people'
 
 // ============================================================
-// Simple client-side search using FlexSearch
+// Optimized client-side search using FlexSearch
+// – Uses slug as the index key (O(1) lookup, no .find() loop)
+// – Adds snippet/keyword highlight support
 // ============================================================
 
-// Simple search index using FlexSearch
-const letterIndex = new FlexSearch.Index({ tokenize: 'forward' })
-const letterMap: Record<string, { title: string; summary: string; year: number }> = {}
+// ── Letters ───────────────────────────────────────────────────
 
-for (let i = 0; i < allLetters.length; i++) {
-  const letter = allLetters[i]
-  letterIndex.add(i, `${letter.title} ${letter.summary}`)
-  letterMap[i.toString()] = { title: letter.title, summary: letter.summary, year: letter.year }
+const letterIndex = new FlexSearch.Index({ tokenize: 'forward' })
+const letterDocs: Record<string, { title: string; summary: string; year: number }> = {}
+
+for (const letter of allLetters) {
+  letterDocs[letter.slug] = { title: letter.title, summary: letter.summary, year: letter.year }
+  letterIndex.add(letter.slug, `${letter.title} ${letter.summary}`)
 }
+
+// ── Concepts ─────────────────────────────────────────────────
 
 const conceptIndex = new FlexSearch.Index({ tokenize: 'forward' })
-const conceptMap: Record<string, { name: string; definition: string }> = {}
+const conceptDocs: Record<string, { name: string; definition: string }> = {}
 
-for (let i = 0; i < concepts.length; i++) {
-  const concept = concepts[i]
-  conceptIndex.add(i, `${concept.name} ${concept.definition}`)
-  conceptMap[i.toString()] = { name: concept.name, definition: concept.definition }
+for (const c of concepts) {
+  conceptDocs[c.slug] = { name: c.name, definition: c.definition }
+  conceptIndex.add(c.slug, `${c.name} ${c.definition}`)
 }
+
+// ── Companies ────────────────────────────────────────────────
 
 const companyIndex = new FlexSearch.Index({ tokenize: 'forward' })
-const companyMap: Record<string, { name: string; industry: string }> = {}
+const companyDocs: Record<string, { name: string; industry: string }> = {}
 
-for (let i = 0; i < companies.length; i++) {
-  const company = companies[i]
-  companyIndex.add(i, `${company.name} ${company.industry}`)
-  companyMap[i.toString()] = { name: company.name, industry: company.industry }
+for (const c of companies) {
+  companyDocs[c.slug] = { name: c.name, industry: c.industry }
+  companyIndex.add(c.slug, `${c.name} ${c.industry}`)
 }
+
+// ── People ───────────────────────────────────────────────────
 
 const personIndex = new FlexSearch.Index({ tokenize: 'forward' })
-const personMap: Record<string, { name: string; role: string }> = {}
+const personDocs: Record<string, { name: string; role: string }> = {}
 
-for (let i = 0; i < people.length; i++) {
-  const person = people[i]
-  personIndex.add(i, `${person.name} ${person.role}`)
-  personMap[i.toString()] = { name: person.name, role: person.role }
+for (const p of people) {
+  personDocs[p.slug] = { name: p.name, role: p.role }
+  personIndex.add(p.slug, `${p.name} ${p.role}`)
 }
+
+// ── Helpers ──────────────────────────────────────────────────
+
+/** Truncate text and append "..." */
+function truncate(text: string, max = 80): string {
+  if (!text) return ''
+  return text.length > max ? text.slice(0, max) + '...' : text
+}
+
+/** Highlight query keywords in text (wraps matches in <mark>) */
+export function highlightText(text: string, query: string): string {
+  if (!query.trim()) return text
+  const words = query.trim().split(/\s+/).filter(w => w.length >= 2)
+  if (words.length === 0) return text
+  let out = text
+  for (const word of words) {
+    const escaped = word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+    const regex = new RegExp(`(${escaped})`, 'gi')
+    out = out.replace(regex, '<mark>$1</mark>')
+  }
+  return out
+}
+
+// ── Search ─────────────────────────────────────────────────────
 
 export function search(query: string): SearchResult[] {
   if (!query.trim()) return []
@@ -52,66 +81,113 @@ export function search(query: string): SearchResult[] {
   const results: SearchResult[] = []
   const seen = new Set<string>()
 
+  const limitPerType = 8
+  const totalLimit = 20
+
   // Search letters
-  const letterResults = letterIndex.search(query, { limit: 10 }) as string[]
-  for (const id of letterResults) {
-    const data = letterMap[id]
-    if (!data || seen.has(`letter-${id}`)) continue
-    seen.add(`letter-${id}`)
-    const letter = allLetters.find((l) => l.slug === Object.keys(letterMap).find((k) => letterMap[k] === data))
+  const letterHits = letterIndex.search(query, { limit: limitPerType }) as string[]
+  for (const slug of letterHits) {
+    if (seen.has(`letter-${slug}`)) continue
+    seen.add(`letter-${slug}`)
+    const doc = letterDocs[slug]
+    if (!doc) continue
     results.push({
       type: 'letter',
-      slug: letter?.slug || id,
-      title: data.title,
-      subtitle: data.summary.slice(0, 80) + '...',
-      year: data.year,
+      slug,
+      title: doc.title,
+      subtitle: truncate(doc.summary),
+      year: doc.year,
+      snippet: highlightText(doc.summary.slice(0, 160), query),
     })
+    if (results.length >= totalLimit) break
   }
 
   // Search concepts
-  const conceptResults = conceptIndex.search(query, { limit: 10 }) as string[]
-  for (const id of conceptResults) {
-    const data = conceptMap[id]
-    if (!data || seen.has(`concept-${id}`)) continue
-    seen.add(`concept-${id}`)
-    const concept = concepts.find((c) => c.slug === Object.keys(conceptMap).find((k) => conceptMap[k] === data))
+  const conceptHits = conceptIndex.search(query, { limit: limitPerType }) as string[]
+  for (const slug of conceptHits) {
+    if (seen.has(`concept-${slug}`)) continue
+    seen.add(`concept-${slug}`)
+    const doc = conceptDocs[slug]
+    if (!doc) continue
     results.push({
       type: 'concept',
-      slug: concept?.slug || id,
-      title: data.name,
-      subtitle: data.definition.slice(0, 80) + '...',
+      slug,
+      title: doc.name,
+      subtitle: truncate(doc.definition),
+      snippet: highlightText(doc.definition.slice(0, 160), query),
     })
+    if (results.length >= totalLimit) break
   }
 
   // Search companies
-  const companyResults = companyIndex.search(query, { limit: 10 }) as string[]
-  for (const id of companyResults) {
-    const data = companyMap[id]
-    if (!data || seen.has(`company-${id}`)) continue
-    seen.add(`company-${id}`)
-    const company = companies.find((c) => c.slug === Object.keys(companyMap).find((k) => companyMap[k] === data))
+  const companyHits = companyIndex.search(query, { limit: limitPerType }) as string[]
+  for (const slug of companyHits) {
+    if (seen.has(`company-${slug}`)) continue
+    seen.add(`company-${slug}`)
+    const doc = companyDocs[slug]
+    if (!doc) continue
     results.push({
       type: 'company',
-      slug: company?.slug || id,
-      title: data.name,
-      subtitle: data.industry,
+      slug,
+      title: doc.name,
+      subtitle: doc.industry,
+      snippet: highlightText(doc.industry, query),
     })
+    if (results.length >= totalLimit) break
   }
 
   // Search people
-  const personResults = personIndex.search(query, { limit: 10 }) as string[]
-  for (const id of personResults) {
-    const data = personMap[id]
-    if (!data || seen.has(`person-${id}`)) continue
-    seen.add(`person-${id}`)
-    const person = people.find((p) => p.slug === Object.keys(personMap).find((k) => personMap[k] === data))
+  const personHits = personIndex.search(query, { limit: limitPerType }) as string[]
+  for (const slug of personHits) {
+    if (seen.has(`person-${slug}`)) continue
+    seen.add(`person-${slug}`)
+    const doc = personDocs[slug]
+    if (!doc) continue
     results.push({
       type: 'person',
-      slug: person?.slug || id,
-      title: data.name,
-      subtitle: data.role,
+      slug,
+      title: doc.name,
+      subtitle: doc.role,
+      snippet: highlightText(doc.role, query),
     })
+    if (results.length >= totalLimit) break
   }
 
-  return results.slice(0, 20)
+  return results.slice(0, totalLimit)
+}
+
+// ── Recommended content (shown when query is empty) ─────────
+
+const RECOMMEND_LETTERS = [
+  '1956-partnership-letter',
+  '1969-partnership-letter',
+  '1977-berkshire-letter',
+  '1987-berkshire-letter',
+  '1998-berkshire-letter',
+]
+
+const RECOMMEND_CONCEPTS = [
+  'intrinsic-value',
+  'margin-of-safety',
+  'economic-moat',
+  'circle-of-competence',
+  'mr-market',
+]
+
+export function getRecommendedResults(): SearchResult[] {
+  const results: SearchResult[] = []
+
+  for (const slug of RECOMMEND_LETTERS) {
+    const doc = letterDocs[slug]
+    if (!doc) continue
+    results.push({ type: 'letter', slug, title: doc.title, subtitle: truncate(doc.summary), year: doc.year })
+  }
+
+  for (const slug of RECOMMEND_CONCEPTS) {
+    const doc = conceptDocs[slug]
+    if (!doc) continue
+    results.push({ type: 'concept', slug, title: doc.name, subtitle: truncate(doc.definition) })
+  }
+
+  return results
 }
