@@ -11,6 +11,7 @@
 import { useState, useRef, useEffect } from 'react'
 import Link from 'next/link'
 import { MessageCircle, Send, Loader2, ExternalLink, BookOpen, ArrowRight, RefreshCw, Share2 } from 'lucide-react'
+import { AdUnit } from '@/components/AdUnit'
 
 // ─────────────────────────────────────────────────────────────
 // Types
@@ -498,6 +499,9 @@ export default function AskPage() {
                 ))}
               </div>
             </div>
+
+            {/* AdSense — Sidebar placeholder */}
+            <AdUnit variant="sidebar" />
 
             {/* Related Links */}
             <div

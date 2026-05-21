@@ -5,13 +5,13 @@ import { useEffect, useRef } from 'react'
 // AdSense ad slot configuration
 interface AdUnitProps {
   /** Your AdSense publisher ID (e.g. ca-pub-XXXXXXXX) */
-  client: string
+  client?: string
   /** AdSense ad slot ID (e.g. XXXXXXXXXX) */
-  slot: string
+  slot?: string
   /** Ad format */
-  format: 'horizontal' | 'rectangle' | 'vertical' | 'auto'
+  format?: 'horizontal' | 'rectangle' | 'vertical' | 'auto'
   /** Display variant */
-  variant: 'header' | 'sidebar' | 'inline' | 'footer'
+  variant?: 'header' | 'sidebar' | 'inline' | 'footer'
   className?: string
 }
 
