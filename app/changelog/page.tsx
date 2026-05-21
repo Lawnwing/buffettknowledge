@@ -1,8 +1,17 @@
 import type { Metadata } from 'next'
+import Link from 'next/link'
+import { ArrowRight, Github, Zap, BookOpen, Lightbulb, Building2, Users, MessageCircle, ExternalLink } from 'lucide-react'
+import { JsonLd } from '@/components/JsonLd'
+import { AdUnit } from '@/components/AdUnit'
+import { stats } from '@/data/letters'
+import { concepts } from '@/data/concepts'
+import { companies } from '@/data/companies'
+import { people } from '@/data/people'
 
 export const metadata: Metadata = {
   title: 'Changelog',
-  description: 'See how BuffettKnowledge has evolved — from launch to the latest features.',
+  description: 'See how BuffettKnowledge has evolved — new letters, AI Q&A improvements, SEO enhancements, and the latest features.',
+  alternates: { canonical: 'https://buffettknowledge.com/changelog' },
 }
 
 interface ChangelogEntry {
@@ -10,9 +19,39 @@ interface ChangelogEntry {
   version: string
   title: string
   items: string[]
+  highlight?: string
 }
 
 const changelog: ChangelogEntry[] = [
+  {
+    date: '2026-05-21',
+    version: 'v2.0',
+    title: 'Full-Text Expansion & Letter Intelligence',
+    highlight: 'Major content push',
+    items: [
+      '1971–1976 Berkshire shareholder letters: full-text data entry complete (6 letters, ~73K words)',
+      '1968–1970 partnership letters: full-text data entry complete (7 letters including dissolution notices)',
+      'Rich interpretation framework launched: Market Context, Key Numbers, Then vs Now comparisons per letter',
+      'Auto-linking in letter text: keywords now link to concepts, companies, and people inline',
+      'About page redesigned with FAQ section, stats sidebar, and FAQPage structured data for SEO',
+      'Changelog page upgraded with version sidebar navigation and archive highlights',
+    ],
+  },
+  {
+    date: '2026-05-20',
+    version: 'v1.9',
+    title: 'AI Q&A Reliability & Source Citations',
+    highlight: 'Core feature fix',
+    items: [
+      'AI Q&A API migrated from Gemini to OpenRouter (free tier, no credit card required)',
+      'Real search data integration: 82 letters, 49 concepts, 32 companies now powering AI retrieval',
+      'Clickable source tags added under every AI answer — jump directly to referenced letters, concepts, or companies',
+      'Typewriter effect race-condition bug fixed (infinite loading spinner resolved)',
+      'Empty sources bug fixed: hardcoded test data replaced with live dataset via prebuild script',
+      'AdSense sidebar placeholder added to AI Q&A page for future monetization',
+      '"New Chat" button visibility improved (solid green background)',
+    ],
+  },
   {
     date: '2026-05-19',
     version: 'v1.8',
@@ -136,86 +175,283 @@ const changelog: ChangelogEntry[] = [
   },
 ]
 
+const jsonLdBreadcrumb = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    {
+      '@type': 'ListItem',
+      position: 1,
+      name: 'Home',
+      item: 'https://buffettknowledge.com',
+    },
+    {
+      '@type': 'ListItem',
+      position: 2,
+      name: 'Changelog',
+      item: 'https://buffettknowledge.com/changelog',
+    },
+  ],
+}
+
 export default function ChangelogPage() {
   return (
     <div className="max-w-7xl mx-auto px-6 sm:px-10 py-10">
-      <div className="mb-10">
-        <h1 className="font-display text-4xl font-bold mb-3" style={{ color: '#18181B' }}>
-          Changelog
-        </h1>
-        <p className="text-base" style={{ color: '#71717A' }}>
-          A running history of how BuffettKnowledge has evolved.
-        </p>
-      </div>
+      <JsonLd value={jsonLdBreadcrumb} />
 
-      <div className="relative">
-        {/* Timeline line */}
-        <div
-          className="absolute left-[7px] top-2 bottom-2 w-px"
-          style={{ backgroundColor: '#E6E2D9' }}
-        />
+      <div className="grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-10">
+        {/* Main Content */}
+        <div className="min-w-0">
+          <div className="mb-10">
+            <h1 className="font-display text-4xl font-bold mb-3" style={{ color: '#18181B' }}>
+              Changelog
+            </h1>
+            <p className="text-base" style={{ color: '#71717A' }}>
+              A running history of how BuffettKnowledge has evolved.
+            </p>
+          </div>
 
-        <div className="space-y-10">
-          {changelog.map((entry) => (
-            <div key={entry.date} className="relative pl-8">
-              {/* Dot */}
-              <div
-                className="absolute left-0 top-2 w-3.5 h-3.5 rounded-full border-2"
-                style={{
-                  backgroundColor: '#fff',
-                  borderColor: '#2D6A4F',
-                }}
-              />
+          <div className="relative">
+            {/* Timeline line */}
+            <div
+              className="absolute left-[7px] top-2 bottom-2 w-px"
+              style={{ backgroundColor: '#E6E2D9' }}
+            />
 
-              {/* Header */}
-              <div className="flex flex-wrap items-center gap-3 mb-3">
-                <span
-                  className="text-xs font-mono font-medium px-2 py-0.5 rounded"
-                  style={{ backgroundColor: '#E9F5EF', color: '#2D6A4F' }}
-                >
-                  {entry.date}
-                </span>
-                <span
-                  className="text-xs font-semibold px-2 py-0.5 rounded"
-                  style={{ backgroundColor: '#F4F4F5', color: '#71717A' }}
-                >
-                  {entry.version}
-                </span>
-              </div>
+            <div className="space-y-10">
+              {changelog.map((entry) => (
+                <div key={`${entry.date}-${entry.version}`} className="relative pl-8" id={entry.version}>
+                  {/* Dot */}
+                  <div
+                    className="absolute left-0 top-2 w-3.5 h-3.5 rounded-full border-2"
+                    style={{
+                      backgroundColor: entry.highlight ? '#2D6A4F' : '#fff',
+                      borderColor: '#2D6A4F',
+                    }}
+                  />
 
-              <h2
-                className="font-display text-xl font-semibold mb-3"
-                style={{ color: '#18181B' }}
-              >
-                {entry.title}
-              </h2>
-
-              <ul className="space-y-2">
-                {entry.items.map((item, i) => (
-                  <li
-                    key={i}
-                    className="flex items-start gap-2.5 text-sm leading-relaxed"
-                    style={{ color: '#3F3F46' }}
-                  >
+                  {/* Header */}
+                  <div className="flex flex-wrap items-center gap-3 mb-3">
                     <span
-                      className="w-1.5 h-1.5 rounded-full flex-shrink-0 mt-1.5"
-                      style={{ backgroundColor: '#7EC39C' }}
-                    />
-                    {item}
-                  </li>
-                ))}
-              </ul>
-            </div>
-          ))}
-        </div>
-      </div>
+                      className="text-xs font-mono font-medium px-2 py-0.5 rounded"
+                      style={{ backgroundColor: '#E9F5EF', color: '#2D6A4F' }}
+                    >
+                      {entry.date}
+                    </span>
+                    <span
+                      className="text-xs font-semibold px-2 py-0.5 rounded"
+                      style={{ backgroundColor: '#F4F4F5', color: '#71717A' }}
+                    >
+                      {entry.version}
+                    </span>
+                    {entry.highlight && (
+                      <span
+                        className="text-xs font-semibold px-2 py-0.5 rounded flex items-center gap-1"
+                        style={{ backgroundColor: '#FEF3C7', color: '#B45309' }}
+                      >
+                        <Zap className="w-3 h-3" />
+                        {entry.highlight}
+                      </span>
+                    )}
+                  </div>
 
-      {/* Footer note */}
-      <div
-        className="mt-12 pt-6 text-xs text-center"
-        style={{ color: '#A1A1AA', borderTop: '1px solid #E6E2D9' }}
-      >
-        Something missing? Let us know or open an issue on GitHub.
+                  <h2
+                    className="font-display text-xl font-semibold mb-3"
+                    style={{ color: '#18181B' }}
+                  >
+                    {entry.title}
+                  </h2>
+
+                  <ul className="space-y-2">
+                    {entry.items.map((item, i) => (
+                      <li
+                        key={i}
+                        className="flex items-start gap-2.5 text-sm leading-relaxed"
+                        style={{ color: '#3F3F46' }}
+                      >
+                        <span
+                          className="w-1.5 h-1.5 rounded-full flex-shrink-0 mt-1.5"
+                          style={{ backgroundColor: '#7EC39C' }}
+                        />
+                        {item}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              ))}
+            </div>
+          </div>
+
+          {/* Footer note */}
+          <div
+            className="mt-12 pt-6 text-xs text-center"
+            style={{ color: '#A1A1AA', borderTop: '1px solid #E6E2D9' }}
+          >
+            Something missing?{' '}
+            <a
+              href="https://github.com/buffettknowledge/buffettknowledge/issues"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="transition-colors hover:underline"
+              style={{ color: '#2D6A4F' }}
+            >
+              Open an issue on GitHub
+            </a>{' '}
+            or{' '}
+            <a
+              href="mailto:hello@buffettknowledge.com"
+              className="transition-colors hover:underline"
+              style={{ color: '#2D6A4F' }}
+            >
+              send us an email
+            </a>.
+          </div>
+        </div>
+
+        {/* Sidebar */}
+        <aside className="space-y-6">
+          {/* Version Quick Nav */}
+          <div
+            className="rounded-xl p-5"
+            style={{ backgroundColor: '#fff', border: '1px solid #E6E2D9' }}
+          >
+            <h3
+              className="text-xs font-semibold uppercase tracking-wider mb-4"
+              style={{ color: '#71717A' }}
+            >
+              Jump to Version
+            </h3>
+            <div className="space-y-1 max-h-72 overflow-y-auto pr-1">
+              {changelog.map((entry) => (
+                <a
+                  key={entry.version}
+                  href={`#${entry.version}`}
+                  className="flex items-center gap-2 px-2.5 py-1.5 rounded-md text-xs transition-colors hover:bg-[#F9F7F3]"
+                  style={{ color: '#3F3F46' }}
+                >
+                  <span
+                    className="font-mono font-medium flex-shrink-0"
+                    style={{ color: '#2D6A4F', minWidth: '2.25rem' }}
+                  >
+                    {entry.version}
+                  </span>
+                  <span className="truncate">{entry.title}</span>
+                </a>
+              ))}
+            </div>
+          </div>
+
+          {/* Latest Highlight */}
+          <div
+            className="rounded-xl p-5"
+            style={{ backgroundColor: '#2D6A4F' }}
+          >
+            <h3
+              className="text-xs font-semibold uppercase tracking-wider mb-3 text-white/70"
+            >
+              Latest Release
+            </h3>
+            <div className="text-white font-display font-bold text-lg mb-1">
+              {changelog[0].version}
+            </div>
+            <div className="text-white/80 text-sm mb-3">
+              {changelog[0].title}
+            </div>
+            <div className="text-white/60 text-xs mb-4">
+              {changelog[0].date}
+            </div>
+            <a
+              href={`#${changelog[0].version}`}
+              className="inline-flex items-center gap-1.5 text-xs text-white/90 transition-colors hover:text-white"
+            >
+              View details <ArrowRight className="w-3 h-3" />
+            </a>
+          </div>
+
+          {/* Stats Card */}
+          <div
+            className="rounded-xl p-5"
+            style={{ backgroundColor: '#fff', border: '1px solid #E6E2D9' }}
+          >
+            <h3
+              className="text-xs font-semibold uppercase tracking-wider mb-4"
+              style={{ color: '#71717A' }}
+            >
+              Current Archive
+            </h3>
+            <div className="space-y-3">
+              {[
+                { label: 'Letters', value: stats.totalLetters, icon: BookOpen },
+                { label: 'Concepts', value: concepts.length, icon: Lightbulb },
+                { label: 'Companies', value: companies.length, icon: Building2 },
+                { label: 'People', value: people.length, icon: Users },
+              ].map((stat) => (
+                <div key={stat.label} className="flex items-center gap-3">
+                  <div
+                    className="w-8 h-8 rounded-lg flex items-center justify-center flex-shrink-0"
+                    style={{ backgroundColor: '#E9F5EF' }}
+                  >
+                    <stat.icon className="w-4 h-4" style={{ color: '#2D6A4F' }} />
+                  </div>
+                  <div className="flex-1">
+                    <div className="text-sm font-medium" style={{ color: '#18181B' }}>
+                      {stat.label}
+                    </div>
+                  </div>
+                  <div
+                    className="font-display font-bold text-sm"
+                    style={{ color: '#2D6A4F' }}
+                  >
+                    {stat.value}
+                  </div>
+                </div>
+              ))}
+            </div>
+            <div className="mt-4 pt-3 text-center" style={{ borderTop: '1px solid #E6E2D9' }}>
+              <span className="text-xs" style={{ color: '#A1A1AA' }}>
+                {stats.yearsCovered} years covered
+              </span>
+            </div>
+          </div>
+
+          {/* AdSense Placeholder */}
+          <AdUnit variant="sidebar" />
+
+          {/* External Links */}
+          <div
+            className="rounded-xl p-5"
+            style={{ backgroundColor: '#F9F7F3', border: '1px solid #E6E2D9' }}
+          >
+            <h3
+              className="text-xs font-semibold uppercase tracking-wider mb-3"
+              style={{ color: '#71717A' }}
+            >
+              Resources
+            </h3>
+            <div className="space-y-2">
+              <a
+                href="https://github.com/buffettknowledge/buffettknowledge"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-2 text-sm transition-colors hover:underline"
+                style={{ color: '#2D6A4F' }}
+              >
+                <Github className="w-4 h-4" />
+                GitHub Repository
+                <ExternalLink className="w-3 h-3 opacity-50" />
+              </a>
+              <Link
+                href="/about"
+                className="flex items-center gap-2 text-sm transition-colors hover:underline"
+                style={{ color: '#2D6A4F' }}
+              >
+                <MessageCircle className="w-4 h-4" />
+                About This Project
+                <ArrowRight className="w-3 h-3 opacity-50" />
+              </Link>
+            </div>
+          </div>
+        </aside>
       </div>
     </div>
   )
