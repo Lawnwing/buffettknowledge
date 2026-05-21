@@ -125,7 +125,7 @@ function buildContext(query: string): string {
 // OpenRouter API (OpenAI-compatible, free tier)
 // ────────────────────────────────────────────────────────────
 
-const OPENROUTER_MODEL = 'google/gemini-flash-2.0:free'
+const OPENROUTER_MODEL = 'deepseek/deepseek-v4-flash:free'
 const OPENROUTER_API = 'https://openrouter.ai/api/v1/chat/completions'
 
 async function generateAnswer(question: string, context: string, apiKey: string): Promise<string> {
