@@ -4,7 +4,6 @@ import { useState } from 'react'
 import { FileDown, Loader2, BookOpen } from 'lucide-react'
 import type { Letter } from '@/data/types'
 import { generateLetterPdf, generateBundlePdf } from '@/lib/generate-pdf'
-import { generateEpub } from '@/lib/generate-epub'
 
 // ── single-letter download button ─────────────────────────────────────
 
@@ -18,6 +17,7 @@ export function DownloadPdfButton({ letter }: DownloadPdfButtonProps) {
   const handle = async () => {
     setBusy(true)
     try {
+      const { generateLetterPdf } = await import('@/lib/generate-pdf')
       generateLetterPdf({
         slug: letter.slug,
         title: letter.title,
@@ -28,26 +28,27 @@ export function DownloadPdfButton({ letter }: DownloadPdfButtonProps) {
     } catch (e: any) {
       alert(`PDF generation failed: ${e.message}`)
     } finally {
-      // jsPDF triggers download in a new tick; small delay feels natural
       setTimeout(() => setBusy(false), 1200)
     }
   }
 
+  const disabled = busy || !letter.fullText || letter.fullText.length < 50
+
   return (
     <button
       onClick={handle}
-      disabled={busy || !letter.fullText || letter.fullText.length < 50}
-      className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs rounded-md transition-colors
+      disabled={disabled}
+      className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-medium rounded-md transition-colors
                  disabled:opacity-40 disabled:cursor-not-allowed"
       style={{
-        backgroundColor: busy ? '#ddd' : '#2D6A4F',
-        color: '#FFFFF',
+        backgroundColor: disabled ? '#E5E7EB' : '#2D6A4F',
+        color: '#FFFFFF',
       }}
       onMouseEnter={(e) => {
-        if (!busy) (e.target as HTMLElement).style.backgroundColor = '#1E4A36'
+        if (!disabled) (e.target as HTMLElement).style.backgroundColor = '#235540'
       }}
       onMouseLeave={(e) => {
-        if (!busy) (e.target as HTMLElement).style.backgroundColor = '#2D6A4F'
+        if (!disabled) (e.target as HTMLElement).style.backgroundColor = '#2D6A4F'
       }}
     >
       {busy ? (
@@ -55,7 +56,7 @@ export function DownloadPdfButton({ letter }: DownloadPdfButtonProps) {
       ) : (
         <FileDown className="w-3 h-3" />
       )}
-      {busy ? 'Generating…' : 'PDF'}
+      {busy ? 'PDF' : 'PDF'}
     </button>
   )
 }
@@ -85,6 +86,7 @@ export function DownloadBundleButton({
 
     setBusy(true)
     try {
+      const { generateBundlePdf } = await import('@/lib/generate-pdf')
       generateBundlePdf(
         fileName.replace('.pdf', '').replace(/-/g, ' '),
         withText.map((l) => ({
@@ -107,14 +109,14 @@ export function DownloadBundleButton({
     <button
       onClick={handle}
       disabled={busy}
-      className="inline-flex items-center gap-2 px-5 py-2.5 text-sm font-medium rounded-lg transition-colors
+      className="inline-flex items-center gap-2 px-5 py-2.5 text-sm font-semibold rounded-lg transition-colors
                  disabled:opacity-40 disabled:cursor-not-allowed"
       style={{
-        backgroundColor: busy ? '#ddd' : '#2D6A4F',
-        color: '#FFFFF',
+        backgroundColor: busy ? '#D1D5DB' : '#2D6A4F',
+        color: '#FFFFFF',
       }}
       onMouseEnter={(e) => {
-        if (!busy) (e.currentTarget as HTMLElement).style.backgroundColor = '#1E4A36'
+        if (!busy) (e.currentTarget as HTMLElement).style.backgroundColor = '#235540'
       }}
       onMouseLeave={(e) => {
         if (!busy) (e.currentTarget as HTMLElement).style.backgroundColor = '#2D6A4F'
@@ -125,21 +127,23 @@ export function DownloadBundleButton({
       ) : (
         <FileDown className="w-4 h-4" />
       )}
-      {busy ? 'Generating…' : 'Download PDF'}
+      {busy ? 'Generating' : 'Download PDF'}
     </button>
   )
 }
 
-// ── epub bundle download button ─────────────────────────────────────
+// ── epub download button ─────────────────────────────────────────────
 
 interface DownloadEpubButtonProps {
   letters: Letter[]
   fileName: string
+  size?: 'sm' | 'md'
 }
 
 export function DownloadEpubButton({
   letters,
   fileName,
+  size = 'md',
 }: DownloadEpubButtonProps) {
   const [busy, setBusy] = useState(false)
 
@@ -172,29 +176,34 @@ export function DownloadEpubButton({
     }
   }
 
+  const isSm = size === 'sm'
+
   return (
     <button
       onClick={handle}
       disabled={busy}
-      className="inline-flex items-center gap-2 px-5 py-2.5 text-sm font-medium rounded-lg transition-colors
+      className="inline-flex items-center gap-1.5 rounded-lg transition-colors
                  disabled:opacity-40 disabled:cursor-not-allowed"
       style={{
-        backgroundColor: busy ? '#ddd' : '#1E40AF',
-        color: '#FFFFF',
+        backgroundColor: busy ? '#D1D5DB' : '#D97706',
+        color: '#FFFFFF',
+        padding: isSm ? '6px 12px' : '10px 20px',
+        fontSize: isSm ? '12px' : '14px',
+        fontWeight: 600,
       }}
       onMouseEnter={(e) => {
-        if (!busy) (e.currentTarget as HTMLElement).style.backgroundColor = '#1E3A8A'
+        if (!busy) (e.currentTarget as HTMLElement).style.backgroundColor = '#B45309'
       }}
       onMouseLeave={(e) => {
-        if (!busy) (e.currentTarget as HTMLElement).style.backgroundColor = '#1E40AF'
+        if (!busy) (e.currentTarget as HTMLElement).style.backgroundColor = '#D97706'
       }}
     >
       {busy ? (
-        <Loader2 className="w-4 h-4 animate-spin" />
+        <Loader2 className="w-3.5 h-3.5 animate-spin" />
       ) : (
-        <BookOpen className="w-4 h-4" />
+        <BookOpen className="w-3.5 h-3.5" />
       )}
-      {busy ? 'Generating…' : 'EPUB'}
+      {busy ? 'EPUB' : 'EPUB'}
     </button>
   )
 }
