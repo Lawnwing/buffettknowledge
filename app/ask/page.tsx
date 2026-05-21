@@ -2,14 +2,15 @@
  * BuffettKnowledge - Ask Page
  *
  * Dedicated page for AI-powered Q&A about Buffett letters.
- * Features a full chat interface with conversation history.
+ * Features a full chat interface with conversation history, typewriter effect,
+ * regenerate, and localStorage persistence.
  */
 
 'use client'
 
 import { useState, useRef, useEffect } from 'react'
 import Link from 'next/link'
-import { MessageCircle, Send, Loader2, ExternalLink, BookOpen, ArrowRight } from 'lucide-react'
+import { MessageCircle, Send, Loader2, ExternalLink, BookOpen, ArrowRight, RefreshCw, Share2 } from 'lucide-react'
 
 // ─────────────────────────────────────────────────────────────
 // Types
@@ -80,15 +81,94 @@ const EXAMPLE_QUESTIONS = [
 // ─────────────────────────────────────────────────────────────
 
 export default function AskPage() {
-  const [messages, setMessages] = useState<Message[]>([WELCOME_MESSAGE])
+  const [messages, setMessages] = useState<Message[]>(() => {
+    if (typeof window === 'undefined') return [WELCOME_MESSAGE]
+    try {
+      const saved = localStorage.getItem('bk_ask_history')
+      if (saved) {
+        const parsed = JSON.parse(saved)
+        if (Array.isArray(parsed) && parsed.length > 0) {
+          return parsed.map((m: any) => ({ ...m, timestamp: new Date(m.timestamp) }))
+        }
+      }
+    } catch {}
+    return [WELCOME_MESSAGE]
+  })
   const [input, setInput] = useState('')
   const [isLoading, setIsLoading] = useState(false)
+  const [typingContent, setTypingContent] = useState('')
+  const [typingSources, setTypingSources] = useState<SourceRef[]>([])
+  const [typingFullText, setTypingFullText] = useState('')
   const messagesEndRef = useRef<HTMLDivElement>(null)
+  const typingTimerRef = useRef<NodeJS.Timeout | null>(null)
+  const messagesRef = useRef(messages)
+  messagesRef.current = messages
 
   // Auto-scroll
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' })
+  }, [messages, typingContent])
+
+  // ── Persist to localStorage (P3) ──
+  useEffect(() => {
+    try {
+      const toSave = messages.length > 10 ? messages.slice(-10) : messages
+      localStorage.setItem('bk_ask_history', JSON.stringify(toSave))
+    } catch {}
   }, [messages])
+
+  // ── Typewriter effect (P2) ──
+  useEffect(() => {
+    if (!typingFullText) {
+      if (typingTimerRef.current) clearInterval(typingTimerRef.current)
+      return
+    }
+    if (typingContent === typingFullText) {
+      const assistantMessage: Message = {
+        id: `assistant-${Date.now()}`,
+        role: 'assistant',
+        content: typingFullText,
+        sources: typingSources,
+        timestamp: new Date(),
+      }
+      setMessages((prev) => [...prev, assistantMessage])
+      setTypingContent('')
+      setTypingFullText('')
+      setTypingSources([])
+      setIsLoading(false)
+      return
+    }
+    typingTimerRef.current = setInterval(() => {
+      setTypingContent((prev) => {
+        const nextLen = Math.min(prev.length + Math.floor(Math.random() * 3) + 2, typingFullText.length)
+        return typingFullText.slice(0, nextLen)
+      })
+    }, 30)
+    return () => {
+      if (typingTimerRef.current) clearInterval(typingTimerRef.current)
+    }
+  }, [typingFullText])
+
+  // ── Share conversation (P3) ──
+  const handleShare = async () => {
+    const shareable = messages
+      .filter(m => m.id !== 'welcome')
+      .map(m => `${m.role === 'user' ? 'Q' : 'A'}: ${m.content.slice(0, 200)}`)
+      .join('\n\n')
+    const shareUrl = `${window.location.origin}/ask#${btoa(unescape(encodeURIComponent(shareable))).slice(0, 500)}`
+    try {
+      await navigator.clipboard.writeText(shareUrl)
+      alert('Link copied to clipboard! Share it with others to show this conversation.')
+    } catch {
+      prompt('Copy this link to share the conversation:', shareUrl)
+    }
+  }
+
+  // ── Clear chat (P3) ──
+  const handleClearChat = () => {
+    setMessages([WELCOME_MESSAGE])
+    localStorage.removeItem('bk_ask_history')
+  }
 
   // Handle send
   const handleSend = async (question?: string) => {
@@ -116,32 +196,69 @@ export default function AskPage() {
       const data: AskResponse = await response.json()
 
       if (data.error) {
-        throw new Error(data.error)
+        let friendlyError = `😅 Something went wrong. `
+        if (data.error.includes('429') || data.error.toLowerCase().includes('rate')) {
+          friendlyError = `🚨 The AI is a bit busy right now (free tier rate limit). Please wait **10 seconds** and try again.`
+        } else if (data.error.includes('not configured') || data.error.includes('API key')) {
+          friendlyError = `⚠️ The AI service is not configured yet. Please check with the site administrator.`
+        } else if (data.error.includes('timeout') || data.error.includes('network') || data.error.includes('fetch')) {
+          friendlyError = `🌐 Network issue — please check your connection and try again.`
+        } else {
+          friendlyError = `😅 ${data.error}`
+        }
+        throw new Error(friendlyError)
       }
 
-      const assistantMessage: Message = {
-        id: `assistant-${Date.now()}`,
-        role: 'assistant',
-        content: data.answer,
-        sources: data.sources,
-        timestamp: new Date(),
-      }
-      setMessages((prev) => [...prev, assistantMessage])
-    } catch (error) {
+      // Start typewriter effect
+      setTypingSources(data.sources || [])
+      setTypingContent('')
+      setTypingFullText(data.answer)
+    } catch (error: any) {
       const errorMessage: Message = {
         id: `error-${Date.now()}`,
         role: 'assistant',
-        content: `I encountered an error processing your question. This might be because:
-
-1. **API not configured** - The AI service needs to be set up (see .env.local.example)
-2. **Network issue** - Please check your connection
-3. **Rate limit** - Please try again in a moment
-
-In the meantime, you can browse the letters directly using the navigation.`,
+        content: `${error.message || 'An unexpected error occurred.'}\n\nYou can also browse the letters directly using the navigation.`,
         timestamp: new Date(),
       }
       setMessages((prev) => [...prev, errorMessage])
-    } finally {
+      setIsLoading(false)
+    }
+  }
+
+  // Handle re-generating (P2)
+  const handleRegenerate = async (messageIndex: number) => {
+    if (isLoading) return
+    const prevUserMsg = [...messages]
+      .reverse()
+      .find((m, i) => {
+        const idx = messages.length - 1 - i
+        return idx < messageIndex && m.role === 'user'
+      })
+    if (!prevUserMsg) return
+
+    setMessages((prev) => prev.slice(0, messageIndex))
+    setIsLoading(true)
+
+    try {
+      const apiUrl = ASK_API_URL || '/api/ask'
+      const response = await fetch(apiUrl, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ question: prevUserMsg.content }),
+      })
+      const data: AskResponse = await response.json()
+      if (data.error) throw new Error(data.error)
+      setTypingSources(data.sources || [])
+      setTypingContent('')
+      setTypingFullText(data.answer)
+    } catch (error: any) {
+      const errorMessage: Message = {
+        id: `error-${Date.now()}`,
+        role: 'assistant',
+        content: `😅 ${error.message || 'Something went wrong. Please try again.'}`,
+        timestamp: new Date(),
+      }
+      setMessages((prev) => [...prev, errorMessage])
       setIsLoading(false)
     }
   }
@@ -158,20 +275,42 @@ In the meantime, you can browse the letters directly using the navigation.`,
       {/* ── Page Header ─────────────────────────────────── */}
       <div style={{ borderBottom: '1px solid #E6E2D9', backgroundColor: '#fff' }}>
         <div className="px-6 sm:px-10 py-10 max-w-7xl mx-auto">
-          <div className="flex items-center gap-3 mb-4">
-            <div
-              className="inline-flex items-center justify-center w-12 h-12 rounded-xl"
-              style={{ backgroundColor: '#E9F5EF' }}
-            >
-              <MessageCircle className="w-6 h-6" style={{ color: '#2D6A4F' }} />
+          <div className="flex items-center justify-between">
+            <div className="flex items-center gap-3">
+              <div
+                className="inline-flex items-center justify-center w-12 h-12 rounded-xl"
+                style={{ backgroundColor: '#E9F5EF' }}
+              >
+                <MessageCircle className="w-6 h-6" style={{ color: '#2D6A4F' }} />
+              </div>
+              <div>
+                <h1 className="font-display text-3xl font-bold" style={{ color: '#18181B' }}>
+                  Ask Buffett
+                </h1>
+                <p className="text-sm" style={{ color: '#71717A' }}>
+                  AI-powered Q&A based on 70 years of shareholder letters
+                </p>
+              </div>
             </div>
-            <div>
-              <h1 className="font-display text-3xl font-bold" style={{ color: '#18181B' }}>
-                Ask Buffett
-              </h1>
-              <p className="text-sm" style={{ color: '#71717A' }}>
-                AI-powered Q&A based on 70 years of shareholder letters
-              </p>
+            <div className="flex items-center gap-2">
+              <button
+                onClick={handleShare}
+                className="inline-flex items-center gap-1.5 px-3 py-2 rounded-lg text-sm transition-colors hover:opacity-80"
+                style={{ color: '#2D6A4F', border: '1px solid #A9D7BD' }}
+                title="Share this conversation"
+              >
+                <Share2 className="w-4 h-4" />
+                Share
+              </button>
+              <button
+                onClick={handleClearChat}
+                className="inline-flex items-center gap-1.5 px-3 py-2 rounded-lg text-sm transition-colors hover:opacity-80"
+                style={{ color: '#71717A', border: '1px solid #E6E2D9' }}
+                title="Clear chat history"
+              >
+                <RefreshCw className="w-4 h-4" />
+                New Chat
+              </button>
             </div>
           </div>
         </div>
@@ -241,31 +380,67 @@ In the meantime, you can browse the letters directly using the navigation.`,
                       {/* Sources */}
                       {message.sources && message.sources.length > 0 && (
                         <div className="mt-4 pt-4 border-t" style={{ borderColor: 'rgba(0,0,0,0.1)' }}>
-                          <div className="text-xs mb-2 opacity-70">Sources:</div>
-                          <div className="flex flex-wrap gap-2">
-                            {message.sources.map((source) => (
-                              <Link
-                                key={source.slug}
-                                href={source.url}
-                                className="inline-flex items-center gap-1 px-3 py-1.5 rounded-full text-xs transition-colors"
-                                style={{
-                                  backgroundColor: 'rgba(45, 106, 79, 0.1)',
-                                  color: '#2D6A4F',
-                                }}
-                              >
-                                {source.title}
-                                <ExternalLink className="w-3 h-3" />
-                              </Link>
-                            ))}
+                            <div className="text-xs mb-2 opacity-70">Sources:</div>
+                            <div className="flex flex-wrap gap-2">
+                              {message.sources.map((source) => (
+                                <Link
+                                  key={source.slug}
+                                  href={source.url}
+                                  className="inline-flex items-center gap-1 px-3 py-1.5 rounded-full text-xs transition-colors hover:underline"
+                                  style={{
+                                    backgroundColor: 'rgba(45, 106, 79, 0.1)',
+                                    color: '#2D6A4F',
+                                  }}
+                                >
+                                  {source.title}
+                                  <ExternalLink className="w-3 h-3" />
+                                </Link>
+                              ))}
+                            </div>
                           </div>
+                      )}
+
+                      {/* Regenerate button (P2) */}
+                      {message.role === 'assistant' && message.id !== 'welcome' && !isLoading && (
+                        <div className="mt-2 flex justify-end">
+                          <button
+                            onClick={() => handleRegenerate(messages.indexOf(message))}
+                            className="inline-flex items-center gap-1 px-2 py-1 text-xs rounded-md transition-colors hover:opacity-80"
+                            style={{ color: '#71717A' }}
+                            title="Re-generate response"
+                          >
+                            <RefreshCw className="w-3 h-3" />
+                            Re-generate
+                          </button>
                         </div>
                       )}
                     </div>
                   </div>
                 ))}
 
-                {/* Loading */}
-                {isLoading && (
+                {/* Typewriter preview (P2) */}
+                {typingFullText && (
+                  <div className="flex justify-start">
+                    <div
+                      className="max-w-[85%] rounded-2xl rounded-bl-md px-5 py-4"
+                      style={{ backgroundColor: '#F5F3EF', color: '#18181B' }}
+                    >
+                      <div className="flex items-center gap-2 mb-2">
+                        <MessageCircle className="w-4 h-4" style={{ color: '#2D6A4F' }} />
+                        <span className="text-xs font-medium" style={{ color: '#2D6A4F' }}>
+                          Buffett Knowledge AI
+                        </span>
+                      </div>
+                      <div className="text-sm leading-relaxed whitespace-pre-wrap">
+                        {typingContent}
+                        <span className="animate-pulse">|</span>
+                      </div>
+                    </div>
+                  </div>
+                )}
+
+                {/* Loading (no typing yet) */}
+                {isLoading && !typingFullText && (
                   <div className="flex justify-start">
                     <div
                       className="rounded-2xl rounded-bl-md px-5 py-4"
@@ -292,7 +467,7 @@ In the meantime, you can browse the letters directly using the navigation.`,
                     value={input}
                     onChange={(e) => setInput(e.target.value)}
                     onKeyDown={handleKeyDown}
-                    placeholder="Ask a question about Buffett's letters..."
+                    placeholder="Try: What is intrinsic value?"
                     className="flex-1 px-4 py-3 rounded-xl text-sm resize-none outline-none"
                     style={{
                       backgroundColor: '#fff',
