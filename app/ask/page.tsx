@@ -96,18 +96,12 @@ export default function AskPage() {
   })
   const [input, setInput] = useState('')
   const [isLoading, setIsLoading] = useState(false)
-  const [typingContent, setTypingContent] = useState('')
-  const [typingSources, setTypingSources] = useState<SourceRef[]>([])
-  const [typingFullText, setTypingFullText] = useState('')
   const messagesEndRef = useRef<HTMLDivElement>(null)
-  const typingTimerRef = useRef<NodeJS.Timeout | null>(null)
-  const messagesRef = useRef(messages)
-  messagesRef.current = messages
 
   // Auto-scroll
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' })
-  }, [messages, typingContent])
+  }, [messages])
 
   // ── Persist to localStorage (P3) ──
   useEffect(() => {
@@ -116,38 +110,6 @@ export default function AskPage() {
       localStorage.setItem('bk_ask_history', JSON.stringify(toSave))
     } catch {}
   }, [messages])
-
-  // ── Typewriter effect (P2) ──
-  useEffect(() => {
-    if (!typingFullText) {
-      if (typingTimerRef.current) clearInterval(typingTimerRef.current)
-      return
-    }
-    if (typingContent === typingFullText) {
-      const assistantMessage: Message = {
-        id: `assistant-${Date.now()}`,
-        role: 'assistant',
-        content: typingFullText,
-        sources: typingSources,
-        timestamp: new Date(),
-      }
-      setMessages((prev) => [...prev, assistantMessage])
-      setTypingContent('')
-      setTypingFullText('')
-      setTypingSources([])
-      setIsLoading(false)
-      return
-    }
-    typingTimerRef.current = setInterval(() => {
-      setTypingContent((prev) => {
-        const nextLen = Math.min(prev.length + Math.floor(Math.random() * 3) + 2, typingFullText.length)
-        return typingFullText.slice(0, nextLen)
-      })
-    }, 30)
-    return () => {
-      if (typingTimerRef.current) clearInterval(typingTimerRef.current)
-    }
-  }, [typingFullText])
 
   // ── Share conversation (P3) ──
   const handleShare = async () => {
@@ -209,10 +171,15 @@ export default function AskPage() {
         throw new Error(friendlyError)
       }
 
-      // Start typewriter effect
-      setTypingSources(data.sources || [])
-      setTypingContent('')
-      setTypingFullText(data.answer)
+      // Add assistant response directly
+      const assistantMessage: Message = {
+        id: `assistant-${Date.now()}`,
+        role: 'assistant',
+        content: data.answer,
+        sources: data.sources,
+        timestamp: new Date(),
+      }
+      setMessages((prev) => [...prev, assistantMessage])
     } catch (error: any) {
       const errorMessage: Message = {
         id: `error-${Date.now()}`,
@@ -221,6 +188,7 @@ export default function AskPage() {
         timestamp: new Date(),
       }
       setMessages((prev) => [...prev, errorMessage])
+    } finally {
       setIsLoading(false)
     }
   }
@@ -248,9 +216,14 @@ export default function AskPage() {
       })
       const data: AskResponse = await response.json()
       if (data.error) throw new Error(data.error)
-      setTypingSources(data.sources || [])
-      setTypingContent('')
-      setTypingFullText(data.answer)
+      const assistantMessage: Message = {
+        id: `assistant-${Date.now()}`,
+        role: 'assistant',
+        content: data.answer,
+        sources: data.sources,
+        timestamp: new Date(),
+      }
+      setMessages((prev) => [...prev, assistantMessage])
     } catch (error: any) {
       const errorMessage: Message = {
         id: `error-${Date.now()}`,
@@ -259,6 +232,7 @@ export default function AskPage() {
         timestamp: new Date(),
       }
       setMessages((prev) => [...prev, errorMessage])
+    } finally {
       setIsLoading(false)
     }
   }
@@ -275,44 +249,44 @@ export default function AskPage() {
       {/* ── Page Header ─────────────────────────────────── */}
       <div style={{ borderBottom: '1px solid #E6E2D9', backgroundColor: '#fff' }}>
         <div className="px-6 sm:px-10 py-10 max-w-7xl mx-auto">
-          <div className="flex items-center justify-between">
-            <div className="flex items-center gap-3">
-              <div
-                className="inline-flex items-center justify-center w-12 h-12 rounded-xl"
-                style={{ backgroundColor: '#E9F5EF' }}
-              >
-                <MessageCircle className="w-6 h-6" style={{ color: '#2D6A4F' }} />
+            <div className="flex items-center justify-between">
+              <div className="flex items-center gap-3">
+                <div
+                  className="inline-flex items-center justify-center w-12 h-12 rounded-xl"
+                  style={{ backgroundColor: '#E9F5EF' }}
+                >
+                  <MessageCircle className="w-6 h-6" style={{ color: '#2D6A4F' }} />
+                </div>
+                <div>
+                  <h1 className="font-display text-3xl font-bold" style={{ color: '#18181B' }}>
+                    Ask Buffett
+                  </h1>
+                  <p className="text-sm" style={{ color: '#71717A' }}>
+                    AI-powered Q&A based on 70 years of shareholder letters
+                  </p>
+                </div>
               </div>
-              <div>
-                <h1 className="font-display text-3xl font-bold" style={{ color: '#18181B' }}>
-                  Ask Buffett
-                </h1>
-                <p className="text-sm" style={{ color: '#71717A' }}>
-                  AI-powered Q&A based on 70 years of shareholder letters
-                </p>
+              <div className="flex items-center gap-2">
+                <button
+                  onClick={handleShare}
+                  className="inline-flex items-center gap-1.5 px-3 py-2 rounded-lg text-sm transition-colors hover:opacity-80"
+                  style={{ color: '#2D6A4F', border: '1px solid #A9D7BD' }}
+                  title="Share this conversation"
+                >
+                  <Share2 className="w-4 h-4" />
+                  Share
+                </button>
+                <button
+                  onClick={handleClearChat}
+                  className="inline-flex items-center gap-1.5 px-3 py-2 rounded-lg text-sm font-medium transition-colors hover:opacity-90"
+                  style={{ backgroundColor: '#2D6A4F', color: '#fff' }}
+                  title="Clear chat history"
+                >
+                  <RefreshCw className="w-4 h-4" />
+                  New Chat
+                </button>
               </div>
             </div>
-            <div className="flex items-center gap-2">
-              <button
-                onClick={handleShare}
-                className="inline-flex items-center gap-1.5 px-3 py-2 rounded-lg text-sm transition-colors hover:opacity-80"
-                style={{ color: '#2D6A4F', border: '1px solid #A9D7BD' }}
-                title="Share this conversation"
-              >
-                <Share2 className="w-4 h-4" />
-                Share
-              </button>
-              <button
-                onClick={handleClearChat}
-                className="inline-flex items-center gap-1.5 px-3 py-2 rounded-lg text-sm transition-colors hover:opacity-80"
-                style={{ color: '#71717A', border: '1px solid #E6E2D9' }}
-                title="Clear chat history"
-              >
-                <RefreshCw className="w-4 h-4" />
-                New Chat
-              </button>
-            </div>
-          </div>
         </div>
       </div>
 
@@ -418,29 +392,8 @@ export default function AskPage() {
                   </div>
                 ))}
 
-                {/* Typewriter preview (P2) */}
-                {typingFullText && (
-                  <div className="flex justify-start">
-                    <div
-                      className="max-w-[85%] rounded-2xl rounded-bl-md px-5 py-4"
-                      style={{ backgroundColor: '#F5F3EF', color: '#18181B' }}
-                    >
-                      <div className="flex items-center gap-2 mb-2">
-                        <MessageCircle className="w-4 h-4" style={{ color: '#2D6A4F' }} />
-                        <span className="text-xs font-medium" style={{ color: '#2D6A4F' }}>
-                          Buffett Knowledge AI
-                        </span>
-                      </div>
-                      <div className="text-sm leading-relaxed whitespace-pre-wrap">
-                        {typingContent}
-                        <span className="animate-pulse">|</span>
-                      </div>
-                    </div>
-                  </div>
-                )}
-
-                {/* Loading (no typing yet) */}
-                {isLoading && !typingFullText && (
+                {/* Loading indicator */}
+                {isLoading && (
                   <div className="flex justify-start">
                     <div
                       className="rounded-2xl rounded-bl-md px-5 py-4"

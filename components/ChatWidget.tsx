@@ -83,18 +83,12 @@ export function ChatWidget() {
   })
   const [input, setInput] = useState('')
   const [isLoading, setIsLoading] = useState(false)
-  const [typingContent, setTypingContent] = useState('')
-  const [typingSources, setTypingSources] = useState<SourceRef[]>([])
-  const [typingFullText, setTypingFullText] = useState('')
   const messagesEndRef = useRef<HTMLDivElement>(null)
-  const typingTimerRef = useRef<NodeJS.Timeout | null>(null)
-  const messagesRef = useRef(messages)
-  messagesRef.current = messages
 
   // Auto-scroll to bottom when new messages arrive
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' })
-  }, [messages, typingContent])
+  }, [messages])
 
   // ── Persist to localStorage (P3) ──
   useEffect(() => {
@@ -104,57 +98,6 @@ export function ChatWidget() {
       localStorage.setItem('bk_chat_history', JSON.stringify(toSave))
     } catch {}
   }, [messages])
-
-  // ── Typewriter effect (P2) ──
-  useEffect(() => {
-    if (!typingFullText) {
-      if (typingTimerRef.current) clearInterval(typingTimerRef.current)
-      return
-    }
-    if (typingContent === typingFullText) {
-      // Done typing → add to messages
-      const assistantMessage: Message = {
-        id: `assistant-${Date.now()}`,
-        role: 'assistant',
-        content: typingFullText,
-        sources: typingSources,
-        timestamp: new Date(),
-      }
-      setMessages((prev) => [...prev, assistantMessage])
-      setTypingContent('')
-      setTypingFullText('')
-      setTypingSources([])
-      return
-    }
-    // Type 2-4 characters per tick for natural feel
-    typingTimerRef.current = setInterval(() => {
-      setTypingContent((prev) => {
-        const nextLen = Math.min(prev.length + Math.floor(Math.random() * 3) + 2, typingFullText.length)
-        return typingFullText.slice(0, nextLen)
-      })
-    }, 30)
-    return () => {
-      if (typingTimerRef.current) clearInterval(typingTimerRef.current)
-    }
-  }, [typingFullText])
-
-  // Watch typingContent approaching full text
-  useEffect(() => {
-    if (typingFullText && typingContent === typingFullText) {
-      const assistantMessage: Message = {
-        id: `assistant-${Date.now()}`,
-        role: 'assistant',
-        content: typingFullText,
-        sources: typingSources,
-        timestamp: new Date(),
-      }
-      setMessages((prev) => [...prev, assistantMessage])
-      setTypingContent('')
-      setTypingFullText('')
-      setTypingSources([])
-      setIsLoading(false)
-    }
-  }, [typingContent, typingFullText, typingSources])
 
   // Example questions for quick start
   const exampleQuestions = [
@@ -191,23 +134,28 @@ export function ChatWidget() {
       const data: AskResponse = await response.json()
 
       if (data.error) {
-        let friendlyError = `😅 Something went wrong. `
-        if (data.error.includes('429') || data.error.toLowerCase().includes('rate')) {
-          friendlyError = `🚨 The AI is a bit busy right now (free tier rate limit). Please wait **10 seconds** and try again.`
-        } else if (data.error.includes('not configured') || data.error.includes('API key')) {
+        let friendlyError = `I'm sorry, something went wrong. `
+        if (data.error.includes('not configured') || data.error.includes('API key')) {
           friendlyError = `⚠️ The AI service is not configured yet. Please check with the site administrator.`
+        } else if (data.error.includes('429') || data.error.toLowerCase().includes('rate')) {
+          friendlyError = `🚨 The AI is a bit busy right now (free tier rate limit). Please wait **10 seconds** and try again.`
         } else if (data.error.includes('timeout') || data.error.includes('network') || data.error.includes('fetch')) {
           friendlyError = `🌐 Network issue — please check your connection and try again.`
         } else {
-          friendlyError = `😅 ${data.error}`
+          friendlyError = `😅 Something unexpected happened. Please try rephrasing your question.`
         }
         throw new Error(friendlyError)
       }
 
-      // Start typewriter effect
-      setTypingSources(data.sources || [])
-      setTypingContent('')
-      setTypingFullText(data.answer)
+      // Add assistant response directly
+      const assistantMessage: Message = {
+        id: `assistant-${Date.now()}`,
+        role: 'assistant',
+        content: data.answer,
+        sources: data.sources,
+        timestamp: new Date(),
+      }
+      setMessages((prev) => [...prev, assistantMessage])
     } catch (error: any) {
       const errorMessage: Message = {
         id: `error-${Date.now()}`,
@@ -216,6 +164,7 @@ export function ChatWidget() {
         timestamp: new Date(),
       }
       setMessages((prev) => [...prev, errorMessage])
+    } finally {
       setIsLoading(false)
     }
   }
@@ -243,9 +192,14 @@ export function ChatWidget() {
       })
       const data: AskResponse = await response.json()
       if (data.error) throw new Error(data.error)
-      setTypingSources(data.sources || [])
-      setTypingContent('')
-      setTypingFullText(data.answer)
+      const assistantMessage: Message = {
+        id: `assistant-${Date.now()}`,
+        role: 'assistant',
+        content: data.answer,
+        sources: data.sources,
+        timestamp: new Date(),
+      }
+      setMessages((prev) => [...prev, assistantMessage])
     } catch (error: any) {
       const errorMessage: Message = {
         id: `error-${Date.now()}`,
@@ -254,6 +208,7 @@ export function ChatWidget() {
         timestamp: new Date(),
       }
       setMessages((prev) => [...prev, errorMessage])
+    } finally {
       setIsLoading(false)
     }
   }
@@ -429,47 +384,8 @@ export function ChatWidget() {
               </div>
             ))}
 
-            {/* Typing indicator + typewriter preview (P2) */}
-            {typingFullText && (
-              <div className="flex justify-start">
-                <div
-                  className="max-w-[85%] rounded-2xl rounded-bl-md px-4 py-3"
-                  style={{ backgroundColor: '#F5F3EF', color: '#18181B' }}
-                >
-                  <div className="text-sm leading-relaxed whitespace-pre-wrap">
-                    {typingContent}
-                    <span className="animate-pulse">|</span>
-                  </div>
-                  {/* Sources for typed message (shown when typing done) */}
-                  {typingSources.length > 0 && typingContent === typingFullText && (
-                    <div className="mt-3 pt-3 border-t" style={{ borderColor: 'rgba(0,0,0,0.1)' }}>
-                      <div className="text-xs opacity-70 mb-2">Sources:</div>
-                      <div className="flex flex-wrap gap-1">
-                        {typingSources.slice(0, 3).map((source) => (
-                          <Link
-                            key={source.slug}
-                            href={source.url}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="inline-flex items-center gap-1 px-2 py-1 rounded-full text-xs transition-colors hover:underline"
-                            style={{
-                              backgroundColor: 'rgba(45, 106, 79, 0.1)',
-                              color: '#2D6A4F',
-                            }}
-                          >
-                            {source.title}
-                            <ExternalLink className="w-3 h-3" />
-                          </Link>
-                        ))}
-                      </div>
-                    </div>
-                  )}
-                </div>
-              </div>
-            )}
-
-            {/* Loading indicator (when no typing yet) */}
-            {isLoading && !typingFullText && (
+            {/* Loading indicator */}
+            {isLoading && (
               <div className="flex justify-start">
                 <div
                   className="rounded-2xl rounded-bl-md px-4 py-3"
@@ -484,7 +400,7 @@ export function ChatWidget() {
             )}
 
             {/* Empty state with examples */}
-            {messages.length === 1 && !isLoading && !typingFullText && (
+            {messages.length === 1 && !isLoading && (
               <div className="mt-4">
                 <div className="text-xs mb-2" style={{ color: '#71717A' }}>
                   Try these questions:
