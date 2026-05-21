@@ -1,9 +1,10 @@
 'use client'
 
 import { useState } from 'react'
-import { FileDown, Loader2 } from 'lucide-react'
+import { FileDown, Loader2, BookOpen } from 'lucide-react'
 import type { Letter } from '@/data/types'
 import { generateLetterPdf, generateBundlePdf } from '@/lib/generate-pdf'
+import { generateEpub } from '@/lib/generate-epub'
 
 // ── single-letter download button ─────────────────────────────────────
 
@@ -125,6 +126,75 @@ export function DownloadBundleButton({
         <FileDown className="w-4 h-4" />
       )}
       {busy ? 'Generating…' : 'Download PDF'}
+    </button>
+  )
+}
+
+// ── epub bundle download button ─────────────────────────────────────
+
+interface DownloadEpubButtonProps {
+  letters: Letter[]
+  fileName: string
+}
+
+export function DownloadEpubButton({
+  letters,
+  fileName,
+}: DownloadEpubButtonProps) {
+  const [busy, setBusy] = useState(false)
+
+  const handle = async () => {
+    const withText = letters.filter(
+      (l) => l.fullText && l.fullText.length > 50 && !l.fullText.includes('Placeholder'),
+    )
+    if (withText.length === 0) {
+      alert('No letters with full text available for EPUB.')
+      return
+    }
+
+    setBusy(true)
+    try {
+      const { generateEpub } = await import('@/lib/generate-epub')
+      generateEpub(
+        withText.map((l) => ({
+          slug: l.slug,
+          title: l.title,
+          year: l.year,
+          date: l.date,
+          fullText: l.fullText,
+        })),
+        fileName,
+      )
+    } catch (e: any) {
+      alert(`EPUB generation failed: ${e.message}`)
+    } finally {
+      setTimeout(() => setBusy(false), 1500)
+    }
+  }
+
+  return (
+    <button
+      onClick={handle}
+      disabled={busy}
+      className="inline-flex items-center gap-2 px-5 py-2.5 text-sm font-medium rounded-lg transition-colors
+                 disabled:opacity-40 disabled:cursor-not-allowed"
+      style={{
+        backgroundColor: busy ? '#ddd' : '#1E40AF',
+        color: '#FFFFF',
+      }}
+      onMouseEnter={(e) => {
+        if (!busy) (e.currentTarget as HTMLElement).style.backgroundColor = '#1E3A8A'
+      }}
+      onMouseLeave={(e) => {
+        if (!busy) (e.currentTarget as HTMLElement).style.backgroundColor = '#1E40AF'
+      }}
+    >
+      {busy ? (
+        <Loader2 className="w-4 h-4 animate-spin" />
+      ) : (
+        <BookOpen className="w-4 h-4" />
+      )}
+      {busy ? 'Generating…' : 'EPUB'}
     </button>
   )
 }

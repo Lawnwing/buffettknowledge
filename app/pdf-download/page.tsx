@@ -10,18 +10,18 @@ import {
   Download,
 } from 'lucide-react'
 import { allLetters, partnershipLetters, berkshireLetters, specialLetters, stats } from '@/data/letters'
-import { DownloadPdfButton, DownloadBundleButton } from '@/components/DownloadButton'
+import { DownloadPdfButton, DownloadBundleButton, DownloadEpubButton } from '@/components/DownloadButton'
 import { AdUnit } from '@/components/AdUnit'
 import { JsonLd } from '@/components/JsonLd'
 
 export const metadata: Metadata = {
   title: 'Download Center — BuffettKnowledge',
   description:
-    'Download Warren Buffett shareholder letters as PDFs. Complete archive from 1956 to 2025, including Partnership and Berkshire eras.',
+    'Download Warren Buffett shareholder letters as PDFs and EPUBs. Complete archive from 1956 to 2025, including Partnership and Berkshire eras.',
   alternates: { canonical: 'https://buffettknowledge.com/downloads' },
 }
 
-// ── era badge colours ─────────────────────────────────────────────
+// ── era badge colours ─────────────────────────────────────
 
 const ERA = {
   partnership: { bg: '#FEF3C7', text: '#92400E', dot: 'bg-[#F59E0B]' },
@@ -29,26 +29,26 @@ const ERA = {
   special:     { bg: '#E0E7FF', text: '#3730A3', dot: 'bg-[#6366F1]' },
 } as const
 
-// ── server component ─────────────────────────────────────────────
+// ── server component ─────────────────────────────────────
 
 export default function PdfDownloadPage() {
   // letters that actually have fullText
   const withText = allLetters.filter(
-    (l) => l.fullText && l.fullText.length > 100 && !l.fullText.includes('Placeholder'),
+    (l: any) => l.fullText && l.fullText.length > 100 && !l.fullText.includes('Placeholder'),
   )
   const partnershipWithText = partnershipLetters.filter(
-    (l) => l.fullText && l.fullText.length > 100 && !l.fullText.includes('Placeholder'),
+    (l: any) => l.fullText && l.fullText.length > 100 && !l.fullText.includes('Placeholder'),
   )
   const berkshireWithText = berkshireLetters.filter(
-    (l) => l.fullText && l.fullText.length > 100 && !l.fullText.includes('Placeholder'),
+    (l: any) => l.fullText && l.fullText.length > 100 && !l.fullText.includes('Placeholder'),
   )
 
   // ── JSON-LD ──
   const jsonLd: any = {
     '@context': 'https://schema.org',
     '@type': 'CollectionPage',
-    name: 'BuffettKnowledge — PDF Download Center',
-    description: `Download ${withText.length} Warren Buffett letters as PDFs.`,
+    name: 'BuffettKnowledge — PDF & EPUB Download Center',
+    description: `Download ${withText.length} Warren Buffett letters as PDFs and EPUBs.`,
     url: 'https://buffettknowledge.com/downloads',
     isPartOf: { '@type': 'WebSite', url: 'https://buffettknowledge.com' },
   }
@@ -57,9 +57,9 @@ export default function PdfDownloadPage() {
     <div>
       <JsonLd value={jsonLd} />
 
-      {/* ═══════════════════════════════════════════════
+      {/* ═════════════════════════════════════════════
           TWO-COLUMN LAYOUT
-          ═══════════════════════════════════════════════ */}
+          ═════════════════════════════════════════════ */}
       <div className="max-w-7xl mx-auto px-6 sm:px-10 py-10 grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-10">
 
         {/* ── MAIN COLUMN ───────────────────────────── */}
@@ -79,18 +79,18 @@ export default function PdfDownloadPage() {
               </h1>
             </div>
             <p className="text-base leading-relaxed max-w-2xl" style={{ color: '#3F3F46' }}>
-              Generate and download Warren Buffett&rsquo;s shareholder letters as PDF files.
+              Generate and download Warren Buffett&rsquo;s shareholder letters as PDF or EPUB files.
               All content is sourced from the official Berkshire Hathaway archive
               and formatted for offline reading.
             </p>
           </header>
 
-          {/* ═══════════════════════════════════════════════
+          {/* ═════════════════════════════════════════════
               BUNDLE CARDS
-              ═══════════════════════════════════════════════ */}
+              ═════════════════════════════════════════════ */}
           <section className="mb-12">
             <h2 className="font-display text-lg font-semibold mb-5" style={{ color: '#18181B' }}>
-              📦  Complete Bundles
+              Complete Bundles
             </h2>
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
 
@@ -110,13 +110,19 @@ export default function PdfDownloadPage() {
                     Partnership Era Bundle
                   </h3>
                   <p className="text-xs mb-4" style={{ color: '#78726A' }}>
-                    {partnershipWithText.length} letters &middot; 1956–1969
+                    {partnershipWithText.length} letters &middot; 1957&ndash;1969
                   </p>
-                  <DownloadBundleButton
-                    label="Partnership Era"
-                    letters={partnershipWithText}
-                    fileName="buffett-partnership-letters.pdf"
-                  />
+                  <div className="flex items-center gap-2 flex-wrap">
+                    <DownloadBundleButton
+                      label="Partnership Era"
+                      letters={partnershipWithText}
+                      fileName="buffett-partnership-letters.pdf"
+                    />
+                    <DownloadEpubButton
+                      letters={partnershipWithText}
+                      fileName="buffett-partnership-letters.epub"
+                    />
+                  </div>
                 </div>
               )}
 
@@ -136,13 +142,19 @@ export default function PdfDownloadPage() {
                     Berkshire Hathaway Bundle
                   </h3>
                   <p className="text-xs mb-4" style={{ color: '#78726A' }}>
-                    {berkshireWithText.length} letters &middot; 1970–2025
+                    {berkshireWithText.length} letters &middot; 1970&ndash;2025
                   </p>
-                  <DownloadBundleButton
-                    label="Berkshire Era"
-                    letters={berkshireWithText}
-                    fileName="buffett-berkshire-letters.pdf"
-                  />
+                  <div className="flex items-center gap-2 flex-wrap">
+                    <DownloadBundleButton
+                      label="Berkshire Era"
+                      letters={berkshireWithText}
+                      fileName="buffett-berkshire-letters.pdf"
+                    />
+                    <DownloadEpubButton
+                      letters={berkshireWithText}
+                      fileName="buffett-berkshire-letters.epub"
+                    />
+                  </div>
                 </div>
               )}
 
@@ -162,23 +174,29 @@ export default function PdfDownloadPage() {
                     Complete Archive
                   </h3>
                   <p className="text-xs mb-4" style={{ color: '#78726A' }}>
-                    All {withText.length} letters &middot; 1956–2025
+                    All {withText.length} letters &middot; 1956&ndash;2025
                   </p>
-                  <DownloadBundleButton
-                    label="Complete Archive"
-                    letters={withText}
-                    fileName="buffett-complete-archive.pdf"
-                  />
+                  <div className="flex items-center gap-2 flex-wrap">
+                    <DownloadBundleButton
+                      label="Complete Archive"
+                      letters={withText}
+                      fileName="buffett-complete-archive.pdf"
+                    />
+                    <DownloadEpubButton
+                      letters={withText}
+                      fileName="buffett-complete-archive.epub"
+                    />
+                  </div>
                 </div>
               )}
 
             </div>
           </section>
 
-          {/* ═══════════════════════════════════════════════
+          {/* ═════════════════════════════════════════════
               PARTNERSHIP LETTERS
-              ═══════════════════════════════════════════════ */}
-          <section className="mb-10">
+              ═════════════════════════════════════════════ */}
+          <section className="mb-10" id="partnership">
             <div className="flex items-center gap-3 mb-4">
               <div
                 className="w-8 h-8 rounded-lg flex items-center justify-center"
@@ -197,16 +215,16 @@ export default function PdfDownloadPage() {
             </div>
 
             <div className="space-y-1">
-              {partnershipLetters.map((letter) => (
+              {partnershipLetters.map((letter: any) => (
                 <LetterRow key={letter.slug} letter={letter} era="partnership" />
               ))}
             </div>
           </section>
 
-          {/* ═══════════════════════════════════════════════
+          {/* ═════════════════════════════════════════════
               BERKSHIRE LETTERS
-              ═══════════════════════════════════════════════ */}
-          <section className="mb-10">
+              ═════════════════════════════════════════════ */}
+          <section className="mb-10" id="berkshire">
             <div className="flex items-center gap-3 mb-4">
               <div
                 className="w-8 h-8 rounded-lg flex items-center justify-center"
@@ -225,17 +243,17 @@ export default function PdfDownloadPage() {
             </div>
 
             <div className="space-y-1">
-              {berkshireLetters.map((letter) => (
+              {berkshireLetters.map((letter: any) => (
                 <LetterRow key={letter.slug} letter={letter} era="berkshire" />
               ))}
             </div>
           </section>
 
-          {/* ═══════════════════════════════════════════════
+          {/* ═════════════════════════════════════════════
               SPECIAL LETTERS
-              ═══════════════════════════════════════════════ */}
+              ═════════════════════════════════════════════ */}
           {specialLetters.length > 0 && (
-            <section className="mb-10">
+            <section className="mb-10" id="special">
               <div className="flex items-center gap-3 mb-4">
                 <div
                   className="w-8 h-8 rounded-lg flex items-center justify-center"
@@ -254,16 +272,16 @@ export default function PdfDownloadPage() {
               </div>
 
               <div className="space-y-1">
-                {specialLetters.map((letter) => (
+                {specialLetters.map((letter: any) => (
                   <LetterRow key={letter.slug} letter={letter} era="special" />
                 ))}
               </div>
             </section>
           )}
 
-          {/* ═══════════════════════════════════════════════
+          {/* ═════════════════════════════════════════════
               FOOTER NOTE
-              ═══════════════════════════════════════════════ */}
+              ═════════════════════════════════════════════ */}
           <div className="mt-12 p-5 rounded-xl" style={{ backgroundColor: '#F4F4F5', border: '1px solid #E6E2D9' }}>
             <div className="flex items-start gap-3">
               <FileText className="w-5 h-5 flex-shrink-0 mt-0.5" style={{ color: '#71717A' }} />
@@ -272,7 +290,7 @@ export default function PdfDownloadPage() {
                   About These Downloads
                 </h3>
                 <p className="text-xs leading-relaxed" style={{ color: '#71717A' }}>
-                  PDFs are generated in your browser using the letter content from
+                  PDFs and EPUBs are generated in your browser using the letter content from
                   BuffettKnowledge. The original letters are hosted on the
                   {' '}
                   <a
@@ -283,7 +301,7 @@ export default function PdfDownloadPage() {
                   >
                     official Berkshire Hathaway website
                   </a>
-                  {' '}and are in the public domain. These PDFs are
+                  {' '}and are in the public domain. These files are
                   formatted for offline reading convenience.
                 </p>
               </div>
@@ -302,7 +320,7 @@ export default function PdfDownloadPage() {
               style={{ backgroundColor: '#F9F7F3', borderColor: '#E6E2D9' }}
             >
               <h3 className="font-display text-sm font-semibold mb-4" style={{ color: '#18181B' }}>
-                📊  Download Stats
+                Download Stats
               </h3>
               <div className="space-y-3 text-sm">
                 <div className="flex justify-between">
@@ -330,7 +348,7 @@ export default function PdfDownloadPage() {
               style={{ backgroundColor: '#F9F7F3', borderColor: '#E6E2D9' }}
             >
               <h3 className="font-display text-sm font-semibold mb-4" style={{ color: '#18181B' }}>
-                ⚡  Quick Links
+                Quick Links
               </h3>
               <div className="space-y-2">
                 <a
@@ -423,6 +441,14 @@ function LetterRow({ letter, era }: { letter: any; era: keyof typeof ERA }) {
 
         {/* download PDF */}
         <DownloadPdfButton letter={letter} />
+
+        {/* download EPUB (single letter) */}
+        {hasText && (
+          <DownloadEpubButton
+            letters={[letter]}
+            fileName={`${letter.slug}.epub`}
+          />
+        )}
       </div>
     </div>
   )
