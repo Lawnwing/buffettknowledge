@@ -108,6 +108,19 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
         <JsonLd value={jsonLdWebSite} />
         <JsonLd value={jsonLdOrganization} />
+        {/* Google Analytics 4 */}
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-J5WZDWK17M"
+          strategy="afterInteractive"
+        />
+        <Script id="ga4-init" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-J5WZDWK17M');
+          `}
+        </Script>
         {/* AdSense global script — replace ca-pub-XXXXXXXX with your actual publisher ID */}
         <Script
           id="adsbygoogle-init"
