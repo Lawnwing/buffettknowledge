@@ -106,11 +106,23 @@ export function TopBar() {
               </Link>
               <Link
                 href="/ask"
-                className="flex items-center gap-1.5 px-3 py-1.5 rounded-md text-sm font-semibold transition-colors hover:bg-[#E9F5EF]"
-                style={{ color: '#1B4332' }}
+                className="flex items-center gap-1.5 px-3 py-1.5 rounded-md text-sm font-semibold transition-colors"
+                style={{
+                  backgroundColor: '#2D6A4F',
+                  color: '#fff',
+                }}
               >
-                <MessageCircle className="w-3.5 h-3.5" style={{ color: '#2D6A4F' }} />
+                <MessageCircle className="w-3.5 h-3.5" style={{ color: '#fff' }} />
                 <span>AI Q&A</span>
+                <span
+                  className="ml-0.5 px-1.5 py-0.5 rounded text-[10px] font-bold"
+                  style={{
+                    backgroundColor: '#FFD700',
+                    color: '#1B4332',
+                  }}
+                >
+                  NEW
+                </span>
               </Link>
               <Link
                 href="/pdf-download"

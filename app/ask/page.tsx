@@ -58,9 +58,7 @@ I can help you explore:
 • **Historical Events** - 1987 crash, 2008 financial crisis, COVID-19
 • **Business Principles** - Capital allocation, moats, owner earnings
 
-Feel free to ask anything about Buffett's wisdom across 70 years of letters!
-
-**Note:** This feature requires a Cloudflare Worker deployment.`,
+Feel free to ask anything about Buffett's wisdom across 70 years of letters!`,
   timestamp: new Date(),
 }
 
