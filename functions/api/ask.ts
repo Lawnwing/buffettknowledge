@@ -27,18 +27,8 @@ interface SourceRef {
   url: string
 }
 
-interface AskResponse {
-  answer: string
-  sources: SourceRef[]
-  error?: string
-}
-
-interface PagesFunctionEnv {
-  GEMINI_API_KEY: string
-}
-
 // ────────────────────────────────────────────────────────────
-// In-memory search index
+// In-memory search index (lightweight keyword match)
 // ────────────────────────────────────────────────────────────
 
 const LETTERS_DATA = [
@@ -170,12 +160,10 @@ Guidelines:
 }
 
 // ────────────────────────────────────────────────────────────
-// Handler
+// Handler — standard Pages Functions signature
 // ────────────────────────────────────────────────────────────
 
-export async function onRequestPost(context: { request: Request; env: PagesFunctionEnv }) {
-  const { request, env } = context
-
+export async function onRequestPost({ request, env }: { request: Request; env: Record<string, string> }) {
   const corsHeaders = {
     'Access-Control-Allow-Origin': '*',
     'Access-Control-Allow-Methods': 'POST, OPTIONS',
@@ -183,39 +171,20 @@ export async function onRequestPost(context: { request: Request; env: PagesFunct
   }
 
   try {
-    // Try multiple ways to read the API key for compatibility
-    let apiKey = env?.GEMINI_API_KEY
-    if (!apiKey && context?.env?.GEMINI_API_KEY) {
-      apiKey = context.env.GEMINI_API_KEY
-    }
+    // ── Read API key from Pages Functions env ──
+    const apiKey = env.GEMINI_API_KEY
 
     if (!apiKey) {
-      let envKeys: string[] = []
-      try {
-        if (env && typeof env === 'object') {
-          envKeys = Object.keys(env)
-        }
-      } catch {
-        envKeys = ['(error reading env keys)']
-      }
-
-      const debug = {
-        error: 'Gemini API key not configured.',
-        debug: {
-          envType: typeof env,
-          envKeys: envKeys,
-          hasEnv: !!env,
-          hasContextEnv: !!(context?.env),
-          envGemini: env?.GEMINI_API_KEY ? 'present' : 'missing',
-          contextEnvGemini: context?.env?.GEMINI_API_KEY ? 'present' : 'missing',
-        },
-      }
       return new Response(
-        JSON.stringify(debug),
+        JSON.stringify({
+          error: 'Gemini API key not configured.',
+          hint: 'Set GEMINI_API_KEY in Cloudflare Pages Dashboard > Settings > Environment variables (Production). Then redeploy.',
+        }),
         { status: 500, headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
       )
     }
 
+    // ── Parse request ──
     let body: AskRequest
     try {
       body = await request.json()
@@ -234,6 +203,7 @@ export async function onRequestPost(context: { request: Request; env: PagesFunct
       )
     }
 
+    // ── Generate answer ──
     const ctx = buildContext(question)
     const answer = await generateAnswer(question, ctx, apiKey)
 
@@ -252,12 +222,11 @@ export async function onRequestPost(context: { request: Request; env: PagesFunct
       headers: { ...corsHeaders, 'Content-Type': 'application/json' },
     })
   } catch (error: any) {
-    console.error('Error:', error)
+    console.error('Ask API error:', error)
     return new Response(
       JSON.stringify({
         error: 'An error occurred while processing your question.',
         detail: error?.message || String(error),
-        stack: error?.stack || 'no stack',
       }),
       { status: 500, headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
     )
