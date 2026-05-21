@@ -32,6 +32,7 @@ import {
 import { allLetters, partnershipLetters, berkshireLetters, specialLetters, stats } from '@/data/letters'
 import { concepts } from '@/data/concepts'
 import { companies } from '@/data/companies'
+import { people } from '@/data/people'
 import { DownloadPdfButton, DownloadBundleButton, DownloadEpubButton } from '@/components/DownloadButton'
 import { AdUnit } from '@/components/AdUnit'
 import { JsonLd } from '@/components/JsonLd'
@@ -256,6 +257,27 @@ export default function DownloadPage() {
                 desc: 'When new letters are released each year, you get the updated file free. One purchase, lifetime access to the growing archive.',
                 color: '#DC2626',
                 bg: '#FEE2E2',
+              },
+              {
+                icon: Lightbulb,
+                title: `${concepts.length} Investment Concepts`,
+                desc: 'Each concept cross-linked to the original letter where Buffett first explained it. From margin of safety to intrinsic value.',
+                color: '#D97706',
+                bg: '#FEF3C7',
+              },
+              {
+                icon: Building2,
+                title: `${companies.length} Company Profiles`,
+                desc: 'Full profiles of every company Buffett has written about. Track his buy-hold-sell decisions from acquisition to present.',
+                color: '#7C3AED',
+                bg: '#F3E8FF',
+              },
+              {
+                icon: Users,
+                title: `${people.length} Key People Profiles`,
+                desc: 'From Warren Buffett and Charlie Munger to Benjamin Graham and the next generation. Understand who shaped the philosophy.',
+                color: '#059669',
+                bg: '#D1FAE5',
               },
             ].map((item) => (
               <div
