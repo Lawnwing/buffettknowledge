@@ -65,3 +65,9 @@ count_*.py
 check_*.py
 analyze_*.py
 add_*.py
+
+# Backup files
+*.bak
+*.backup*
+*.workers-backup
+wrangler.toml.workers-backup
