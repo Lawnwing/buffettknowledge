@@ -5,12 +5,9 @@
  * Endpoint: POST /api/ask
  * Requires: OPENROUTER_API_KEY in Cloudflare Pages environment variables
  * Get a free key at: https://openrouter.ai/keys
- *
- * Free models (with :free suffix) — no billing needed:
- *   - google/gemini-flash-2.0:free
- *   - meta-llama/llama-3.2-3b-instruct:free
- *   - mistralai/mistral-7b-instruct:free
  */
+
+import { LETTERS_DATA, CONCEPTS_DATA, COMPANIES_DATA } from './search-data'
 
 // ────────────────────────────────────────────────────────────
 // Types
@@ -30,79 +27,107 @@ interface SourceRef {
 }
 
 // ────────────────────────────────────────────────────────────
-// In-memory search index (lightweight keyword match)
-// ────────────────────────────────────────────────────────────
-
-const LETTERS_DATA = [
-  { slug: '1957-partnership-letter', year: 1957, title: 'The First Year - 1957', summary: 'Warren Buffett 1957 letter discussing partnership performance and market conditions.' },
-  { slug: '1962-partnership-letter', year: 1962, title: 'The Turnaround Year - 1962', summary: 'Partnership letter discussing American Express investment and market decline opportunities.' },
-  { slug: '1977-berkshire-letter', year: 1977, title: 'The Owner Earnings Letter - 1977', summary: 'First letter introducing the concept of "economic moat" and owner earnings.' },
-  { slug: '1985-berkshire-letter', year: 1985, title: 'The Textile Exit - 1985', summary: 'Buffett explains why he exited the textile business and the importance of capital allocation.' },
-  { slug: '1987-berkshire-letter', year: 1987, title: 'The Crash Year - 1987', summary: 'Black Monday analysis and why the market crash did not change long-term prospects.' },
-  { slug: '1988-berkshire-letter', year: 1988, title: 'The Coca-Cola Investment - 1988', summary: 'Major Coca-Cola investment announced at $592.5 million. Discusses brand value and franchise moat.' },
-  { slug: '1996-berkshire-letter', year: 1996, title: 'The Derivatives Warning - 1996', summary: 'First detailed warning about derivatives and their systemic risks to the financial system.' },
-  { slug: '2008-berkshire-letter', year: 2008, title: 'The Financial Crisis - 2008', summary: '"Buy American. I am." Famous letter written during financial crisis.' },
-  { slug: '2014-berkshire-letter', year: 2014, title: 'The American Tailwind - 2014', summary: 'Celebrates America\'s economic dynamism and compound interest over 200 years.' },
-  { slug: '2020-berkshire-letter', year: 2020, title: 'The Pandemic Year - 2020', summary: 'COVID-19 impact on Berkshire and businesses. Discusses resilience and long-term thinking.' },
-  { slug: '2022-berkshire-letter', year: 2022, title: 'The Berkshire Annual Meeting - 2022', summary: 'Discussion of Berkshire Hathaway business structure and shareholder letter tradition.' },
-  { slug: '2023-berkshire-letter', year: 2023, title: 'The Buybacks & Capital Allocation - 2023', summary: 'Explains Berkshire\'s stock buyback philosophy and capital allocation framework.' },
-  { slug: '2024-berkshire-letter', year: 2024, title: 'The Charlie Tribute - 2024', summary: 'Tribute to Charlie Munger, partner and vice chairman. Discusses their 50+ year partnership.' },
-  { slug: '2025-berkshire-letter', year: 2025, title: 'The Farewell Letter - 2025', summary: 'Farewell letter discussing Berkshire Hathaway journey and America\'s economic future.' },
-]
-
-const CONCEPTS_DATA = [
-  { slug: 'intrinsic-value', name: 'Intrinsic Value', definition: 'The discounted value of the cash that can be taken out of a business during its remaining life.', passages: ['The intrinsic value is an estimate rather than a precise figure'] },
-  { slug: 'margin-of-safety', name: 'Margin of Safety', definition: 'Only buying securities when market price is significantly below intrinsic value.', passages: ['Margin of safety allows for errors in calculation'] },
-  { slug: 'economic-moat', name: 'Economic Moat', definition: 'Sustainable competitive advantage allowing high returns on capital for long periods.', passages: ['A durable competitive advantage is the moat'] },
-  { slug: 'owner-earnings', name: 'Owner Earnings', definition: 'Net income plus depreciation minus capital expenditures needed to maintain position.', passages: ['Owner earnings are the true measure of profitability'] },
-  { slug: 'circle-of-competence', name: 'Circle of Competence', definition: 'Area around investors genuine expertise where they can evaluate with confidence.', passages: ['Know what you know and what you dont know'] },
-  { slug: 'free-cash-flow', name: 'Free Cash Flow', definition: 'Cash generated after all operating expenses and capital investments.', passages: ['Cash machine vs cash consumer'] },
-  { slug: 'float', name: 'Float', definition: 'Insurance float: premiums collected but not yet paid out in claims.', passages: ['Float is essentially free money we hold'] },
-  { slug: 'franchise', name: 'Franchise', definition: 'Business with pricing power granted by brand, patent, or monopoly status.', passages: ['Franchise businesses have durable competitive advantages'] },
-]
-
-const COMPANIES_DATA = [
-  { slug: 'coca-cola', name: 'Coca-Cola', industry: 'Beverages', keyPoints: ['$592.5M investment in 1988', 'Brand value and global franchise'] },
-  { slug: 'geico', name: 'GEICO', industry: 'Insurance', keyPoints: ['Acquired 1996 for $2.3B', 'Direct-to-consumer insurance model'] },
-  { slug: 'berkshire-hathaway', name: 'Berkshire Hathaway', industry: 'Conglomerate', keyPoints: ['Textile company turned investment conglomerate', 'Insurance Float is core'] },
-  { slug: 'apple', name: 'Apple', industry: 'Technology', keyPoints: ['Began accumulating 2016', 'Consumer brand with pricing power'] },
-  { slug: 'american-express', name: 'American Express', industry: 'Financial Services', keyPoints: ['Major partnership investment 1960s', 'Franchise business with pricing power'] },
-]
-
-// ────────────────────────────────────────────────────────────
 // Search
 // ────────────────────────────────────────────────────────────
 
 function search(query: string) {
   const q = query.toLowerCase()
-  const results: Array<{ type: string; slug: string; title: string; context: string; score: number }> = []
+  const qWords = q.split(/\s+/).filter((w) => w.length >= 3)
+  const results: Array<{
+    type: string
+    slug: string
+    title: string
+    context: string
+    score: number
+  }> = []
 
+  // Search letters
   LETTERS_DATA.forEach((letter) => {
     let score = 0
-    if (letter.title.toLowerCase().includes(q)) score += 3
-    if (letter.summary.toLowerCase().includes(q)) score += 2
-    if (q.includes(letter.year.toString())) score += 2
+    const title = letter.title.toLowerCase()
+    const summary = letter.summary.toLowerCase()
+    const concepts = (letter.concepts || []).join(' ').toLowerCase()
+    const companies = (letter.companies || []).join(' ').toLowerCase()
+
+    // Exact / substring matches
+    if (title.includes(q)) score += 5
+    if (summary.includes(q)) score += 3
+    if (concepts.includes(q)) score += 4
+    if (companies.includes(q)) score += 4
+    if (q.includes(letter.year.toString())) score += 3
+
+    // Word-by-word scoring
+    qWords.forEach((word) => {
+      if (title.includes(word)) score += 2
+      if (summary.includes(word)) score += 1
+      if (concepts.includes(word)) score += 2
+      if (companies.includes(word)) score += 2
+    })
+
     if (score > 0) {
-      results.push({ type: 'letter', slug: letter.slug, title: letter.title, context: letter.summary, score })
+      results.push({
+        type: 'letter',
+        slug: letter.slug,
+        title: letter.title,
+        context: letter.summary,
+        score,
+      })
     }
   })
 
+  // Search concepts
   CONCEPTS_DATA.forEach((concept) => {
     let score = 0
-    if (concept.name.toLowerCase().includes(q)) score += 3
-    if (concept.definition.toLowerCase().includes(q)) score += 2
-    concept.passages.forEach((p) => { if (p.toLowerCase().includes(q)) score += 1 })
+    const name = concept.name.toLowerCase()
+    const definition = concept.definition.toLowerCase()
+
+    if (name === q) score += 10
+    else if (name.includes(q)) score += 6
+    else if (q.includes(name)) score += 4
+
+    if (definition.includes(q)) score += 3
+
+    qWords.forEach((word) => {
+      if (name.includes(word)) score += 2
+      if (definition.includes(word)) score += 1
+    })
+
     if (score > 0) {
-      results.push({ type: 'concept', slug: concept.slug, title: concept.name, context: concept.definition, score })
+      results.push({
+        type: 'concept',
+        slug: concept.slug,
+        title: concept.name,
+        context: concept.definition,
+        score,
+      })
     }
   })
 
+  // Search companies
   COMPANIES_DATA.forEach((company) => {
     let score = 0
-    if (company.name.toLowerCase().includes(q)) score += 3
-    company.keyPoints.forEach((p) => { if (p.toLowerCase().includes(q)) score += 1 })
+    const name = company.name.toLowerCase()
+    const industry = company.industry.toLowerCase()
+
+    if (name === q) score += 10
+    else if (name.includes(q)) score += 6
+    else if (q.includes(name)) score += 4
+
+    if (industry.includes(q)) score += 2
+
+    qWords.forEach((word) => {
+      if (name.includes(word)) score += 2
+      if (industry.includes(word)) score += 1
+    })
+
     if (score > 0) {
-      results.push({ type: 'company', slug: company.slug, title: company.name, context: `${company.industry}: ${company.keyPoints.join('. ')}`, score })
+      results.push({
+        type: 'company',
+        slug: company.slug,
+        title: company.name,
+        context: `${company.industry}`,
+        score,
+      })
     }
   })
 
@@ -112,9 +137,12 @@ function search(query: string) {
 function buildContext(query: string): string {
   const results = search(query)
   if (results.length === 0) return ''
+
   const sections: string[] = ['Based on Warren Buffett shareholder letters:\n']
   results.forEach((r) => {
-    sections.push(`${r.type === 'letter' ? 'Letter' : r.type === 'concept' ? 'Concept' : 'Company'}: ${r.title}`)
+    const label =
+      r.type === 'letter' ? 'Letter' : r.type === 'concept' ? 'Concept' : 'Company'
+    sections.push(`${label}: ${r.title}`)
     sections.push(r.context)
     sections.push('')
   })
@@ -128,7 +156,11 @@ function buildContext(query: string): string {
 const OPENROUTER_MODEL = 'openrouter/free'
 const OPENROUTER_API = 'https://openrouter.ai/api/v1/chat/completions'
 
-async function generateAnswer(question: string, context: string, apiKey: string): Promise<string> {
+async function generateAnswer(
+  question: string,
+  context: string,
+  apiKey: string
+): Promise<string> {
   const systemPrompt = `You are an AI assistant specialized in Warren Buffett and Berkshire Hathaway shareholder letters. You help users understand Buffett's investment philosophy, business principles, and wisdom as expressed in his letters to shareholders.
 
 Guidelines:
@@ -147,7 +179,7 @@ Guidelines:
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
-      'Authorization': `Bearer ${apiKey}`,
+      Authorization: `Bearer ${apiKey}`,
       'HTTP-Referer': 'https://buffettknowledge.com',
       'X-Title': 'Buffett Knowledge',
     },
@@ -175,7 +207,13 @@ Guidelines:
 // Handler — standard Pages Functions signature
 // ────────────────────────────────────────────────────────────
 
-export async function onRequestPost({ request, env }: { request: Request; env: Record<string, string> }) {
+export async function onRequestPost({
+  request,
+  env,
+}: {
+  request: Request
+  env: Record<string, string>
+}) {
   const corsHeaders = {
     'Access-Control-Allow-Origin': '*',
     'Access-Control-Allow-Methods': 'POST, OPTIONS',
@@ -191,7 +229,10 @@ export async function onRequestPost({ request, env }: { request: Request; env: R
           error: 'OpenRouter API key not configured.',
           hint: 'Set OPENROUTER_API_KEY in Cloudflare Pages Dashboard > Settings > Environment variables. Get a free key at https://openrouter.ai/keys',
         }),
-        { status: 500, headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
+        {
+          status: 500,
+          headers: { ...corsHeaders, 'Content-Type': 'application/json' },
+        }
       )
     }
 
@@ -202,15 +243,23 @@ export async function onRequestPost({ request, env }: { request: Request; env: R
     } catch {
       return new Response(
         JSON.stringify({ error: 'Invalid JSON in request body.' }),
-        { status: 400, headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
+        {
+          status: 400,
+          headers: { ...corsHeaders, 'Content-Type': 'application/json' },
+        }
       )
     }
 
     const { question } = body
     if (!question || typeof question !== 'string' || question.trim().length < 2) {
       return new Response(
-        JSON.stringify({ error: 'Please provide a valid question (at least 2 characters).' }),
-        { status: 400, headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
+        JSON.stringify({
+          error: 'Please provide a valid question (at least 2 characters).',
+        }),
+        {
+          status: 400,
+          headers: { ...corsHeaders, 'Content-Type': 'application/json' },
+        }
       )
     }
 
@@ -218,14 +267,24 @@ export async function onRequestPost({ request, env }: { request: Request; env: R
     const ctx = buildContext(question)
     const answer = await generateAnswer(question, ctx, apiKey)
 
+    // Build sources for UI
     const searchResults = search(question)
     const sources: SourceRef[] = searchResults.map((r) => {
       let url = ''
       if (r.type === 'letter') url = `/letters/${r.slug}/`
       else if (r.type === 'concept') url = `/concepts/${r.slug}/`
       else if (r.type === 'company') url = `/companies/${r.slug}/`
-      const letterData = r.type === 'letter' ? LETTERS_DATA.find((l) => l.slug === r.slug) : null
-      return { type: r.type, slug: r.slug, title: r.title, year: letterData?.year, url }
+      const letterData =
+        r.type === 'letter'
+          ? LETTERS_DATA.find((l) => l.slug === r.slug)
+          : null
+      return {
+        type: r.type,
+        slug: r.slug,
+        title: r.title,
+        year: letterData?.year,
+        url,
+      }
     })
 
     return new Response(JSON.stringify({ answer, sources }), {
@@ -239,7 +298,10 @@ export async function onRequestPost({ request, env }: { request: Request; env: R
         error: 'An error occurred while processing your question.',
         detail: error?.message || String(error),
       }),
-      { status: 500, headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
+      {
+        status: 500,
+        headers: { ...corsHeaders, 'Content-Type': 'application/json' },
+      }
     )
   }
 }
