@@ -1,13 +1,15 @@
 /**
  * BuffettKnowledge AI Ask API
- * Cloudflare Pages Function (runs on the edge)
+ * Cloudflare Pages Function — uses OpenRouter (free tier, no credit card)
  *
  * Endpoint: POST /api/ask
- * Requires: GEMINI_API_KEY in Cloudflare Pages environment variables
+ * Requires: OPENROUTER_API_KEY in Cloudflare Pages environment variables
+ * Get a free key at: https://openrouter.ai/keys
  *
- * Free tier: Gemini 1.5 Flash
- *   - 15 requests/minute
- *   - 1500 requests/day
+ * Free models (with :free suffix) — no billing needed:
+ *   - google/gemini-flash-2.0:free
+ *   - meta-llama/llama-3.2-3b-instruct:free
+ *   - mistralai/mistral-7b-instruct:free
  */
 
 // ────────────────────────────────────────────────────────────
@@ -120,8 +122,11 @@ function buildContext(query: string): string {
 }
 
 // ────────────────────────────────────────────────────────────
-// Gemini API
+// OpenRouter API (OpenAI-compatible, free tier)
 // ────────────────────────────────────────────────────────────
+
+const OPENROUTER_MODEL = 'google/gemini-flash-2.0:free'
+const OPENROUTER_API = 'https://openrouter.ai/api/v1/chat/completions'
 
 async function generateAnswer(question: string, context: string, apiKey: string): Promise<string> {
   const systemPrompt = `You are an AI assistant specialized in Warren Buffett and Berkshire Hathaway shareholder letters. You help users understand Buffett's investment philosophy, business principles, and wisdom as expressed in his letters to shareholders.
@@ -138,25 +143,32 @@ Guidelines:
     ? `${context}\n\nUser question: ${question}`
     : `User question: ${question}\n\nNote: I don't have specific context about this topic in Buffett's letters.`
 
-  const response = await fetch(
-    `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite:generateContent?key=${apiKey}`,
-    {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        contents: [{ parts: [{ text: `${systemPrompt}\n\n${userPrompt}` }] }],
-        generationConfig: { temperature: 0.7, maxOutputTokens: 500 },
-      }),
-    }
-  )
+  const response = await fetch(OPENROUTER_API, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${apiKey}`,
+      'HTTP-Referer': 'https://buffettknowledge.com',
+      'X-Title': 'Buffett Knowledge',
+    },
+    body: JSON.stringify({
+      model: OPENROUTER_MODEL,
+      messages: [
+        { role: 'system', content: systemPrompt },
+        { role: 'user', content: userPrompt },
+      ],
+      temperature: 0.7,
+      max_tokens: 500,
+    }),
+  })
 
   if (!response.ok) {
     const error = await response.text()
-    throw new Error(`Gemini API error: ${response.status} - ${error}`)
+    throw new Error(`OpenRouter API error: ${response.status} - ${error}`)
   }
 
   const data = await response.json()
-  return data.candidates?.[0]?.content?.parts?.[0]?.text || 'I could not generate an answer.'
+  return data.choices?.[0]?.message?.content || 'I could not generate an answer.'
 }
 
 // ────────────────────────────────────────────────────────────
@@ -171,20 +183,19 @@ export async function onRequestPost({ request, env }: { request: Request; env: R
   }
 
   try {
-    // ── Read API key from Pages Functions env ──
-    const apiKey = env.GEMINI_API_KEY
+    const apiKey = env.OPENROUTER_API_KEY
 
     if (!apiKey) {
       return new Response(
         JSON.stringify({
-          error: 'Gemini API key not configured.',
-          hint: 'Set GEMINI_API_KEY in Cloudflare Pages Dashboard > Settings > Environment variables (Production). Then redeploy.',
+          error: 'OpenRouter API key not configured.',
+          hint: 'Set OPENROUTER_API_KEY in Cloudflare Pages Dashboard > Settings > Environment variables. Get a free key at https://openrouter.ai/keys',
         }),
         { status: 500, headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
       )
     }
 
-    // ── Parse request ──
+    // Parse request
     let body: AskRequest
     try {
       body = await request.json()
@@ -203,7 +214,7 @@ export async function onRequestPost({ request, env }: { request: Request; env: R
       )
     }
 
-    // ── Generate answer ──
+    // Generate answer
     const ctx = buildContext(question)
     const answer = await generateAnswer(question, ctx, apiKey)
 
