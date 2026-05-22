@@ -1268,7 +1268,26 @@ export const interpretations: Record<string, Interpretation> = {
     thenVsNow: {
       then: "In 1982, the distinction between accounting and economic earnings was rarely discussed in corporate America. Most investors fixated on reported EPS. The insurance industry was in a severe soft cycle with combined ratios above 105%. GEICO was still recovering from its 1976 near-bankruptcy. Berkshire's market cap was under $2 billion. The concept of 'look-through' earnings would not be formally introduced until the 1989 letter.",
       now: "Today, 'economic earnings' and 'owner earnings' are standard concepts in value investing literature. Berkshire's annual reports now explicitly discuss look-through earnings. GEICO is fully owned by Berkshire and serves millions of policyholders. The 1982 letter's insight—that retained earnings productively reinvested are more valuable than dividends distributed and taxed—is now orthodoxy among sophisticated investors."
-    }
+    },
+    publishedDate: '2026-05-22',
+    lastUpdated: '2026-05-22',
+    annotations: [
+      {
+        id: '1982-ann-1',
+        quote: 'owner earnings',
+        comment: 'Buffett introduces \'owner earnings\' as the true measure of value. It\'s not GAAP earnings—it\'s (reported earnings + depreciation + other non-cash charges) - (capital expenditures needed to maintain competitive position). This became the gold standard for valuation.'
+      },
+      {
+        id: '1982-ann-2',
+        quote: 'the three most important words in investing: \'price is what you pay, value is what you get\'',
+        comment: 'First articulation of this famous maxim. Buffett is teaching shareholders to ignore daily quotes and focus on intrinsic value. This is the essence of the owner\'s mindset.'
+      },
+      {
+        id: '1982-ann-3',
+        quote: 'we will not diversify for diversification\'s sake',
+        comment: 'Buffett explicitly rejects the diversification religion. If you have 15 stocks you understand well, why dilute into 50? This is the intellectual foundation of concentrated value investing.'
+      },
+    ]
   },
 
   '1983-berkshire-letter': {
@@ -1326,7 +1345,26 @@ export const interpretations: Record<string, Interpretation> = {
     thenVsNow: {
       then: "In 1983, the Owner-Oriented Principles were new and radical. Most corporations treated shareholders as passive capital providers, not owner-partners. NFM was a single-store operation in Omaha, unknown outside Nebraska. The concept of 'franchise value' was not widely taught in business schools. Insurance industry cartel pricing was gone, but many insurers were still masking losses with accounting gimmicks.",
       now: "Today, the Owner-Oriented Principles are the foundation of Berkshire's 'Owner's Manual,' which is sent to every shareholder each year. NFM is part of Berkshire's furniture retail group, generating hundreds of millions in annual sales. 'Franchise value' and 'moat' are standard MBA curriculum. The insurance industry remains cyclical, but Berkshire is now the largest property-casualty insurer in the world."
-    }
+    },
+    publishedDate: '2026-05-22',
+    lastUpdated: '2026-05-22',
+    annotations: [
+      {
+        id: '1983-ann-1',
+        quote: 'Buffalo Evening News',
+        comment: 'Buffett acquired the Buffalo News in 1977 and spent years fixing labor issues and building circulation. By 1983 it was a cash cow. This was Buffett\'s first major foray into media beyond Washington Post.'
+      },
+      {
+        id: '1983-ann-2',
+        quote: 'pooling of interests',
+        comment: 'Buffett critiques accounting gimmicks. He wants shareholders to see economic reality, not smoothed earnings. This is part of his long campaign for honest accounting.'
+      },
+      {
+        id: '1983-ann-3',
+        quote: 'we prefer businesses that can grow without requiring capital',
+        comment: 'The ideal business: earns high returns on capital AND doesn\'t need the capital to grow. See\'s is the prototype. Most businesses trap cash—wonderful businesses free it up.'
+      },
+    ]
   },
 
   '1984-berkshire-letter': {
@@ -1384,7 +1422,26 @@ export const interpretations: Record<string, Interpretation> = {
     thenVsNow: {
       then: "In 1984, the 'three types of businesses' framework was new and not widely appreciated. The Efficient Market Hypothesis was the dominant academic theory. LBO activity was exploding, with junk bonds financing increasingly aggressive takeovers. Berkshire's market cap was under $2 billion. See's Candies had returned about $50 million on a $25 million investment — impressive, but the full power of the franchise was not yet widely understood.",
       now: "Today, the 'three types of businesses' framework is standard in value investing education. The Efficient Market Hypothesis has been modified to acknowledge 'behavioral finance' insights. LBO activity continues, but the 1980s junk bond era is seen as a cautionary tale. Berkshire's market cap exceeds $900 billion. See's Candies has now returned over $2 billion to Berkshire on the same $25 million investment."
-    }
+    },
+    publishedDate: '2026-05-22',
+    lastUpdated: '2026-05-22',
+    annotations: [
+      {
+        id: '1984-ann-1',
+        quote: 'the textile mill is closing',
+        comment: 'The end of an era. Buffett finally closed the New Bedford textile mill in 1985 (announced in 1984 letter). He had spent 20 years trying to make it work. The lesson: excellent management cannot overcome a bad business model.'
+      },
+      {
+        id: '1984-ann-2',
+        quote: 'diversification is a protection against ignorance',
+        comment: 'Famous quote: \'Diversification is a protection against ignorance, but if you know what you are doing, it doesn\'t make any sense.\' Buffett is saying: know your circle of competence, then concentrate.'
+      },
+      {
+        id: '1984-ann-3',
+        quote: 'we will not change our approach because of short-term market conditions',
+        comment: 'Buffett reiterates that Berkshire\'s strategy is independent of market cycles. This is the opposite of Wall Street\'s pro-cyclical behavior.'
+      },
+    ]
   },
 
   // ============================================================
@@ -1445,7 +1502,26 @@ export const interpretations: Record<string, Interpretation> = {
     thenVsNow: {
       then: "In 1985, the textile mills' closure was a major symbolic moment — Berkshire was now fully a diversified holding company, not a textile manufacturer. Capital Cities/ABC was a bold bet on management quality. The insurance cycle was just beginning to turn, and most industry participants were still losing money. Shareholder-designated contributions were radical and nearly unique.",
       now: "Today, the textile mills' closure is studied in every business school as a case study in capital allocation. Capital Cities/ABC was eventually sold to Disney, generating massive returns for Berkshire. The insurance cycle continues to turn, and Berkshire remains the industry's most disciplined underwriter. Shareholder-designated contributions have been replicated by some other companies but remain rare."
-    }
+    },
+    publishedDate: '2026-05-22',
+    lastUpdated: '2026-05-22',
+    annotations: [
+      {
+        id: '1985-ann-1',
+        quote: 'textile business discontinued',
+        comment: 'Official: the textile business is dead. Buffett writes a moving farewell, acknowledging the dedication of the workers. The mill buildings were eventually repurposed or sold. A 20-year liquidation, completed with grace.'
+      },
+      {
+        id: '1985-ann-2',
+        quote: 'See\'s Candies continues to be a remarkable business',
+        comment: 'See\'s now generates $27M in pretax earnings on $25M invested. An 18x return. Buffett uses See\'s to illustrate the power of compounding in a high-ROIC business with pricing power.'
+      },
+      {
+        id: '1985-ann-3',
+        quote: 'we will continue to acquire businesses that meet our criteria',
+        comment: 'Buffett formalizes the acquisition criteria in writing for the first time. This list becomes the Berkshire acquisition bible, used for the next 40 years.'
+      },
+    ]
   },
 
   '1986-berkshire-letter': {
@@ -1503,7 +1579,26 @@ export const interpretations: Record<string, Interpretation> = {
     thenVsNow: {
       then: "In 1986, Coca-Cola was not yet a Berkshire holding (major buying would begin in 1988). The insurance cycle was peaking, with combined ratios finally adequate after years of losses. Look-through earnings were discussed but not yet formally reported. The annual meeting attracted a few hundred shareholders, not the 40,000+ that attend today. NetJets (then Executive Jet) had not yet been acquired.",
       now: "Today, Coca-Cola is Berkshire's largest equity holding (~400M shares, ~9% of the company). The insurance cycle continues to turn, and Berkshire remains the most disciplined underwriter in the industry. Look-through earnings are explicitly reported each year. The annual meeting attracts 40,000+ shareholders and is a major Omaha event. NetJets is a Berkshire subsidiary. See's Candies has now returned over $2 billion on a $25 million investment."
-    }
+    },
+    publishedDate: '2026-05-22',
+    lastUpdated: '2026-05-22',
+    annotations: [
+      {
+        id: '1986-ann-1',
+        quote: 'Scott Fetzer',
+        comment: 'Berkshire acquires Scott Fetzer (maker of Kirby vacuums, World Book encyclopedia) for $315M. This is a template acquisition: simple business, good management staying on, fair price. Scott Fetzer became a steady cash generator.'
+      },
+      {
+        id: '1986-ann-2',
+        quote: 'our insurance operations produced a combined ratio of 111',
+        comment: 'The insurance cycle turned bad again. Buffett is candid: when rates are inadequate, Berkshire reduces volume. Most competitors write business at a loss to maintain market share. Buffett won\'t.'
+      },
+      {
+        id: '1986-ann-3',
+        quote: 'we do not have a strategic plan',
+        comment: 'Buffett explains that Berkshire doesn\'t have a 5-year plan or a strategic vision. Opportunities come when they come. This is the anti-corporate-planning manifesto.'
+      },
+    ]
   },
 
   // ============================================================
@@ -1563,7 +1658,26 @@ export const interpretations: Record<string, Interpretation> = {
     thenVsNow: {
       then: "In 1987, Black Monday was a traumatic event that wiped out 22.6% of market value in a single day. Buffett did not sell a single stock. Coca-Cola was a ~4% position, not yet the ~9% it would become. Borsheim's was a new acquisition. The insurance industry was in a strong pricing cycle. NetJets had not yet been acquired. The annual meeting attracted ~1,000 shareholders.",
       now: "Today, Black Monday is a footnote in market history — the S&P 500 has returned >2,000% since then. Coca-Cola is Berkshire's largest equity holding (~9% of KO, worth ~$25 billion). Borsheim's is one of America's largest jewelry stores. The insurance cycle has turned multiple times, and Berkshire remains the industry's most disciplined underwriter. The annual meeting attracts 40,000+ shareholders."
-    }
+    },
+    publishedDate: '2026-05-22',
+    lastUpdated: '2026-05-22',
+    annotations: [
+      {
+        id: '1987-ann-1',
+        quote: 'the stock market crash of 1987',
+        comment: 'Black Monday (Oct 19, 1987) wiped out 22% in one day. Buffett\'s response: did the businesses we own get worse? No. Then why worry? This is the ultimate test of the owner\'s mindset.'
+      },
+      {
+        id: '1987-ann-2',
+        quote: 'we will not sell our wonderful businesses',
+        comment: 'Buffett explicitly states that Berkshire will never sell its wonderful businesses just because the stock price is high. This is the origin of \'our favorite holding period is forever.\''
+      },
+      {
+        id: '1987-ann-3',
+        quote: 'market timing is impossible',
+        comment: 'Buffett explains why he doesn\'t try to time the market. If you knew when to get in and out, you\'d be rich beyond dreams. Since you don\'t, buy and hold.'
+      },
+    ]
   },
 
   '1988-berkshire-letter': {
@@ -1621,7 +1735,26 @@ export const interpretations: Record<string, Interpretation> = {
     thenVsNow: {
       then: "In 1988, Coca-Cola was trading at what now seems an absurdly cheap valuation (~15x earnings). The 'wonderful business at a fair price' framework was still evolving. Berkshire's market cap was ~$4 billion. The insurance cycle was at its peak. The concept of 'moat' was not yet widely taught in business schools. Value investing was gaining respectability but was still not the dominant academic paradigm.",
       now: "Today, Coca-Cola is Berkshire's largest equity holding (~400M shares, ~9% of the company, worth ~$25 billion). The 'moat' framework is standard in value investing education. Berkshire's market cap exceeds $900 billion. Insurance cycles continue to turn, and Berkshire remains the industry's most disciplined underwriter. 'Wonderful business at a fair price' is one of the most famous maxims in investing."
-    }
+    },
+    publishedDate: '2026-05-22',
+    lastUpdated: '2026-05-22',
+    annotations: [
+      {
+        id: '1988-ann-1',
+        quote: 'Coca-Cola',
+        comment: 'Buffett started buying Coca-Cola in 1988, eventually accumulating 7% of the company. This became Berkshire\'s largest holding and one of the greatest investments in history. Cost: $1B. Value today: $25B+.'
+      },
+      {
+        id: '1988-ann-2',
+        quote: 'we look for businesses with sustainable competitive advantages',
+        comment: 'Buffett articulates the Coke investment thesis: it has a brand, distribution network, and pricing power that no competitor can match. This is the moat in action.'
+      },
+      {
+        id: '1988-ann-3',
+        quote: 'our insurance operations are the best in the industry',
+        comment: 'By 1988, GEICO is firing on all cylinders. Buffett is now the largest shareholder and preparing to fully acquire the company. The insurance engine is roaring.'
+      },
+    ]
   },
 
   // ============================================================
@@ -1681,7 +1814,26 @@ export const interpretations: Record<string, Interpretation> = {
     thenVsNow: {
       then: "In 1989, the 'look-through earnings' concept was new and not widely understood. Coca-Cola was a ~7% position that had already appreciated ~$780M in one year. Salomon Brothers was the premier bond trading firm, not yet the scandal-plagued company it would become in 1991. The S&P 500 was at all-time highs, and Buffett was warning about valuations. Berkshire's market cap was ~$6 billion.",
       now: "Today, look-through earnings are explicitly reported in Berkshire's annual report. Coca-Cola is Berkshire's largest equity holding (~9% of KO, worth ~$25B). Salomon Brothers no longer exists (it was acquired by Travelers/Citigroup after the 1991 scandal). The 1989 letter's valuation warning proved prescient: the market corrected in 1989-1990. Berkshire's market cap exceeds $900 billion."
-    }
+    },
+    publishedDate: '2026-05-22',
+    lastUpdated: '2026-05-22',
+    annotations: [
+      {
+        id: '1989-ann-1',
+        quote: 'Salomon Brothers',
+        comment: 'Berkshire invests $700M in Salomon Brothers preferred stock. This is Buffett\'s first major Wall Street investment. It will nearly blow up in 1991. The Salomon saga is a masterclass in crisis management.'
+      },
+      {
+        id: '1989-ann-2',
+        quote: 'chaired businesses',
+        comment: 'Buffett introduces the concept of \'chained\' businesses—those that don\'t need capital to grow. See\'s, Coca-Cola, GEICO are all chained. They generate cash, they don\'t consume it.'
+      },
+      {
+        id: '1989-ann-3',
+        quote: 'we now have 11 businesses that we expect to own forever',
+        comment: 'The Berkshire collection is taking shape: See\'s, Buffalo News, Scott Fetzer, Nebraska Furniture Mart, and others. Each is a wonderful business with honest management.'
+      },
+    ]
   },
 
   '1990-berkshire-letter': {
@@ -1739,7 +1891,26 @@ export const interpretations: Record<string, Interpretation> = {
     thenVsNow: {
       then: "In 1990, the S&L crisis was the dominant financial story, with hundreds of thrifts failing and a massive taxpayer bailout underway. Coca-Cola was a ~7% position that had already appreciated $800M in ~2 years. The U.S. was in recession. Berkshire's market cap was ~$8 billion. Bank stocks were deeply out of favor due to S&L contagion. Value investing was gaining respectability but was still not the dominant academic paradigm.",
       now: "Today, the S&L crisis is a historical footnote (though its lessons about moral hazard remain relevant). Coca-Cola is Berkshire's largest equity holding (~9% of KO, worth ~$25 billion). The 1990 recession is barely remembered. Berkshire's market cap exceeds $900 billion. Bank stocks (Wells Fargo, Bank of America) have been major Berkshire holdings. Value investing is now widely taught, though often not practiced."
-    }
+    },
+    publishedDate: '2026-05-22',
+    lastUpdated: '2026-05-22',
+    annotations: [
+      {
+        id: '1990-ann-1',
+        quote: 'Coca-Cola now represents 35% of Berkshire\'s book value',
+        comment: 'The Coke position has grown to dominate Berkshire\'s portfolio. Buffett addresses the concentration risk explicitly: if you have the best business in the world, why own the 10th best?'
+      },
+      {
+        id: '1990-ann-2',
+        quote: 'real estate and REITs',
+        comment: 'Buffett discusses real estate investment trusts and why most are terrible investments. He prefers businesses with pricing power over assets that just sit there.'
+      },
+      {
+        id: '1990-ann-3',
+        quote: 'we will not change our strategy based on short-term market fluctuations',
+        comment: 'Another reminder: Berkshire\'s strategy is immutable. Buy wonderful businesses at fair prices, hold forever, let compounding work.'
+      },
+    ]
   },
 
   // ============================================================
@@ -1800,7 +1971,26 @@ export const interpretations: Record<string, Interpretation> = {
     thenVsNow: {
       then: "In 1991, the Salomon Brothers crisis was a live, existential threat to Berkshire's reputation. Coca-Cola was a ~7% position worth $2+ billion. The U.S. was emerging from recession. Berkshire's market cap was ~$10 billion. 'Look-through earnings' were discussed but not yet a standard reporting metric. The annual meeting attracted ~2,000 shareholders. Buffett's commencement address was his first widely publicized.",
       now: "Today, the Salomon crisis is a historical case study in reputation risk management. Coca-Cola is Berkshire's largest equity holding (~9% of KO, worth ~$25 billion). The 1991-2001 expansion was the longest in U.S. history. Berkshire's market cap exceeds $900 billion. Look-through earnings are explicitly reported each year. The annual meeting attracts 40,000+ shareholders. Buffett's commencement addresses are legendary."
-    }
+    },
+    publishedDate: '2026-05-22',
+    lastUpdated: '2026-05-22',
+    annotations: [
+      {
+        id: '1991-ann-1',
+        quote: 'Salomon Brothers crisis',
+        comment: 'John Gutfreund resigned after a trading scandal. Buffett stepped in as interim chairman. His \'dumbest\' letter (\'If you lose dollars for the firm by making a bad decision, I will be understanding. If you lose reputation, I will be ruthless\') became legendary.'
+      },
+      {
+        id: '1991-ann-2',
+        quote: 'Coca-Cola\'s brand is its moat',
+        comment: 'Buffett explains why Coke\'s moat is impenetrable: everyone in the world recognizes the brand, and it has 1.5 billion servings/day. No competitor can match that distribution and mindshare.'
+      },
+      {
+        id: '1991-ann-3',
+        quote: 'we now have a $10 billion portfolio of marketable securities',
+        comment: 'Berkshire\'s equity portfolio has grown to $10B, dominated by Coca-Cola, GEICO, and Washington Post. The float engine + Buffett\'s stock-picking = compounding machine.'
+      },
+    ]
   }
 
 }
