@@ -6093,7 +6093,197 @@ export const berkshireLetters: Letter[] = [
     date: '1986-03-00',
     summary:
       'Buffett formally closed Berkshire\'s textile operations - marking the end of the business that started it all. The letter introduced the "owner earnings" concept as a truer measure of business value than accounting earnings, and discussed the acquisition of Scott & Fetzer.',
-        fullText: `[[PLACEHOLDER]]`,
+        fullText: `<p><strong>To the Shareholders of Berkshire Hathaway Inc.:</strong></p>
+<p>You may remember the wildly upbeat message of last year’s report: nothing much was in the works but our experience had been that something big popped up occasionally. This carefully-crafted corporate strategy paid off in 1985. Later sections of this report discuss (a) our purchase of a major position in Capital Cities/ABC, (b) our acquisition of Scott & Fetzer, (c) our entry into a large, extended term participation in the insurance business of Fireman’s Fund, and (d) our sale of our stock in General Foods.</p>
+<p>Our gain in net worth during the year was $613.6 million, or 48.2%. It is fitting that the visit of Halley’s Comet coincided with this percentage gain: neither will be seen again in my lifetime. Our gain in per-share book value over the last twenty-one years (that is, since present management took over) has been from $19.46 to $1643.71, or 23.2% compounded annually, another percentage that will not be repeated.</p>
+<p>Two factors make anything approaching this rate of gain unachievable in the future. One factor probably transitory—is a stock market that offers very little opportunity compared to the markets that prevailed throughout much of the 1964-1984 period. Today we cannot find significantly-undervalued equities to purchase for our insurance company portfolios. The current situation is 180 degrees removed from that existing about a decade ago, when the only question was which bargain to choose.</p>
+<p>This change in the market also has negative implications for our present portfolio. In our 1974 annual report I could say: “We consider several of our major holdings to have great potential for significantly increased values in future years.” I can’t say that now. It’s true that our insurance companies currently hold major positions in companies with exceptional underlying economics and outstanding managements, just as they did in 1974. But current market prices generously appraise these attributes, whereas they were ignored in 1974. Today’s valuations mean that our insurance companies have no chance for future portfolio gains on the scale of those achieved in the past.</p>
+<p>The second negative factor, far more telling, is our size. Our equity capital is more than twenty times what it was only ten years ago. And an iron law of business is that growth eventually dampens exceptional economics. just look at the records of high-return companies once they have amassed even $1 billion of equity capital. None that I know of has managed subsequently, over a ten-year period, to keep on earning 20% or more on equity while reinvesting all or substantially all of its earnings. Instead, to sustain their high returns, such companies have needed to shed a lot of capital by way of either dividends or repurchases of stock. Their shareholders would have been far better off if all earnings could have been reinvested at the fat returns earned by these exceptional businesses. But the companies simply couldn’t turn up enough high-return opportunities to make that possible.</p>
+<p>Their problem is our problem. Last year I told you that we needed profits of $3.9 billion over the ten years then coming up to earn 15% annually. The comparable figure for the ten years now ahead is $5.7 billion, a 48% increase that corresponds—as it must mathematically—to the growth in our capital base during 1985. (Here’s a little perspective: leaving aside oil companies, only about 15 U.S. businesses have managed to earn over $5.7 billion during the past ten years.)</p>
+<p>Charlie Munger, my partner in managing Berkshire, and I are reasonably optimistic about Berkshire’s ability to earn returns superior to those earned by corporate America generally, and you will benefit from the company’s retention of all earnings as long as those returns are forthcoming. We have several things going for us: (1) we don’t have to worry about quarterly or annual figures but, instead, can focus on whatever actions will maximize long-term value; (2) we can expand the business into any areas that make sense—our scope is not circumscribed by history, structure, or concept; and (3) we love our work. All of these help. Even so, we will also need a full measure of good fortune to average our hoped-for 15%—far more good fortune than was required for our past 23.2%.</p>
+<p>We need to mention one further item in the investment equation that could affect recent purchasers of our stock. Historically, Berkshire shares have sold modestly below intrinsic business value. With the price there, purchasers could be certain (as long as they did not experience a widening of this discount) that their personal investment experience would at least equal the financial experience of the business. But recently the discount has disappeared, and occasionally a modest premium has prevailed.</p>
+<p>The elimination of the discount means that Berkshire’s market value increased even faster than business value (which, itself, grew at a pleasing pace). That was good news for any owner holding while that move took place, but it is bad news for the new or prospective owner. If the financial experience of new owners of Berkshire is merely to match the future financial experience of the company, any premium of market value over intrinsic business value that they pay must be maintained.</p>
+<p>Management cannot determine market prices, although it can, by its disclosures and policies, encourage rational behavior by market participants. My own preference, as perhaps you’d guess, is for a market price that consistently approximates business value. Given that relationship, all owners prosper precisely as the business prospers during their period of ownership. Wild swings in market prices far above and below business value do not change the final gains for owners in aggregate; in the end, investor gains must equal business gains. But long periods of substantial undervaluation and/or overvaluation will cause the gains of the business to be inequitably distributed among various owners, with the investment result of any given owner largely depending upon how lucky, shrewd, or foolish he happens to be.</p>
+<p>Over the long term there has been a more consistent relationship between Berkshire’s market value and business value than has existed for any other publicly-traded equity with which I am familiar. This is a tribute to you. Because you have been rational, interested, and investment-oriented, the market price for Berkshire stock has almost always been sensible. This unusual result has been achieved by a shareholder group with unusual demographics: virtually all of our shareholders are individuals, not institutions. No other public company our size can claim the same.</p>
+<p>You might think that institutions, with their large staffs of highly-paid and experienced investment professionals, would be a force for stability and reason in financial markets. They are not: stocks heavily owned and constantly monitored by institutions have often been among the most inappropriately valued.</p>
+<p>Ben Graham told a story 40 years ago that illustrates why investment professionals behave as they do: An oil prospector, moving to his heavenly reward, was met by St. Peter with bad news. “You’re qualified for residence”, said St. Peter, “but, as you can see, the compound reserved for oil men is packed. There’s no way to squeeze you in.” After thinking a moment, the prospector asked if he might say just four words to the present occupants. That seemed harmless to St. Peter, so the prospector cupped his hands and yelled, “Oil discovered in hell.” Immediately the gate to the compound opened and all of the oil men marched out to head for the nether regions. Impressed, St. Peter invited the prospector to move in and make himself comfortable. The prospector paused. “No,” he said, “I think I’ll go along with the rest of the boys. There might be some truth to that rumor after all.”</p>
+<p><strong>Sources of Reported Earnings</strong></p>
+<p>The table on the next page shows the major sources of Berkshire’s reported earnings. These numbers, along with far more detailed sub-segment numbers, are the ones that Charlie and I focus upon. We do not find consolidated figures an aid in either managing or evaluating Berkshire and, in fact, never prepare them for internal use.</p>
+<p>Segment information is equally essential for investors wanting to know what is going on in a multi-line business. Corporate managers always have insisted upon such information before making acquisition decisions but, until a few years ago, seldom made it available to investors faced with acquisition and disposition decisions of their own. Instead, when owners wishing to understand the economic realities of their business asked for data, managers usually gave them a we-can’t-tell-you-what-is-going-on-because-it-would-hurt-the-company answer. Ultimately the SEC ordered disclosure of segment data and management began supplying real answers. The change in their behavior recalls an insight of Al Capone: “You can get much further with a kind word and a gun than you can with a kind word alone.”</p>
+<p>In the table, amortization of Goodwill is not charged against the specific businesses but, for reasons outlined in the Appendix to my letter in the 1983 annual report, is aggregated as a separate item. (A compendium of the 1977-1984 letters is available upon request.) In the Business Segment Data and Management’s Discussion sections on pages 39-41 and 49-55, much additional information regarding our businesses is provided, including Goodwill and Goodwill Amortization figures for each of the segments. I urge you to read those sections as well as Charlie Munger’s letter to Wesco shareholders, which starts on page 56.</p>
+<p>Our 1985 results include unusually large earnings from the sale of securities. This fact, in itself, does not mean that we had a particularly good year (though, of course, we did). Security profits in a given year bear similarities to a college graduation ceremony in which the knowledge gained over four years is recognized on a day when nothing further is learned. We may hold a stock for a decade or more, and during that period it may grow quite consistently in both business and market value. In the year in which we finally sell it there may be no increase in value, or there may even be a decrease. But all growth in value since purchase will be reflected in the accounting earnings of the year of sale. (If the stock owned is in our insurance subsidiaries, however, any gain or loss in market value will be reflected in net worth annually.) Thus, reported capital gains or losses in any given year are meaningless as a measure of how well we have done in the current year.</p>
+<p>A large portion of the realized gain in 1985 ($338 million pre-tax out of a total of $488 million) came about through the sale of our General Foods shares. We held most of these shares since 1980, when we had purchased them at a price far below what we felt was their per/share business value. Year by year, the managerial efforts of Jim Ferguson and Phil Smith substantially increased General Foods’ business value and, last fall, Philip Morris made an offer for the company that reflected the increase. We thus benefited from four factors: a bargain purchase price, a business with fine underlying economics, an able management concentrating on the interests of shareholders, and a buyer willing to pay full business value. While that last factor is the only one that produces reported earnings, we consider identification of the first three to be the key to building value for Berkshire shareholders. In selecting common stocks, we devote our attention to attractive purchases, not to the possibility of attractive sales.</p>
+<p>We have again reported substantial income from special distributions, this year from Washington Post and General Foods. (The General Foods transactions obviously took place well before the Philip Morris offer.) Distributions of this kind occur when we sell a portion of our shares in a company back to it simultaneously with its purchase of shares from other shareholders. The number of shares we sell is contractually set so as to leave our percentage ownership in the company precisely the same after the sale as before. Such a transaction is quite properly regarded by the IRS as substantially equivalent to a dividend since we, as a shareholder, receive cash while maintaining an unchanged ownership interest. This tax treatment benefits us because corporate taxpayers, unlike individual taxpayers, incur much lower taxes on dividend income than on income from long-term capital gains. (This difference will be widened further if the House-passed tax bill becomes law: under its provisions, capital gains realized by corporations will be taxed at the same rate as ordinary income.) However, accounting rules are unclear as to proper treatment for shareholder reporting. To conform with last year’s treatment, we have shown these transactions as capital gains.</p>
+<p>Though we have not sought out such transactions, we have agreed to them on several occasions when managements initiated the idea. In each case we have felt that non-selling shareholders (all of whom had an opportunity to sell at the same price we received) benefited because the companies made their repurchases at prices below intrinsic business value. The tax advantages we receive and our wish to cooperate with managements that are increasing values for all shareholders have sometimes led us to sell—but only to the extent that our proportional share of the business was undiminished.</p>
+<p>At this point we usually turn to a discussion of some of our major business units. Before doing so, however, we should first look at a failure at one of our smaller businesses. Our Vice Chairman, Charlie Munger, has always emphasized the study of mistakes rather than successes, both in business and other aspects of life. He does so in the spirit of the man who said: “All I want to know is where I’m going to die so I’ll never go there.” You’ll immediately see why we make a good team: Charlie likes to study errors and I have generated ample material for him, particularly in our textile and insurance businesses.</p>
+<p><strong>Shutdown of Textile Business</strong></p>
+<p>In July we decided to close our textile operation, and by yearend this unpleasant job was largely completed. The history of this business is instructive.</p>
+<p>When Buffett Partnership, Ltd., an investment partnership of which I was general partner, bought control of Berkshire Hathaway 21 years ago, it had an accounting net worth of $22 million, all devoted to the textile business. The company’s intrinsic business value, however, was considerably less because the textile assets were unable to earn returns commensurate with their accounting value. Indeed, during the previous nine years (the period in which Berkshire and Hathaway operated as a merged company) aggregate sales of $530 million had produced an aggregate loss of $10 million. Profits had been reported from time to time but the net effect was always one step forward, two steps back.</p>
+<p>At the time we made our purchase, southern textile plants—largely non-union—were believed to have an important competitive advantage. Most northern textile operations had closed and many people thought we would liquidate our business as well.</p>
+<p>We felt, however, that the business would be run much better by a long-time employee whom. we immediately selected to be president, Ken Chace. In this respect we were 100% correct: Ken and his recent successor, Garry Morrison, have been excellent managers, every bit the equal of managers at our more profitable businesses.</p>
+<p>In early 1967 cash generated by the textile operation was used to fund our entry into insurance via the purchase of National Indemnity Company. Some of the money came from earnings and some from reduced investment in textile inventories, receivables, and fixed assets. This pullback proved wise: although much improved by Ken’s management, the textile business never became a good earner, not even in cyclical upturns.</p>
+<p>Further diversification for Berkshire followed, and gradually the textile operation’s depressing effect on our overall return diminished as the business became a progressively smaller portion of the corporation. We remained in the business for reasons that I stated in the 1978 annual report (and summarized at other times also): “(1) our textile businesses are very important employers in their communities, (2) management has been straightforward in reporting on problems and energetic in attacking them, (3) labor has been cooperative and understanding in facing our common problems, and (4) the business should average modest cash returns relative to investment.” I further said, “As long as these conditions prevail—and we expect that they will—we intend to continue to support our textile business despite more attractive alternative uses for capital.”</p>
+<p>It turned out that I was very wrong about (4). Though 1979 was moderately profitable, the business thereafter consumed major amounts of cash. By mid-1985 it became clear, even to me, that this condition was almost sure to continue. Could we have found a buyer who would continue operations, I would have certainly preferred to sell the business rather than liquidate it, even if that meant somewhat lower proceeds for us. But the economics that were finally obvious to me were also obvious to others, and interest was nil.</p>
+<p>I won’t close down businesses of sub-normal profitability merely to add a fraction of a point to our corporate rate of return. However, I also feel it inappropriate for even an exceptionally profitable company to fund an operation once it appears to have unending losses in prospect. Adam Smith would disagree with my first proposition, and Karl Marx would disagree with my second; the middle ground is the only position that leaves me comfortable.</p>
+<p>I should reemphasize that Ken and Garry have been resourceful, energetic and imaginative in attempting to make our textile operation a success. Trying to achieve sustainable profitability, they reworked product lines, machinery configurations and distribution arrangements. We also made a major acquisition, Waumbec Mills, with the expectation of important synergy (a term widely used in business to explain an acquisition that otherwise makes no sense). But in the end nothing worked and I should be faulted for not quitting sooner. A recent Business Week article stated that 250 textile mills have closed since 1980. Their owners were not privy to any information that was unknown to me; they simply processed it more objectively. I ignored Comte’s advice—“the intellect should be the servant of the heart, but not its slave”—and believed what I preferred to believe.</p>
+<p>The domestic textile industry operates in a commodity business, competing in a world market in which substantial excess capacity exists. Much of the trouble we experienced was attributable, both directly and indirectly, to competition from foreign countries whose workers are paid a small fraction of the U.S. minimum wage. But that in no way means that our labor force deserves any blame for our closing. In fact, in comparison with employees of American industry generally, our workers were poorly paid, as has been the case throughout the textile business. In contract negotiations, union leaders and members were sensitive to our disadvantageous cost position and did not push for unrealistic wage increases or unproductive work practices. To the contrary, they tried just as hard as we did to keep us competitive. Even during our liquidation period they performed superbly. (Ironically, we would have been better off financially if our union had behaved unreasonably some years ago; we then would have recognized the impossible future that we faced, promptly closed down, and avoided significant future losses.)</p>
+<p>Over the years, we had the option of making large capital expenditures in the textile operation that would have allowed us to somewhat reduce variable costs. Each proposal to do so looked like an immediate winner. Measured by standard return-on-investment tests, in fact, these proposals usually promised greater economic benefits than would have resulted from comparable expenditures in our highly-profitable candy and newspaper businesses.</p>
+<p>But the promised benefits from these textile investments were illusory. Many of our competitors, both domestic and foreign, were stepping up to the same kind of expenditures and, once enough companies did so, their reduced costs became the baseline for reduced prices industrywide. Viewed individually, each company’s capital investment decision appeared cost-effective and rational; viewed collectively, the decisions neutralized each other and were irrational (just as happens when each person watching a parade decides he can see a little better if he stands on tiptoes). After each round of investment, all the players had more money in the game and returns remained anemic.</p>
+<p>Thus, we faced a miserable choice: huge capital investment would have helped to keep our textile business alive, but would have left us with terrible returns on ever-growing amounts of capital. After the investment, moreover, the foreign competition would still have retained a major, continuing advantage in labor costs. A refusal to invest, however, would make us increasingly non-competitive, even measured against domestic textile manufacturers. I always thought myself in the position described by Woody Allen in one of his movies: “More than any other time in history, mankind faces a crossroads. One path leads to despair and utter hopelessness, the other to total extinction. Let us pray we have the wisdom to choose correctly.”</p>
+<p>For an understanding of how the to-invest-or-not-to-invest dilemma plays out in a commodity business, it is instructive to look at Burlington Industries, by far the largest U.S. textile company both 21 years ago and now. In 1964 Burlington had sales of $1.2 billion against our $50 million. It had strengths in both distribution and production that we could never hope to match and also, of course, had an earnings record far superior to ours. Its stock sold at 60 at the end of 1964; ours was 13.</p>
+<p>Burlington made a decision to stick to the textile business, and in 1985 had sales of about $2.8 billion. During the 1964-85 period, the company made capital expenditures of about $3 billion, far more than any other U.S. textile company and more than $200-per-share on that $60 stock. A very large part of the expenditures, I am sure, was devoted to cost improvement and expansion. Given Burlington’s basic commitment to stay in textiles, I would also surmise that the company’s capital decisions were quite rational.</p>
+<p>Nevertheless, Burlington has lost sales volume in real dollars and has far lower returns on sales and equity now than 20 years ago. Split 2-for-1 in 1965, the stock now sells at 34—on an adjusted basis, just a little over its $60 price in 1964. Meanwhile, the CPI has more than tripled. Therefore, each share commands about one-third the purchasing power it did at the end of 1964. Regular dividends have been paid but they, too, have shrunk significantly in purchasing power.</p>
+<p>This devastating outcome for the shareholders indicates what can happen when much brain power and energy are applied to a faulty premise. The situation is suggestive of Samuel Johnson’s horse: “A horse that can count to ten is a remarkable horse—not a remarkable mathematician.” Likewise, a textile company that allocates capital brilliantly within its industry is a remarkable textile company—but not a remarkable business.</p>
+<p>My conclusion from my own experiences and from much observation of other businesses is that a good managerial record (measured by economic returns) is far more a function of what business boat you get into than it is of how effectively you row (though intelligence and effort help considerably, of course, in any business, good or bad). Some years ago I wrote: “When a management with a reputation for brilliance tackles a business with a reputation for poor fundamental economics, it is the reputation of the business that remains intact.” Nothing has since changed my point of view on that matter. Should you find yourself in a chronically-leaking boat, energy devoted to changing vessels is likely to be more productive than energy devoted to patching leaks.</p>
+<p>* * *</p>
+<p>There is an investment postscript in our textile saga. Some investors weight book value heavily in their stock-buying decisions (as I, in my early years, did myself). And some economists and academicians believe replacement values are of considerable importance in calculating an appropriate price level for the stock market as a whole. Those of both persuasions would have received an education at the auction we held in early 1986 to dispose of our textile machinery.</p>
+<p>The equipment sold (including some disposed of in the few months prior to the auction) took up about 750,000 square feet of factory space in New Bedford and was eminently usable. It originally cost us about $13 million, including $2 million spent in 1980-84, and had a current book value of $866,000 (after accelerated depreciation). Though no sane management would have made the investment, the equipment could have been replaced new for perhaps $30-$50 million.</p>
+<p>Gross proceeds from our sale of this equipment came to $163,122. Allowing for necessary pre- and post-sale costs, our net was less than zero. Relatively modern looms that we bought for $5,000 apiece in 1981 found no takers at $50. We finally sold them for scrap at $26 each, a sum less than removal costs.</p>
+<p>Ponder this: the economic goodwill attributable to two paper routes in Buffalo—or a single See’s candy store—considerably exceeds the proceeds we received from this massive collection of tangible assets that not too many years ago, under different competitive conditions, was able to employ over 1,000 people.</p>
+<p><strong>Three Very Good Businesses (and a Few Thoughts About Incentive Compensation)</strong></p>
+<p>When I was 12, I lived with my grandfather for about four months. A grocer by trade, he was also working on a book and each night he dictated a few pages to me. The title—brace yourself—was “How to Run a Grocery Store and a Few Things I Have Learned About Fishing”. My grandfather was sure that interest in these two subjects was universal and that the world awaited his views. You may conclude from this section’s title and contents that I was overexposed to Grandpa’s literary style (and personality).</p>
+<p>I am merging the discussion of Nebraska Furniture Mart, See’s Candy Shops, and Buffalo Evening News here because the economic strengths, weaknesses, and prospects of these businesses have changed little since I reported to you a year ago. The shortness of this discussion, however, is in no way meant to minimize the importance of these businesses to us: in 1985 they earned an aggregate of $72 million pre-tax. Fifteen years ago, before we had acquired any of them, their aggregate earnings were about $8 million pre-tax.</p>
+<p>While an increase in earnings from $8 million to $72 million sounds terrific—and usually is—you should not automatically assume that to be the case. You must first make sure that earnings were not severely depressed in the base year. If they were instead substantial in relation to capital employed, an even more important point must be examined: how much additional capital was required to produce the additional earnings?</p>
+<p>In both respects, our group of three scores well. First, earnings 15 years ago were excellent compared to capital then employed in the businesses. Second, although annual earnings are now $64 million greater, the businesses require only about $40 million more in invested capital to operate than was the case then.</p>
+<p>The dramatic growth in earning power of these three businesses, accompanied by their need for only minor amounts of capital, illustrates very well the power of economic goodwill during an inflationary period (a phenomenon explained in detail in the 1983 annual report). The financial characteristics of these businesses have allowed us to use a very large portion of the earnings they generate elsewhere. Corporate America, however, has had a different experience: in order to increase earnings significantly, most companies have needed to increase capital significantly also. The average American business has required about $5 of additional capital to generate an additional $1 of annual pre-tax earnings. That business, therefore, would have required over $300 million in additional capital from its owners in order to achieve an earnings performance equal to our group of three.</p>
+<p>When returns on capital are ordinary, an earn-more-by-putting-up-more record is no great managerial achievement. You can get the same result personally while operating from your rocking chair. just quadruple the capital you commit to a savings account and you will quadruple your earnings. You would hardly expect hosannas for that particular accomplishment. Yet, retirement announcements regularly sing the praises of CEOs who have, say, quadrupled earnings of their widget company during their reign—with no one examining whether this gain was attributable simply to many years of retained earnings and the workings of compound interest.</p>
+<p>If the widget company consistently earned a superior return on capital throughout the period, or if capital employed only doubled during the CEO’s reign, the praise for him may be well deserved. But if return on capital was lackluster and capital employed increased in pace with earnings, applause should be withheld. A savings account in which interest was reinvested would achieve the same year-by-year increase in earnings—and, at only 8% interest, would quadruple its annual earnings in 18 years.</p>
+<p>The power of this simple math is often ignored by companies to the detriment of their shareholders. Many corporate compensation plans reward managers handsomely for earnings increases produced solely, or in large part, by retained earnings—i.e., earnings withheld from owners. For example, ten-year, fixed-price stock options are granted routinely, often by companies whose dividends are only a small percentage of earnings.</p>
+<p>An example will illustrate the inequities possible under such circumstances. Let’s suppose that you had a $100,000 savings account earning 8% interest and “managed” by a trustee who could decide each year what portion of the interest you were to be paid in cash. Interest not paid out would be “retained earnings” added to the savings account to compound. And let’s suppose that your trustee, in his superior wisdom, set the “pay-out ratio” at one-quarter of the annual earnings.</p>
+<p>Under these assumptions, your account would be worth $179,084 at the end of ten years. Additionally, your annual earnings would have increased about 70% from $8,000 to $13,515 under this inspired management. And, finally, your “dividends” would have increased commensurately, rising regularly from $2,000 in the first year to $3,378 in the tenth year. Each year, when your manager’s public relations firm prepared his annual report to you, all of the charts would have had lines marching skyward.</p>
+<p>Now, just for fun, let’s push our scenario one notch further and give your trustee-manager a ten-year fixed-price option on part of your “business” (i.e., your savings account) based on its fair value in the first year. With such an option, your manager would reap a substantial profit at your expense—just from having held on to most of your earnings. If he were both Machiavellian and a bit of a mathematician, your manager might also have cut the pay-out ratio once he was firmly entrenched.</p>
+<p>This scenario is not as farfetched as you might think. Many stock options in the corporate world have worked in exactly that fashion: they have gained in value simply because management retained earnings, not because it did well with the capital in its hands.</p>
+<p>Managers actually apply a double standard to options. Leaving aside warrants (which deliver the issuing corporation immediate and substantial compensation), I believe it is fair to say that nowhere in the business world are ten-year fixed-price options on all or a portion of a business granted to outsiders. Ten months, in fact, would be regarded as extreme. It would be particularly unthinkable for managers to grant a long-term option on a business that was regularly adding to its capital. Any outsider wanting to secure such an option would be required to pay fully for capital added during the option period.</p>
+<p>The unwillingness of managers to do-unto-outsiders, however, is not matched by an unwillingness to do-unto-themselves. (Negotiating with one’s self seldom produces a barroom brawl.) Managers regularly engineer ten-year, fixed-price options for themselves and associates that, first, totally ignore the fact that retained earnings automatically build value and, second, ignore the carrying cost of capital. As a result, these managers end up profiting much as they would have had they had an option on that savings account that was automatically building up in value.</p>
+<p>Of course, stock options often go to talented, value-adding managers and sometimes deliver them rewards that are perfectly appropriate. (Indeed, managers who are really exceptional almost always get far less than they should.) But when the result is equitable, it is accidental. Once granted, the option is blind to individual performance. Because it is irrevocable and unconditional (so long as a manager stays in the company), the sluggard receives rewards from his options precisely as does the star. A managerial Rip Van Winkle, ready to doze for ten years, could not wish for a better “incentive” system.</p>
+<p>(I can’t resist commenting on one long-term option given an “outsider”: that granted the U.S. Government on Chrysler shares as partial consideration for the government’s guarantee of some lifesaving loans. When these options worked out well for the government, Chrysler sought to modify the payoff, arguing that the rewards to the government were both far greater than intended and outsize in relation to its contribution to Chrysler’s recovery. The company’s anguish over what it saw as an imbalance between payoff and performance made national news. That anguish may well be unique: to my knowledge, no managers—anywhere—have been similarly offended by unwarranted payoffs arising from options granted to themselves or their colleagues.)</p>
+<p>Ironically, the rhetoric about options frequently describes them as desirable because they put managers and owners in the same financial boat. In reality, the boats are far different. No owner has ever escaped the burden of capital costs, whereas a holder of a fixed-price option bears no capital costs at all. An owner must weigh upside potential against downside risk; an option holder has no downside. In fact, the business project in which you would wish to have an option frequently is a project in which you would reject ownership. (I’ll be happy to accept a lottery ticket as a gift—but I’ll never buy one.)</p>
+<p>In dividend policy also, the option holders’ interests are best served by a policy that may ill serve the owner. Think back to the savings account example. The trustee, holding his option, would benefit from a no-dividend policy. Conversely, the owner of the account should lean to a total payout so that he can prevent the option-holding manager from sharing in the account’s retained earnings.</p>
+<p>Despite their shortcomings, options can be appropriate under some circumstances. My criticism relates to their indiscriminate use and, in that connection, I would like to emphasize three points:</p>
+<p>First, stock options are inevitably tied to the overall performance of a corporation. Logically, therefore, they should be awarded only to those managers with overall responsibility. Managers with limited areas of responsibility should have incentives that pay off in relation to results under their control. The .350 hitter expects, and also deserves, a big payoff for his performance—even if he plays for a cellar-dwelling team. And the .150 hitter should get no reward—even if he plays for a pennant winner. Only those with overall responsibility for the team should have their rewards tied to its results.</p>
+<p>Second, options should be structured carefully. Absent special factors, they should have built into them a retained-earnings or carrying-cost factor. Equally important, they should be priced realistically. When managers are faced with offers for their companies, they unfailingly point out how unrealistic market prices can be as an index of real value. But why, then, should these same depressed prices be the valuations at which managers sell portions of their businesses to themselves? (They may go further: officers and directors sometimes consult the Tax Code to determine the lowest prices at which they can, in effect, sell part of the business to insiders. While they’re at it, they often elect plans that produce the worst tax result for the company.) Except in highly unusual cases, owners are not well served by the sale of part of their business at a bargain price—whether the sale is to outsiders or to insiders. The obvious conclusion: options should be priced at true business value.</p>
+<p>Third, I want to emphasize that some managers whom I admire enormously—and whose operating records are far better than mine—disagree with me regarding fixed-price options. They have built corporate cultures that work, and fixed-price options have been a tool that helped them. By their leadership and example, and by the use of options as incentives, these managers have taught their colleagues to think like owners. Such a Culture is rare and when it exists should perhaps be left intact—despite inefficiencies and inequities that may infest the option program. “If it ain’t broke, don’t fix it” is preferable to “purity at any price”.</p>
+<p>At Berkshire, however, we use an incentive compensation system that rewards key managers for meeting targets in their own bailiwicks. If See’s does well, that does not produce incentive compensation at the News—nor vice versa. Neither do we look at the price of Berkshire stock when we write bonus checks. We believe good unit performance should be rewarded whether Berkshire stock rises, falls, or stays even. Similarly, we think average performance should earn no special rewards even if our stock should soar. “Performance”, furthermore, is defined in different ways depending upon the underlying economics of the business: in some our managers enjoy tailwinds not of their own making, in others they fight unavoidable headwinds.</p>
+<p>The rewards that go with this system can be large. At our various business units, top managers sometimes receive incentive bonuses of five times their base salary, or more, and it would appear possible that one manager’s bonus could top $2 million in 1986. (I hope so.) We do not put a cap on bonuses, and the potential for rewards is not hierarchical. The manager of a relatively small unit can earn far more than the manager of a larger unit if results indicate he should. We believe, further, that such factors as seniority and age should not affect incentive compensation (though they sometimes influence basic compensation). A 20-year-old who can hit .300 is as valuable to us as a 40-year-old performing as well.</p>
+<p>Obviously, all Berkshire managers can use their bonus money (or other funds, including borrowed money) to buy our stock in the market. Many have done just that—and some now have large holdings. By accepting both the risks and the carrying costs that go with outright purchases, these managers truly walk in the shoes of owners.</p>
+<p>Now let’s get back—at long last—to our three businesses:</p>
+<p>At Nebraska Furniture Mart our basic strength is an exceptionally low-cost operation that allows the business to regularly offer customers the best values available in home furnishings. NFM is the largest store of its kind in the country. Although the already-depressed farm economy worsened considerably in 1985, the store easily set a new sales record. I also am happy to report that NFM’s Chairman, Rose Blumkin (the legendary “Mrs. B”), continues at age 92 to set a pace at the store that none of us can keep up with. She’s there wheeling and dealing seven days a week, and I hope that any of you who visit Omaha will go out to the Mart and see her in action. It will inspire you, as it does me.</p>
+<p>At See’s we continue to get store volumes that are far beyond those achieved by any competitor we know of. Despite the unmatched consumer acceptance we enjoy, industry trends are not good, and we continue to experience slippage in poundage sales on a same-store basis. This puts pressure on per-pound costs. We now are willing to increase prices only modestly and, unless we can stabilize per-shop poundage, profit margins will narrow.</p>
+<p>At the News volume gains are also difficult to achieve. Though linage increased during 1985, the gain was more than accounted for by preprints. ROP linage (advertising printed on our own pages) declined. Preprints are far less profitable than ROP ads, and also more vulnerable to competition. In 1985, the News again controlled costs well and our household penetration continues to be exceptional.</p>
+<p>One problem these three operations do not have is management. At See’s we have Chuck Huggins, the man we put in charge the day we bought the business. Selecting him remains one of our best business decisions. At the News we have Stan Lipsey, a manager of equal caliber. Stan has been with us 17 years, and his unusual business talents have become more evident with every additional level of responsibility he has tackled. And, at the Mart, we have the amazing Blumkins—Mrs. B, Louie, Ron, Irv, and Steve—a three-generation miracle of management.</p>
+<p>I consider myself extraordinarily lucky to be able to work with managers such as these. I like them personally as much as I admire them professionally.</p>
+<p><strong>Insurance Operations</strong></p>
+<p>Shown below is an updated version of our usual table, listing two key figures for the insurance industry:</p>
+<p><em>Source: Best’s Aggregates and Averages</em></p>
+<p>The combined ratio represents total insurance costs (losses incurred plus expenses) compared to revenue from premiums: a ratio below 100 indicates an underwriting profit, and one above 100 indicates a loss.</p>
+<p>The industry’s 1985 results were highly unusual. The revenue gain was exceptional, and had insured losses grown at their normal rate of most recent years—that is, a few points above the inflation rate—a significant drop in the combined ratio would have occurred. But losses in 1985 didn’t cooperate, as they did not in 1984. Though inflation slowed considerably in these years, insured losses perversely accelerated, growing by 16% in 1984 and by an even more startling 17% in 1985. The year’s growth in losses therefore exceeds the inflation rate by over 13 percentage points, a modern record.</p>
+<p>Catastrophes were not the culprit in this explosion of loss cost. True, there were an unusual number of hurricanes in 1985, but the aggregate damage caused by all catastrophes in 1984 and 1985 was about 2% of premium volume, a not unusual proportion. Nor was there any burst in the number of insured autos, houses, employers, or other kinds of “exposure units”.</p>
+<p>A partial explanation for the surge in the loss figures is all the additions to reserves that the industry made in 1985. As results for the year were reported, the scene resembled a revival meeting: shouting “I’ve sinned, I’ve sinned”, insurance managers rushed forward to confess they had under reserved in earlier years. Their corrections significantly affected 1985 loss numbers.</p>
+<p>A more disturbing ingredient in the loss surge is the acceleration in “social” or “judicial” inflation. The insurer’s ability to pay has assumed overwhelming importance with juries and judges in the assessment of both liability and damages. More and more, “the deep pocket” is being sought and found, no matter what the policy wording, the facts, or the precedents.</p>
+<p>This judicial inflation represents a wild card in the industry’s future, and makes forecasting difficult. Nevertheless, the short-term outlook is good. Premium growth improved as 1985 went along (quarterly gains were an estimated 15%, 19%, 24%, and 22%) and, barring a supercatastrophe, the industry’s combined ratio should fall sharply in 1986.</p>
+<p>The profit improvement, however, is likely to be of short duration. Two economic principles will see to that. First, commodity businesses achieve good levels of profitability only when prices are fixed in some manner or when capacity is short. Second, managers quickly add to capacity when prospects start to improve and capital is available.</p>
+<p>In my 1982 report to you, I discussed the commodity nature of the insurance industry extensively. The typical policyholder does not differentiate between products but concentrates instead on price. For many decades a cartel-like procedure kept prices up, but this arrangement has disappeared for good. The insurance product now is priced as any other commodity for which a free market exists: when capacity is tight, prices will be set remuneratively; otherwise, they will not be.</p>
+<p>Capacity currently is tight in many lines of insurance—though in this industry, unlike most, capacity is an attitudinal concept, not a physical fact. Insurance managers can write whatever amount of business they feel comfortable writing, subject only to pressures applied by regulators and Best’s, the industry’s authoritative rating service. The comfort level of both managers and regulators is tied to capital. More capital means more comfort, which in turn means more capacity. In the typical commodity business, furthermore, such as aluminum or steel, a long gestation precedes the birth of additional capacity. In the insurance industry, capital can be secured instantly. Thus, any capacity shortage can be eliminated in short order.</p>
+<p>That’s exactly what’s going on right now. In 1985, about 15 insurers raised well over $3 billion, piling up capital so that they can write all the business possible at the better prices now available. The capital-raising trend has accelerated dramatically so far in 1986.</p>
+<p>If capacity additions continue at this rate, it won’t be long before serious price-cutting appears and next a fall in profitability. When the fall comes, it will be the fault of the capital-raisers of 1985 and 1986, not the price-cutters of 198X. (Critics should be understanding, however: as was the case in our textile example, the dynamics of capitalism cause each insurer to make decisions that for itself appear sensible, but that collectively slash profitability.)</p>
+<p>In past reports, I have told you that Berkshire’s strong capital position—the best in the industry—should one day allow us to claim a distinct competitive advantage in the insurance market. With the tightening of the market, that day arrived. Our premium volume more than tripled last year, following a long period of stagnation. Berkshire’s financial strength (and our record of maintaining unusual strength through thick and thin) is now a major asset for us in securing good business.</p>
+<p>We correctly foresaw a flight to quality by many large buyers of insurance and reinsurance who belatedly recognized that a policy is only an IOU—and who, in 1985, could not collect on many of their IOUs. These buyers today are attracted to Berkshire because of its strong capital position. But, in a development we did not foresee, we also are finding buyers drawn to us because our ability to insure substantial risks sets us apart from the crowd.</p>
+<p>To understand this point, you need a few background facts about large risks. Traditionally, many insurers have wanted to write this kind of business. However, their willingness to do so has been almost always based upon reinsurance arrangements that allow the insurer to keep just a small portion of the risk itself while passing on (“laying off”) most of the risk to its reinsurers. Imagine, for example, a directors and officers (“D & O”) liability policy providing $25 million of coverage. By various “excess-of-loss” reinsurance contracts, the company issuing that policy might keep the liability for only the first $1 million of any loss that occurs. The liability for any loss above that amount up to $24 million would be borne by the reinsurers of the issuing insurer. In trade parlance, a company that issues large policies but retains relatively little of the risk for its own account writes a large gross line but a small net line.</p>
+<p>In any reinsurance arrangement, a key question is how the premiums paid for the policy should be divided among the various “layers” of risk. In our D & O policy, for example. what part of the premium received should be kept by the issuing company to compensate it fairly for taking the first $1 million of risk and how much should be passed on to the reinsurers to compensate them fairly for taking the risk between $1 million and $25 million?</p>
+<p>One way to solve this problem might be deemed the Patrick Henry approach: “I have but one lamp by which my feet are guided, and that is the lamp of experience.” In other words, how much of the total premium would reinsurers have needed in the past to compensate them fairly for the losses they actually had to bear?</p>
+<p>Unfortunately, the lamp of experience has always provided imperfect illumination for reinsurers because so much of their business is “long-tail”, meaning it takes many years before they know what their losses are. Lately, however, the light has not only been dim but also grossly misleading in the images it has revealed. That is, the courts’ tendency to grant awards that are both huge and lacking in precedent makes reinsurers’ usual extrapolations or inferences from past data a formula for disaster. Out with Patrick Henry and in with Pogo: “The future ain’t what it used to be.”</p>
+<p>The burgeoning uncertainties of the business, coupled with the entry into reinsurance of many unsophisticated participants, worked in recent years in favor of issuing companies writing a small net line: they were able to keep a far greater percentage of the premiums than the risk. By doing so, the issuing companies sometimes made money on business that was distinctly unprofitable for the issuing and reinsuring companies combined. (This result was not necessarily by intent: issuing companies generally knew no more than reinsurers did about the ultimate costs that would be experienced at higher layers of risk.) Inequities of this sort have been particularly pronounced in lines of insurance in which much change was occurring and losses were soaring; e.g., professional malpractice, D & O, products liability, etc. Given these circumstances, it is not surprising that issuing companies remained enthusiastic about writing business long after premiums became woefully inadequate on a gross basis.</p>
+<p>An example of just how disparate results have been for issuing companies versus their reinsurers is provided by the 1984 financials of one of the leaders in large and unusual risks. In that year the company wrote about $6 billion of business and kept around $2 1/2 billion of the premiums, or about 40%. It gave the remaining $3 1/2 billion to reinsurers. On the part of the business kept, the company’s underwriting loss was less than $200 million—an excellent result in that year. Meanwhile, the part laid off produced a loss of over $1.5 billion for the reinsurers. Thus, the issuing company wrote at a combined ratio of well under 110 while its reinsurers, participating in precisely the same policies, came in considerably over 140. This result was not attributable to natural catastrophes; it came from run-of-the-mill insurance losses (occurring, however, in surprising frequency and size). The issuing company’s 1985 report is not yet available, but I would predict it will show that dramatically unbalanced results continued.</p>
+<p>A few years such as this, and even slow-witted reinsurers can lose interest, particularly in explosive lines where the proper split in premium between issuer and reinsurer remains impossible to even roughly estimate. The behavior of reinsurers finally becomes like that of Mark Twain’s cat: having once sat on a hot stove, it never did so again—but it never again sat on a cold stove, either. Reinsurers have had so many unpleasant surprises in long-tail casualty lines that many have decided (probably correctly) to give up the game entirely, regardless of price inducements. Consequently, there has been a dramatic pull-back of reinsurance capacity in certain important lines.</p>
+<p>This development has left many issuing companies under pressure. They can no longer commit their reinsurers, time after time, for tens of millions per policy as they so easily could do only a year or two ago, and they do not have the capital and/or appetite to take on large risks for their own account. For many issuing companies, gross capacity has shrunk much closer to net capacity—and that is often small, indeed.</p>
+<p>At Berkshire we have never played the lay-it-off-at-a-profit game and, until recently, that put us at a severe disadvantage in certain lines. Now the tables are turned: we have the underwriting capability whereas others do not. If we believe the price to be right, we are willing to write a net line larger than that of any but the largest insurers. For instance, we are perfectly willing to risk losing $10 million of our own money on a single event, as long as we believe that the price is right and that the risk of loss is not significantly correlated with other risks we are insuring. Very few insurers are willing to risk half that much on single events—although, just a short while ago, many were willing to lose five or ten times that amount as long as virtually all of the loss was for the account of their reinsurers.</p>
+<p>In mid-1985 our largest insurance company, National Indemnity Company, broadcast its willingness to underwrite large risks by running an ad in three issues of an insurance weekly. The ad solicited policies of only large size: those with a minimum premium of $1 million. This ad drew a remarkable 600 replies and ultimately produced premiums totaling about $50 million. (Hold the applause: it’s all long-tail business and it will be at least five years before we know whether this marketing success was also an underwriting success.) Today, our insurance subsidiaries continue to be sought out by brokers searching for large net capacity.</p>
+<p>As I have said, this period of tightness will pass; insurers and reinsurers will return to underpricing. But for a year or two we should do well in several segments of our insurance business. Mike Goldberg has made many important improvements in the operation (prior mismanagement by your Chairman having provided him ample opportunity to do so). He has been particularly successful recently in hiring young managers with excellent potential. They will have a chance to show their stuff in 1986.</p>
+<p>Our combined ratio has improved—from 134 in 1984 to 111 in 1985—but continues to reflect past misdeeds. Last year I told you of the major mistakes I had made in loss-reserving, and promised I would update you annually on loss-development figures. Naturally, I made this promise thinking my future record would be much improved. So far this has not been the case. Details on last year’s loss development are on pages 50-52. They reveal significant underreserving at the end of 1984, as they did in the several years preceding.</p>
+<p>The only bright spot in this picture is that virtually all of the underreserving revealed in 1984 occurred in the reinsurance area—and there, in very large part, in a few contracts that were discontinued several years ago. This explanation, however, recalls all too well a story told me many years ago by the then Chairman of General Reinsurance Company. He said that every year his managers told him that “except for the Florida hurricane” or “except for Midwestern tornadoes”, they would have had a terrific year. Finally he called the group together and suggested that they form a new operation—the Except-For Insurance Company—in which they would henceforth place all of the business that they later wouldn’t want to count.</p>
+<p>In any business, insurance or otherwise, “except for” should be excised from the lexicon. If you are going to play the game, you must count the runs scored against you in all nine innings. Any manager who consistently says “except for” and then reports on the lessons he has learned from his mistakes may be missing the only important lesson—namely, that the real mistake is not the act, but the actor.</p>
+<p>Inevitably, of course, business errors will occur and the wise manager will try to find the proper lessons in them. But the trick is to learn most lessons from the experiences of others. Managers who have learned much from personal experience in the past usually are destined to learn much from personal experience in the future.</p>
+<p>GEICO, 38%-owned by Berkshire, reported an excellent year in 1985 in premium growth and investment results, but a poor year—by its lofty standards—in underwriting. Private passenger auto and homeowners insurance were the only important lines in the industry whose results deteriorated significantly during the year. GEICO did not escape the trend, although its record was far better than that of virtually all its major competitors.</p>
+<p>Jack Byrne left GEICO at mid-year to head Fireman’s Fund, leaving behind Bill Snyder as Chairman and Lou Simpson as Vice Chairman. Jack’s performance in reviving GEICO from near-bankruptcy was truly extraordinary, and his work resulted in enormous gains for Berkshire. We owe him a great deal for that.</p>
+<p>We are equally indebted to Jack for an achievement that eludes most outstanding leaders: he found managers to succeed him who have talents as valuable as his own. By his skill in identifying, attracting and developing Bill and Lou, Jack extended the benefits of his managerial stewardship well beyond his tenure.</p>
+<p><strong>Fireman’s Fund Quota-Share Contract</strong></p>
+<p>Never one to let go of a meal ticket, we have followed Jack Byrne to Fireman’s Fund (“FFIC”) where he is Chairman and CEO of the holding company.</p>
+<p>On September 1, 1985 we became a 7% participant in all of the business in force of the FFIC group, with the exception of reinsurance they write for unaffiliated companies. Our contract runs for four years, and provides that our losses and costs will be proportionate to theirs throughout the contract period. If there is no extension, we will thereafter have no participation in any ongoing business. However, for a great many years in the future, we will be reimbursing FFIC for our 7% of the losses that occurred in the September 1, 1985—August 31, 1989 period.</p>
+<p>Under the contract FFIC remits premiums to us promptly and we reimburse FFIC promptly for expenses and losses it has paid. Thus, funds generated by our share of the business are held by us for investment. As part of the deal, I’m available to FFIC for consultation about general investment strategy. I’m not involved, however, in specific investment decisions of FFIC, nor is Berkshire involved in any aspect of the company’s underwriting activities.</p>
+<p>Currently FFIC is doing about $3 billion of business, and it will probably do more as rates rise. The company’s September 1, 1985 unearned premium reserve was $1.324 billion, and it therefore transferred 7% of this, or $92.7 million, to us at initiation of the contract. We concurrently paid them $29.4 million representing the underwriting expenses that they had incurred on the transferred premium. All of the FFIC business is written by National Indemnity Company, but two-sevenths of it is passed along to Wesco-Financial Insurance Company (“Wes-FIC”), a new company organized by our 80%-owned subsidiary, Wesco Financial Corporation. Charlie Munger has some interesting comments about Wes-FIC and the reinsurance business on pages 60-62.</p>
+<p>To the Insurance Segment tables on page 41, we have added a new line, labeled Major Quota Share Contracts. The 1985 results of the FFIC contract are reported there, though the newness of the arrangement makes these results only very rough approximations.</p>
+<p>After the end of the year, we secured another quota-share contract, whose 1986 volume should be over $50 million. We hope to develop more of this business, and industry conditions suggest that we could: a significant number of companies are generating more business than they themselves can prudently handle. Our financial strength makes us an attractive partner for such companies.</p>
+<p><strong>Marketable Securities</strong></p>
+<p>We show below our 1985 yearend net holdings in marketable equities. All positions with a market value over $25 million are listed, and the interests attributable to minority shareholders of Wesco and Nebraska Furniture Mart are excluded.</p>
+<p>&nbsp;</p>
+<p>We mentioned earlier that in the past decade the investment environment has changed from one in which great businesses were totally unappreciated to one in which they are appropriately recognized. The Washington Post Company (“WPC”) provides an excellent example.</p>
+<p>We bought all of our WPC holdings in mid-1973 at a price of not more than one-fourth of the then per-share business value of the enterprise. Calculating the price/value ratio required no unusual insights. Most security analysts, media brokers, and media executives would have estimated WPC’s intrinsic business value at $400 to $500 million just as we did. And its $100 million stock market valuation was published daily for all to see. Our advantage, rather, was attitude: we had learned from Ben Graham that the key to successful investing was the purchase of shares in good businesses when market prices were at a large discount from underlying business values.</p>
+<p>Most institutional investors in the early 1970s, on the other hand, regarded business value as of only minor relevance when they were deciding the prices at which they would buy or sell. This now seems hard to believe. However, these institutions were then under the spell of academics at prestigious business schools who were preaching a newly-fashioned theory: the stock market was totally efficient, and therefore calculations of business value—and even thought, itself—were of no importance in investment activities. (We are enormously indebted to those academics: what could be more advantageous in an intellectual contest—whether it be bridge, chess, or stock selection than to have opponents who have been taught that thinking is a waste of energy?)</p>
+<p>Through 1973 and 1974, WPC continued to do fine as a business, and intrinsic value grew. Nevertheless, by yearend 1974 our WPC holding showed a loss of about 25%, with market value at $8 million against our cost of $10.6 million. What we had thought ridiculously cheap a year earlier had become a good bit cheaper as the market, in its infinite wisdom, marked WPC stock down to well below 20 cents on the dollar of intrinsic value.</p>
+<p>You know the happy outcome. Kay Graham, CEO of WPC, had the brains and courage to repurchase large quantities of stock for the company at those bargain prices, as well as the managerial skills necessary to dramatically increase business values. Meanwhile, investors began to recognize the exceptional economics of the business and the stock price moved closer to underlying value. Thus, we experienced a triple dip: the company’s business value soared upward, per-share business value increased considerably faster because of stock repurchases and, with a narrowing of the discount, the stock price outpaced the gain in per-share business value.</p>
+<p>We hold all of the WPC shares we bought in 1973, except for those sold back to the company in 1985’s proportionate redemption. Proceeds from the redemption plus yearend market value of our holdings total $221 million.</p>
+<p>If we had invested our $10.6 million in any of a half-dozen media companies that were investment favorites in mid-1973, the value of our holdings at yearend would have been in the area of $40—$60 million. Our gain would have far exceeded the gain in the general market, an outcome reflecting the exceptional economics of the media business. The extra $160 million or so we gained through ownership of WPC came, in very large part, from the superior nature of the managerial decisions made by Kay as compared to those made by managers of most media companies. Her stunning business success has in large part gone unreported but among Berkshire shareholders it should not go unappreciated.</p>
+<p>Our Capital Cities purchase, described in the next section, required me to leave the WPC Board early in 1986. But we intend to hold indefinitely whatever WPC stock FCC rules allow us to. We expect WPC’s business values to grow at a reasonable rate, and we know that management is both able and shareholder-oriented. However, the market now values the company at over $1.8 billion, and there is no way that the value can progress from that level at a rate anywhere close to the rate possible when the company’s valuation was only $100 million. Because market prices have also been bid up for our other holdings, we face the same vastly-reduced potential throughout our portfolio.</p>
+<p>You will notice that we had a significant holding in Beatrice Companies at yearend. This is a short-term arbitrage holding—in effect, a parking place for money (though not a totally safe one, since deals sometimes fall through and create substantial losses). We sometimes enter the arbitrage field when we have more money than ideas, but only to participate in announced mergers and sales. We would be a lot happier if the funds currently employed on this short-term basis found a long-term home. At the moment, however, prospects are bleak.</p>
+<p>At yearend our insurance subsidiaries had about $400 million in tax-exempt bonds, of which $194 million at amortized cost were issues of Washington Public Power Supply System (“WPPSS”) Projects 1, 2, and 3. 1 discussed this position fully last year, and explained why we would not disclose further purchases or sales until well after the fact (adhering to the policy we follow on stocks). Our unrealized gain on the WPPSS bonds at yearend was $62 million, perhaps one-third arising from the upward movement of bonds generally, and the remainder from a more positive investor view toward WPPSS 1, 2, and 3s. Annual tax-exempt income from our WPPSS issues is about $30 million.</p>
+<p><strong>Capital Cities/ABC, Inc.</strong></p>
+<p>Right after yearend, Berkshire purchased 3 million shares of Capital Cities/ABC, Inc. (“Cap Cities”) at $172.50 per share, the market price of such shares at the time the commitment was made early in March, 1985. I’ve been on record for many years about the management of Cap Cities: I think it is the best of any publicly-owned company in the country. And Tom Murphy and Dan Burke are not only great managers, they are precisely the sort of fellows that you would want your daughter to marry. It is a privilege to be associated with them—and also a lot of fun, as any of you who know them will understand.</p>
+<p>Our purchase of stock helped Cap Cities finance the $3.5 billion acquisition of American Broadcasting Companies. For Cap Cities, ABC is a major undertaking whose economics are likely to be unexciting over the next few years. This bothers us not an iota; we can be very patient. (No matter how great the talent or effort, some things just take time: you can’t produce a baby in one month by getting nine women pregnant.)</p>
+<p>As evidence of our confidence, we have executed an unusual agreement: for an extended period Tom, as CEO (or Dan, should he be CEO) votes our stock. This arrangement was initiated by Charlie and me, not by Tom. We also have restricted ourselves in various ways regarding sale of our shares. The object of these restrictions is to make sure that our block does not get sold to anyone who is a large holder (or intends to become a large holder) without the approval of management, an arrangement similar to ones we initiated some years ago at GEICO and Washington Post.</p>
+<p>Since large blocks frequently command premium prices, some might think we have injured Berkshire financially by creating such restrictions. Our view is just the opposite. We feel the long-term economic prospects for these businesses—and, thus, for ourselves as owners—are enhanced by the arrangements. With them in place, the first-class managers with whom we have aligned ourselves can focus their efforts entirely upon running the businesses and maximizing long-term values for owners. Certainly this is much better than having those managers distracted by “revolving-door capitalists” hoping to put the company “in play”. (Of course, some managers place their own interests above those of the company and its owners and deserve to be shaken up—but, in making investments, we try to steer clear of this type.)</p>
+<p>Today, corporate instability is an inevitable consequence of widely-diffused ownership of voting stock. At any time a major holder can surface, usually mouthing reassuring rhetoric but frequently harboring uncivil intentions. By circumscribing our blocks of stock as we often do, we intend to promote stability where it otherwise might be lacking. That kind of certainty, combined with a good manager and a good business, provides excellent soil for a rich financial harvest. That’s the economic case for our arrangements.</p>
+<p>The human side is just as important. We don’t want managers we like and admire—and who have welcomed a major financial commitment by us—to ever lose any sleep wondering whether surprises might occur because of our large ownership. I have told them there will be no surprises, and these agreements put Berkshire’s signature where my mouth is. That signature also means the managers have a corporate commitment and therefore need not worry if my personal participation in Berkshire’s affairs ends prematurely (a term I define as any age short of three digits).</p>
+<p>Our Cap Cities purchase was made at a full price, reflecting the very considerable enthusiasm for both media stocks and media properties that has developed in recent years (and that, in the case of some property purchases, has approached a mania). it’s no field for bargains. However, our Cap Cities investment allies us with an exceptional combination of properties and people—and we like the opportunity to participate in size.</p>
+<p>Of course, some of you probably wonder why we are now buying Cap Cities at $172.50 per share given that your Chairman, in a characteristic burst of brilliance, sold Berkshire’s holdings in the same company at $43 per share in 1978-80. Anticipating your question, I spent much of 1985 working on a snappy answer that would reconcile these acts.</p>
+<p>A little more time, please.</p>
+<p><strong>Acquisition of Scott & Fetzer</strong></p>
+<p>Right after yearend we acquired The Scott & Fetzer Company (“Scott Fetzer”) of Cleveland for about $320 million. (In addition, about $90 million of pre-existing Scott Fetzer debt remains in place.) In the next section of this report I describe the sort of businesses that we wish to buy for Berkshire. Scott Fetzer is a prototype—understandable, large, well-managed, a good earner.</p>
+<p>The company has sales of about $700 million derived from 17 businesses, many leaders in their fields. Return on invested capital is good to excellent for most of these businesses. Some well-known products are Kirby home-care systems, Campbell Hausfeld air compressors, and Wayne burners and water pumps.</p>
+<p>World Book, Inc.—accounting for about 40% of Scott Fetzer’s sales and a bit more of its income—is by far the company’s largest operation. It also is by far the leader in its industry, selling more than twice as many encyclopedia sets annually as its nearest competitor. In fact, it sells more sets in the U.S. than its four biggest competitors combined.</p>
+<p>Charlie and I have a particular interest in the World Book operation because we regard its encyclopedia as something special. I’ve been a fan (and user) for 25 years, and now have grandchildren consulting the sets just as my children did. World Book is regularly rated the most useful encyclopedia by teachers, librarians and consumer buying guides. Yet it sells for less than any of its major competitors. Childcraft, another World Book, Inc. product, offers similar value. This combination of exceptional products and modest prices at World Book, Inc. helped make us willing to pay the price demanded for Scott Fetzer, despite declining results for many companies in the direct-selling industry.</p>
+<p>An equal attraction at Scott Fetzer is Ralph Schey, its CEO for nine years. When Ralph took charge, the company had 31 businesses, the result of an acquisition spree in the 1960s. He disposed of many that did not fit or had limited profit potential, but his focus on rationalizing the original potpourri was not so intense that he passed by World Book when it became available for purchase in 1978. Ralph’s operating and capital-allocation record is superb, and we are delighted to be associated with him.</p>
+<p>The history of the Scott Fetzer acquisition is interesting, marked by some zigs and zags before we became involved. The company had been an announced candidate for purchase since early 1984. A major investment banking firm spent many months canvassing scores of prospects, evoking interest from several. Finally, in mid-1985 a plan of sale, featuring heavy participation by an ESOP (Employee Stock Ownership Plan), was approved by shareholders. However, as difficulty in closing followed, the plan was scuttled.</p>
+<p>I had followed this corporate odyssey through the newspapers. On October 10, well after the ESOP deal had fallen through, I wrote a short letter to Ralph, whom I did not know. I said we admired the company’s record and asked if he might like to talk. Charlie and I met Ralph for dinner in Chicago on October 22 and signed an acquisition contract the following week.</p>
+<p>The Scott Fetzer acquisition, plus major growth in our insurance business, should push revenues above $2 billion in 1986, more than double those of 1985.</p>
+<p><strong>Miscellaneous</strong></p>
+<p>The Scott Fetzer purchase illustrates our somewhat haphazard approach to acquisitions. We have no master strategy, no corporate planners delivering us insights about socioeconomic trends, and no staff to investigate a multitude of ideas presented by promoters and intermediaries. Instead, we simply hope that something sensible comes along—and, when it does, we act.</p>
+<p>To give fate a helping hand, we again repeat our regular “business wanted” ad. The only change from last year’s copy is in (1): because we continue to want any acquisition we make to have a measurable impact on Berkshire’s financial results, we have raised our minimum profit requirement.</p>
+<p>Here’s what we’re looking for:</p>
+<p>large purchases (at least $10 million of after-tax earnings),</p>
+<p>demonstrated consistent earning power (future projections are of little interest to us, nor are “turn-around” situations),</p>
+<p>businesses earning good returns on equity while employing little or no debt,</p>
+<p>management in place (we can’t supply it),</p>
+<p>simple businesses (if there’s lots of technology, we won’t understand it),</p>
+<p>an offering price (we don’t want to waste our time or that of the seller by talking, even preliminarily, about a transaction when price is unknown).</p>
+<p>We will not engage in unfriendly takeovers. We can promise complete confidentiality and a very fast answer—customarily within five minutes—as to whether we’re interested. We prefer to buy for cash, but will consider issuance of stock when we receive as much in intrinsic business value as we give. Indeed, following recent advances in the price of Berkshire stock, transactions involving stock issuance may be quite feasible. We invite potential sellers to check us out by contacting people with whom we have done business in the past. For the right business—and the right people—we can provide a good home.</p>
+<p>On the other hand, we frequently get approached about acquisitions that don’t come close to meeting our tests: new ventures, turnarounds, auction-like sales, and the ever-popular (among brokers) “I’m-sure-something-will-work-out-if-you-people-get-to-know-each-other”. None of these attracts us in the least.</p>
+<p>* * *</p>
+<p>Besides being interested in the purchases of entire businesses as described above, we are also interested in the negotiated purchase of large, but not controlling, blocks of stock, as in our Cap Cities purchase. Such purchases appeal to us only when we are very comfortable with both the economics of the business and the ability and integrity of the people running the operation. We prefer large transactions: in the unusual case we might do something as small as $50 million (or even smaller), but our preference is for commitments many times that size.</p>
+<p>* * *</p>
+<p>About 96.8% of all eligible shares participated in Berkshire’s 1985 shareholder-designated contributions program. Total contributions made through the program were $4 million, and 1,724 charities were recipients. We conducted a plebiscite last year in order to get your views about this program, as well as about our dividend policy. (Recognizing that it’s possible to influence the answers to a question by the framing of it, we attempted to make the wording of ours as neutral as possible.) We present the ballot and the results in the Appendix on page 69. I think it’s fair to summarize your response as highly supportive of present policies and your group preference—allowing for the tendency of people to vote for the status quo—to be for increasing the annual charitable commitment as our asset values build.</p>
+<p>We urge new shareholders to read the description of our shareholder-designated contributions program that appears on pages 66 and 67. If you wish to participate in future programs, we strongly urge that you immediately make sure that your shares are registered in the name of the actual owner, not in “street” name or nominee name. Shares not so registered on September 30, 1986 will be ineligible for the 1986 program.</p>
+<p>* * *</p>
+<p>Five years ago we were required by the Bank Holding Company Act of 1969 to dispose of our holdings in The Illinois National Bank and Trust Company of Rockford, Illinois. Our method of doing so was unusual: we announced an exchange ratio between stock of Rockford Bancorp Inc. (the Illinois National’s holding company) and stock of Berkshire, and then let each of our shareholders—except me—make the decision as to whether to exchange all, part, or none of his Berkshire shares for Rockford shares. I took the Rockford stock that was left over and thus my own holding in Rockford was determined by your decisions. At the time I said, “This technique embodies the world’s oldest and most elementary system of fairly dividing an object. Just as when you were a child and one person cut the cake and the other got first choice, I have tried to cut the company fairly, but you get first choice as to which piece you want.”</p>
+<p>Last fall Illinois National was sold. When Rockford’s liquidation is completed, its shareholders will have received per-share proceeds about equal to Berkshire’s per-share intrinsic value at the time of the bank’s sale. I’m pleased that this five-year result indicates that the division of the cake was reasonably equitable. Last year I put in a plug for our annual meeting, and you took me up on the invitation. Over 250 of our more than 3,000 registered shareholders showed up. Those attending behaved just as those present in previous years, asking the sort of questions you would expect from intelligent and interested owners. You can attend a great many annual meetings without running into a crowd like ours. (Lester Maddox, when Governor of Georgia, was criticized regarding the state’s abysmal prison system. “The solution”, he said, “is simple. All we need is a better class of prisoners.” Upgrading annual meetings works the same way.)</p>
+<p>I hope you come to this year’s meeting, which will be held on May 20 in Omaha. There will be only one change: after 48 years of allegiance to another soft drink, your Chairman, in an unprecedented display of behavioral flexibility, has converted to the new Cherry Coke. Henceforth, it will be the Official Drink of the Berkshire Hathaway Annual Meeting.</p>
+<p>And bring money: Mrs. B promises to have bargains galore if you will pay her a visit at The Nebraska Furniture Mart after the meeting.</p>
+<p>March 4, 1986</p>
+<p>Warren E. BuffettChairman of the Board</p>
+<p>&nbsp;</p>
+<table class="letter-table" style="width:100%;border-collapse:collapse;margin:1.5em 0">
+<tr><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;">No. of Shares</th><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;"></th><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;"></th><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;">Cost</th><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;"></th><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;">Market</th></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">(000s omitted)</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">1,036,461</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">Affiliated Publications, Inc.</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">$    3,516</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">$    55,710</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">900,800</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">American Broadcasting Companies, Inc.</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">54,435</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">108,997</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">2,350,922</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">Beatrice Companies, Inc.</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">106,811</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">108,142</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">6,850,000</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">GEICO Corporation</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">45,713</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">595,950</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">2,379,200</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">Handy & Harman</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">27,318</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">43,718</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">847,788</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">Time, Inc.</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">20,385</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">52,669</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">1,727,765</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">The Washington Post Company</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">9,731</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">205,172</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">267,909</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">1,170,358</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">All Other Common Stockholdings</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">7,201</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">27,963</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">Total Common Stocks</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">$275,110</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">$1,198,321</td></tr>
+</table>`,
 
     concepts: [
       'owner-earnings',
@@ -6121,7 +6311,273 @@ export const berkshireLetters: Letter[] = [
     date: '1987-03-00',
     summary:
       'The letter highlighted Berkshire\'s investment in Coca-Cola and the nascent "annual meeting" tradition that would grow to become "Woodstock of Capitalism." The meeting was becoming an increasingly important ritual for shareholders.',
-        fullText: `[[PLACEHOLDER]]`,
+        fullText: `<p><strong>To the Shareholders of Berkshire Hathaway Inc.:</strong></p>
+<p>Our gain in net worth during 1986 was $492.5 million, or 26.1%. Over the last 22 years (that is, since present management took over), our per-share book value has grown from $19.46 to $2,073.06, or 23.3% compounded annually. Both the numerator and denominator are important in the per-share book value calculation: during the 22-year period our corporate net worth has increased 10,600% while shares outstanding have increased less than 1%.</p>
+<p>In past reports I have noted that book value at most companies differs widely from intrinsic business value—the number that really counts for owners. In our own case, however, book value has served for more than a decade as a reasonable if somewhat conservative proxy for business value. That is, our business value has moderately exceeded our book value, with the ratio between the two remaining fairly steady.</p>
+<p>The good news is that in 1986 our percentage gain in business value probably exceeded the book value gain. I say “probably” because business value is a soft number: in our own case, two equally well-informed observers might make judgments more than 10% apart.</p>
+<p>A large measure of our improvement in business value relative to book value reflects the outstanding performance of key managers at our major operating businesses. These managers—the Blumkins, Mike Goldberg, the Heldmans, Chuck Huggins, Stan Lipsey, and Ralph Schey—have over the years improved the earnings of their businesses dramatically while, except in the case of insurance, utilizing little additional capital. This accomplishment builds economic value, or “Goodwill,” that does not show up in the net worth figure on our balance sheet, nor in our per-share book value. In 1986 this unrecorded gain was substantial.</p>
+<p>So much for the good news. The bad news is that my performance did not match that of our managers. While they were doing a superb job in running our businesses, I was unable to skillfully deploy much of the capital they generated. Charlie Munger, our Vice Chairman, and I really have only two jobs. One is to attract and keep outstanding managers to run our various operations. This hasn’t been all that difficult. Usually the managers came with the companies we bought, having demonstrated their talents throughout careers that spanned a wide variety of business circumstances. They were managerial stars long before they knew us, and our main contribution has been to not get in their way. This approach seems elementary: if my job were to manage a golf team—and if Jack Nicklaus or Arnold Palmer were willing to play for me—neither would get a lot of directives from me about how to swing.</p>
+<p>Some of our key managers are independently wealthy (we hope they all become so), but that poses no threat to their continued interest: they work because they love what they do and relish the thrill of outstanding performance. They unfailingly think like owners (the highest compliment we can pay a manager) and find all aspects of their business absorbing.</p>
+<p>(Our prototype for occupational fervor is the Catholic tailor who used his small savings of many years to finance a pilgrimage to the Vatican. When he returned, his parish held a special meeting to get his first-hand account of the Pope. “Tell us,” said the eager faithful, “just what sort of fellow is he?” Our hero wasted no words: “He’s a forty-four, medium.”)</p>
+<p>Charlie and I know that the right players will make almost any team manager look good. We subscribe to the philosophy of Ogilvy & Mather’s founding genius, David Ogilvy: “If each of us hires people who are smaller than we are, we shall become a company of dwarfs. But, if each of us hires people who are bigger than we are, we shall become a company of giants.”</p>
+<p>A by-product of our managerial style is the ability it gives us to easily expand Berkshire’s activities. We’ve read management treatises that specify exactly how many people should report to any one executive, but they make little sense to us. When you have able managers of high character running businesses about which they are passionate, you can have a dozen or more reporting to you and still have time for an afternoon nap. Conversely, if you have even one person reporting to you who is deceitful, inept or uninterested, you will find yourself with more than you can handle. Charlie and I could work with double the number of managers we now have, so long as they had the rare qualities of the present ones.</p>
+<p>We intend to continue our practice of working only with people whom we like and admire. This policy not only maximizes our chances for good results, it also ensures us an extraordinarily good time. On the other hand, working with people who cause your stomach to churn seems much like marrying for money—probably a bad idea under any circumstances, but absolute madness if you are already rich.</p>
+<p>The second job Charlie and I must handle is the allocation of capital, which at Berkshire is a considerably more important challenge than at most companies. Three factors make that so: we earn more money than average; we retain all that we earn; and, we are fortunate to have operations that, for the most part, require little incremental capital to remain competitive and to grow. Obviously, the future results of a business earning 23% annually and retaining it all are far more affected by today’s capital allocations than are the results of a business earning 10% and distributing half of that to shareholders. If our retained earnings—and those of our major investees, GEICO and Capital Cities/ABC, Inc.—are employed in an unproductive manner, the economics of Berkshire will deteriorate very quickly. In a company adding only, say, 5% to net worth annually, capital-allocation decisions, though still important, will change the company’s economics far more slowly.</p>
+<p>Capital allocation at Berkshire was tough work in 1986. We did make one business acquisition—The Fechheimer Bros. Company, which we will discuss in a later section. Fechheimer is a company with excellent economics, run by exactly the kind of people with whom we enjoy being associated. But it is relatively small, utilizing only about 2% of Berkshire’s net worth.</p>
+<p>Meanwhile, we had no new ideas in the marketable equities field, an area in which once, only a few years ago, we could readily employ large sums in outstanding businesses at very reasonable prices. So our main capital allocation moves in 1986 were to pay off debt and stockpile funds. Neither is a fate worse than death, but they do not inspire us to do handsprings either. If Charlie and I were to draw blanks for a few years in our capital-allocation endeavors, Berkshire’s rate of growth would slow significantly.</p>
+<p>We will continue to look for operating businesses that meet our tests and, with luck, will acquire such a business every couple of years. But an acquisition will have to be large if it is to help our performance materially. Under current stock market conditions, we have little hope of finding equities to buy for our insurance companies. Markets will change significantly—you can be sure of that and some day we will again get our turn at bat. However, we haven’t the faintest idea when that might happen.</p>
+<p>It can’t be said too often (although I’m sure you feel I’ve tried) that, even under favorable conditions, our returns are certain to drop substantially because of our enlarged size. We have told you that we hope to average a return of 15% on equity and we maintain that hope, despite some negative tax law changes described in a later section of this report. If we are to achieve this rate of return, our net worth must increase $7.2 billion in the next ten years. A gain of that magnitude will be possible only if, before too long, we come up with a few very big (and good) ideas. Charlie and I can’t promise results, but we do promise you that we will keep our efforts focused on our goals.</p>
+<p><strong>Sources of Reported Earnings</strong></p>
+<p>The table on the next page shows the major sources of Berkshire’s reported earnings. This table differs in several ways from the one presented last year. We have added four new lines of business because of the Scott Fetzer and Fechheimer acquisitions. In the case of Scott Fetzer, the two major units acquired were World Book and Kirby, and each is presented separately. Fourteen other businesses of Scott Fetzer are aggregated in Scott Fetzer—Diversified Manufacturing. SF Financial Group, a credit company holding both World Book and Kirby receivables, is included in “Other.” This year, because Berkshire is so much larger, we also have eliminated separate reporting for several of our smaller businesses.</p>
+<p>In the table, amortization of Goodwill is not charged against the specific businesses but, for reasons outlined in the Appendix to my letter in the 1983 Annual Report, is aggregated as a separate item. (A Compendium of earlier letters, including the Goodwill discussion, is available upon request.) Both the Scott Fetzer and Fechheimer acquisitions created accounting Goodwill, which is why the amortization charge for Goodwill increased in 1986.</p>
+<p>Additionally, the Scott Fetzer acquisition required other major purchase-price accounting adjustments, as prescribed by generally accepted accounting principles (GAAP). The GAAP figures, of course, are the ones used in our consolidated financial statements. But, in our view, the GAAP figures are not necessarily the most useful ones for investors or managers. Therefore, the figures shown for specific operating units are earnings before purchase-price adjustments are taken into account. In effect, these are the earnings that would have been reported by the businesses if we had not purchased them.</p>
+<p>A discussion of our reasons for preferring this form of presentation is in the Appendix to this letter. This Appendix will never substitute for a steamy novel and definitely is not required reading. However, I know that among our 6,000 shareholders there are those who are thrilled by my essays on accounting—and I hope that both of you enjoy the Appendix.</p>
+<p>In the Business Segment Data on pages 41-43 and in the Management’s Discussion section on pages 45-49, you will find much additional information about our businesses. I urge you to read those sections, as well as Charlie Munger’s letter to Wesco shareholders, describing the various businesses of that subsidiary, which starts on page 50.</p>
+<p> As you can see, operating earnings substantially improved during 1986. Some of the improvement came from the insurance operation, whose results I will discuss in a later section. Fechheimer also will be discussed separately. Our other major businesses performed as follows:</p>
+<p>&nbsp;</p>
+<p>Operating results at The Buffalo News continue to reflect a truly superb managerial job by Stan Lipsey. For the third year in a row, man-hours worked fell significantly and other costs were closely controlled. Consequently, our operating margins improved materially in 1986, even though our advertising rate increases were well below those of most major newspapers.</p>
+<p>&nbsp;</p>
+<p>Our cost-control efforts have in no way reduced our commitment to news. We continue to deliver a 50% “news hole” (the portion of the total space in the paper devoted to news), a higher percentage, we believe, than exists at any dominant newspaper in this country of our size or larger.</p>
+<p>&nbsp;</p>
+<p>The average news hole at papers comparable to the News is about 40%. The difference between 40% and 50% is more important than it might first seem: a paper with 30 pages of ads and a 40% news hole delivers 20 pages of news a day, whereas our paper matches 30 pages of ads with 30 pages of news. Therefore, given ad pages equal in number, we end up delivering our readers no less than 50% more news.</p>
+<p>&nbsp;</p>
+<p>We believe this heavy commitment to news is one of the reasons The Buffalo News has the highest weekday penetration rate (the percentage of households in the paper’s primary marketing area purchasing it each day) among any of the top 50 papers in the country. Our Sunday penetration, where we are also number one, is even more impressive. Ten years ago, the only Sunday paper serving Buffalo (the Courier-Express) had circulation of 271,000 and a penetration ratio of about 63%. The Courier-Express had served the area for many decades and its penetration ratio—which was similar to those existing in many metropolitan markets—was thought to be a “natural” one, accurately reflecting the local citizenry’s appetite for a Sunday product.</p>
+<p>&nbsp;</p>
+<p>Our Sunday paper was started in late 1977. It now has a penetration ratio of 83% and sells about 100,000 copies more each Sunday than did the Courier-Express ten years ago—even though population in our market area has declined during the decade. In recent history, no other city that has long had a local Sunday paper has experienced a penetration gain anywhere close to Buffalo’s.</p>
+<p>&nbsp;</p>
+<p>Despite our exceptional market acceptance, our operating margins almost certainly have peaked. A major newsprint price increase took effect at the end of 1986, and our advertising rate increases in 1987 will again be moderate compared to those of the industry. However, even if margins should materially shrink, we would not reduce our news-hole ratio.</p>
+<p>&nbsp;</p>
+<p>As I write this, it has been exactly ten years since we purchased The News. The financial rewards it has brought us have far exceeded our expectations and so, too, have the non-financial rewards. Our respect for the News—high when we bought it—has grown consistently ever since the purchase, as has our respect and admiration for Murray Light, the editor who turns out the product that receives such extraordinary community acceptance. The efforts of Murray and Stan, which were crucial to the News during its dark days of financial reversals and litigation, have not in the least been lessened by prosperity. Charlie and I are grateful to them.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The amazing Blumkins continue to perform business miracles at Nebraska Furniture Mart. Competitors come and go (mostly go), but Mrs. B. and her progeny roll on. In 1986 net sales increased 10.2% to $132 million. Ten years ago sales were $44 million and, even then, NFM appeared to be doing just about all of the business available in the Greater Omaha Area. Given NFM’s remarkable dominance, Omaha’s slow growth in population and the modest inflation rates that have applied to the goods NFM sells, how can this operation continue to rack up such large sales gains? The only logical explanation is that the marketing territory of NFM’s one-and-only store continues to widen because of its ever-growing reputation for rock-bottom everyday prices and the broadest of selections. In preparation for further gains, NFM is expanding the capacity of its warehouse, located a few hundred yards from the store, by about one-third.</p>
+<p>&nbsp;</p>
+<p>Mrs. B, Chairman of Nebraska Furniture Mart, continues at age 93 to outsell and out-hustle any manager I’ve ever seen. She’s at the store seven days a week, from opening to close. Competing with her represents a triumph of courage over judgment.</p>
+<p>&nbsp;</p>
+<p>It’s easy to overlook what I consider to be the critical lesson of the Mrs. B saga: at 93, Omaha based Board Chairmen have yet to reach their peak. Please file this fact away to consult before you mark your ballot at the 2024 annual meeting of Berkshire.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>At See’s, sales trends improved somewhat from those of recent years. Total pounds sold rose about 2%. (For you chocaholics who like to fantasize, one statistic: we sell over 12,000 tons annually.) Same-store sales, measured in pounds, were virtually unchanged. In the previous six years, same store poundage fell, and we gained or maintained poundage volume only by adding stores. But a particularly strong Christmas season in 1986 stemmed the decline. By stabilizing same-store volume and making a major effort to control costs, See’s was able to maintain its excellent profit margin in 1986 though it put through only minimal price increases. We have Chuck Huggins, our long-time manager at See’s, to thank for this significant achievement.</p>
+<p>&nbsp;</p>
+<p>See’s has a one-of-a-kind product “personality” produced by a combination of its candy’s delicious taste and moderate price, the company’s total control of the distribution process, and the exceptional service provided by store employees. Chuck rightfully measures his success by the satisfaction of our customers, and his attitude permeates the organization. Few major retailing companies have been able to sustain such a customer-oriented spirit, and we owe Chuck a great deal for keeping it alive and well at See’s.</p>
+<p>&nbsp;</p>
+<p>See’s profits should stay at about their present level. We will continue to increase prices very modestly, merely matching prospective cost increases.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>World Book is the largest of 17 Scott Fetzer operations that joined Berkshire at the beginning of 1986. Last year I reported to you enthusiastically about the businesses of Scott Fetzer and about Ralph Schey, its manager. A year’s experience has added to my enthusiasm for both. Ralph is a superb businessman and a straight shooter. He also brings exceptional versatility and energy to his job: despite the wide array of businesses that he manages, he is on top of the operations, opportunities and problems of each. And, like our other managers, Ralph is a real pleasure to work with. Our good fortune continues.</p>
+<p>&nbsp;</p>
+<p>World Book’s unit volume increased for the fourth consecutive year, with encyclopedia sales up 7% over 1985 and 45% over 1982. Childcraft’s unit sales also grew significantly.</p>
+<p>&nbsp;</p>
+<p>World Book continues to dominate the U.S. direct-sales encyclopedia market—and for good reasons. Extraordinarily well-edited and priced at under 5 cents per page, these books are a bargain for youngster and adult alike. You may find one editing technique interesting: World Book ranks over 44,000 words by difficulty. Longer entries in the encyclopedia include only the most easily comprehended words in the opening sections, with the difficulty of the material gradually escalating as the exposition proceeds. As a result, youngsters can easily and profitably read to the point at which subject matter gets too difficult, instead of immediately having to deal with a discussion that mixes up words requiring college-level comprehension with others of fourth-grade level.</p>
+<p>&nbsp;</p>
+<p>Selling World Book is a calling. Over one-half of our active salespeople are teachers or former teachers, and another 5% have had experience as librarians. They correctly think of themselves as educators, and they do a terrific job. If you don’t have a World Book set in your house, I recommend one.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Kirby likewise recorded its fourth straight year of unit volume gains. Worldwide, unit sales grew 4% from 1985 and 33% from 1982. While the Kirby product is more expensive than most cleaners, it performs in a manner that leaves cheaper units far behind (“in the dust,” so to speak). Many 30- and 40-year-old Kirby cleaners are still in active duty. If you want the best, you buy a Kirby.</p>
+<p>&nbsp;</p>
+<p>Some companies that historically have had great success in direct sales have stumbled in recent years. Certainly the era of the working woman has created new challenges for direct sales organizations. So far, the record shows that both Kirby and World Book have responded most successfully.</p>
+<p>&nbsp;</p>
+<p>The businesses described above, along with the insurance operation and Fechheimer, constitute our major business units. The brevity of our descriptions is in no way meant to diminish the importance of these businesses to us. All have been discussed in past annual reports and, because of the tendency of Berkshire owners to stay in the fold (about 98% of the stock at the end of each year is owned by people who were owners at the start of the year), we want to avoid undue repetition of basic facts. You can be sure that we will immediately report to you in detail if the underlying economics or competitive position of any of these businesses should materially change. In general, the businesses described in this section can be characterized as having very strong market positions, very high returns on capital employed, and the best of operating managements.</p>
+<p><strong>The Fechheimer Bros. Co.</strong></p>
+<p>Every year in Berkshire’s annual report I include a description of the kind of business that we would like to buy. This “ad” paid off in 1986.</p>
+<p>On January 15th of last year I received a letter from Bob Heldman of Cincinnati, a shareholder for many years and also Chairman of Fechheimer Bros. Until I read the letter, however, I did not know of either Bob or Fechheimer. Bob wrote that he ran a company that met our tests and suggested that we get together, which we did in Omaha after their results for 1985 were compiled.</p>
+<p>He filled me in on a little history: Fechheimer, a uniform manufacturing and distribution business, began operations in 1842. Warren Heldman, Bob’s father, became involved in the business in 1941 and his sons, Bob and George (now President), along with their sons, subsequently joined the company. Under the Heldmans’ management, the business was highly successful.</p>
+<p>In 1981 Fechheimer was sold to a group of venture capitalists in a leveraged buy out (an LBO), with management retaining an equity interest. The new company, as is the case with all LBOS, started with an exceptionally high debt/equity ratio. After the buy out, however, operations continued to be very successful. So by the start of last year debt had been paid down substantially and the value of the equity had increased dramatically. For a variety of reasons, the venture capitalists wished to sell and Bob, having dutifully read Berkshire’s annual reports, thought of us.</p>
+<p>Fechheimer is exactly the sort of business we like to buy. Its economic record is superb; its managers are talented, high-grade, and love what they do; and the Heldman family wanted to continue its financial interest in partnership with us. Therefore, we quickly purchased about 84% of the stock for a price that was based upon a $55 million valuation for the entire business.</p>
+<p>The circumstances of this acquisition were similar to those prevailing in our purchase of Nebraska Furniture Mart: most of the shares were held by people who wished to employ funds elsewhere; family members who enjoyed running their business wanted to continue both as owners and managers; several generations of the family were active in the business, providing management for as far as the eye can see; and the managing family wanted a purchaser who would not re-sell, regardless of price, and who would let the business be run in the future as it had been in the past. Both Fechheimer and NFM were right for us, and we were right for them.</p>
+<p>You may be amused to know that neither Charlie nor I have been to Cincinnati, headquarters for Fechheimer, to see their operation. (And, incidentally, it works both ways: Chuck Huggins, who has been running See’s for 15 years, has never been to Omaha.) If our success were to depend upon insights we developed through plant inspections, Berkshire would be in big trouble. Rather, in considering an acquisition, we attempt to evaluate the economic characteristics of the business—its competitive strengths and weaknesses—and the quality of the people we will be joining. Fechheimer was a standout in both respects. In addition to Bob and George Heldman, who are in their mid-60s—spring chickens by our standards—there are three members of the next generation, Gary, Roger and Fred, to insure continuity.</p>
+<p>As a prototype for acquisitions, Fechheimer has only one drawback: size. We hope our next acquisition is at least several times as large but a carbon copy in all other respects. Our threshold for minimum annual after-tax earnings of potential acquisitions has been moved up to $10 million from the $5 million level that prevailed when Bob wrote to me.</p>
+<p>Flushed with success, we repeat our ad. If you have a business that fits, call me or, preferably, write.</p>
+<p>Here’s what we’re looking for:</p>
+<p>large purchases (at least $10 million of after-tax earnings),</p>
+<p>demonstrated consistent earning power (future projections are of little interest to us, nor are “turn-around” situations),</p>
+<p>businesses earning good returns on equity while employing little or no debt.</p>
+<p>management in place (we can’t supply it),</p>
+<p>simple businesses (if there’s lots of technology, we won’t understand it),</p>
+<p>an offering price (we don’t want to waste our time or that of the seller by talking, even preliminarily, about a transaction when price is unknown).</p>
+<p>We will not engage in unfriendly takeovers. We can promise complete confidentiality and a very fast answer—customarily within five minutes—as to whether we’re interested. We prefer to buy for cash, but will consider issuing stock when we receive as much in intrinsic business value as we give. Indeed, following recent advances in the price of Berkshire stock, transactions involving stock issuance may be quite feasible. We invite potential sellers to check us out by contacting people with whom we have done business in the past. For the right business—and the right people—we can provide a good home.</p>
+<p>On the other hand, we frequently get approached about acquisitions that don’t come close to meeting our tests: new ventures, turnarounds, auction-like sales, and the ever-popular (among brokers) “I’m-sure-something-will-work-out-if-you-people-get-to-know-each-other.” None of these attracts us in the least.</p>
+<p>* * *</p>
+<p>Besides being interested in the purchases of entire businesses as described above, we are also interested in the negotiated purchase of large, but not controlling, blocks of stock, as in our Cap Cities purchase. Such purchases appeal to us only when we are very comfortable with both the economics of the business and the ability and integrity of the people running the operation. We prefer large transactions: in the unusual case we might do something as small as $50 million (or even smaller), but our preference is for commitments many times that size.</p>
+<p><strong>Insurance Operations</strong></p>
+<p>We present our usual table of industry figures, expanded this year to include data about incurred losses and the GNP inflation index. The contrast in 1986 between the growth in premiums and growth in incurred losses will show you why underwriting results for the year improved materially:</p>
+<p><em>Source: Best’s Insurance Management Reports</em></p>
+<p>The combined ratio represents total insurance costs (losses incurred plus expenses) compared to revenue from premiums: a ratio below 100 indicates an underwriting profit, and one above 100 indicates a loss. When the investment income that an insurer earns from holding on to policyholders’ funds (“the float”) is taken into account, a combined ratio in the 107-112 range typically produces an overall break-even result, exclusive of earnings on the funds provided by shareholders.</p>
+<p>The math of the insurance business, encapsulated by the table, is not very complicated. In years when the industry’s annual gain in revenues (premiums) pokes along at 4% or 5%, underwriting losses are sure to mount. This is not because auto accidents, fires, windstorms and the like are occurring more frequently, nor has it lately been the fault of general inflation. Today, social and judicial inflation are the major culprits; the cost of entering a courtroom has simply ballooned. Part of the jump in cost arises from skyrocketing verdicts, and part from the tendency of judges and juries to expand the coverage of insurance policies beyond that contemplated by the insurer when the policies were written. Seeing no let-up in either trend, we continue to believe that the industry’s revenues must grow at close to 10% annually for it to just hold its own in terms of profitability, even though general inflation may be running only 2%—4%.</p>
+<p>In 1986, as noted, the industry’s premium volume soared even faster than loss costs. Consequently, the underwriting loss of the industry fell dramatically. In last year’s report we predicted this sharp improvement but also predicted that prosperity would be fleeting. Alas, this second prediction is already proving accurate. The rate of gain in the industry’s premium volume has slowed significantly (from an estimated 27.1% in 1986’s first quarter, to 23.5% in the second, to 21.8% in the third, to 18.7% in the fourth), and we expect further slowing in 1987. Indeed, the rate of gain may well fall below my 10% “equilibrium” figure by the third quarter.</p>
+<p>Nevertheless, underwriting results in 1987, assuming they are not dragged down by a major natural catastrophe, will again improve materially because price increases are recognized in revenues on a lagged basis. In effect, the good news in earnings follows the good news in prices by six to twelve months. But the improving trend in earnings will probably end by late 1988 or early 1989. Thereafter the industry is likely to head south in a hurry.</p>
+<p>Pricing behavior in the insurance industry continues to be exactly what can be expected in a commodity-type business. Only under shortage conditions are high profits achieved, and such conditions don’t last long. When the profit sun begins to shine, long-established insurers shower investors with new shares in order to build capital. In addition, newly-formed insurers rush to sell shares at the advantageous prices available in the new-issue market (prices advantageous, that is, to the insiders promoting the company but rarely to the new shareholders). These moves guarantee future trouble: capacity soars, competitive juices flow, and prices fade.</p>
+<p>It’s interesting to observe insurance leaders beseech their colleagues to behave in a more “statesmanlike” manner when pricing policies. “Why,” they ask, “can’t we learn from history, even out the peaks and valleys, and consistently price to make reasonable profits?” What they wish, of course, is pricing that resembles, say, that of The Wall Street journal, whose prices are ample to start with and rise consistently each year.</p>
+<p>Such calls for improved behavior have all of the efficacy of those made by a Nebraska corn grower asking his fellow growers, worldwide, to market their corn with more statesmanship. What’s needed is not more statesmen, but less corn. By raising large amounts of capital in the last two years, the insurance industry has, to continue our metaphor, vastly expanded its plantings of corn. The resulting increase in “crop”—i.e., the proliferation of insurance capacity—will have the same effect on prices and profits that surplus crops have had since time immemorial.</p>
+<p>Our own insurance operation did well in 1986 and is also likely to do well in 1987. We have benefited significantly from industry conditions. But much of our prosperity arises from the efforts and ability of Mike Goldberg, manager of all insurance operations.</p>
+<p>Our combined ratio (on a statutory basis and excluding structured settlements and financial reinsurance) fell from 111 in 1985 to 103 in 1986. In addition, our premium growth has been exceptional: although final figures aren’t available, I believe that over the past two years we were the fastest growing company among the country’s top 100 insurers. Some of our growth, it is true, came from our large quota-share contract with Fireman’s Fund, described in last year’s report and updated in Charlie’s letter on page 54. But even if the premiums from that contract are excluded from the calculation, we probably still ranked first in growth.</p>
+<p>Interestingly, we were the slowest-growing large insurer in the years immediately preceding 1985. In fact, we shrank—and we will do so again from time to time in the future. Our large swings in volume do not mean that we come and go from the insurance marketplace. Indeed, we are its most steadfast participant, always standing ready, at prices we believe adequate, to write a wide variety of high-limit coverages. The swings in our volume arise instead from the here-today, gone-tomorrow behavior of other insurers. When most insurers are “gone,” because their capital is inadequate or they have been frightened by losses, insureds rush to us and find us ready to do business. But when hordes of insurers are “here,” and are slashing prices far below expectable costs, many customers naturally leave us in order to take advantage of the bargains temporarily being offered by our competition.</p>
+<p>Our firmness on prices works no hardship on the consumer: he is being bombarded by attractively priced insurance offers at those times when we are doing little business. And it works no hardship on our employees: we don’t engage in layoffs when we experience a cyclical slowdown at one of our generally-profitable insurance operations. This no-layoff practice is in our self-interest. Employees who fear that large layoffs will accompany sizable reductions in premium volume will understandably produce scads of business through thick and thin (mostly thin).</p>
+<p>The trends in National Indemnity’s traditional business—the writing of commercial auto and general liability policies through general agents—suggest how gun-shy other insurers became for a while and how brave they are now getting. In the last quarter of 1984, NICO’s monthly volume averaged $5 million, about what it had been running for several years. By the first quarter of 1986, monthly volume had climbed to about $35 million. In recent months, a sharp decline has set in. Monthly volume is currently about $20 million and will continue to fall as new competitors surface and prices are cut. Ironically, the managers of certain major new competitors are the very same managers that just a few years ago bankrupted insurers that were our old competitors. Through state-mandated guaranty funds, we must pay some of the losses these managers left unpaid, and now we find them writing the same sort of business under a new name. C’est la guerre.</p>
+<p>The business we call “large risks” expanded significantly during 1986, and will be important to us in the future. In this operation, we regularly write policies with annual premiums of $1—$3 million, or even higher. This business will necessarily be highly volatile—both in volume and profitability—but our premier capital position and willingness to write large net lines make us a very strong force in the market when prices are right. On the other hand, our structured settlement business has become near-dormant because present prices make no sense to us.</p>
+<p>The 1986 loss reserve development of our insurance group is chronicled on page 46. The figures show the amount of error in our yearend 1985 liabilities that a year of settlements and further evaluation has revealed. As you can see, what I told you last year about our loss liabilities was far from true—and that makes three years in a row of error. If the physiological rules that applied to Pinocchio were to apply to me, my nose would now draw crowds.</p>
+<p>When insurance executives belatedly establish proper reserves, they often speak of “reserve strengthening,” a term that has a rather noble ring to it. They almost make it sound as if they are adding extra layers of strength to an already-solid balance sheet. That’s not the case: instead the term is a euphemism for what should more properly be called “correction of previous untruths” (albeit non-intentional ones).</p>
+<p>We made a special effort at the end of 1986 to reserve accurately. However, we tried just as hard at the end of 1985. Only time will tell whether we have finally succeeded in correctly estimating our insurance liabilities.</p>
+<p>Despite the difficulties we have had in reserving and the commodity economics of the industry, we expect our insurance business to both grow and make significant amounts of money—but progress will be distinctly irregular and there will be major unpleasant surprises from time to time. It’s a treacherous business and a wary attitude is essential. We must heed Woody Allen: “While the lamb may lie down with the lion, the lamb shouldn’t count on getting a whole lot of sleep.”</p>
+<p>In our insurance operations we have an advantage in attitude, we have an advantage in capital, and we are developing an advantage in personnel. Additionally, I like to think we have some long-term edge in investing the float developed from policyholder funds. The nature of the business suggests that we will need all of these advantages in order to prosper.</p>
+<p>* * *</p>
+<p>GEICO Corporation, 41% owned by Berkshire, had an outstanding year in 1986. Industrywide, underwriting experience in personal lines did not improve nearly as much as it did in commercial lines. But GEICO, writing personal lines almost exclusively, improved its combined ratio to 96.9 and recorded a 16% gain in premium volume. GEICO also continued to repurchase its own shares and ended the year with 5.5% fewer shares outstanding than it had at the start of the year. Our share of GEICO’s premium volume is over $500 million, close to double that of only three years ago. GEICO’s book of business is one of the best in the world of insurance, far better indeed than Berkshire’s own book.</p>
+<p>The most important ingredient in GEICO’s success is rock-bottom operating costs, which set the company apart from literally hundreds of competitors that offer auto insurance. The total of GEICO’s underwriting expense and loss adjustment expense in 1986 was only 23.5% of premiums. Many major companies show percentages 15 points higher than that. Even such huge direct writers as Allstate and State Farm incur appreciably higher costs than does GEICO.</p>
+<p>The difference between GEICO’s costs and those of its competitors is a kind of moat that protects a valuable and much-sought-after business castle. No one understands this moat-around-the-castle concept better than Bill Snyder, Chairman of GEICO. He continually widens the moat by driving down costs still more, thereby defending and strengthening the economic franchise. Between 1985 and 1986, GEICO’s total expense ratio dropped from 24.1% to the 23.5% mentioned earlier and, under Bill’s leadership, the ratio is almost certain to drop further. If it does—and if GEICO maintains its service and underwriting standards—the company’s future will be brilliant indeed.</p>
+<p>The second stage of the GEICO rocket is fueled by Lou Simpson, Vice Chairman, who has run the company’s investments since late 1979. Indeed, it’s a little embarrassing for me, the fellow responsible for investments at Berkshire, to chronicle Lou’s performance at GEICO. Only my ownership of a controlling block of Berkshire stock makes me secure enough to give you the following figures, comparing the overall return of the equity portfolio at GEICO to that of the Standard & Poor’s 500:</p>
+<p>&nbsp;</p>
+<p>These are not only terrific figures but, fully as important, they have been achieved in the right way. Lou has consistently invested in undervalued common stocks that, individually, were unlikely to present him with a permanent loss and that, collectively, were close to risk-free.</p>
+<p>In sum, GEICO is an exceptional business run by exceptional managers. We are fortunate to be associated with them.</p>
+<p><strong>Marketable Securities</strong></p>
+<p>During 1986, our insurance companies purchased about $700 million of tax-exempt bonds, most having a maturity of 8 to 12 years. You might think that this commitment indicates a considerable enthusiasm for such bonds. Unfortunately, that’s not so: at best, the bonds are mediocre investments. They simply seemed the least objectionable alternative at the time we bought them, and still seem so. (Currently liking neither stocks nor bonds, I find myself the polar opposite of Mae West as she declared: “I like only two kinds of men—foreign and domestic.”)</p>
+<p>We must, of necessity, hold marketable securities in our insurance companies and, as money comes in, we have only five directions to go: (1) long-term common stock investments; (2) long-term fixed-income securities; (3) medium-term fixed-income securities; (4) short-term cash equivalents; and (5) short-term arbitrage commitments.</p>
+<p>Common stocks, of course, are the most fun. When conditions are right that is, when companies with good economics and good management sell well below intrinsic business value—stocks sometimes provide grand-slam home runs. But we currently find no equities that come close to meeting our tests. This statement in no way translates into a stock market prediction: we have no idea—and never have had—whether the market is going to go up, down, or sideways in the near- or intermediate term future.</p>
+<p>What we do know, however, is that occasional outbreaks of those two super-contagious diseases, fear and greed, will forever occur in the investment community. The timing of these epidemics will be unpredictable. And the market aberrations produced by them will be equally unpredictable, both as to duration and degree. Therefore, we never try to anticipate the arrival or departure of either disease. Our goal is more modest: we simply attempt to be fearful when others are greedy and to be greedy only when others are fearful.</p>
+<p>As this is written, little fear is visible in Wall Street. Instead, euphoria prevails—and why not? What could be more exhilarating than to participate in a bull market in which the rewards to owners of businesses become gloriously uncoupled from the plodding performances of the businesses themselves. Unfortunately, however, stocks can’t outperform businesses indefinitely.</p>
+<p>Indeed, because of the heavy transaction and investment management costs they bear, stockholders as a whole and over the long term must inevitably underperform the companies they own. If American business, in aggregate, earns about 12% on equity annually, investors must end up earning significantly less. Bull markets can obscure mathematical laws, but they cannot repeal them.</p>
+<p>The second category of investments open to our insurance companies is long-term bonds. These are unlikely to be of interest to us except in very special situations, such as the Washington Public Power Supply System #1, #2 and #3 issues, discussed in our 1984 report. (At yearend, we owned WPPSS issues having an amortized cost of $218 million and a market value of $310 million, paying us $31.7 million in annual tax-exempt income.) Our aversion to long-term bonds relates to our fear that we will see much higher rates of inflation within the next decade. Over time, the behavior of our currency will be determined by the behavior of our legislators. This relationship poses a continuing threat to currency stability—and a corresponding threat to the owners of long-term bonds.</p>
+<p>We continue to periodically employ money in the arbitrage field. However, unlike most arbitrageurs, who purchase dozens of securities each year, we purchase only a few. We restrict ourselves to large deals that have been announced publicly and do not bet on the come. Therefore, our potential profits are apt to be small; but, with luck, our disappointments will also be few.</p>
+<p>Our yearend portfolio shown below includes one arbitrage commitment, Lear-Siegler. Our balance sheet also includes a receivable for $145 million, representing the money owed us (and paid a few days later) by Unilever, then in the process of purchasing Chesebrough-Ponds, another of our arbitrage holdings. Arbitrage is an alternative to Treasury Bills as a short-term parking place for money—a choice that combines potentially higher returns with higher risks. To date, our returns from the funds committed to arbitrage have been many times higher than they would have been had we left those funds in Treasury Bills. Nonetheless, one bad experience could change the scorecard markedly.</p>
+<p>We also, though it takes some straining, currently view medium-term tax-exempt bonds as an alternative to short-term Treasury holdings. Buying these bonds, we run a risk of significant loss if, as seems probable, we sell many of them well before maturity. However, we believe this risk is more than counter-balanced first, by the much higher after-tax returns currently realizable from these securities as compared to Treasury Bills and second, by the possibility that sales will produce an overall profit rather than a loss. Our expectation of a higher total return, after allowing for the possibility of loss and after taking into account all tax effects, is a relatively close call and could well be wrong. Even if we sell our bonds at a fairly large loss, however, we may end up reaping a higher after-tax return than we would have realized by repeatedly rolling over Treasury Bills.</p>
+<p>In any event, you should know that our expectations for both the stocks and bonds we now hold are exceptionally modest, given current market levels. Probably the best thing that could happen to us is a market in which we would choose to sell many of our bond holdings at a significant loss in order to re-allocate funds to the far-better equity values then very likely to exist. The bond losses I am talking about would occur if high interest rates came along; the same rates would probably depress common stocks considerably more than medium-term bonds.</p>
+<p>We show below our 1986 yearend net holdings in marketable equities. All positions with a market value of over $25 million are listed, and the interests attributable to minority shareholdings of Wesco Financial Corp. and Nebraska Furniture Mart are excluded.</p>
+<p>&nbsp;</p>
+<p>We should note that we expect to keep permanently our three primary holdings, Capital Cities/ABC, Inc., GEICO Corporation, and The Washington Post. Even if these securities were to appear significantly overpriced, we would not anticipate selling them, just as we would not sell See’s or Buffalo Evening News if someone were to offer us a price far above what we believe those businesses are worth.</p>
+<p>This attitude may seem old-fashioned in a corporate world in which activity has become the order of the day. The modern manager refers to his “portfolio” of businesses—meaning that all of them are candidates for “restructuring” whenever such a move is dictated by Wall Street preferences, operating conditions or a new corporate “concept.” (Restructuring is defined narrowly, however: it extends only to dumping offending businesses, not to dumping the officers and directors who bought the businesses in the first place. “Hate the sin but love the sinner” is a theology as popular with the Fortune 500 as it is with the Salvation Army.)</p>
+<p>Investment managers are even more hyperkinetic: their behavior during trading hours makes whirling dervishes appear sedated by comparison. Indeed, the term “institutional investor” is becoming one of those self-contradictions called an oxymoron, comparable to “jumbo shrimp,” “lady mudwrestler” and “inexpensive lawyer.”</p>
+<p>Despite the enthusiasm for activity that has swept business and financial America, we will stick with our ‘til-death-do-us-part policy. It’s the only one with which Charlie and I are comfortable, it produces decent results, and it lets our managers and those of our investees run their businesses free of distractions.</p>
+<p><strong>NHP, Inc.</strong></p>
+<p>Last year we paid $23.7 million for about 50% of NHP, Inc., a developer, syndicator, owner and manager of multi-family rental housing. Should all executive stock options that have been authorized be granted and exercised, our equity interest will decline to slightly over 45%.</p>
+<p>NHP, Inc. has a most unusual genealogy. In 1967, President Johnson appointed a commission of business and civic leaders, led by Edgar Kaiser, to study ways to increase the supply of multifamily housing for low- and moderate-income tenants. Certain members of the commission subsequently formed and promoted two business entities to foster this goal. Both are now owned by NHP, Inc. and one operates under unusual ground rules: three of its directors must be appointed by the President, with the advice and consent of the Senate, and it is also required by law to submit an annual report to the President.</p>
+<p>Over 260 major corporations, motivated more by the idea of public service than profit, invested $42 million in the two original entities, which promptly began, through partnerships, to develop government-subsidized rental property. The typical partnership owned a single property and was largely financed by a non-recourse mortgage. Most of the equity money for each partnership was supplied by a group of limited partners who were primarily attracted by the large tax deductions that went with the investment. NHP acted as general partner and also purchased a small portion of each partnership’s equity.</p>
+<p>The Government’s housing policy has, of course, shifted and NHP has necessarily broadened its activities to include non-subsidized apartments commanding market-rate rents. In addition, a subsidiary of NHP builds single-family homes in the Washington, D.C. area, realizing revenues of about $50 million annually.</p>
+<p>NHP now oversees about 500 partnership properties that are located in 40 states, the District of Columbia and Puerto Rico, and that include about 80,000 housing units. The cost of these properties was more than $2.5 billion and they have been well maintained. NHP directly manages about 55,000 of the housing units and supervises the management of the rest. The company’s revenues from management are about $16 million annually, and growing.</p>
+<p>In addition to the equity interests it purchased upon the formation of each partnership, NHP owns varying residual interests that come into play when properties are disposed of and distributions are made to the limited partners. The residuals on many of NHP’s “deep subsidy” properties are unlikely to be of much value. But residuals on certain other properties could prove quite valuable, particularly if inflation should heat up.</p>
+<p>The tax-oriented syndication of properties to individuals has been halted by the Tax Reform Act of 1986. In the main, NHP is currently trying to develop equity positions or significant residual interests in non-subsidized rental properties of quality and size (typically 200 to 500 units). In projects of this kind, NHP usually works with one or more large institutional investors or lenders. NHP will continue to seek ways to develop low- and moderate-income apartment housing, but will not likely meet success unless government policy changes.</p>
+<p>Besides ourselves, the large shareholders in NHP are Weyerhauser (whose interest is about 25%) and a management group led by Rod Heller, chief executive of NHP. About 60 major corporations also continue to hold small interests, none larger than 2%.</p>
+<p><strong>Taxation</strong></p>
+<p>The Tax Reform Act of 1986 affects our various businesses in important and divergent ways. Although we find much to praise in the Act, the net financial effect for Berkshire is negative: our rate of increase in business value is likely to be at least moderately slower under the new law than under the old. The net effect for our shareholders is even more negative: every dollar of increase in per-share business value, assuming the increase is accompanied by an equivalent dollar gain in the market value of Berkshire stock, will produce 72 cents of after-tax gain for our shareholders rather than the 80 cents produced under the old law. This result, of course, reflects the rise in the maximum tax rate on personal capital gains from 20% to 28%.</p>
+<p>Here are the main tax changes that affect Berkshire:</p>
+<p>&nbsp;</p>
+<p>The tax rate on corporate ordinary income is scheduled to decrease from 46% in 1986 to 34% in 1988. This change obviously affects us positively—and it also has a significant positive effect on two of our three major investees, Capital Cities/ABC and The Washington Post Company.</p>
+<p>&nbsp;</p>
+<p>I say this knowing that over the years there has been a lot of fuzzy and often partisan commentary about who really pays corporate taxes—businesses or their customers. The argument, of course, has usually turned around tax increases, not decreases. Those people resisting increases in corporate rates frequently argue that corporations in reality pay none of the taxes levied on them but, instead, act as a sort of economic pipeline, passing all taxes through to consumers. According to these advocates, any corporate-tax increase will simply lead to higher prices that, for the corporation, offset the increase. Having taken this position, proponents of the “pipeline” theory must also conclude that a tax decrease for corporations will not help profits but will instead flow through, leading to correspondingly lower prices for consumers.</p>
+<p>&nbsp;</p>
+<p>Conversely, others argue that corporations not only pay the taxes levied upon them, but absorb them also. Consumers, this school says, will be unaffected by changes in corporate rates.</p>
+<p>&nbsp;</p>
+<p>What really happens? When the corporate rate is cut, do Berkshire, The Washington Post, Cap Cities, etc., themselves soak up the benefits, or do these companies pass the benefits along to their customers in the form of lower prices? This is an important question for investors and managers, as well as for policymakers.</p>
+<p>&nbsp;</p>
+<p>Our conclusion is that in some cases the benefits of lower corporate taxes fall exclusively, or almost exclusively, upon the corporation and its shareholders, and that in other cases the benefits are entirely, or almost entirely, passed through to the customer. What determines the outcome is the strength of the corporation’s business franchise and whether the profitability of that franchise is regulated.</p>
+<p>&nbsp;</p>
+<p>For example, when the franchise is strong and after-tax profits are regulated in a relatively precise manner, as is the case with electric utilities, changes in corporate tax rates are largely reflected in prices, not in profits. When taxes are cut, prices will usually be reduced in short order. When taxes are increased, prices will rise, though often not as promptly.</p>
+<p>&nbsp;</p>
+<p>A similar result occurs in a second arena—in the price-competitive industry, whose companies typically operate with very weak business franchises. In such industries, the free market “regulates” after-tax profits in a delayed and irregular, but generally effective, manner. The marketplace, in effect, performs much the same function in dealing with the price-competitive industry as the Public Utilities Commission does in dealing with electric utilities. In these industries, therefore, tax changes eventually affect prices more than profits.</p>
+<p>&nbsp;</p>
+<p>In the case of unregulated businesses blessed with strong franchises, however, it’s a different story: the corporation and its shareholders are then the major beneficiaries of tax cuts. These companies benefit from a tax cut much as the electric company would if it lacked a regulator to force down prices.</p>
+<p>&nbsp;</p>
+<p>Many of our businesses, both those we own in whole and in part, possess such franchises. Consequently, reductions in their taxes largely end up in our pockets rather than the pockets of our customers. While this may be impolitic to state, it is impossible to deny. If you are tempted to believe otherwise, think for a moment of the most able brain surgeon or lawyer in your area. Do you really expect the fees of this expert (the local “franchise-holder” in his or her specialty) to be reduced now that the top personal tax rate is being cut from 50% to 28%?</p>
+<p>&nbsp;</p>
+<p>Your joy at our conclusion that lower rates benefit a number of our operating businesses and investees should be severely tempered, however, by another of our convictions: scheduled 1988 tax rates, both individual and corporate, seem totally unrealistic to us. These rates will very likely bestow a fiscal problem on Washington that will prove incompatible with price stability. We believe, therefore, that ultimately—within, say, five years—either higher tax rates or higher inflation rates are almost certain to materialize. And it would not surprise us to see both.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Corporate capital gains tax rates have been increased from 28% to 34%, effective in 1987. This change will have an important adverse effect on Berkshire because we expect much of our gain in business value in the future, as in the past, to arise from capital gains. For example, our three major investment holdings—Cap Cities, GEICO, and Washington Post—at yearend had a market value of over $1.7 billion, close to 75% of the total net worth of Berkshire, and yet they deliver us only about $9 million in annual income. Instead, all three retain a very high percentage of their earnings, which we expect to eventually deliver us capital gains.</p>
+<p>&nbsp;</p>
+<p>The new law increases the rate for all gains realized in the future, including the unrealized gains that existed before the law was enacted. At yearend, we had $1.2 billion of such unrealized gains in our equity investments. The effect of the new law on our balance sheet will be delayed because a GAAP rule stipulates that the deferred tax liability applicable to unrealized gains should be stated at last year’s 28% tax rate rather than the current 34% rate. This rule is expected to change soon. The moment it does, about $73 million will disappear from our GAAP net worth and be added to the deferred tax account.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Dividend and interest income received by our insurance companies will be taxed far more heavily under the new law. First, all corporations will be taxed on 20% of the dividends they receive from other domestic corporations, up from 15% under the old law. Second, there is a change concerning the residual 80% that applies only to property/casualty companies: 15% of that residual will be taxed if the stocks paying the dividends were purchased after August 7, 1986. A third change, again applying only to property/casualty companies, concerns tax-exempt bonds: interest on bonds purchased by insurers after August 7, 1986 will only be 85% tax-exempt.</p>
+<p>&nbsp;</p>
+<p>The last two changes are very important. They mean that our income from the investments we make in future years will be significantly lower than would have been the case under the old law. My best guess is that these changes alone will eventually reduce the earning power of our insurance operation by at least 10% from what we could previously have expected.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The new tax law also materially changes the timing of tax payments by property/casualty insurance companies. One new rule requires us to discount our loss reserves in our tax returns, a change that will decrease deductions and increase taxable income. Another rule, to be phased in over six years, requires us to include 20% of our unearned premium reserve in taxable income.</p>
+<p>&nbsp;</p>
+<p>Neither rule changes the amount of the annual tax accrual in our reports to you, but each materially accelerates the schedule of payments. That is, taxes formerly deferred will now be front-ended, a change that will significantly cut the profitability of our business. An analogy will suggest the toll: if, upon turning 21, you were required to immediately pay tax on all income you were due to receive throughout your life, both your lifetime wealth and your estate would be a small fraction of what they would be if all taxes on your income were payable only when you died.</p>
+<p>&nbsp;</p>
+<p>Attentive readers may spot an inconsistency in what we say. Earlier, discussing companies in price-competitive industries, we suggested that tax increases or reductions affect these companies relatively little, but instead are largely passed along to their customers. But now we are saying that tax increases will affect profits of Berkshire’s property/casualty companies even though they operate in an intensely price-competitive industry.</p>
+<p>&nbsp;</p>
+<p>The reason this industry is likely to be an exception to our general rule is that not all major insurers will be working with identical tax equations. Important differences will exist for several reasons: a new alternative minimum tax will materially affect some companies but not others; certain major insurers have huge loss carry-forwards that will largely shield their income from significant taxes for at least a few years; and the results of some large insurers will be folded into the consolidated returns of companies with non-insurance businesses. These disparate conditions will produce widely varying marginal tax rates in the property/casualty industry. That will not be the case, however, in most other price-competitive industries, such as aluminum, autos and department stores, in which the major players will generally contend with similar tax equations.</p>
+<p>&nbsp;</p>
+<p>The absence of a common tax calculus for property/casualty companies means that the increased taxes falling on the industry will probably not be passed along to customers to the degree that they would in a typical price-competitive industry. Insurers, in other words, will themselves bear much of the new tax burdens.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>A partial offset to these burdens is a “fresh start” adjustment that occurred on January 1, 1987 when our December 31, 1986 loss reserve figures were converted for tax purposes to the newly-required discounted basis. (In our reports to you, however, reserves will remain on exactly the same basis as in the past—undiscounted except in special cases such as structured settlements.) The net effect of the “fresh start” is to give us a double deduction: we will get a tax deduction in 1987 and future years for a portion of our-incurred-but-unpaid insurance losses that have already been fully deducted as costs in 1986 and earlier years.</p>
+<p>&nbsp;</p>
+<p>The increase in net worth that is produced by this change is not yet reflected in our financial statements. Rather, under present GAAP rules (which may be changed), the benefit will flow into the earnings statement and, consequently, into net worth over the next few years by way of reduced tax charges. We expect the total benefit from the fresh-start adjustment to be in the $30—$40 million range. It should be noted, however, that this is a one-time benefit, whereas the negative impact of the other insurance-related tax changes is not only ongoing but, in important respects, will become more severe as time passes.</p>
+<p>&nbsp;</p>
+<p>The General Utilities Doctrine was repealed by the new tax law. This means that in 1987 and thereafter there will be a double tax on corporate liquidations, one at the corporate level and another at the shareholder level. In the past, the tax at the corporate level could be avoided, If Berkshire, for example, were to be liquidated—which it most certainly won’t be—shareholders would, under the new law, receive far less from the sales of our properties than they would have if the properties had been sold in the past, assuming identical prices in each sale. Though this outcome is theoretical in our case, the change in the law will very materially affect many companies. Therefore, it also affects our evaluations of prospective investments. Take, for example, producing oil and gas businesses, selected media companies, real estate companies, etc. that might wish to sell out. The values that their shareholders can realize are likely to be significantly reduced simply because the General Utilities Doctrine has been repealed—though the companies’ operating economics will not have changed adversely at all. My impression is that this important change in the law has not yet been fully comprehended by either investors or managers.</p>
+<p>This section of our report has been longer and more complicated than I would have liked. But the changes in the law are many and important, particularly for property/casualty insurers. As I have noted, the new law will hurt Berkshire’s results, but the negative impact is impossible to quantify with any precision.</p>
+<p><strong>Miscellaneous</strong></p>
+<p>We bought a corporate jet last year. What you have heard about such planes is true: they are very expensive and a luxury in situations like ours where little travel to out-of-the-way places is required. And planes not only cost a lot to operate, they cost a lot just to look at. Pre-tax, cost of capital plus depreciation on a new $15 million plane probably runs $3 million annually. On our own plane, bought for $850,000 used, such costs run close to $200,000 annually.</p>
+<p>Cognizant of such figures, your Chairman, unfortunately, has in the past made a number of rather intemperate remarks about corporate jets. Accordingly, prior to our purchase, I was forced into my Galileo mode. I promptly experienced the necessary “counter-revelation” and travel is now considerably easier—and considerably costlier—than in the past. Whether Berkshire will get its money’s worth from the plane is an open question, but I will work at achieving some business triumph that I can (no matter how dubiously) attribute to it. I’m afraid Ben Franklin had my number. Said he: “So convenient a thing it is to be a reasonable creature, since it enables one to find or make a reason for everything one has a mind to do.”</p>
+<p>About 97% of all eligible shares participated in Berkshire’s 1986 shareholder-designated contributions program. Contributions made through the program were $4 million, and 1,934 charities were recipients.</p>
+<p>We urge new shareholders to read the description of our shareholder-designated contributions program that appears on pages 58 and 59. If you wish to participate in future programs, we strongly urge that you immediately make sure your shares are registered in the name of the actual owner, not in “street” name or nominee name. Shares not so registered on September 30, 1987 will be ineligible for the 1987 program.</p>
+<p>* * *</p>
+<p>Last year almost 450 people attended our shareholders’ meeting, up from about 250 the year before (and from about a dozen ten years ago). I hope you can join us on May 19th in Omaha. Charlie and I like to answer owner-related questions and I can promise you that our shareholders will pose many good ones. Finishing up the questions may take quite a while—we had about 65 last year so you should feel free to leave once your own have been answered.</p>
+<p>Last year, after the meeting, one shareholder from New Jersey and another from New York went to the Furniture Mart, where each purchased a $5,000 Oriental rug from Mrs. B. (To be precise, they purchased rugs that might cost $10,000 elsewhere for which they were charged about $5,000.) Mrs. B was pleased—but not satisfied—and she will be looking for you at the store after this year’s meeting. Unless our shareholders top last year’s record, I’ll be in trouble. So do me (and yourself) a favor, and go see her.</p>
+<p>Warren E. BuffettChairman of the Board</p>
+<p>February 27, 1987</p>
+<p><strong>Appendix</strong></p>
+<p>Purchase-Price Accounting Adjustments and the “Cash Flow” Fallacy</p>
+<p>First a short quiz: below are abbreviated 1986 statements of earnings for two companies. Which business is the more valuable?</p>
+<p> (Numbers (1) through (4) designate items discussed later in this section.)    </p>
+<p>As you’ve probably guessed, Companies O and N are the same business—Scott Fetzer. In the “O” (for “old”) column we have shown what the company’s 1986 GAAP earnings would have been if we had not purchased it; in the “N” (for “new”) column we have shown Scott Fetzer’s GAAP earnings as actually reported by Berkshire.</p>
+<p>It should be emphasized that the two columns depict identical economics—i.e., the same sales, wages, taxes, etc. And both “companies” generate the same amount of cash for owners. Only the accounting is different.</p>
+<p>So, fellow philosophers, which column presents truth? Upon which set of numbers should managers and investors focus?</p>
+<p>Before we tackle those questions, let’s look at what produces the disparity between O and N. We will simplify our discussion in some respects, but the simplification should not produce any inaccuracies in analysis or conclusions.</p>
+<p>The contrast between O and N comes about because we paid an amount for Scott Fetzer that was different from its stated net worth. Under GAAP, such differences—such premiums or discounts—must be accounted for by “purchase-price adjustments.” In Scott Fetzer’s case, we paid $315 million for net assets that were carried on its books at $172.4 million. So we paid a premium of $142.6 million.</p>
+<p>The first step in accounting for any premium paid is to adjust the carrying value of current assets to current values. In practice, this requirement usually does not affect receivables, which are routinely carried at current value, but often affects inventories. Because of a $22.9 million LIFO reserve and other accounting intricacies, Scott Fetzer’s inventory account was carried at a $37.3 million discount from current value. So, making our first accounting move, we used $37.3 million of our $142.6 million premium to increase the carrying value of the inventory.</p>
+<p>Assuming any premium is left after current assets are adjusted, the next step is to adjust fixed assets to current value. In our case, this adjustment also required a few accounting acrobatics relating to deferred taxes. Since this has been billed as a simplified discussion, I will skip the details and give you the bottom line: $68.0 million was added to fixed assets and $13.0 million was eliminated from deferred tax liabilities. After making this $81.0 million adjustment, we were left with $24.3 million of premium to allocate.</p>
+<p>Had our situation called for them two steps would next have been required: the adjustment of intangible assets other than Goodwill to current fair values, and the restatement of liabilities to current fair values, a requirement that typically affects only long-term debt and unfunded pension liabilities. In Scott Fetzer’s case, however, neither of these steps was necessary.</p>
+<p>The final accounting adjustment we needed to make, after recording fair market values for all assets and liabilities, was the assignment of the residual premium to Goodwill (technically known as “excess of cost over the fair value of net assets acquired”). This residual amounted to $24.3 million. Thus, the balance sheet of Scott Fetzer immediately before the acquisition, which is summarized below in column O, was transformed by the purchase into the balance sheet shown in column N. In real terms, both balance sheets depict the same assets and liabilities—but, as you can see, certain figures differ significantly.</p>
+<p> The higher balance sheet figures shown in column N produce the lower income figures shown in column N of the earnings statement presented earlier. This is the result of the asset write-ups and of the fact that some of the written-up assets must be depreciated or amortized. The higher the asset figure, the higher the annual depreciation or amortization charge to earnings must be. The charges that flowed to the earnings statement because of the balance sheet write-ups were numbered in the statement of earnings shown earlier:</p>
+<p>(1)     $4,979,000 for non-cash inventory costs resulting, primarily, from reductions that Scott Fetzer made in its inventories during 1986; charges of this kind are apt to be small or non-existent in future years.</p>
+<p>(2)     $5,054,000 for extra depreciation attributable to the write-up of fixed assets; a charge approximating this amount will probably be made annually for 12 more years.</p>
+<p>(3)     $595,000 for amortization of Goodwill; this charge will be made annually for 39 more years in a slightly larger amount because our purchase was made on January 6 and, therefore, the 1986 figure applies to only 98% of the year.</p>
+<p>(4)     $998,000 for deferred-tax acrobatics that are beyond my ability to explain briefly (or perhaps even non-briefly); a charge approximating this amount will probably be made annually for 12 more years.</p>
+<p>It is important to understand that none of these newly-created accounting costs, totaling $11.6 million, are deductible for income tax purposes. The “new” Scott Fetzer pays exactly the same tax as the “old” Scott Fetzer would have, even though the GAAP earnings of the two entities differ greatly. And, in respect to operating earnings, that would be true in the future also. However, in the unlikely event that Scott Fetzer sells one of its businesses, the tax consequences to the “old” and “new” company might differ widely.</p>
+<p>By the end of 1986 the difference between the net worth of the “old” and “new” Scott Fetzer had been reduced from $142.6 million to $131.0 million by means of the extra $11.6 million that was charged to earnings of the new entity. As the years go by, similar charges to earnings will cause most of the premium to disappear, and the two balance sheets will converge. However, the higher land values and most of the higher inventory values that were established on the new balance sheet will remain unless land is disposed of or inventory levels are further reduced.</p>
+<p>* * *</p>
+<p>What does all this mean for owners? Did the shareholders of Berkshire buy a business that earned $40.2 million in 1986 or did they buy one earning $28.6 million? Were those $11.6 million of new charges a real economic cost to us? Should investors pay more for the stock of Company O than of Company N? And, if a business is worth some given multiple of earnings, was Scott Fetzer worth considerably more the day before we bought it than it was worth the following day?</p>
+<p>If we think through these questions, we can gain some insights about what may be called “owner earnings.” These represent (a) reported earnings plus (b) depreciation, depletion, amortization, and certain other non-cash charges such as Company N’s items (1) and (4) less (c) the average annual amount of capitalized expenditures for plant and equipment, etc. that the business requires to fully maintain its long-term competitive position and its unit volume. (If the business requires additional working capital to maintain its competitive position and unit volume, the increment also should be included in (c) . However, businesses following the LIFO inventory method usually do not require additional working capital if unit volume does not change.)</p>
+<p>Our owner-earnings equation does not yield the deceptively precise figures provided by GAAP, since( c) must be a guess—and one sometimes very difficult to make. Despite this problem, we consider the owner earnings figure, not the GAAP figure, to be the relevant item for valuation purposes—both for investors in buying stocks and for managers in buying entire businesses. We agree with Keynes’s observation: “I would rather be vaguely right than precisely wrong.”</p>
+<p>The approach we have outlined produces “owner earnings” for Company O and Company N that are identical, which means valuations are also identical, just as common sense would tell you should be the case. This result is reached because the sum of (a) and (b) is the same in both columns O and N, and because( c) is necessarily the same in both cases.</p>
+<p>And what do Charlie and I, as owners and managers, believe is the correct figure for the owner earnings of Scott Fetzer? Under current circumstances, we believe (c) is very close to the “old” company’s (b) number of $8.3 million and much below the “new” company’s (b) number of $19.9 million. Therefore, we believe that owner earnings are far better depicted by the reported earnings in the O column than by those in the N column. In other words, we feel owner earnings of Scott Fetzer are considerably larger than the GAAP figures that we report.</p>
+<p>That is obviously a happy state of affairs. But calculations of this sort usually do not provide such pleasant news. Most managers probably will acknowledge that they need to spend something more than (b) on their businesses over the longer term just to hold their ground in terms of both unit volume and competitive position. When this imperative exists—that is, when (c) exceeds (b)—GAAP earnings overstate owner earnings. Frequently this overstatement is substantial. The oil industry has in recent years provided a conspicuous example of this phenomenon. Had most major oil companies spent only (b) each year, they would have guaranteed their shrinkage in real terms.</p>
+<p>All of this points up the absurdity of the “cash flow” numbers that are often set forth in Wall Street reports. These numbers routinely include (a) plus (b)—but do not subtract (c) . Most sales brochures of investment bankers also feature deceptive presentations of this kind. These imply that the business being offered is the commercial counterpart of the Pyramids—forever state-of-the-art, never needing to be replaced, improved or refurbished. Indeed, if all U.S. corporations were to be offered simultaneously for sale through our leading investment bankers—and if the sales brochures describing them were to be believed—governmental projections of national plant and equipment spending would have to be slashed by 90%.</p>
+<p>“Cash Flow”, true, may serve as a shorthand of some utility in descriptions of certain real estate businesses or other enterprises that make huge initial outlays and only tiny outlays thereafter. A company whose only holding is a bridge or an extremely long-lived gas field would be an example. But “cash flow” is meaningless in such businesses as manufacturing, retailing, extractive companies, and utilities because, for them, ( c) is always significant. To be sure, businesses of this kind may in a given year be able to defer capital spending. But over a five- or ten-year period, they must make the investment—or the business decays.</p>
+<p>Why, then, are “cash flow” numbers so popular today? In answer, we confess our cynicism: we believe these numbers are frequently used by marketers of businesses and securities in attempts to justify the unjustifiable (and thereby to sell what should be the unsalable). When (a)—that is, GAAP earnings—looks by itself inadequate to service debt of a junk bond or justify a foolish stock price, how convenient it becomes for salesmen to focus on (a) + (b). But you shouldn’t add (b) without subtracting (c) : though dentists correctly claim that if you ignore your teeth they’ll go away, the same is not true for (c) . The company or investor believing that the debt-servicing ability or the equity valuation of an enterprise can be measured by totaling (a) and (b) while ignoring (c) is headed for certain trouble.</p>
+<p>* * *</p>
+<p>To sum up: in the case of both Scott Fetzer and our other businesses, we feel that (b) on an historical-cost basis—i.e., with both amortization of intangibles and other purchase-price adjustments excluded—is quite close in amount to (c) . (The two items are not identical, of course. For example, at See’s we annually make capitalized expenditures that exceed depreciation by $500,000 to $1 million, simply to hold our ground competitively.) Our conviction about this point is the reason we show our amortization and other purchase-price adjustment items separately in the table on page 8 and is also our reason for viewing the earnings of the individual businesses as reported there as much more closely approximating owner earnings than the GAAP figures.</p>
+<p>Questioning GAAP figures may seem impious to some. After all, what are we paying the accountants for if it is not to deliver us the “truth” about our business. But the accountants’ job is to record, not to evaluate. The evaluation job falls to investors and managers.</p>
+<p>Accounting numbers, of course, are the language of business and as such are of enormous help to anyone evaluating the worth of a business and tracking its progress. Charlie and I would be lost without these numbers: they invariably are the starting point for us in evaluating our own businesses and those of others. Managers and owners need to remember, however, that accounting is but an aid to business thinking, never a substitute for it.</p>
+<p>&nbsp;</p>
+<table class="letter-table" style="width:100%;border-collapse:collapse;margin:1.5em 0">
+<tr><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;"></th><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;"></th><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;">Company O</th><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;"></th><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;">Company N</th></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">(000s Omitted)</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">Assets</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">Cash and Cash Equivalents</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">$ 3,593</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">$ 3,593</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">Receivables, net</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">90,919</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">90,919</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">Inventories</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">77,489</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">114,764</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">Other</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">5,954</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">5,954</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">Total Current Assets</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">177,955</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">215,230</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">Property, Plant, and Equipment, net</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">80,967</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">148,960</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">Investments in and Advances to Unconsolidated Subsidiaries and Joint Ventures</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">93,589</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">93,589</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">Other Assets, including Goodwill</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">9,836</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">34,210</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">$362,347</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">$491,989</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">Liabilities</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">Notes Payable and Current Portion of Long-term Debt</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">$ 4,650</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">$ 4,650</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">Accounts Payable</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">39,003</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">39,003</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">Accrued Liabilities</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">84,939</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">84,939</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">Total Current Liabilities</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">128,592</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">128,592</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">Long-term Debt and Capitalized Leases</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">34,669</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">34,669</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">Deferred Income Taxes</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">17,052</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">4,075</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">Other Deferred Credits</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">9,657</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">9,657</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">Total Liabilities</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">189,970</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">176,993</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">Shareholders’ Equity</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">172,377</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">314,996</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">$362,347</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">$491,989</td></tr>
+</table>`,
 
     concepts: ['compounding', 'franchise', 'economic-moat', 'long-term-investing'],
     companies: ['berkshire-hathaway', 'coca-cola', 'geico'],
@@ -6143,7 +6599,254 @@ export const berkshireLetters: Letter[] = [
     date: '1988-03-00',
     summary:
       'Written after the October 1987 crash (22% in one day). Buffett explained that crashes are inevitable, unpredictable, and irrelevant to long-term investors. He made no major moves during the crash, having cash available but not deployed.',
-        fullText: `[[PLACEHOLDER]]`,
+        fullText: `<p><strong>To the Shareholders of Berkshire Hathaway Inc.:</strong></p>
+<p>Our gain in net worth during 1987 was $464 million, or 19.5%. Over the last 23 years (that is, since present management took over), our per-share book value has grown from $19.46 to $2,477.47, or at a rate of 23.1% compounded annually.</p>
+<p>What counts, of course, is the rate of gain in per-share business value, not book value. In many cases, a corporation’s book value and business value are almost totally unrelated. For example, just before they went bankrupt, LTV and Baldwin-United published yearend audits showing their book values to be $652 million and $397 million, respectively. Conversely, Belridge Oil was sold to Shell in 1979 for $3.6 billion although its book value was only $177 million.</p>
+<p>At Berkshire, however, the two valuations have tracked rather closely, with the growth rate in business value over the last decade moderately outpacing the growth rate in book value. This good news continued in 1987.</p>
+<p>Our premium of business value to book value has widened for two simple reasons: We own some remarkable businesses and they are run by even more remarkable managers.</p>
+<p>You have a right to question that second assertion. After all, CEOs seldom tell their shareholders that they have assembled a bunch of turkeys to run things. Their reluctance to do so makes for some strange annual reports. Oftentimes, in his shareholders’ letter, a CEO will go on for pages detailing corporate performance that is woefully inadequate. He will nonetheless end with a warm paragraph describing his managerial comrades as “our most precious asset.” Such comments sometimes make you wonder what the other assets can possibly be.</p>
+<p>At Berkshire, however, my appraisal of our operating managers is, if anything, understated. To understand why, first take a look at page 7, where we show the earnings (on an historical-cost accounting basis) of our seven largest non-financial units: Buffalo News, Fechheimer, Kirby, Nebraska Furniture Mart, Scott Fetzer Manufacturing Group, See’s Candies, and World Book. In 1987, these seven business units had combined operating earnings before interest and taxes of $180 million.</p>
+<p>By itself, this figure says nothing about economic performance. To evaluate that, we must know how much total capital—debt and equity—was needed to produce these earnings. Debt plays an insignificant role at our seven units: Their net interest expense in 1987 was only $2 million. Thus, pre-tax earnings on the equity capital employed by these businesses amounted to $178 million. And this equity—again on an historical-cost basis—was only $175 million.</p>
+<p>If these seven business units had operated as a single company, their 1987 after-tax earnings would have been approximately $100 million—a return of about 57% on equity capital. You’ll seldom see such a percentage anywhere, let alone at large, diversified companies with nominal leverage. Here’s a benchmark: In its 1988 Investor’s Guide issue, Fortune reported that among the 500 largest industrial companies and 500 largest service companies, only six had averaged a return on equity of over 30% during the previous decade. The best performer among the 1000 was Commerce Clearing House at 40.2%.</p>
+<p>Of course, the returns that Berkshire earns from these seven units are not as high as their underlying returns because, in aggregate, we bought the businesses at a substantial premium to underlying equity capital. Overall, these operations are carried on our books at about $222 million above the historical accounting values of the underlying assets. However, the managers of the units should be judged by the returns they achieve on the underlying assets; what we pay for a business does not affect the amount of capital its manager has to work with. (If, to become a shareholder and part owner of Commerce Clearing House, you pay, say, six times book value, that does not change CCH’s return on equity.)</p>
+<p>Three important inferences can be drawn from the figures I have cited. First, the current business value of these seven units is far above their historical book value and also far above the value at which they are carried on Berkshire’s balance sheet. Second, because so little capital is required to run these businesses, they can grow while concurrently making almost all of their earnings available for deployment in new opportunities. Third, these businesses are run by truly extraordinary managers. The Blumkins, the Heldmans, Chuck Huggins, Stan Lipsey, and Ralph Schey all meld unusual talent, energy and character to achieve exceptional financial results.</p>
+<p>For good reasons, we had very high expectations when we joined with these managers. In every case, however, our experience has greatly exceeded those expectations. We have received far more than we deserve, but we are willing to accept such inequities. (We subscribe to the view Jack Benny expressed upon receiving an acting award: “I don’t deserve this, but then, I have arthritis and I don’t deserve that either.”)</p>
+<p>Beyond the Sainted Seven, we have our other major unit, insurance, which I believe also has a business value well above the net assets employed in it. However, appraising the business value of a property-casualty insurance company is a decidedly imprecise process. The industry is volatile, reported earnings oftentimes are seriously inaccurate, and recent changes in the Tax Code will severely hurt future profitability. Despite these problems, we like the business and it will almost certainly remain our largest operation. Under Mike Goldberg’s management, the insurance business should treat us well over time.</p>
+<p>With managers like ours, my partner, Charlie Munger, and I have little to do with operations. in fact, it is probably fair to say that if we did more, less would be accomplished. We have no corporate meetings, no corporate budgets, and no performance reviews (though our managers, of course, oftentimes find such procedures useful at their operating units). After all, what can we tell the Blumkins about home furnishings, or the Heldmans about uniforms?</p>
+<p>Our major contribution to the operations of our subsidiaries is applause. But it is not the indiscriminate applause of a Pollyanna. Rather it is informed applause based upon the two long careers we have spent intensively observing business performance and managerial behavior. Charlie and I have seen so much of the ordinary in business that we can truly appreciate a virtuoso performance. Only one response to the 1987 performance of our operating managers is appropriate: sustained, deafening applause.</p>
+<p><strong>Sources of Reported Earnings</strong></p>
+<p>The table on the following page shows the major sources of Berkshire’s reported earnings. In the table, amortization of Goodwill and other major purchase-price accounting adjustments are not charged against the specific businesses to which they apply but, instead, are aggregated and shown separately. In effect, this procedure presents the earnings of our businesses as they would have been reported had we not purchased them. In appendixes to my letters in the 1983 and 1986 annual reports, I explained why this form of presentation seems to us to be more useful to investors and managers than the standard GAAP presentation, which makes purchase-price adjustments on a business-by business basis. The total net earnings we show in the table are, of course, identical to the GAAP figures in our audited financial statements.</p>
+<p>In the Business Segment Data on pages 36-38 and in the Management’s Discussion section on pages 40-44 you will find much additional information about our businesses. In these sections you will also find our segment earnings reported on a GAAP basis. I urge you to read that material, as well as Charlie Munger’s letter to Wesco shareholders, describing the various businesses of that subsidiary, which starts on page 45.</p>
+<p>Gypsy Rose Lee announced on one of her later birthdays: “I have everything I had last year; it’s just that it’s all two inches lower.” As the table shows, during 1987 almost all of our businesses aged in a more upbeat way.</p>
+<p>There’s not a lot new to report about these businesses—and that’s good, not bad. Severe change and exceptional returns usually don’t mix. Most investors, of course, behave as if just the opposite were true. That is, they usually confer the highest price-earnings ratios on exotic-sounding businesses that hold out the promise of feverish change. That prospect lets investors fantasize about future profitability rather than face today’s business realities. For such investor-dreamers, any blind date is preferable to one with the girl next door, no matter how desirable she may be.</p>
+<p>Experience, however, indicates that the best business returns are usually achieved by companies that are doing something quite similar today to what they were doing five or ten years ago. That is no argument for managerial complacency. Businesses always have opportunities to improve service, product lines, manufacturing techniques, and the like, and obviously these opportunities should be seized. But a business that constantly encounters major change also encounters many chances for major error. Furthermore, economic terrain that is forever shifting violently is ground on which it is difficult to build a fortress-like business franchise. Such a franchise is usually the key to sustained high returns.</p>
+<p>The Fortune study I mentioned earlier supports our view. Only 25 of the 1,000 companies met two tests of economic excellence—an average return on equity of over 20% in the ten years, 1977 through 1986, and no year worse than 15%. These business superstars were also stock market superstars: During the decade, 24 of the 25 outperformed the S&P 500.</p>
+<p>The Fortune champs may surprise you in two respects. First, most use very little leverage compared to their interest-paying capacity. Really good businesses usually don’t need to borrow. Second, except for one company that is “high-tech” and several others that manufacture ethical drugs, the companies are in businesses that, on balance, seem rather mundane. Most sell non-sexy products or services in much the same manner as they did ten years ago (though in larger quantities now, or at higher prices, or both). The record of these 25 companies confirms that making the most of an already strong business franchise, or concentrating on a single winning business theme, is what usually produces exceptional economics.</p>
+<p>Berkshire’s experience has been similar. Our managers have produced extraordinary results by doing rather ordinary things—but doing them exceptionally well. Our managers protect their franchises, they control costs, they search for new products and markets that build on their existing strengths and they don’t get diverted. They work exceptionally hard at the details of their businesses, and it shows.</p>
+<p>Here’s an update:</p>
+<p>&nbsp;</p>
+<p>Agatha Christie, whose husband was an archaeologist, said that was the perfect profession for one’s spouse: “The older you become, the more interested they are in you.” It is students of business management, not archaeologists, who should be interested in Mrs. B (Rose Blumkin), the 94-year-old chairman of Nebraska Furniture Mart.</p>
+<p>&nbsp;</p>
+<p>Fifty years ago Mrs. B started the business with $500, and today NFM is far and away the largest home furnishings store in the country. Mrs. B continues to work seven days a week at the job from the opening of each business day until the close. She buys, she sells, she manages—and she runs rings around the competition. It’s clear to me that she’s gathering speed and may well reach her full potential in another five or ten years. Therefore, I’ve persuaded the Board to scrap our mandatory retirement-at-100 policy. (And it’s about time: With every passing year, this policy has seemed sillier to me.)</p>
+<p>&nbsp;</p>
+<p>Net sales of NFM were $142.6 million in 1987, up 8% from 1986. There’s nothing like this store in the country, and there’s nothing like the family Mrs. B has produced to carry on: Her son Louie, and his three boys, Ron, Irv and Steve, possess the business instincts, integrity and drive of Mrs. B. They work as a team and, strong as each is individually, the whole is far greater than the sum of the parts.</p>
+<p>&nbsp;</p>
+<p>The superb job done by the Blumkins benefits us as owners, but even more dramatically benefits NFM’s customers. They saved about $30 million in 1987 by buying from NFM. In other words, the goods they bought would have cost that much more if purchased elsewhere.</p>
+<p>&nbsp;</p>
+<p>You’ll enjoy an anonymous letter I received last August: “Sorry to see Berkshire profits fall in the second quarter. One way you may gain back part of your lost. (sic) Check the pricing at The Furniture Mart. You will find that they are leaving 10% to 20% on the table. This additional profit on $140 million of sells (sic) is $28 million. Not small change in anyone’s pocket! Check out other furniture, carpet, appliance and T.V. dealers. Your raising prices to a reasonable profit will help. Thank you. /signed/ A Competitor.”</p>
+<p>&nbsp;</p>
+<p>NFM will continue to grow and prosper by following Mrs. B’s maxim: “Sell cheap and tell the truth.”</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Among dominant papers of its size or larger, the Buffalo News continues to be the national leader in two important ways: (1) its weekday and Sunday penetration rate (the percentage of households in the paper’s primary market area that purchase it); and (2) its “news-hole” percentage (the portion of the paper devoted to news).</p>
+<p>&nbsp;</p>
+<p>It may not be coincidence that one newspaper leads in both categories: an exceptionally “newsrich” product makes for broad audience appeal, which in turn leads to high penetration. Of course, quantity must be matched by quality. This not only means good reporting and good writing; it means freshness and relevance. To be indispensable, a paper must promptly tell its readers many things they want to know but won’t otherwise learn until much later, if ever.</p>
+<p>&nbsp;</p>
+<p>At the News, we put out seven fresh editions every 24 hours, each one extensively changed in content. Here’s a small example that may surprise you: We redo the obituary page in every edition of the News, or seven times a day. Any obituary added runs through the next six editions until the publishing cycle has been completed.</p>
+<p>&nbsp;</p>
+<p>It’s vital, of course, for a newspaper to cover national and international news well and in depth. But it is also vital for it to do what only a local newspaper can: promptly and extensively chronicle the personally-important, otherwise-unreported details of community life. Doing this job well requires a very broad range of news—and that means lots of space, intelligently used.</p>
+<p>&nbsp;</p>
+<p>Our news hole was about 50% in 1987, just as it has been year after year. If we were to cut it to a more typical 40%, we would save approximately $4 million annually in newsprint costs. That interests us not at all—and it won’t interest us even if, for one reason or another, our profit margins should significantly shrink.</p>
+<p>&nbsp;</p>
+<p>Charlie and I do not believe in flexible operating budgets, as in “Non-direct expenses can be X if revenues are Y, but must be reduced if revenues are Y—5%.” Should we really cut our news hole at the Buffalo News, or the quality of product and service at See’s, simply because profits are down during a given year or quarter? Or, conversely, should we add a staff economist, a corporate strategist, an institutional advertising campaign or something else that does Berkshire no good simply because the money currently is rolling in?</p>
+<p>&nbsp;</p>
+<p>That makes no sense to us. We neither understand the adding of unneeded people or activities because profits are booming, nor the cutting of essential people or activities because profitability is shrinking. That kind of yo-yo approach is neither business-like nor humane. Our goal is to do what makes sense for Berkshire’s customers and employees at all times, and never to add the unneeded. (“But what about the corporate jet?” you rudely ask. Well, occasionally a man must rise above principle.)</p>
+<p>&nbsp;</p>
+<p>Although the News’ revenues have grown only moderately since 1984, superb management by Stan Lipsey, its publisher, has produced excellent profit growth. For several years, I have incorrectly predicted that profit margins at the News would fall. This year I will not let you down: Margins will, without question, shrink in 1988 and profit may fall as well. Skyrocketing newsprint costs will be the major cause.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Fechheimer Bros. Company is another of our family businesses—and, like the Blumkins, what a family. Three generations of Heldmans have for decades consistently, built the sales and profits of this manufacturer and distributor of uniforms. In the year that Berkshire acquired its controlling interest in Fechheimer—1986—profits were a record. The Heldmans didn’t slow down after that. Last year earnings increased substantially and the outlook is good for 1988.</p>
+<p>&nbsp;</p>
+<p>There’s nothing magic about the Uniform business; the only magic is in the Heldmans. Bob, George, Gary, Roger and Fred know the business inside and out, and they have fun running it. We are fortunate to be in partnership with them.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Chuck Huggins continues to set new records at See’s, just as he has ever since we put him in charge on the day of our purchase some 16 years ago. In 1987, volume hit a new high at slightly Under 25 million pounds. For the second year in a row, moreover, same-store sales, measured in pounds, were virtually unchanged. In case you are wondering, that represents improvement: In each of the previous six years, same-store sales had fallen.</p>
+<p>&nbsp;</p>
+<p>Although we had a particularly strong 1986 Christmas season, we racked up better store-for-store comparisons in the 1987 Christmas season than at any other time of the year. Thus, the seasonal factor at See’s becomes even more extreme. In 1987, about 85% of our profit was earned during December.</p>
+<p>&nbsp;</p>
+<p>Candy stores are fun to visit, but most have not been fun for their owners. From what we can learn, practically no one besides See’s has made significant profits in recent years from the operation of candy shops. Clearly, Chuck’s record at See’s is not due to a rising industry tide. Rather, it is a one-of-a-kind performance.</p>
+<p>&nbsp;</p>
+<p>His achievement requires an excellent product—which we have—but it also requires genuine affection for the customer. Chuck is 100% customer-oriented, and his attitude sets the tone for the rest of the See’s organization.</p>
+<p>&nbsp;</p>
+<p>Here’s an example of Chuck in action: At See’s we regularly add new pieces of candy to our mix and also cull a few to keep our product line at about 100 varieties. Last spring we selected 14 items for elimination. Two, it turned out, were badly missed by our customers, who wasted no time in letting us know what they thought of our judgment: “A pox on all in See’s who participated in the abominable decision…;” “May your new truffles melt in transit, may they sour in people’s mouths, may your costs go up and your profits go down…;” “We are investigating the possibility of obtaining a mandatory injunction requiring you to supply…;” You get the picture. In all, we received many hundreds of letters.</p>
+<p>&nbsp;</p>
+<p>Chuck not only reintroduced the pieces, he turned this miscue into an opportunity. Each person who had written got a complete and honest explanation in return. Said Chuck’s letter: “Fortunately, when I make poor decisions, good things often happen as a result…;” And with the letter went a special gift certificate.</p>
+<p>&nbsp;</p>
+<p>See’s increased prices only slightly in the last two years. In 1988 we have raised prices somewhat more, though still moderately. To date, sales have been weak and it may be difficult for See’s to improve its earnings this year.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>World Book, Kirby, and the Scott Fetzer Manufacturing Group are all under the management of Ralph Schey. And what a lucky thing for us that they are. I told you last year that Scott Fetzer performance in 1986 had far exceeded the expectations that Charlie and I had at the time of our purchase. Results in 1987 were even better. Pre-tax earnings rose 10% while average capital employed declined significantly.</p>
+<p>&nbsp;</p>
+<p>Ralph’s mastery of the 19 businesses for which he is responsible is truly amazing, and he has also attracted some outstanding managers to run them. We would love to find a few additional units that could be put under Ralph’s wing.</p>
+<p>&nbsp;</p>
+<p>The businesses of Scott Fetzer are too numerous to describe in detail. Let’s just update you on one of our favorites: At the end of 1987, World Book introduced its most dramatically-revised edition since 1962. The number of color photos was increased from 14,000 to 24,000; over 6,000 articles were revised; 840 new contributors were added. Charlie and I recommend this product to you and your family, as we do World Book’s products for younger children, Childcraft and Early World of Learning.</p>
+<p>&nbsp;</p>
+<p>In 1987, World Book unit sales in the United States increased for the fifth consecutive year. International sales and profits also grew substantially. The outlook is good for Scott Fetzer operations in aggregate, and for World Book in particular.</p>
+<p>&nbsp;</p>
+<p><strong>Insurance Operations</strong></p>
+<p>Shown below is an updated version of our usual table presenting key figures for the insurance industry:</p>
+<p><em>Source: Best’s Insurance Management Reports</em></p>
+<p>The combined ratio represents total insurance costs (losses incurred plus expenses) compared to revenue from premiums: A ratio below 100 indicates an underwriting profit, and one above 100 indicates a loss. When the investment income that an insurer earns from holding on to policyholders’ funds (“the float”) is taken into account, a combined ratio in the 107-111 range typically produces an overall break-even result, exclusive of earnings on the funds provided by shareholders.</p>
+<p>The math of the insurance business, encapsulated by the table, is not very complicated. In years when the industry’s annual gain in revenues (premiums) pokes along at 4% or 5%, underwriting losses are sure to mount. That is not because auto accidents, fires, windstorms and the like are occurring more frequently, nor has it lately been the fault of general inflation. Today, social and judicial inflation are the major culprits; the cost of entering a courtroom has simply ballooned. Part of the jump in cost arises from skyrocketing verdicts, and part from the tendency of judges and juries to expand the coverage of insurance policies beyond that contemplated by the insurer when the policies were written. Seeing no let-up in either trend, we continue to believe that the industry’s revenues must grow at about 10% annually for it to just hold its own in terms of profitability, even though general inflation may be running at a considerably lower rate.</p>
+<p>The strong revenue gains of 1985-87 almost guaranteed the industry an excellent underwriting performance in 1987 and, indeed, it was a banner year. But the news soured as the quarters rolled by: Best’s estimates that year-over-year volume increases were 12.9%, 11.1%, 5.7%, and 5.6%. In 1988, the revenue gain is certain to be far below our 10% “equilibrium” figure. Clearly, the party is over.</p>
+<p>However, earnings will not immediately sink. A lag factor exists in this industry: Because most policies are written for a one-year term, higher or lower insurance prices do not have their full impact on earnings until many months after they go into effect. Thus, to resume our metaphor, when the party ends and the bar is closed, you are allowed to finish your drink. If results are not hurt by a major natural catastrophe, we predict a small climb for the industry’s combined ratio in 1988, followed by several years of larger increases.</p>
+<p>The insurance industry is cursed with a set of dismal economic characteristics that make for a poor long-term outlook: hundreds of competitors, ease of entry, and a product that cannot be differentiated in any meaningful way. In such a commodity-like business, only a very low-cost operator or someone operating in a protected, and usually small, niche can sustain high profitability levels.</p>
+<p>When shortages exist, however, even commodity businesses flourish. The insurance industry enjoyed that kind of climate for a while but it is now gone. One of the ironies of capitalism is that most managers in commodity industries abhor shortage conditions—even though those are the only circumstances permitting them good returns. Whenever shortages appear, the typical manager simply can’t wait to expand capacity and thereby plug the hole through which money is showering upon him. This is precisely what insurance managers did in 1985-87, confirming again Disraeli’s observation: “What we learn from history is that we do not learn from history.”</p>
+<p>At Berkshire, we work to escape the industry’s commodity economics in two ways. First, we differentiate our product by our financial strength, which exceeds that of all others in the industry. This strength, however, is limited in its usefulness. It means nothing in the personal insurance field: The buyer of an auto or homeowners policy is going to get his claim paid even if his insurer fails (as many have). It often means nothing in the commercial insurance arena: When times are good, many major corporate purchasers of insurance and their brokers pay scant attention to the insurer’s ability to perform under the more adverse conditions that may exist, say, five years later when a complicated claim is finally resolved. (Out of sight, out of mind—and, later on, maybe out-of-pocket.)</p>
+<p>Periodically, however, buyers remember Ben Franklin’s observation that it is hard for an empty sack to stand upright and recognize their need to buy promises only from insurers that have enduring financial strength. It is then that we have a major competitive advantage. When a buyer really focuses on whether a $10 million claim can be easily paid by his insurer five or ten years down the road, and when he takes into account the possibility that poor underwriting conditions may then coincide with depressed financial markets and defaults by reinsurer, he will find only a few companies he can trust. Among those, Berkshire will lead the pack.</p>
+<p>Our second method of differentiating ourselves is the total indifference to volume that we maintain. In 1989, we will be perfectly willing to write five times as much business as we write in 1988—or only one-fifth as much. We hope, of course, that conditions will allow us large volume. But we cannot control market prices. If they are unsatisfactory, we will simply do very little business. No other major insurer acts with equal restraint.</p>
+<p>Three conditions that prevail in insurance, but not in most businesses, allow us our flexibility. First, market share is not an important determinant of profitability: In this business, in contrast to the newspaper or grocery businesses, the economic rule is not survival of the fattest. Second, in many sectors of insurance, including most of those in which we operate, distribution channels are not proprietary and can be easily entered: Small volume this year does not preclude huge volume next year. Third, idle capacity—which in this industry largely means people—does not result in intolerable costs. In a way that industries such as printing or steel cannot, we can operate at quarter-speed much of the time and still enjoy long-term prosperity.</p>
+<p>We follow a price-based-on-exposure, not-on-competition policy because it makes sense for our shareholders. But we’re happy to report that it is also pro-social. This policy means that we are always available, given prices that we believe are adequate, to write huge volumes of almost any type of property-casualty insurance. Many other insurers follow an in-and-out approach. When they are “out”—because of mounting losses, capital inadequacy, or whatever—we are available. Of course, when others are panting to do business we are also available—but at such times we often find ourselves priced above the market. In effect, we supply insurance buyers and brokers with a large reservoir of standby capacity.</p>
+<p>One story from mid-1987 illustrates some consequences of our pricing policy: One of the largest family-owned insurance brokers in the country is headed by a fellow who has long been a shareholder of Berkshire. This man handles a number of large risks that are candidates for placement with our New York office. Naturally, he does the best he can for his clients. And, just as naturally, when the insurance market softened dramatically in 1987 he found prices at other insurers lower than we were willing to offer. His reaction was, first, to place all of his business elsewhere and, second, to buy more stock in Berkshire. Had we been really competitive, he said, we would have gotten his insurance business but he would not have bought our stock.</p>
+<p>Berkshire’s underwriting experience was excellent in 1987, in part because of the lag factor discussed earlier. Our combined ratio (on a statutory basis and excluding structured settlements and financial reinsurance) was 105. Although the ratio was somewhat less favorable than in 1986, when it was 103, our profitability improved materially in 1987 because we had the use of far more float. This trend will continue to run in our favor: Our ratio of float to premium volume will increase very significantly during the next few years. Thus, Berkshire’s insurance profits are quite likely to improve during 1988 and 1989, even though we expect our combined ratio to rise.</p>
+<p>Our insurance business has also made some important non-financial gains during the last few years. Mike Goldberg, its manager, has assembled a group of talented professionals to write larger risks and unusual coverages. His operation is now well equipped to handle the lines of business that will occasionally offer us major opportunities.</p>
+<p>Our loss reserve development, detailed on pages 41-42, looks better this year than it has previously. But we write lots of “long-tail” business—that is, policies generating claims that often take many years to resolve. Examples would be product liability, or directors and officers liability coverages. With a business mix like this, one year of reserve development tells you very little.</p>
+<p>You should be very suspicious of any earnings figures reported by insurers (including our own, as we have unfortunately proved to you in the past). The record of the last decade shows that a great many of our best-known insurers have reported earnings to shareholders that later proved to be wildly erroneous. In most cases, these errors were totally innocent: The unpredictability of our legal system makes it impossible for even the most conscientious insurer to come close to judging the eventual cost of long-tail claims.</p>
+<p>Nevertheless, auditors annually certify the numbers given them by management and in their opinions unqualifiedly state that these figures “present fairly” the financial position of their clients. The auditors use this reassuring language even though they know from long and painful experience that the numbers so certified are likely to differ dramatically from the true earnings of the period. Despite this history of error, investors understandably rely upon auditors’ opinions. After all, a declaration saying that “the statements present fairly” hardly sounds equivocal to the non-accountant.</p>
+<p>The wording in the auditor’s standard opinion letter is scheduled to change next year. The new language represents improvement, but falls far short of describing the limitations of a casualty-insurer audit. If it is to depict the true state of affairs, we believe the standard opinion letter to shareholders of a property-casualty company should read something like: “We have relied upon representations of management in respect to the liabilities shown for losses and loss adjustment expenses, the estimate of which, in turn, very materially affects the earnings and financial condition herein reported. We can express no opinion about the accuracy of these figures. Subject to that important reservation, in our opinion, etc.”</p>
+<p>If lawsuits develop in respect to wildly inaccurate financial statements (which they do), auditors will definitely say something of that sort in court anyway. Why should they not be forthright about their role and its limitations from the outset?</p>
+<p>We want to emphasize that we are not faulting auditors for their inability to accurately assess loss reserves (and therefore earnings). We fault them only for failing to publicly acknowledge that they can’t do this job.</p>
+<p>From all appearances, the innocent mistakes that are constantly made in reserving are accompanied by others that are deliberate. Various charlatans have enriched themselves at the expense of the investing public by exploiting, first, the inability of auditors to evaluate reserve figures and, second, the auditors’ willingness to confidently certify those figures as if they had the expertise to do so. We will continue to see such chicanery in the future. Where “earnings” can be created by the stroke of a pen, the dishonest will gather. For them, long-tail insurance is heaven. The audit wording we suggest would at least serve to put investors on guard against these predators.</p>
+<p>The taxes that insurance companies pay—which increased materially, though on a delayed basis, upon enactment of the Tax Reform Act of 1986—took a further turn for the worse at the end of 1987. We detailed the 1986 changes in last year’s report. We also commented on the irony of a statute that substantially increased 1987 reported earnings for insurers even as it materially reduced both their long-term earnings potential and their business value. At Berkshire, the temporarily-helpful “fresh start” adjustment inflated 1987 earnings by $8.2 million.</p>
+<p>In our opinion, the 1986 Act was the most important economic event affecting the insurance industry over the past decade. The 1987 Bill further reduced the intercorporate dividends-received credit from 80% to 70%, effective January 1, 1988, except for cases in which the taxpayer owns at least 20% of an investee.</p>
+<p>Investors who have owned stocks or bonds through corporate intermediaries other than qualified investment companies have always been disadvantaged in comparison to those owning the same securities directly. The penalty applying to indirect ownership was greatly increased by the 1986 Tax Bill and, to a lesser extent, by the 1987 Bill, particularly in instances where the intermediary is an insurance company. We have no way of offsetting this increased level of taxation. It simply means that a given set of pre-tax investment returns will now translate into much poorer after-tax results for our shareholders.</p>
+<p>All in all, we expect to do well in the insurance business, though our record is sure to be uneven. The immediate outlook is for substantially lower volume but reasonable earnings improvement. The decline in premium volume will accelerate after our quota-share agreement with Fireman’s Fund expires in 1989. At some point, likely to be at least a few years away, we may see some major opportunities, for which we are now much better prepared than we were in 1985.</p>
+<p><strong>Marketable Securities—Permanent Holdings</strong></p>
+<p>Whenever Charlie and I buy common stocks for Berkshire’s insurance companies (leaving aside arbitrage purchases, discussed later) we approach the transaction as if we were buying into a private business. We look at the economic prospects of the business, the people in charge of running it, and the price we must pay. We do not have in mind any time or price for sale. Indeed, we are willing to hold a stock indefinitely so long as we expect the business to increase in intrinsic value at a satisfactory rate. When investing, we view ourselves as business analysts—not as market analysts, not as macroeconomic analysts, and not even as security analysts.</p>
+<p>Our approach makes an active trading market useful, since it periodically presents us with mouth-watering opportunities. But by no means is it essential: a prolonged suspension of trading in the securities we hold would not bother us any more than does the lack of daily quotations on World Book or Fechheimer. Eventually, our economic fate will be determined by the economic fate of the business we own, whether our ownership is partial or total.</p>
+<p>Ben Graham, my friend and teacher, long ago described the mental attitude toward market fluctuations that I believe to be most conducive to investment success. He said that you should imagine market quotations as coming from a remarkably accommodating fellow named Mr. Market who is your partner in a private business. Without fail, Mr. Market appears daily and names a price at which he will either buy your interest or sell you his.</p>
+<p>Even though the business that the two of you own may have economic characteristics that are stable, Mr. Market’s quotations will be anything but. For, sad to say, the poor fellow has incurable emotional problems. At times he feels euphoric and can see only the favorable factors affecting the business. When in that mood, he names a very high buy-sell price because he fears that you will snap up his interest and rob him of imminent gains. At other times he is depressed and can see nothing but trouble ahead for both the business and the world. On these occasions he will name a very low price, since he is terrified that you will unload your interest on him.</p>
+<p>Mr. Market has another endearing characteristic: He doesn’t mind being ignored. If his quotation is uninteresting to you today, he will be back with a new one tomorrow. Transactions are strictly at your option. Under these conditions, the more manic-depressive his behavior, the better for you.</p>
+<p>But, like Cinderella at the ball, you must heed one warning or everything will turn into pumpkins and mice: Mr. Market is there to serve you, not to guide you. It is his pocketbook, not his wisdom, that you will find useful. If he shows up some day in a particularly foolish mood, you are free to either ignore him or to take advantage of him, but it will be disastrous if you fall under his influence. Indeed, if you aren’t certain that you understand and can value your business far better than Mr. Market, you don’t belong in the game. As they say in poker, “If you’ve been in the game 30 minutes and you don’t know who the patsy is, you’re the patsy.”</p>
+<p>Ben’s Mr. Market allegory may seem out-of-date in today’s investment world, in which most professionals and academicians talk of efficient markets, dynamic hedging and betas. Their interest in such matters is understandable, since techniques shrouded in mystery clearly have value to the purveyor of investment advice. After all, what witch doctor has ever achieved fame and fortune by simply advising “Take two aspirins”?</p>
+<p>The value of market esoterica to the consumer of investment advice is a different story. In my opinion, investment success will not be produced by arcane formulae, computer programs or signals flashed by the price behavior of stocks and markets. Rather an investor will succeed by coupling good business judgment with an ability to insulate his thoughts and behavior from the super-contagious emotions that swirl about the marketplace. In my own efforts to stay insulated, I have found it highly useful to keep Ben’s Mr. Market concept firmly in mind.</p>
+<p>Following Ben’s teachings, Charlie and I let our marketable equities tell us by their operating results—not by their daily, or even yearly, price quotations—whether our investments are successful. The market may ignore business success for a while, but eventually will confirm it. As Ben said: “In the short run, the market is a voting machine but in the long run it is a weighing machine.” The speed at which a business’s success is recognized, furthermore, is not that important as long as the company’s intrinsic value is increasing at a satisfactory rate. In fact, delayed recognition can be an advantage: It may give us the chance to buy more of a good thing at a bargain price.</p>
+<p>Sometimes, of course, the market may judge a business to be more valuable than the underlying facts would indicate it is. In such a case, we will sell our holdings. Sometimes, also, we will sell a security that is fairly valued or even undervalued because we require funds for a still more undervalued investment or one we believe we understand better.</p>
+<p>We need to emphasize, however, that we do not sell holdings just because they have appreciated or because we have held them for a long time. (Of Wall Street maxims the most foolish may be “You can’t go broke taking a profit.”) We are quite content to hold any security indefinitely, so long as the prospective return on equity capital of the underlying business is satisfactory, management is competent and honest, and the market does not overvalue the business.</p>
+<p>However, our insurance companies own three marketable common stocks that we would not sell even though they became far overpriced in the market. In effect, we view these investments exactly like our successful controlled businesses—a permanent part of Berkshire rather than merchandise to be disposed of once Mr. Market offers us a sufficiently high price. To that, I will add one qualifier: These stocks are held by our insurance companies and we would, if absolutely necessary, sell portions of our holdings to pay extraordinary insurance losses. We intend, however, to manage our affairs so that sales are never required.</p>
+<p>A determination to have and to hold, which Charlie and I share, obviously involves a mixture of personal and financial considerations. To some, our stand may seem highly eccentric. (Charlie and I have long followed David Oglivy’s advice: “Develop your eccentricities while you are young. That way, when you get old, people won’t think you’re going ga-ga.”) Certainly, in the transaction-fixated Wall Street of recent years, our posture must seem odd: To many in that arena, both companies and stocks are seen only as raw material for trades.</p>
+<p>Our attitude, however, fits our personalities and the way we want to live our lives. Churchill once said, “You shape your houses and then they shape you.” We know the manner in which we wish to be shaped. For that reason, we would rather achieve a return of X while associating with people whom we strongly like and admire than realize 110% of X by exchanging these relationships for uninteresting or unpleasant ones. And we will never find people we like and admire more than some of the main participants at the three companies—our permanent holdings—shown below:</p>
+<p>&nbsp;</p>
+<p>We really don’t see many fundamental differences between the purchase of a controlled business and the purchase of marketable holdings such as these. In each case we try to buy into businesses with favorable long-term economics. Our goal is to find an outstanding business at a sensible price, not a mediocre business at a bargain price. Charlie and I have found that making silk purses out of silk is the best that we can do; with sow’s ears, we fail.</p>
+<p>(It must be noted that your Chairman, always a quick study, required only 20 years to recognize how important it was to buy good businesses. In the interim, I searched for “bargains”—and had the misfortune to find some. My punishment was an education in the economics of short-line farm implement manufacturers, third-place department stores, and New England textile manufacturers.)</p>
+<p>Of course, Charlie and I may misread the fundamental economics of a business. When that happens, we will encounter problems whether that business is a wholly-owned subsidiary or a marketable security, although it is usually far easier to exit from the latter. (Indeed, businesses can be misread: Witness the European reporter who, after being sent to this country to profile Andrew Carnegie, cabled his editor, “My God, you’ll never believe the sort of money there is in running libraries.”)</p>
+<p>In making both control purchases and stock purchases, we try to buy not only good businesses, but ones run by high-grade, talented and likeable managers. If we make a mistake about the managers we link up with, the controlled company offers a certain advantage because we have the power to effect change. In practice, however, this advantage is somewhat illusory: Management changes, like marital changes, are painful, time-consuming and chancy. In any event, at our three marketable-but permanent holdings, this point is moot: With Tom Murphy and Dan Burke at Cap Cities, Bill Snyder and Lou Simpson at GEICO, and Kay Graham and Dick Simmons at The Washington Post, we simply couldn’t be in better hands.</p>
+<p>I would say that the controlled company offers two main advantages. First, when we control a company we get to allocate capital, whereas we are likely to have little or nothing to say about this process with marketable holdings. This point can be important because the heads of many companies are not skilled in capital allocation. Their inadequacy is not surprising. Most bosses rise to the top because they have excelled in an area such as marketing, production, engineering, administration or, sometimes, institutional politics.</p>
+<p>Once they become CEOs, they face new responsibilities. They now must make capital allocation decisions, a critical job that they may have never tackled and that is not easily mastered. To stretch the point, it’s as if the final step for a highly-talented musician was not to perform at Carnegie Hall but, instead, to be named Chairman of the Federal Reserve.</p>
+<p>The lack of skill that many CEOs have at capital allocation is no small matter: After ten years on the job, a CEO whose company annually retains earnings equal to 10% of net worth will have been responsible for the deployment of more than 60% of all the capital at work in the business.</p>
+<p>CEOs who recognize their lack of capital-allocation skills (which not all do) will often try to compensate by turning to their staffs, management consultants, or investment bankers. Charlie and I have frequently observed the consequences of such “help.” On balance, we feel it is more likely to accentuate the capital-allocation problem than to solve it.</p>
+<p>In the end, plenty of unintelligent capital allocation takes place in corporate America. (That’s why you hear so much about “restructuring.”) Berkshire, however, has been fortunate. At the companies that are our major non-controlled holdings, capital has generally been well-deployed and, in some cases, brilliantly so.</p>
+<p>The second advantage of a controlled company over a marketable security has to do with taxes. Berkshire, as a corporate holder, absorbs some significant tax costs through the ownership of partial positions that we do not when our ownership is 80%, or greater. Such tax disadvantages have long been with us, but changes in the tax code caused them to increase significantly during the past year. As a consequence, a given business result can now deliver Berkshire financial results that are as much as 50% better if they come from an 80%-or-greater holding rather than from a lesser holding.</p>
+<p>The disadvantages of owning marketable securities are sometimes offset by a huge advantage: Occasionally the stock market offers us the chance to buy non-controlling pieces of extraordinary businesses at truly ridiculous prices—dramatically below those commanded in negotiated transactions that transfer control. For example, we purchased our Washington Post stock in 1973 at $5.63 per share, and per-share operating earnings in 1987 after taxes were $10.30. Similarly, Our GEICO stock was purchased in 1976, 1979 and 1980 at an average of $6.67 per share, and after-tax operating earnings per share last year were $9.01. In cases such as these, Mr. Market has proven to be a mighty good friend.</p>
+<p>An interesting accounting irony overlays a comparison of the reported financial results of our controlled companies with those of the permanent minority holdings listed above. As you can see, those three stocks have a market value of over $2 billion. Yet they produced only $11 million in reported after-tax earnings for Berkshire in 1987.</p>
+<p>Accounting rules dictate that we take into income only the dividends these companies pay us—which are little more than nominal—rather than our share of their earnings, which in 1987 amounted to well over $100 million. On the other hand, accounting rules provide that the carrying value of these three holdings—owned, as they are, by insurance companies—must be recorded on our balance sheet at current market prices. The result: GAAP accounting lets us reflect in our net worth the up-to-date underlying values of the businesses we partially own, but does not let us reflect their underlying earnings in our income account.</p>
+<p>In the case of our controlled companies, just the opposite is true. Here, we show full earnings in our income account but never change asset values on our balance sheet, no matter how much the value of a business might have increased since we purchased it.</p>
+<p>Our mental approach to this accounting schizophrenia is to ignore GAAP figures and to focus solely on the future earning power of both our controlled and non-controlled businesses. Using this approach, we establish our own ideas of business value, keeping these independent from both the accounting values shown on our books for controlled companies and the values placed by a sometimes foolish market on our partially-owned companies. It is this business value that we hope to increase at a reasonable (or, preferably, unreasonable) rate in the years ahead.</p>
+<p><strong>Marketable Securities—Other</strong></p>
+<p>In addition to our three permanent common stock holdings, we hold large quantities of marketable securities in our insurance companies. In selecting these, we can choose among five major categories: (1) long-term common stock investments, (2) medium-term fixed-income securities, (3) long-term fixed income securities, (4) short-term cash equivalents, and (5) short-term arbitrage commitments.</p>
+<p>We have no particular bias when it comes to choosing from these categories. We just continuously search among them for the highest after-tax returns as measured by “mathematical expectation,” limiting ourselves always to investment alternatives we think we understand. Our criteria have nothing to do with maximizing immediately reportable earnings; our goal, rather, is to maximize eventual net worth.</p>
+<p>&nbsp;</p>
+<p>Let’s look first at common stocks. During 1987 the stock market was an area of much excitement but little net movement: The Dow advanced 2.3% for the year. You are aware, of course, of the roller coaster ride that produced this minor change. Mr. Market was on a manic rampage until October and then experienced a sudden, massive seizure.</p>
+<p>&nbsp;</p>
+<p>We have “professional” investors, those who manage many billions, to thank for most of this turmoil. Instead of focusing on what businesses will do in the years ahead, many prestigious money managers now focus on what they expect other money managers to do in the days ahead. For them, stocks are merely tokens in a game, like the thimble and flatiron in Monopoly.</p>
+<p>&nbsp;</p>
+<p>An extreme example of what their attitude leads to is “portfolio insurance,” a money-management strategy that many leading investment advisors embraced in 1986-1987. This strategy—which is simply an exotically-labeled version of the small speculator’s stop-loss order dictates that ever increasing portions of a stock portfolio, or their index-future equivalents, be sold as prices decline. The strategy says nothing else matters: A downtick of a given magnitude automatically produces a huge sell order. According to the Brady Report, $60 billion to $90 billion of equities were poised on this hair trigger in mid-October of 1987.</p>
+<p>&nbsp;</p>
+<p>If you’ve thought that investment advisors were hired to invest, you may be bewildered by this technique. After buying a farm, would a rational owner next order his real estate agent to start selling off pieces of it whenever a neighboring property was sold at a lower price? Or would you sell your house to whatever bidder was available at 9:31 on some morning merely because at 9:30 a similar house sold for less than it would have brought on the previous day?</p>
+<p>&nbsp;</p>
+<p>Moves like that, however, are what portfolio insurance tells a pension fund or university to make when it owns a portion of enterprises such as Ford or General Electric. The less these companies are being valued at, says this approach, the more vigorously they should be sold. As a “logical” corollary, the approach commands the institutions to repurchase these companies—I’m not making this up—once their prices have rebounded significantly. Considering that huge sums are controlled by managers following such Alice-in-Wonderland practices, is it any surprise that markets sometimes behave in aberrational fashion?</p>
+<p>&nbsp;</p>
+<p>Many commentators, however, have drawn an incorrect conclusion upon observing recent events: They are fond of saying that the small investor has no chance in a market now dominated by the erratic behavior of the big boys. This conclusion is dead wrong: Such markets are ideal for any investor—small or large—so long as he sticks to his investment knitting. Volatility caused by money managers who speculate irrationally with huge sums will offer the true investor more chances to make intelligent investment moves. He can be hurt by such volatility only if he is forced, by either financial or psychological pressures, to sell at untoward times.</p>
+<p>&nbsp;</p>
+<p>At Berkshire, we have found little to do in stocks during the past few years. During the break in October, a few stocks fell to prices that interested us, but we were unable to make meaningful purchases before they rebounded. At yearend 1987 we had no major common stock investments (that is, over $50 million) other than those we consider permanent or arbitrage holdings. However, Mr. Market will offer us opportunities—you can be sure of that—and, when he does, we will be willing and able to participate.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>In the meantime, our major parking place for money is medium-term tax-exempt bonds, whose limited virtues I explained in last year’s annual report. Though we both bought and sold some of these bonds in 1987, our position changed little overall, holding around $900 million. A large portion of our bonds are “grandfathered” under the Tax Reform Act of 1986, which means they are fully tax-exempt. Bonds currently purchased by insurance companies are not.</p>
+<p>&nbsp;</p>
+<p>As an alternative to short-term cash equivalents, our medium-term tax-exempts have—so far served us well. They have produced substantial extra income for us and are currently worth a bit above our cost. Regardless of their market price, we are ready to dispose of our bonds whenever something better comes along.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>We continue to have an aversion to long-term bonds (and may be making a serious mistake by not disliking medium-term bonds as well). Bonds are no better than the currency in which they are denominated, and nothing we have seen in the past year—or past decade—makes us enthusiastic about the long-term future of U.S. currency.</p>
+<p>&nbsp;</p>
+<p>Our enormous trade deficit is causing various forms of “claim checks”—U.S. government and corporate bonds, bank deposits, etc.—to pile up in the hands of foreigners at a distressing rate. By default, our government has adopted an approach to its finances patterned on that of Blanche DuBois, of A Streetcar Named Desire, who said, “I have always depended on the kindness of strangers.” In this case, of course, the “strangers” are relying on the integrity of our claim checks although the plunging dollar has already made that proposition expensive for them.</p>
+<p>&nbsp;</p>
+<p>The faith that foreigners are placing in us may be misfounded. When the claim checks outstanding grow sufficiently numerous and when the issuing party can unilaterally determine their purchasing power, the pressure on the issuer to dilute their value by inflating the currency becomes almost irresistible. For the debtor government, the weapon of inflation is the economic equivalent of the “H” bomb, and that is why very few countries have been allowed to swamp the world with debt denominated in their own currency. Our past, relatively good record for fiscal integrity has let us break this rule, but the generosity accorded us is likely to intensify, rather than relieve, the eventual pressure on us to inflate. If we do succumb to that pressure, it won’t be just the foreign holders of our claim checks who will suffer. It will be all of us as well.</p>
+<p>&nbsp;</p>
+<p>Of course, the U.S. may take steps to stem our trade deficit well before our position as a net debtor gets out of hand. (In that respect, the falling dollar will help, though unfortunately it will hurt in other ways.) Nevertheless, our government’s behavior in this test of its mettle is apt to be consistent with its Scarlett O’Hara approach generally: “I’ll think about it tomorrow.” And, almost inevitably, procrastination in facing up to fiscal problems will have inflationary consequences. Both the timing and the sweep of those consequences are unpredictable. But our inability to quantify or time the risk does not mean we should ignore it. While recognizing the possibility that we may be wrong and that present interest rates may adequately compensate for the inflationary risk, we retain a general fear of long-term bonds.</p>
+<p>&nbsp;</p>
+<p>We are, however, willing to invest a moderate portion of our funds in this category if we think we have a significant edge in a specific security. That willingness explains our holdings of the Washington Public Power Supply Systems #1, #2 and #3 issues, discussed in our 1984 report. We added to our WPPSS position during 1987. At yearend, we had holdings with an amortized cost of $240 million and a market value of $316 million, paying us tax-exempt income of $34 million annually.</p>
+<p>&nbsp;</p>
+<p>•         We continued to do well in arbitrage last year, though—or perhaps because—we operated on a very limited scale. We enter into only a few arbitrage commitments each year and restrict ourselves to large transactions that have been publicly announced. We do not participate in situations in which green-mailers are attempting to put a target company “in play.”</p>
+<p>&nbsp;</p>
+<p>We have practiced arbitrage on an opportunistic basis for decades and, to date, our results have been quite good. Though we’ve never made an exact calculation, I believe that overall we have averaged annual pre-tax returns of at least 25% from arbitrage. I’m quite sure we did better than that in 1987. But it should be emphasized that a really bad experience or two—such as many arbitrage operations suffered in late 1987—could change the figures dramatically.</p>
+<p>&nbsp;</p>
+<p>Our only $50 million-plus arbitrage position at yearend 1987 was 1,096,200 shares of Allegis, with a cost of $76 million and a market value of $78 million.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>We had two other large holdings at yearend that do not fit precisely into any of our five categories. One was various Texaco, Inc. bonds with short maturities, all purchased after Texaco went into bankruptcy. Were it not for the extraordinarily strong capital position of our insurance companies, it would be inappropriate for us to buy defaulted bonds. At prices prevailing after Texaco’s bankruptcy filing, however, we regarded these issues as by far the most attractive bond investment available to us.</p>
+<p>&nbsp;</p>
+<p>On a worst-case basis with respect to the Pennzoil litigation, we felt the bonds were likely to be worth about what we paid for them. Given a sensible settlement, which seemed likely, we expected the bonds to be worth considerably more. At yearend our Texaco bonds were carried on our books at $104 million and had a market value of $119 million.</p>
+<p>&nbsp;</p>
+<p>By far our largest—and most publicized—investment in 1987 was a $700 million purchase of Salomon Inc 9% preferred stock. This preferred is convertible after three years into Salomon common stock at $38 per share and, if not converted, will be redeemed ratably over five years beginning October 31, 1995. From most standpoints, this commitment fits into the medium-term fixed-income securities category. In addition, we have an interesting conversion possibility.</p>
+<p>&nbsp;</p>
+<p>We, of course, have no special insights regarding the direction or future profitability of investment banking. By their nature, the economics of this industry are far less predictable than those of most other industries in which we have major Commitments. This unpredictability is one of the reasons why our participation is in the form of a convertible preferred.</p>
+<p>&nbsp;</p>
+<p>What we do have a strong feeling about is the ability and integrity of John Gutfreund, CEO of Salomon Inc. Charlie and I like, admire and trust John. We first got to know him in 1976 when he played a key role in GEICO’s escape from near-bankruptcy. Several times since, we have seen John steer clients away from transactions that would have been unwise, but that the client clearly wanted to make—even though his advice provided no fee to Salomon and acquiescence would have delivered a large fee. Such service-above-self behavior is far from automatic in Wall Street.</p>
+<p>&nbsp;</p>
+<p>For the reasons Charlie outlines on page 50, at yearend we valued our Salomon investment at 98% of par, $14 million less than our cost. However, we believe there is a reasonable likelihood that a leading, high-quality capital-raising and market-making operation can average good returns on equity. If so, our conversion right will eventually prove to be valuable. Two further comments about our investments in marketable securities are appropriate. First, we give you our usual warning: Our holdings have changed since yearend and will continue to do so without notice.</p>
+<p>&nbsp;</p>
+<p>The second comment is related: During 1987, as in some earlier years, there was speculation in the press from time to time about our purchase or sale of various securities. These stories were sometimes true, sometimes partially true, and other times completely untrue. Interestingly, there has been no correlation between the size and prestige of the publication and the accuracy of the report. One dead-wrong rumor was given considerable prominence by a major national magazine, and another leading publication misled its readers by writing about an arbitrage position as if it were a long-term investment commitment. (In not naming names, I am observing the old warning that it’s not wise to pick fights with people who buy ink by the barrel.)</p>
+<p>&nbsp;</p>
+<p>You should understand that we simply don’t comment in any way on rumors, whether they are true or false. If we were to deny the incorrect reports and refuse comment on the correct ones, we would in effect be commenting on all.</p>
+<p>&nbsp;</p>
+<p>In a world in which big investment ideas are both limited and valuable, we have no interest in telling potential competitors what we are doing except to the extent required by law. We certainly don’t expect others to tell us of their investment ideas. Nor would we expect a media company to disclose news of acquisitions it was privately pursuing or a journalist to tell his competitors about stories on which he is working or sources he is using.</p>
+<p>&nbsp;</p>
+<p>I find it uncomfortable when friends or acquaintances mention that they are buying X because it has been reported—incorrectly—that Berkshire is a buyer. However, I do not set them straight. If they want to participate in whatever Berkshire actually is buying, they can always purchase Berkshire stock. But perhaps that is too simple. Usually, I suspect, they find it more exciting to buy what is being talked about. Whether that strategy is more profitable is another question.</p>
+<p>&nbsp;</p>
+<p><strong>Financing</strong></p>
+<p>Shortly after yearend, Berkshire sold two issues of debentures, totaling $250 million. Both issues mature in 2018 and will be retired at an even pace through sinking fund operations that begin in 1999. Our overall interest cost, after allowing for expenses of issuance, is slightly over 10%. Salomon was our investment banker, and its service was excellent.</p>
+<p>Despite our pessimistic views about inflation, our taste for debt is quite limited. To be sure, it is likely that Berkshire could improve its return on equity by moving to a much higher, though still conventional, debt-to-business-value ratio. It’s even more likely that we could handle such a ratio, without problems, under economic conditions far worse than any that have prevailed since the early 1930s.</p>
+<p>But we do not wish it to be only likely that we can meet our obligations; we wish that to be certain. Thus we adhere to policies—both in regard to debt and all other matters—that will allow us to achieve acceptable long-term results under extraordinarily adverse conditions, rather than optimal results under a normal range of conditions.</p>
+<p>Good business or investment decisions will eventually produce quite satisfactory economic results, with no aid from leverage. Therefore, it seems to us to be both foolish and improper to risk what is important (including, necessarily, the welfare of innocent bystanders such as policyholders and employees) for some extra returns that are relatively unimportant. This view is not the product of either our advancing age or prosperity: Our opinions about debt have remained constant.</p>
+<p>However, we are not phobic about borrowing. (We’re far from believing that there is no fate worse than debt.) We are willing to borrow an amount that we believe—on a worst-case basis—will pose no threat to Berkshire’s well-being. Analyzing what that amount might be, we can look to some important strengths that would serve us well if major problems should engulf our economy: Berkshire’s earnings come from many diverse and well-entrenched businesses; these businesses seldom require much capital investment; what debt we have is structured well; and we maintain major holdings of liquid assets. Clearly, we could be comfortable with a higher debt-to-business-value ratio than we now have.</p>
+<p>One further aspect of our debt policy deserves comment: Unlike many in the business world, we prefer to finance in anticipation of need rather than in reaction to it. A business obtains the best financial results possible by managing both sides of its balance sheet well. This means obtaining the highest-possible return on assets and the lowest-possible cost on liabilities. It would be convenient if opportunities for intelligent action on both fronts coincided. However, reason tells us that just the opposite is likely to be the case: Tight money conditions, which translate into high costs for liabilities, will create the best opportunities for acquisitions, and cheap money will cause assets to be bid to the sky. Our conclusion: Action on the liability side should sometimes be taken independent of any action on the asset side.</p>
+<p>Alas, what is “tight” and “cheap” money is far from clear at any particular time. We have no ability to forecast interest rates and—maintaining our usual open-minded spirit—believe that no one else can. Therefore, we simply borrow when conditions seem non-oppressive and hope that we will later find intelligent expansion or acquisition opportunities, which—as we have said—are most likely to pop up when conditions in the debt market are clearly oppressive. Our basic principle is that if you want to shoot rare, fast-moving elephants, you should always carry a loaded gun.</p>
+<p>Our fund-first, buy-or-expand-later policy almost always penalizes near-term earnings. For example, we are now earning about 6½% on the $250 million we recently raised at 10%, a disparity that is currently costing us about $160,000 per week. This negative spread is unimportant to us and will not cause us to stretch for either acquisitions or higher-yielding short-term instruments. If we find the right sort of business elephant within the next five years or so, the wait will have been worthwhile.</p>
+<p><strong>Miscellaneous</strong></p>
+<p>We hope to buy more businesses that are similar to the ones we have, and we can use some help. If you have a business that fits the following criteria, call me or, preferably, write.</p>
+<p>Here’s what we’re looking for:</p>
+<p>large purchases (at least $10 million of after-tax earnings),</p>
+<p>demonstrated consistent earning power (future projections are of little interest to us, nor are “turnaround” situations),</p>
+<p>businesses earning good returns on equity while employing little or no debt,</p>
+<p>management in place (we can’t supply it),</p>
+<p>simple businesses (if there’s lots of technology, we won’t understand it),</p>
+<p>an offering price (we don’t want to waste our time or that of the seller by talking, even preliminarily, about a transaction when price is unknown).</p>
+<p>We will not engage in unfriendly takeovers. We can promise complete confidentiality and a very fast answer—customarily within five minutes—as to whether we’re interested. We prefer to buy for cash, but will consider issuing stock when we receive as much in intrinsic business value as we give. We invite potential sellers to check us out by contacting people with whom we have done business in the past. For the right business—and the right people—we can provide a good home.</p>
+<p>On the other hand, we frequently get approached about acquisitions that don’t come close to meeting our tests: new ventures, turnarounds, auction-like sales, and the ever-popular (among brokers) “I’m-sure-something-will-work-out-if-you-people-get-to-know-each-other.” None of these attracts us in the least.</p>
+<p>Besides being interested in the purchases of entire businesses as described above, we are also interested in the negotiated purchase of large, but not controlling, blocks of stock comparable to those we hold in Cap Cities and Salomon. We have a special interest in purchasing convertible preferreds as a long-term investment, as we did at Salomon.</p>
+<p>* * *</p>
+<p>And now a bit of deja vu. Most of Berkshire’s major stockholders received their shares at yearend 1969 in a liquidating distribution from Buffett Partnership, Ltd. Some of these former partners will remember that in 1962 I encountered severe managerial problems at Dempster Mill Manufacturing Co., a pump and farm implement manufacturing company that BPL controlled.</p>
+<p>At that time, like now, I went to Charlie with problems that were too tough for me to solve. Charlie suggested the solution might lie in a California friend of his, Harry Bottle, whose special knack was never forgetting the fundamental. I met Harry in Los Angeles on April 17, 1962, and on April 23 he was in Beatrice, Nebraska, running Dempster. Our problems disappeared almost immediately. In my 1962 annual letter to partners, I named Harry “Man of the Year.”</p>
+<p>Fade to 24 years later: The scene is K & W Products, a small Berkshire subsidiary that produces automotive compounds. For years K & W did well, but in 1985-86 it stumbled badly, as it pursued the unattainable to the neglect of the achievable. Charlie, who oversees K & W, knew there was no need to consult me. Instead, he called Harry, now 68 years old, made him CEO, and sat back to await the inevitable. He didn’t wait long. In 1987 K & W’s profits set a record, up more than 300% from 1986. And, as profits went up, capital employed went down: K & W’s investment in accounts receivable and inventories has decreased 20%.</p>
+<p>If we run into another managerial problem ten or twenty years down the road, you know whose phone will ring.</p>
+<p>* * *</p>
+<p>About 97.2% of all eligible shares participated in Berkshire’s 1987 shareholder-designated contributions program. Contributions made through the program were $4.9 million, and 2,050 charities were recipients.</p>
+<p>A recent survey reported that about 50% of major American companies match charitable contributions made by directors (sometimes by a factor of three to one). In effect, these representatives of the owners direct funds to their favorite charities, and never consult the owners as to their charitable preferences. (I wonder how they would feel if the process were reversed and shareholders could invade the directors’ pockets for charities favored by the shareholders.) When A takes money from B to give to C and A is a legislator, the process is called taxation. But when A is an officer or director of a corporation, it is called philanthropy. We continue to believe that contributions, aside from those with quite clear direct benefits to the company, should reflect the charitable preferences of owners rather than those of officers and directors.</p>
+<p>We urge new shareholders to read the description of our shareholder-designated contributions program that appears on pages 54 and 55. If you wish to participate in future programs, we strongly urge that you immediately make sure your shares are registered in the name of the actual owner, not in “street” name or nominee name. Shares not so registered on September 30, l988 will be ineligible for the 1988 program.</p>
+<p>* * *</p>
+<p>Last year we again had about 450 shareholders at our annual meeting. The 60 or so questions they asked were, as always, excellent. At many companies, the annual meeting is a waste of time because exhibitionists turn it into a sideshow. Ours, however, is different. It is informative for shareholders and fun for us. (At Berkshire’s meetings, the exhibitionists are on the dais.)</p>
+<p>This year our meeting will be on May 23, 1988 in Omaha, and we hope that you come. The meeting provides the forum for you to ask any owner-related questions you may have, and we will keep answering until all (except those dealing with portfolio activities or other proprietary information) have been dealt with.</p>
+<p>Last year we rented two buses—for $100—to take shareholders interested in the trip to the Furniture Mart. Your actions demonstrated your good judgment: You snapped up about $40,000 of bargains. Mrs. B regards this expense/sales ratio as on the high side and attributes it to my chronic inattention to costs and generally sloppy managerial practices. But, gracious as always, she has offered me another chance and we will again have buses available following the meeting. Mrs. B says you must beat last year’s sales figures, and I have told her she won’t be disappointed.</p>
+<p>Warren E. BuffettChairman of the Board</p>
+<p>February 29, 1988</p>
+<p>&nbsp;</p>
+<table class="letter-table" style="width:100%;border-collapse:collapse;margin:1.5em 0">
+<tr><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;">No. of Shares</th><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;"></th><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;"></th><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;">Cost</th><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;"></th><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;">Market</th></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">(000s omitted)</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">3,000,000</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">Capital Cities/ABC, Inc.</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">$517,500</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">$1,035,000</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">6,850,000</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">GEICO Corporation</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">45,713</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">756,925</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">1,727,765</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">The Washington Post Company</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">9,731</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">323,092</td></tr>
+</table>`,
 
     concepts: [
       'compounding',
@@ -6172,7 +6875,245 @@ export const berkshireLetters: Letter[] = [
     date: '1989-03-00',
     summary:
       'Buffett disclosed the massive Coca-Cola investment (cost $592.5 million, about 6.3% of Berkshire\'s net worth - at the time the largest single investment of Buffett\'s career) and explained the thinking behind buying wonderful businesses at fair prices.',
-        fullText: `[[PLACEHOLDER]]`,
+        fullText: `<p><strong>To the Shareholders of Berkshire Hathaway Inc.:</strong></p>
+<p>Our gain in net worth during 1988 was $569 million, or 20.0%. Over the last 24 years (that is, since present management took over), our per-share book value has grown from $19.46 to $2,974.52, or at a rate of 23.0% compounded annually.</p>
+<p>We’ve emphasized in past reports that what counts, however, is intrinsic business value—the figure, necessarily an estimate, indicating what all of our constituent businesses are worth. By our calculations, Berkshire’s intrinsic business value significantly exceeds its book value. Over the 24 years, business value has grown somewhat faster than book value; in 1988, however, book value grew the faster, by a bit.</p>
+<p>Berkshire’s past rates of gain in both book value and business value were achieved under circumstances far different from those that now exist. Anyone ignoring these differences makes the same mistake that a baseball manager would were he to judge the future prospects of a 42-year-old center fielder on the basis of his lifetime batting average.</p>
+<p>Important negatives affecting our prospects today are: (1) a less attractive stock market than generally existed over the past 24 years; (2) higher corporate tax rates on most forms of investment income; (3) a far more richly-priced market for the acquisition of businesses; and (4) industry conditions for Capital Cities/ABC, Inc., GEICO Corporation, and The Washington Post Company—Berkshire’s three permanent investments, constituting about one-half of our net worth—that range from slightly to materially less favorable than those existing five to ten years ago. All of these companies have superb management and strong properties. But, at current prices, their upside potential looks considerably less exciting to us today than it did some years ago.</p>
+<p>The major problem we face, however, is a growing capital base. You’ve heard that from us before, but this problem, like age, grows in significance each year. (And also, just as with age, it’s better to have this problem continue to grow rather than to have it “solved.”)</p>
+<p>Four years ago I told you that we needed profits of $3.9 billion to achieve a 15% annual return over the decade then ahead. Today, for the next decade, a 15% return demands profits of $10.3 billion. That seems like a very big number to me and to Charlie Munger, Berkshire’s Vice Chairman and my partner. (Should that number indeed prove too big, Charlie will find himself, in future reports, retrospectively identified as the senior partner.)</p>
+<p>As a partial offset to the drag that our growing capital base exerts upon returns, we have a very important advantage now that we lacked 24 years ago. Then, all our capital was tied up in a textile business with inescapably poor economic characteristics. Today part of our capital is invested in some really exceptional businesses.</p>
+<p>Last year we dubbed these operations the Sainted Seven: Buffalo News, Fechheimer, Kirby, Nebraska Furniture Mart, Scott Fetzer Manufacturing Group, See’s, and World Book. In 1988 the Saints came marching in. You can see just how extraordinary their returns on capital were by examining the historical-cost financial statements on page 45, which combine the figures of the Sainted Seven with those of several smaller units. With no benefit from financial leverage, this group earned about 67% on average equity capital.</p>
+<p>In most cases the remarkable performance of these units arises partially from an exceptional business franchise; in all cases an exceptional management is a vital factor. The contribution Charlie and I make is to leave these managers alone.</p>
+<p>In my judgment, these businesses, in aggregate, will continue to produce superb returns. We’ll need these: Without this help Berkshire would not have a chance of achieving our 15% goal. You can be sure that our operating managers will deliver; the question mark in our future is whether Charlie and I can effectively employ the funds that they generate.</p>
+<p>In that respect, we took a step in the right direction early in 1989 when we purchased an 80% interest in Borsheim’s, a jewelry business in Omaha. This purchase, described later in this letter, delivers exactly what we look for: an outstanding business run by people we like, admire, and trust. It’s a great way to start the year.</p>
+<p><strong>Accounting Changes</strong></p>
+<p>We have made a significant accounting change that was mandated for 1988, and likely will have another to make in 1990. When we move figures around from year to year, without any change in economic reality, one of our always-thrilling discussions of accounting is necessary.</p>
+<p>First, I’ll offer my customary disclaimer: Despite the shortcomings of generally accepted accounting principles (GAAP), I would hate to have the job of devising a better set of rules. The limitations of the existing set, however, need not be inhibiting: CEOs are free to treat GAAP statements as a beginning rather than an end to their obligation to inform owners and creditors—and indeed they should. After all, any manager of a subsidiary company would find himself in hot water if he reported barebones GAAP numbers that omitted key information needed by his boss, the parent corporation’s CEO. Why, then, should the CEO himself withhold information vitally useful to his bosses—the shareholder-owners of the corporation?</p>
+<p>What needs to be reported is data—whether GAAP, non-GAAP, or extra-GAAP—that helps financially-literate readers answer three key questions: (1) Approximately how much is this company worth? (2) What is the likelihood that it can meet its future obligations? and (3) How good a job are its managers doing, given the hand they have been dealt?</p>
+<p>In most cases, answers to one or more of these questions are somewhere between difficult and impossible to glean from the minimum GAAP presentation. The business world is simply too complex for a single set of rules to effectively describe economic reality for all enterprises, particularly those operating in a wide variety of businesses, such as Berkshire.</p>
+<p>Further complicating the problem is the fact that many managements view GAAP not as a standard to be met, but as an obstacle to overcome. Too often their accountants willingly assist them. (“How much,” says the client, “is two plus two?” Replies the cooperative accountant, “What number did you have in mind?”) Even honest and well-intentioned managements sometimes stretch GAAP a bit in order to present figures they think will more appropriately describe their performance. Both the smoothing of earnings and the “big bath” quarter are “white lie” techniques employed by otherwise upright managements.</p>
+<p>Then there are managers who actively use GAAP to deceive and defraud. They know that many investors and creditors accept GAAP results as gospel. So these charlatans interpret the rules “imaginatively” and record business transactions in ways that technically comply with GAAP but actually display an economic illusion to the world.</p>
+<p>As long as investors—including supposedly sophisticated institutions—place fancy valuations on reported “earnings” that march steadily upward, you can be sure that some managers and promoters will exploit GAAP to produce such numbers, no matter what the truth may be. Over the years, Charlie and I have observed many accounting-based frauds of staggering size. Few of the perpetrators have been punished; many have not even been censured. It has been far safer to steal large sums with a pen than small sums with a gun.</p>
+<p>Under one major change mandated by GAAP for 1988, we have been required to fully consolidate all our subsidiaries in our balance sheet and earnings statement. In the past, Mutual Savings and Loan, and Scott Fetzer Financial (a credit company that primarily finances installment sales of World Book and Kirby products) were consolidated on a “one-line” basis. That meant we (1) showed our equity in their combined net worths as a single-entry asset on Berkshire’s consolidated balance sheet and (2) included our equity in their combined annual earnings as a single-line income entry in our consolidated statement of earnings. Now the rules require that we consolidate each asset and liability of these companies in our balance sheet and each item of their income and expense in our earnings statement.</p>
+<p>This change underscores the need for companies also to report segmented data: The greater the number of economically diverse business operations lumped together in conventional financial statements, the less useful those presentations are and the less able investors are to answer the three questions posed earlier. Indeed, the only reason we ever prepare consolidated figures at Berkshire is to meet outside requirements. On the other hand, Charlie and I constantly study our segment data.</p>
+<p>Now that we are required to bundle more numbers in our GAAP statements, we have decided to publish additional supplementary information that we think will help you measure both business value and managerial performance. (Berkshire’s ability to discharge its obligations to creditors—the third question we listed—should be obvious, whatever statements you examine.) In these supplementary presentations, we will not necessarily follow GAAP procedures, or even corporate structure. Rather, we will attempt to lump major business activities in ways that aid analysis but do not swamp you with detail. Our goal is to give you important information in a form that we would wish to get it if our roles were reversed.</p>
+<p>On pages 41-47 we show separate combined balance sheets and earnings statements for: (1) our subsidiaries engaged in finance-type operations, which are Mutual Savings and Scott Fetzer Financial; (2) our insurance operations, with their major investment positions itemized; (3) our manufacturing, publishing and retailing businesses, leaving aside certain non-operating assets and purchase-price accounting adjustments; and (4) an all-other category that includes the non-operating assets (primarily marketable securities) held by the companies in (3) as well as various assets and debts of the Wesco and Berkshire parent companies.</p>
+<p>If you combine the earnings and the net worths of these four segments, you will derive totals matching those shown on our GAAP statements. However, we want to emphasize that our new presentation does not fall within the purview of our auditors, who in no way bless it. (In fact, they may be horrified; I don’t want to ask.)</p>
+<p>I referred earlier to a major change in GAAP that is expected in 1990. This change relates to the calculation of deferred taxes, and is both complicated and controversial—so much so that its imposition, originally scheduled for 1989, was postponed for a year.</p>
+<p>When implemented, the new rule will affect us in various ways. Most important, we will be required to change the way we calculate our liability for deferred taxes on the unrealized appreciation of stocks held by our insurance companies.</p>
+<p>Right now, our liability is layered. For the unrealized appreciation that dates back to 1986 and earlier years, $1.2 billion, we have booked a 28% tax liability. For the unrealized appreciation built up since, $600 million, the tax liability has been booked at 34%. The difference reflects the increase in tax rates that went into effect in 1987.</p>
+<p>It now appears, however, that the new accounting rule will require us to establish the entire liability at 34% in 1990, taking the charge against our earnings. Assuming no change in tax rates by 1990, this step will reduce our earnings in that year (and thereby our reported net worth) by $71 million. The proposed rule will also affect other items on our balance sheet, but these changes will have only a minor impact on earnings and net worth.</p>
+<p>We have no strong views about the desirability of this change in calculation of deferred taxes. We should point out, however, that neither a 28% nor a 34% tax liability precisely depicts economic reality at Berkshire since we have no plans to sell the stocks in which we have the great bulk of our gains.</p>
+<p>To those of you who are uninterested in accounting, I apologize for this dissertation. I realize that many of you do not pore over our figures, but instead hold Berkshire primarily because you know that: (1) Charlie and I have the bulk of our money in Berkshire; (2) we intend to run things so that your gains or losses are in direct proportion to ours; and (3) the record has so far been satisfactory. There is nothing necessarily wrong with this kind of “faith” approach to investing. Other shareholders, however, prefer an “analysis” approach and we want to supply the information they need. In our own investing, we search for situations in which both approaches give us the same answer.</p>
+<p><strong>Sources of Reported Earnings</strong></p>
+<p>In addition to supplying you with our new four-sector accounting material, we will continue to list the major sources of Berkshire’s reported earnings just as we have in the past.</p>
+<p>In the following table, amortization of Goodwill and other major purchase-price accounting adjustments are not charged against the specific businesses to which they apply but are instead aggregated and shown separately. This procedure lets you view the earnings of our businesses as they would have been reported had we not purchased them. I’ve explained in past reports why this form of presentation seems to us to be more useful to investors and managers than the standard GAAP presentation, which makes purchase-price adjustments on a business-by-business basis. The total net earnings we show in the table are, of course, identical to the GAAP total in our audited financial statements.</p>
+<p>Further information about these businesses is given in the Business Segment section on pages 32-34, and in the Management’s Discussion section on pages 36-40. In these sections you also will find our segment earnings reported on a GAAP basis. For information on Wesco’s businesses, I urge you to read Charlie Munger’s letter, which starts on page 52. It contains the best description I have seen of the events that produced the present savings-and-loan crisis. Also, take special note of Dave Hillstrom’s performance at Precision Steel Warehouse, a Wesco subsidiary. Precision operates in an extremely competitive industry, yet Dave consistently achieves good returns on invested capital. Though data is lacking to prove the point, I think it is likely that his performance, both in 1988 and years past, would rank him number one among his peers.</p>
+<p>* Excludes interest expense of Scott Fetzer Financial Group.</p>
+<p>The earnings achieved by our operating businesses are superb, whether measured on an absolute basis or against those of their competitors. For that we thank our operating managers: You and I are fortunate to be associated with them.</p>
+<p>At Berkshire, associations like these last a long time. We do not remove superstars from our lineup merely because they have attained a specified age—whether the traditional 65, or the 95 reached by Mrs. B on the eve of Hanukkah in 1988. Superb managers are too scarce a resource to be discarded simply because a cake gets crowded with candles. Moreover, our experience with newly-minted MBAs has not been that great. Their academic records always look terrific and the candidates always know just what to say; but too often they are short on personal commitment to the company and general business savvy. It’s difficult to teach a new dog old tricks.</p>
+<p>Here’s an update on our major non-insurance operations:</p>
+<p>&nbsp;</p>
+<p>At Nebraska Furniture Mart, Mrs. B (Rose Blumkin) and her cart roll on and on. She’s been the boss for 51 years, having started the business at 44 with $500. (Think what she would have done with $1,000!) With Mrs. B, old age will always be ten years away.</p>
+<p>&nbsp;</p>
+<p>The Mart, long the largest home furnishings store in the country, continues to grow. In the fall, the store opened a detached 20,000 square foot Clearance Center, which expands our ability to offer bargains in all price ranges.</p>
+<p>&nbsp;</p>
+<p>Recently Dillard’s, one of the most successful department store operations in the country, entered the Omaha market. In many of its stores, Dillard’s runs a full furniture department, undoubtedly doing well in this line. Shortly before opening in Omaha, however, William Dillard, chairman of the company, announced that his new store would not sell furniture. Said he, referring to NFM: “We don’t want to compete with them. We think they are about the best there is.”</p>
+<p>&nbsp;</p>
+<p>At the Buffalo News we extol the value of advertising, and our policies at NFM prove that we practice what we preach. Over the past three years NFM has been the largest ROP advertiser in the Omaha World-Herald. (ROP advertising is the kind printed in the paper, as contrasted to the preprinted-insert kind.) In no other major market, to my knowledge, is a home furnishings operation the leading customer of the newspaper. At times, we also run large ads in papers as far away as Des Moines, Sioux City and Kansas City—always with good results. It truly does pay to advertise, as long as you have something worthwhile to offer.</p>
+<p>&nbsp;</p>
+<p>Mrs. B’s son, Louie, and his boys, Ron and Irv, complete the winning Blumkin team. It’s a joy to work with this family. All its members have character that matches their extraordinary abilities.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Last year I stated unequivocally that pre-tax margins at The Buffalo News would fall in 1988. That forecast would have proved correct at almost any other newspaper our size or larger. But Stan Lipsey—bless him—has managed to make me look foolish.</p>
+<p>&nbsp;</p>
+<p>Though we increased our prices a bit less than the industry average last year, and though our newsprint costs and wage rates rose in line with industry norms, Stan actually improved margins a tad. No one in the newspaper business has a better managerial record. He has achieved it, furthermore, while running a paper that gives readers an extraordinary amount of news. We believe that our “newshole” percentage—the portion of the paper devoted to news—is bigger than that of any other dominant paper of our size or larger. The percentage was 49.5% in 1988 versus 49.8% in 1987. We are committed to keeping it around 50%, whatever the level or trend of profit margins.</p>
+<p>&nbsp;</p>
+<p>Charlie and I have loved the newspaper business since we were youngsters, and we have had great fun with the News in the 12 years since we purchased it. We were fortunate to find Murray Light, a top-flight editor, on the scene when we arrived and he has made us proud of the paper ever since.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>See’s Candies sold a record 25.1 million pounds in 1988. Prospects did not look good at the end of October, but excellent Christmas volume, considerably better than the record set in 1987, turned the tide.</p>
+<p>&nbsp;</p>
+<p>As we’ve told you before, See’s business continues to become more Christmas-concentrated. In 1988, the Company earned a record 90% of its full-year profits in December: $29 million out of $32.5 million before tax. (It’s enough to make you believe in Santa Claus.) December’s deluge of business produces a modest seasonal bulge in Berkshire’s corporate earnings. Another small bulge occurs in the first quarter, when most World Book annuals are sold.</p>
+<p>&nbsp;</p>
+<p>Charlie and I put Chuck Huggins in charge of See’s about five minutes after we bought the company. Upon reviewing his record, you may wonder what took us so long.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>At Fechheimer, the Heldmans—Bob, George, Gary, Roger and Fred—are the Cincinnati counterparts of the Blumkins. Neither furniture retailing nor uniform manufacturing has inherently attractive economics. In these businesses, only exceptional managements can deliver high returns on invested capital. And that’s exactly what the five Heldmans do. (As Mets announcer Ralph Kiner once said when comparing pitcher Steve Trout to his father, Dizzy Trout, the famous Detroit Tigers pitcher: “There’s a lot of heredity in that family.”)</p>
+<p>&nbsp;</p>
+<p>Fechheimer made a fairly good-sized acquisition in 1988. Charlie and I have such confidence in the business savvy of the Heldman family that we okayed the deal without even looking at it. There are very few managements anywhere—including those running the top tier companies of the Fortune 500—in which we would exhibit similar confidence.</p>
+<p>&nbsp;</p>
+<p>Because of both this acquisition and some internal growth, sales at Fechheimer should be up significantly in 1989.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>All of the operations managed by Ralph Schey—World Book, Kirby, and The Scott Fetzer Manufacturing Group—performed splendidly in 1988. Returns on the capital entrusted to Ralph continue to be exceptional.</p>
+<p>&nbsp;</p>
+<p>Within the Scott Fetzer Manufacturing Group, particularly fine progress was recorded at its largest unit, Campbell Hausfeld. This company, the country’s leading producer of small and medium-sized air compressors, has more than doubled earnings since 1986.</p>
+<p>&nbsp;</p>
+<p>Unit sales at both Kirby and World Book were up significantly in 1988, with export business particularly strong. World Book became available in the Soviet Union in September, when that country’s largest American book store opened in Moscow. Ours is the only general encyclopedia offered at the store.</p>
+<p>&nbsp;</p>
+<p>Ralph’s personal productivity is amazing: In addition to running 19 businesses in superb fashion, he is active at The Cleveland Clinic, Ohio University, Case Western Reserve, and a venture capital operation that has spawned sixteen Ohio-based companies and resurrected many others. Both Ohio and Berkshire are fortunate to have Ralph on their side.</p>
+<p>&nbsp;</p>
+<p><strong>Borsheim’s</strong></p>
+<p>It was in 1983 that Berkshire purchased an 80% interest in The Nebraska Furniture Mart. Your Chairman blundered then by neglecting to ask Mrs. B a question any schoolboy would have thought of: “Are there any more at home like you?” Last month I corrected the error: We are now 80% partners with another branch of the family.</p>
+<p>After Mrs. B came over from Russia in 1917, her parents and five siblings followed. (Her two other siblings had preceded her.) Among the sisters was Rebecca Friedman who, with her husband, Louis, escaped in 1922 to the west through Latvia in a journey as perilous as Mrs. B’s earlier odyssey to the east through Manchuria. When the family members reunited in Omaha they had no tangible assets. However, they came equipped with an extraordinary combination of brains, integrity, and enthusiasm for work—and that’s all they needed. They have since proved themselves invincible.</p>
+<p>In 1948 Mr. Friedman purchased Borsheim’s, a small Omaha jewelry store. He was joined in the business by his son, Ike, in 1950 and, as the years went by, Ike’s son, Alan, and his sons-in-law, Marvin Cohn and Donald Yale, came in also.</p>
+<p>You won’t be surprised to learn that this family brings to the jewelry business precisely the same approach that the Blumkins bring to the furniture business. The cornerstone for both enterprises is Mrs. B’s creed: “Sell cheap and tell the truth.” Other fundamentals at both businesses are: (1) single store operations featuring huge inventories that provide customers with an enormous selection across all price ranges, (2) daily attention to detail by top management, (3) rapid turnover, (4) shrewd buying, and (5) incredibly low expenses. The combination of the last three factors lets both stores offer everyday prices that no one in the country comes close to matching.</p>
+<p>Most people, no matter how sophisticated they are in other matters, feel like babes in the woods when purchasing jewelry. They can judge neither quality nor price. For them only one rule makes sense: If you don’t know jewelry, know the jeweler.</p>
+<p>I can assure you that those who put their trust in Ike Friedman and his family will never be disappointed. The way in which we purchased our interest in their business is the ultimate testimonial. Borsheim’s had no audited financial statements; nevertheless, we didn’t take inventory, verify receivables or audit the operation in any way. Ike simply told us what was so—and on that basis we drew up a one-page contract and wrote a large check.</p>
+<p>Business at Borsheim’s has mushroomed in recent years as the reputation of the Friedman family has spread. Customers now come to the store from all over the country. Among them have been some friends of mine from both coasts who thanked me later for getting them there.</p>
+<p>Borsheim’s new links to Berkshire will change nothing in the way this business is run. All members of the Friedman family will continue to operate just as they have before; Charlie and I will stay on the sidelines where we belong. And when we say “all members,” the words have real meaning. Mr. and Mrs. Friedman, at 88 and 87, respectively, are in the store daily. The wives of Ike, Alan, Marvin and Donald all pitch in at busy times, and a fourth generation is beginning to learn the ropes.</p>
+<p>It is great fun to be in business with people you have long admired. The Friedmans, like the Blumkins, have achieved success because they have deserved success. Both families focus on what’s right for the customer and that, inevitably, works out well for them, also. We couldn’t have better partners.</p>
+<p><strong>Insurance Operations</strong></p>
+<p>Shown below is an updated version of our usual table presenting key figures for the insurance industry:</p>
+<p><em>Source: A.M. Best Co.</em></p>
+<p>The combined ratio represents total insurance costs (losses incurred plus expenses) compared to revenue from premiums: A ratio below 100 indicates an underwriting profit, and one above 100 indicates a loss. When the investment income that an insurer earns from holding on to policyholders’ funds (“the float”) is taken into account, a combined ratio in the 107-111 range typically produces an overall break-even result, exclusive of earnings on the funds provided by shareholders.</p>
+<p>For the reasons laid out in previous reports, we expect the industry’s incurred losses to grow by about 10% annually, even in years when general inflation runs considerably lower. If premium growth meanwhile materially lags that 10% rate, underwriting losses will mount, though the industry’s tendency to underreserve when business turns bad may obscure their size for a time. As the table shows, the industry’s underwriting loss grew in 1988. This trend is almost certain to continue—and probably will accelerate—for at least two more years.</p>
+<p>The property-casualty insurance industry is not only subnormally profitable, it is subnormally popular. (As Sam Goldwyn philosophized: “In life, one must learn to take the bitter with the sour.”) One of the ironies of business is that many relatively-unprofitable industries that are plagued by inadequate prices habitually find themselves beat upon by irate customers even while other, hugely profitable industries are spared complaints, no matter how high their prices.</p>
+<p>Take the breakfast cereal industry, whose return on invested capital is more than double that of the auto insurance industry (which is why companies like Kellogg and General Mills sell at five times book value and most large insurers sell close to book). The cereal companies regularly impose price increases, few of them related to a significant jump in their costs. Yet not a peep is heard from consumers. But when auto insurers raise prices by amounts that do not even match cost increases, customers are outraged. If you want to be loved, it’s clearly better to sell high-priced corn flakes than low-priced auto insurance.</p>
+<p>The antagonism that the public feels toward the industry can have serious consequences: Proposition 103, a California initiative passed last fall, threatens to push auto insurance prices down sharply, even though costs have been soaring. The price cut has been suspended while the courts review the initiative, but the resentment that brought on the vote has not been suspended: Even if the initiative is overturned, insurers are likely to find it tough to operate profitably in California. (Thank heavens the citizenry isn’t mad at bonbons: If Proposition 103 applied to candy as well as insurance, See’s would be forced to sell its product for $5.76 per pound. rather than the $7.60 we charge—and would be losing money by the bucketful.)</p>
+<p>The immediate direct effects on Berkshire from the initiative are minor, since we saw few opportunities for profit in the rate structure that existed in California prior to the vote. However, the forcing down of prices would seriously affect GEICO, our 44%-owned investee, which gets about 10% of its premium volume from California. Even more threatening to GEICO is the possibility that similar pricing actions will be taken in other states, through either initiatives or legislation.</p>
+<p>If voters insist that auto insurance be priced below cost, it eventually must be sold by government. Stockholders can subsidize policyholders for a short period, but only taxpayers can subsidize them over the long term. At most property-casualty companies, socialized auto insurance would be no disaster for shareholders. Because of the commodity characteristics of the industry, most insurers earn mediocre returns and therefore have little or no economic goodwill to lose if they are forced by government to leave the auto insurance business. But GEICO, because it is a low-cost producer able to earn high returns on equity, has a huge amount of economic goodwill at risk. In turn, so do we.</p>
+<p>At Berkshire, in 1988, our premium volume continued to fall, and in 1989 we will experience a large decrease for a special reason: The contract through which we receive 7% of the business of Fireman’s Fund expires on August 31. At that time, we will return to Fireman’s Fund the unearned premiums we hold that relate to the contract. This transfer of funds will show up in our “premiums written” account as a negative $85 million or so and will make our third-quarter figures look rather peculiar. However, the termination of this contract will not have a significant effect on profits.</p>
+<p>Berkshire’s underwriting results continued to be excellent in 1988. Our combined ratio (on a statutory basis and excluding structured settlements and financial reinsurance) was 104. Reserve development was favorable for the second year in a row, after a string of years in which it was very unsatisfactory. Details on both underwriting and reserve development appear on pages 36-38.</p>
+<p>Our insurance volume over the next few years is likely to run very low, since business with a reasonable potential for profit will almost certainly be scarce. So be it. At Berkshire, we simply will not write policies at rates that carry the expectation of economic loss. We encounter enough troubles when we expect a gain.</p>
+<p>Despite—or perhaps because of—low volume, our profit picture during the next few years is apt to be considerably brighter than the industry’s. We are sure to have an exceptional amount of float compared to premium volume, and that augurs well for profits. In 1989 and 1990 we expect our float/premiums ratio to be at least three times that of the typical property/casualty company. Mike Goldberg, with special help from Ajit Jain, Dinos Iordanou, and the National Indemnity managerial team, has positioned us well in that respect.</p>
+<p>At some point—we don’t know when—we will be deluged with insurance business. The cause will probably be some major physical or financial catastrophe. But we could also experience an explosion in business, as we did in 1985, because large and increasing underwriting losses at other companies coincide with their recognition that they are far underreserved. in the meantime, we will retain our talented professionals, protect our capital, and try not to make major mistakes.</p>
+<p><strong>Marketable Securities</strong></p>
+<p>In selecting marketable securities for our insurance companies, we can choose among five major categories: (1) long-term common stock investments, (2) medium-term fixed-income securities, (3) long-term fixed-income securities, (4) short-term cash equivalents, and (5) short-term arbitrage commitments.</p>
+<p>We have no particular bias when it comes to choosing from these categories. We just continuously search among them for the highest after-tax returns as measured by “mathematical expectation,” limiting ourselves always to investment alternatives we think we understand. Our criteria have nothing to do with maximizing immediately reportable earnings; our goal, rather, is to maximize eventual net worth.</p>
+<p>Below we list our common stock holdings having a value over $100 million, not including arbitrage commitments, which will be discussed later. A small portion of these investments belongs to subsidiaries of which Berkshire owns less than 100%.</p>
+<p>&nbsp;</p>
+<p>* Although nominally a preferred stock, this security is financially equivalent to a common stock.</p>
+<p>Our permanent holdings—Capital Cities/ABC, Inc., GEICO Corporation, and The Washington Post Company—remain unchanged. Also unchanged is our unqualified admiration of their managements: Tom Murphy and Dan Burke at Cap Cities, Bill Snyder and Lou Simpson at GEICO, and Kay Graham and Dick Simmons at The Washington Post. Charlie and I appreciate enormously the talent and integrity these managers bring to their businesses.</p>
+<p>Their performance, which we have observed at close range, contrasts vividly with that of many CEOs, which we have fortunately observed from a safe distance. Sometimes these CEOs clearly do not belong in their jobs; their positions, nevertheless, are usually secure. The supreme irony of business management is that it is far easier for an inadequate CEO to keep his job than it is for an inadequate subordinate.</p>
+<p>If a secretary, say, is hired for a job that requires typing ability of at least 80 words a minute and turns out to be capable of only 50 words a minute, she will lose her job in no time. There is a logical standard for this job; performance is easily measured; and if you can’t make the grade, you’re out. Similarly, if new sales people fail to generate sufficient business quickly enough, they will be let go. Excuses will not be accepted as a substitute for orders.</p>
+<p>However, a CEO who doesn’t perform is frequently carried indefinitely. One reason is that performance standards for his job seldom exist. When they do, they are often fuzzy or they may be waived or explained away, even when the performance shortfalls are major and repeated. At too many companies, the boss shoots the arrow of managerial performance and then hastily paints the bullseye around the spot where it lands.</p>
+<p>Another important, but seldom recognized, distinction between the boss and the foot soldier is that the CEO has no immediate superior whose performance is itself getting measured. The sales manager who retains a bunch of lemons in his sales force will soon be in hot water himself. It is in his immediate self-interest to promptly weed out his hiring mistakes. Otherwise, he himself may be weeded out. An office manager who has hired inept secretaries faces the same imperative.</p>
+<p>But the CEO’s boss is a Board of Directors that seldom measures itself and is infrequently held to account for substandard corporate performance. If the Board makes a mistake in hiring, and perpetuates that mistake, so what? Even if the company is taken over because of the mistake, the deal will probably bestow substantial benefits on the outgoing Board members. (The bigger they are, the softer they fall.)</p>
+<p>Finally, relations between the Board and the CEO are expected to be congenial. At board meetings, criticism of the CEO’s performance is often viewed as the social equivalent of belching. No such inhibitions restrain the office manager from critically evaluating the substandard typist.</p>
+<p>These points should not be interpreted as a blanket condemnation of CEOs or Boards of Directors: Most are able and hard-working, and a number are truly outstanding. But the management failings that Charlie and I have seen make us thankful that we are linked with the managers of our three permanent holdings. They love their businesses, they think like owners, and they exude integrity and ability.</p>
+<p>&nbsp;</p>
+<p>In 1988 we made major purchases of Federal Home Loan Mortgage Pfd. (“Freddie Mac”) and Coca Cola. We expect to hold these securities for a long time. In fact, when we own portions of outstanding businesses with outstanding managements, our favorite holding period is forever. We are just the opposite of those who hurry to sell and book profits when companies perform well but who tenaciously hang on to businesses that disappoint. Peter Lynch aptly likens such behavior to cutting the flowers and watering the weeds. Our holdings of Freddie Mac are the maximum allowed by law, and are extensively described by Charlie in his letter. In our consolidated balance sheet these shares are carried at cost rather than market, since they are owned by Mutual Savings and Loan, a non-insurance subsidiary.</p>
+<p>&nbsp;</p>
+<p>We continue to concentrate our investments in a very few companies that we try to understand well. There are only a handful of businesses about which we have strong long-term convictions. Therefore, when we find such a business, we want to participate in a meaningful way. We agree with Mae West: “Too much of a good thing can be wonderful.”</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>We reduced our holdings of medium-term tax-exempt bonds by about $100 million last year. All of the bonds sold were acquired after August 7, 1986. When such bonds are held by property-casualty insurance companies, 15% of the “tax-exempt” interest earned is subject to tax.</p>
+<p>&nbsp;</p>
+<p>The $800 million position we still hold consists almost entirely of bonds “grandfathered” under the Tax Reform Act of 1986, which means they are entirely tax-exempt. Our sales produced a small profit and our remaining bonds, which have an average maturity of about six years, are worth modestly more than carrying value.</p>
+<p>&nbsp;</p>
+<p>Last year we described our holdings of short-term and intermediate-term bonds of Texaco, which was then in bankruptcy. During 1988, we sold practically all of these bonds at a pre-tax profit of about $22 million. This sale explains close to $100 million of the reduction in fixed-income securities on our balance sheet.</p>
+<p>&nbsp;</p>
+<p>We also told you last year about our holdings of another security whose predominant characteristics are those of an intermediate fixed-income issue: our $700 million position in Salomon Inc 9% convertible preferred. This preferred has a sinking fund that will retire it in equal annual installments from 1995 to 1999. Berkshire carries this holding at cost. For reasons discussed by Charlie on page 69, the estimated market value of our holding has improved from moderately under cost at the end of last year to moderately over cost at 1988 year end.</p>
+<p>&nbsp;</p>
+<p>The close association we have had with John Gutfreund, CEO of Salomon, during the past year has reinforced our admiration for him. But we continue to have no great insights about the near, intermediate or long-term economics of the investment banking business: This is not an industry in which it is easy to forecast future levels of profitability. We continue to believe that our conversion privilege could well have important value over the life of our preferred. However, the overwhelming portion of the preferred’s value resides in its fixed-income characteristics, not its equity characteristics.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>We have not lost our aversion to long-term bonds. We will become enthused about such securities only when we become enthused about prospects for long-term stability in the purchasing power of money. And that kind of stability isn’t in the cards: Both society and elected officials simply have too many higher-ranking priorities that conflict with purchasing-power stability. The only long-term bonds we hold are those of Washington Public Power Supply Systems (WPPSS). A few of our WPPSS bonds have short maturities and many others, because of their high coupons, are likely to be refunded and paid off in a few years. Overall, our WPPSS holdings are carried on our balance sheet at $247 million and have a market value of about $352 million.</p>
+<p>&nbsp;</p>
+<p>We explained the reasons for our WPPSS purchases in the 1983 annual report, and are pleased to tell you that this commitment has worked out about as expected. At the time of purchase, most of our bonds were yielding around 17% after taxes and carried no ratings, which had been suspended. Recently, the bonds were rated AA- by Standard & Poor’s. They now sell at levels only slightly below those enjoyed by top-grade credits.</p>
+<p>&nbsp;</p>
+<p>In the 1983 report, we compared the economics of our WPPSS purchase to those involved in buying a business. As it turned out, this purchase actually worked out better than did the general run of business acquisitions made in 1983, assuming both are measured on the basis of unleveraged, after tax returns achieved through 1988.</p>
+<p>&nbsp;</p>
+<p>Our WPPSS experience, though pleasant, does nothing to alter our negative opinion about long-term bonds. It only makes us hope that we run into some other large stigmatized issue, whose troubles have caused it to be significantly misappraised by the market.</p>
+<p>&nbsp;</p>
+<p><strong>Arbitrage</strong></p>
+<p>In past reports we have told you that our insurance subsidiaries sometimes engage in arbitrage as an alternative to holding short-term cash equivalents. We prefer, of course, to make major long-term commitments, but we often have more cash than good ideas. At such times, arbitrage sometimes promises much greater returns than Treasury Bills and, equally important, cools any temptation we may have to relax our standards for long-term investments. (Charlie’s sign off after we’ve talked about an arbitrage commitment is usually: “Okay, at least it will keep you out of bars.”)</p>
+<p>During 1988 we made unusually large profits from arbitrage, measured both by absolute dollars and rate of return. Our pre-tax gain was about $78 million on average invested funds of about $147 million.</p>
+<p>This level of activity makes some detailed discussion of arbitrage and our approach to it appropriate. Once, the word applied only to the simultaneous purchase and sale of securities or foreign exchange in two different markets. The goal was to exploit tiny price differentials that might exist between, say, Royal Dutch stock trading in guilders in Amsterdam, pounds in London, and dollars in New York. Some people might call this scalping; it won’t surprise you that practitioners opted for the French term, arbitrage.</p>
+<p>Since World War I the definition of arbitrage—or “risk arbitrage,” as it is now sometimes called—has expanded to include the pursuit of profits from an announced corporate event such as sale of the company, merger, recapitalization, reorganization, liquidation, self-tender, etc. In most cases the arbitrageur expects to profit regardless of the behavior of the stock market. The major risk he usually faces instead is that the announced event won’t happen.</p>
+<p>Some offbeat opportunities occasionally arise in the arbitrage field. I participated in one of these when I was 24 and working in New York for Graham-Newman Corp. Rockwood & Co., a Brooklyn based chocolate products company of limited profitability, had adopted LIFO inventory valuation in 1941 when cocoa was selling for 5¢ per pound. In 1954 a temporary shortage of cocoa caused the price to soar to over 60¢. Consequently Rockwood wished to unload its valuable inventory—quickly, before the price dropped. But if the cocoa had simply been sold off, the company would have owed close to a 50% tax on the proceeds.</p>
+<p>The 1954 Tax Code came to the rescue. It contained an arcane provision that eliminated the tax otherwise due on LIFO profits if inventory was distributed to shareholders as part of a plan reducing the scope of a corporation’s business. Rockwood decided to terminate one of its businesses, the sale of cocoa butter, and said 13 million pounds of its cocoa bean inventory was attributable to that activity. Accordingly, the company offered to repurchase its stock in exchange for the cocoa beans it no longer needed, paying 80 pounds of beans for each share.</p>
+<p>For several weeks I busily bought shares, sold beans, and made periodic stops at Schroeder Trust to exchange stock certificates for warehouse receipts. The profits were good and my only expense was subway tokens.</p>
+<p>The architect of Rockwood’s restructuring was an unknown, but brilliant Chicagoan, Jay Pritzker, then 32. If you’re familiar with Jay’s subsequent record, you won’t be surprised to hear the action worked out rather well for Rockwood’s continuing shareholders also. From shortly before the tender until shortly after it, Rockwood stock appreciated from 15 to 100, even though the company was experiencing large operating losses. Sometimes there is more to stock valuation than price-earnings ratios.</p>
+<p>In recent years, most arbitrage operations have involved takeovers, friendly and unfriendly. With acquisition fever rampant, with anti-trust challenges almost non-existent, and with bids often ratcheting upward, arbitrageurs have prospered mightily. They have not needed special talents to do well; the trick, a la Peter Sellers in the movie, has simply been “Being There.” In Wall Street the old proverb has been reworded: “Give a man a fish and you feed him for a day. Teach him how to arbitrage and you feed him forever.” (If, however, he studied at the Ivan Boesky School of Arbitrage, it may be a state institution that supplies his meals.)</p>
+<p>To evaluate arbitrage situations you must answer four questions: (1) How likely is it that the promised event will indeed occur? (2) How long will your money be tied up? (3) What chance is there that something still better will transpire—a competing takeover bid, for example? and (4) What will happen if the event does not take place because of anti-trust action, financing glitches, etc.?</p>
+<p>Arcata Corp., one of our more serendipitous arbitrage experiences, illustrates the twists and turns of the business. On September 28, 1981 the directors of Arcata agreed in principle to sell the company to Kohlberg, Kravis, Roberts & Co. (KKR), then and now a major leveraged-buy out firm. Arcata was in the printing and forest products businesses and had one other thing going for it: In 1978 the U.S. Government had taken title to 10,700 acres of Arcata timber, primarily old-growth redwood, to expand Redwood National Park. The government had paid $97.9 million, in several installments, for this acreage, a sum Arcata was contesting as grossly inadequate. The parties also disputed the interest rate that should apply to the period between the taking of the property and final payment for it. The enabling legislation stipulated 6% simple interest; Arcata argued for a much higher and compounded rate.</p>
+<p>Buying a company with a highly-speculative, large-sized claim in litigation creates a negotiating problem, whether the claim is on behalf of or against the company. To solve this problem, KKR offered $37.00 per Arcata share plus two-thirds of any additional amounts paid by the government for the redwood lands.</p>
+<p>Appraising this arbitrage opportunity, we had to ask ourselves whether KKR would consummate the transaction since, among other things, its offer was contingent upon its obtaining “satisfactory financing.” A clause of this kind is always dangerous for the seller: It offers an easy exit for a suitor whose ardor fades between proposal and marriage. However, we were not particularly worried about this possibility because KKR’s past record for closing had been good.</p>
+<p>We also had to ask ourselves what would happen if the KKR deal did fall through, and here we also felt reasonably comfortable: Arcata’s management and directors had been shopping the company for some time and were clearly determined to sell. If KKR went away, Arcata would likely find another buyer, though of course, the price might be lower.</p>
+<p>Finally, we had to ask ourselves what the redwood claim might be worth. Your Chairman, who can’t tell an elm from an oak, had no trouble with that one: He coolly evaluated the claim at somewhere between zero and a whole lot.</p>
+<p>We started buying Arcata stock, then around $33.50, on September 30 and in eight weeks purchased about 400,000 shares, or 5% of the company. The initial announcement said that the $37.00 would be paid in January, 1982. Therefore, if everything had gone perfectly, we would have achieved an annual rate of return of about 40%—not counting the redwood claim, which would have been frosting.</p>
+<p>All did not go perfectly. In December it was announced that the closing would be delayed a bit. Nevertheless, a definitive agreement was signed on January 4. Encouraged, we raised our stake, buying at around $38.00 per share and increasing our holdings to 655,000 shares, or over 7% of the company. Our willingness to pay up—even though the closing had been postponed—reflected our leaning toward “a whole lot” rather than “zero” for the redwoods.</p>
+<p>Then, on February 25 the lenders said they were taking a “second look” at financing terms “ in view of the severely depressed housing industry and its impact on Arcata’s outlook.” The stockholders’ meeting was postponed again, to April. An Arcata spokesman said he “did not think the fate of the acquisition itself was imperiled.” When arbitrageurs hear such reassurances, their minds flash to the old saying: “He lied like a finance minister on the eve of devaluation.”</p>
+<p>On March 12 KKR said its earlier deal wouldn’t work, first cutting its offer to $33.50, then two days later raising it to $35.00. On March 15, however, the directors turned this bid down and accepted another group’s offer of $37.50 plus one-half of any redwood recovery. The shareholders okayed the deal, and the $37.50 was paid on June 4.</p>
+<p>We received $24.6 million versus our cost of $22.9 million; our average holding period was close to six months. Considering the trouble this transaction encountered, our 15% annual rate of return excluding any value for the redwood claim—was more than satisfactory.</p>
+<p>But the best was yet to come. The trial judge appointed two commissions, one to look at the timber’s value, the other to consider the interest rate questions. In January 1987, the first commission said the redwoods were worth $275.7 million and the second commission recommended a compounded, blended rate of return working out to about 14%.</p>
+<p>In August 1987 the judge upheld these conclusions, which meant a net amount of about $600 million would be due Arcata. The government then appealed. In 1988, though, before this appeal was heard, the claim was settled for $519 million. Consequently, we received an additional $29.48 per share, or about $19.3 million. We will get another $800,000 or so in 1989.</p>
+<p>Berkshire’s arbitrage activities differ from those of many arbitrageurs. First, we participate in only a few, and usually very large, transactions each year. Most practitioners buy into a great many deals perhaps 50 or more per year. With that many irons in the fire, they must spend most of their time monitoring both the progress of deals and the market movements of the related stocks. This is not how Charlie nor I wish to spend our lives. (What’s the sense in getting rich just to stare at a ticker tape all day?)</p>
+<p>Because we diversify so little, one particularly profitable or unprofitable transaction will affect our yearly result from arbitrage far more than it will the typical arbitrage operation. So far, Berkshire has not had a really bad experience. But we will—and when it happens we’ll report the gory details to you.</p>
+<p>The other way we differ from some arbitrage operations is that we participate only in transactions that have been publicly announced. We do not trade on rumors or try to guess takeover candidates. We just read the newspapers, think about a few of the big propositions, and go by our own sense of probabilities.</p>
+<p>At yearend, our only major arbitrage position was 3,342,000 shares of RJR Nabisco with a cost of $281.8 million and a market value of $304.5 million. In January we increased our holdings to roughly four million shares and in February we eliminated our position. About three million shares were accepted when we tendered our holdings to KKR, which acquired RJR, and the returned shares were promptly sold in the market. Our pre-tax profit was a better-than-expected $64 million.</p>
+<p>Earlier, another familiar face turned up in the RJR bidding contest: Jay Pritzker, who was part of a First Boston group that made a tax-oriented offer. To quote Yogi Berra; “It was deja vu all over again.”</p>
+<p>During most of the time when we normally would have been purchasers of RJR, our activities in the stock were restricted because of Salomon’s participation in a bidding group. Customarily, Charlie and I, though we are directors of Salomon, are walled off from information about its merger and acquisition work. We have asked that it be that way: The information would do us no good and could, in fact, occasionally inhibit Berkshire’s arbitrage operations.</p>
+<p>However, the unusually large commitment that Salomon proposed to make in the RJR deal required that all directors be fully informed and involved. Therefore, Berkshire’s purchases of RJR were made at only two times: first, in the few days immediately following management’s announcement of buyout plans, before Salomon became involved; and considerably later, after the RJR board made its decision in favor of KKR. Because we could not buy at other times, our directorships cost Berkshire significant money.</p>
+<p>Considering Berkshire’s good results in 1988, you might expect us to pile into arbitrage during 1989. Instead, we expect to be on the sidelines.</p>
+<p>One pleasant reason is that our cash holdings are down—because our position in equities that we expect to hold for a very long time is substantially up. As regular readers of this report know, our new commitments are not based on a judgment about short-term prospects for the stock market. Rather, they reflect an opinion about long-term business prospects for specific companies. We do not have, never have had, and never will have an opinion about where the stock market, interest rates, or business activity will be a year from now.</p>
+<p>Even if we had a lot of cash we probably would do little in arbitrage in 1989. Some extraordinary excesses have developed in the takeover field. As Dorothy says: “Toto, I have a feeling we’re not in Kansas any more.”</p>
+<p>We have no idea how long the excesses will last, nor do we know what will change the attitudes of government, lender and buyer that fuel them. But we do know that the less the prudence with which others conduct their affairs, the greater the prudence with which we should conduct our own affairs. We have no desire to arbitrage transactions that reflect the unbridled—and, in our view, often unwarranted—optimism of both buyers and lenders. In our activities, we will heed the wisdom of Herb Stein: “If something can’t go on forever, it will end.”</p>
+<p><strong>Efficient Market Theory</strong></p>
+<p>The preceding discussion about arbitrage makes a small discussion of “efficient market theory” (EMT) also seem relevant. This doctrine became highly fashionable—indeed, almost holy scripture in academic circles during the 1970s. Essentially, it said that analyzing stocks was useless because all public information about them was appropriately reflected in their prices. In other words, the market always knew everything. As a corollary, the professors who taught EMT said that someone throwing darts at the stock tables could select a stock portfolio having prospects just as good as one selected by the brightest, most hard-working security analyst. Amazingly, EMT was embraced not only by academics, but by many investment professionals and corporate managers as well. Observing correctly that the market was frequently efficient, they went on to conclude incorrectly that it was always efficient. The difference between these propositions is night and day.</p>
+<p>In my opinion, the continuous 63-year arbitrage experience of Graham-Newman Corp. Buffett Partnership, and Berkshire illustrates just how foolish EMT is. (There’s plenty of other evidence, also.) While at Graham-Newman, I made a study of its earnings from arbitrage during the entire 1926-1956 lifespan of the company. Unleveraged returns averaged 20% per year. Starting in 1956, I applied Ben Graham’s arbitrage principles, first at Buffett Partnership and then Berkshire. Though I’ve not made an exact calculation, I have done enough work to know that the 1956-1988 returns averaged well over 20%. (Of course, I operated in an environment far more favorable than Ben’s; he had 1929-1932 to contend with.)</p>
+<p>All of the conditions are present that are required for a fair test of portfolio performance: (1) the three organizations traded hundreds of different securities while building this 63-year record; (2) the results are not skewed by a few fortunate experiences; (3) we did not have to dig for obscure facts or develop keen insights about products or managements—we simply acted on highly-publicized events; and (4) our arbitrage positions were a clearly identified universe—they have not been selected by hindsight.</p>
+<p>Over the 63 years, the general market delivered just under a 10% annual return, including dividends. That means $1,000 would have grown to $405,000 if all income had been reinvested. A 20% rate of return, however, would have produced $97 million. That strikes us as a statistically-significant differential that might, conceivably, arouse one’s curiosity.</p>
+<p>Yet proponents of the theory have never seemed interested in discordant evidence of this type. True, they don’t talk quite as much about their theory today as they used to. But no one, to my knowledge, has ever said he was wrong, no matter how many thousands of students he has sent forth misinstructed. EMT, moreover, continues to be an integral part of the investment curriculum at major business schools. Apparently, a reluctance to recant, and thereby to demystify the priesthood, is not limited to theologians.</p>
+<p>Naturally the disservice done students and gullible investment professionals who have swallowed EMT has been an extraordinary service to us and other followers of Graham. In any sort of a contest—financial, mental, or physical—it’s an enormous advantage to have opponents who have been taught that it’s useless to even try. From a selfish point of view, Grahamites should probably endow chairs to ensure the perpetual teaching of EMT.</p>
+<p>All this said, a warning is appropriate. Arbitrage has looked easy recently. But this is not a form of investing that guarantees profits of 20% a year or, for that matter, profits of any kind. As noted, the market is reasonably efficient much of the time: For every arbitrage opportunity we seized in that 63-year period, many more were foregone because they seemed properly-priced.</p>
+<p>An investor cannot obtain superior profits from stocks by simply committing to a specific investment category or style. He can earn them only by carefully evaluating facts and continuously exercising discipline. Investing in arbitrage situations, per se, is no better a strategy than selecting a portfolio by throwing darts.</p>
+<p><strong>New York Stock Exchange Listing</strong></p>
+<p>Berkshire’s shares were listed on the New York Stock Exchange on November 29, 1988. On pages 50-51 we reproduce the letter we sent to shareholders concerning the listing.</p>
+<p>Let me clarify one point not dealt with in the letter: Though our round lot for trading on the NYSE is ten shares, any number of shares from one on up can be bought or sold.</p>
+<p>As the letter explains, our primary goal in listing was to reduce transaction costs, and we believe this goal is being achieved. Generally, the spread between the bid and asked price on the NYSE has been well below the spread that prevailed in the over-the-counter market.</p>
+<p>Henderson Brothers, Inc., the specialist in our shares, is the oldest continuing specialist firm on the Exchange; its progenitor, William Thomas Henderson, bought his seat for $500 on September 8, 1861. (Recently, seats were selling for about $625,000.) Among the 54 firms acting as specialists, HBI ranks second in number of stocks assigned, with 83. We were pleased when Berkshire was allocated to HBI, and have been delighted with the firm’s performance. Jim Maguire, Chairman of HBI, personally manages the trading in Berkshire, and we could not be in better hands.</p>
+<p>In two respects our goals probably differ somewhat from those of most listed companies. First, we do not want to maximize the price at which Berkshire shares trade. We wish instead for them to trade in a narrow range centered at intrinsic business value (which we hope increases at a reasonable—or, better yet, unreasonable—rate). Charlie and I are bothered as much by significant overvaluation as significant undervaluation. Both extremes will inevitably produce results for many shareholders that will differ sharply from Berkshire’s business results. If our stock price instead consistently mirrors business value, each of our shareholders will receive an investment result that roughly parallels the business results of Berkshire during his holding period.</p>
+<p>Second, we wish for very little trading activity. If we ran a private business with a few passive partners, we would be disappointed if those partners, and their replacements, frequently wanted to leave the partnership. Running a public company, we feel the same way.</p>
+<p>Our goal is to attract long-term owners who, at the time of purchase, have no timetable or price target for sale but plan instead to stay with us indefinitely. We don’t understand the CEO who wants lots of stock activity, for that can be achieved only if many of his owners are constantly exiting. At what other organization—school, club, church, etc.—do leaders cheer when members leave? (However, if there were a broker whose livelihood depended upon the membership turnover in such organizations, you could be sure that there would be at least one proponent of activity, as in: “There hasn’t been much going on in Christianity for a while; maybe we should switch to Buddhism next week.”)</p>
+<p>Of course, some Berkshire owners will need or want to sell from time to time, and we wish for good replacements who will pay them a fair price. Therefore we try, through our policies, performance, and communications, to attract new shareholders who understand our operations, share our time horizons, and measure us as we measure ourselves. If we can continue to attract this sort of shareholder—and, just as important, can continue to be uninteresting to those with short-term or unrealistic expectations—Berkshire shares should consistently sell at prices reasonably related to business value.</p>
+<p><strong>David L. Dodd</strong></p>
+<p>Dave Dodd, my friend and teacher for 38 years, died last year at age 93. Most of you don’t know of him. Yet any long-time shareholder of Berkshire is appreciably wealthier because of the indirect influence he had upon our company.</p>
+<p>Dave spent a lifetime teaching at Columbia University, and he co-authored Security Analysis with Ben Graham. From the moment I arrived at Columbia, Dave personally encouraged and educated me; one influence was as important as the other. Everything he taught me, directly or through his book, made sense. Later, through dozens of letters, he continued my education right up until his death.</p>
+<p>I have known many professors of finance and investments but I have never seen any, except for Ben Graham, who was the match of Dave. The proof of his talent is the record of his students: No other teacher of investments has sent forth so many who have achieved unusual success.</p>
+<p>When students left Dave’s classroom, they were equipped to invest intelligently for a lifetime because the principles he taught were simple, sound, useful, and enduring. Though these may appear to be unremarkable virtues, the teaching of principles embodying them has been rare.</p>
+<p>It’s particularly impressive that Dave could practice as well as preach. just as Keynes became wealthy by applying his academic ideas to a very small purse, so, too, did Dave. Indeed, his financial performance far outshone that of Keynes, who began as a market-timer (leaning on business and credit-cycle theory) and converted, after much thought, to value investing. Dave was right from the start.</p>
+<p>In Berkshire’s investments, Charlie and I have employed the principles taught by Dave and Ben Graham. Our prosperity is the fruit of their intellectual tree.</p>
+<p><strong>Miscellaneous</strong></p>
+<p>We hope to buy more businesses that are similar to the ones we have, and we can use some help. If you have a business that fits the following criteria, call me or, preferably, write.</p>
+<p>Here’s what we’re looking for:</p>
+<p>large purchases (at least $10 million of after-tax earnings),</p>
+<p>demonstrated consistent earning power (future projections are of little interest to us, nor are “turnaround” situations),</p>
+<p>businesses earning good returns on equity while employing little or no debt,</p>
+<p>management in place (we can’t supply it),</p>
+<p>simple businesses (if there’s lots of technology, we won’t understand it),</p>
+<p>an offering price (we don’t want to waste our time or that of the seller by talking, even preliminarily, about a transaction when price is unknown).</p>
+<p>We will not engage in unfriendly takeovers. We can promise complete confidentiality and a very fast answer—customarily within five minutes—as to whether we’re interested. We prefer to buy for cash, but will consider issuing stock when we receive as much in intrinsic business value as we give.</p>
+<p>Our favorite form of purchase is one fitting the Blumkin-Friedman-Heldman mold. In cases like these, the company’s owner-managers wish to generate significant amounts of cash, sometimes for themselves, but often for their families or inactive shareholders. However, these managers also wish to remain significant owners who continue to run their companies just as they have in the past. We think we offer a particularly good fit for owners with these objectives and invite potential sellers to check us out by contacting people with whom we have done business in the past.</p>
+<p>Charlie and I frequently get approached about acquisitions that don’t come close to meeting our tests: We’ve found that if you advertise an interest in buying collies, a lot of people will call hoping to sell you their cocker spaniels. Our interest in new ventures, turnarounds, or auction-like sales can best be expressed by another Goldwynism: “Please include me out.”</p>
+<p>Besides being interested in the purchase of businesses as described above, we are also interested in the negotiated purchase of large, but not controlling, blocks of stock comparable to those we hold in Cap Cities and Salomon. We have a special interest in purchasing convertible preferreds as a long-term investment, as we did at Salomon.</p>
+<p>* * *</p>
+<p>We received some good news a few weeks ago: Standard & Poor’s raised our credit rating to AAA, which is the highest rating it bestows. Only 15 other U.S. industrial or property-casualty companies are rated AAA, down from 28 in 1980.</p>
+<p>Corporate bondholders have taken their lumps in the past few years from “event risk.” This term refers to the overnight degradation of credit that accompanies a heavily-leveraged purchase or recapitalization of a business whose financial policies, up to then, had been conservative. In a world of takeovers inhabited by few owner-managers, most corporations present such a risk. Berkshire does not. Charlie and I promise bondholders the same respect we afford shareholders.</p>
+<p>* * *</p>
+<p>About 97.4% of all eligible shares participated in Berkshire’s 1988 shareholder-designated contributions program. Contributions made through the program were $5 million, and 2,319 charities were recipients. If we achieve reasonable business results, we plan to increase the per-share contributions in 1989.</p>
+<p>We urge new shareholders to read the description of our shareholder-designated contributions program that appears on pages 48-49. If you wish to participate in future programs, we strongly urge that you immediately make sure your shares are registered in the name of the actual owner, not in the nominee name of a broker, bank or depository. Shares not so registered on September 30, 1989 will be ineligible for the 1989 program.</p>
+<p>* * *</p>
+<p>Berkshire’s annual meeting will be held in Omaha on Monday, April 24, 1989, and I hope you will come. The meeting provides the forum for you to ask any owner-related questions you may have, and we will keep answering until all (except those dealing with portfolio activities or other proprietary information) have been dealt with.</p>
+<p>After the meeting we will have several buses available to take you to visit Mrs. B at The Nebraska Furniture Mart and Ike Friedman at Borsheim’s. Be prepared for bargains.</p>
+<p>Out-of-towners may prefer to arrive early and visit Mrs. B during the Sunday store hours of noon to five. (These Sunday hours seem ridiculously short to Mrs. B, who feels they scarcely allow her time to warm up; she much prefers the days on which the store remains open from 10 a.m. to 9 p.m.) Borsheims, however, is not open on Sunday.</p>
+<p>Ask Mrs. B the secret of her astonishingly low carpet prices. She will confide to you—as she does to everyone—how she does it: “I can sell so cheap ‘cause I work for this dummy who doesn’t know anything about carpet.”</p>
+<p>February 28, 1989</p>
+<p>Warren E. BuffettChairman of the Board</p>
+<p>&nbsp;</p>
+<table class="letter-table" style="width:100%;border-collapse:collapse;margin:1.5em 0">
+<tr><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;">Shares</th><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;"></th><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;">Company</th><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;"></th><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;">Cost</th><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;"></th><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;">Market</th></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">(000s omitted)</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">3,000,000</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">Capital Cities/ABC, Inc.</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">$517,500</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">$1,086,750</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">14,172,500</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">The Coca-Cola Company</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">592,540</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">632,448</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">2,400,000</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">Federal Home Loan Mortgage Corporation Preferred*</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">71,729</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">121,200</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">6,850,000</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">GEICO Corporation</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">45,713</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">849,400</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">1,727,765</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">The Washington Post Company</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">9,731</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">364,126</td></tr>
+</table>`,
 
     concepts: [
       'intrinsic-value',
@@ -6992,7 +7933,1013 @@ export const berkshireLetters: Letter[] = [
     date: '1982-02-01',
     summary:
       "1982 marked a year of strategic positioning. Insurance operations showed strong performance while seeking new investment opportunities.",
-        fullText: `[[PLACEHOLDER]]`,
+        fullText: `<p> March 3, 1983</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><em>To the Stockholders of Berkshire Hathaway Inc.:</em></p>
+<p>&nbsp;</p>
+<p>     Operating earnings of $31.5 million in 1982 amounted to only </p>
+<p>9.8% of beginning equity capital (valuing securities at cost), </p>
+<p>down from 15.2% in 1981 and far below our recent high of 19.4% in </p>
+<p>1978.  This decline largely resulted from:</p>
+<p>&nbsp;</p>
+<p>     (1) a significant deterioration in insurance underwriting </p>
+<p>         results;</p>
+<p>&nbsp;</p>
+<p>     (2) a considerable expansion of equity capital without a </p>
+<p>         corresponding growth in the businesses we operate </p>
+<p>         directly; and</p>
+<p>&nbsp;</p>
+<p>     (3) a continually-enlarging commitment of our resources to </p>
+<p>         investment in partially-owned, nonoperated businesses; </p>
+<p>         accounting rules dictate that a major part of our </p>
+<p>         pro-rata share of earnings from such businesses must be </p>
+<p>         excluded from Berkshire’s reported earnings.</p>
+<p>&nbsp;</p>
+<p>     It was only a few years ago that we told you that the </p>
+<p>operating earnings/equity capital percentage, with proper </p>
+<p>allowance for a few other variables, was the most important </p>
+<p>yardstick of single-year managerial performance.  While we still </p>
+<p>believe this to be the case with the vast majority of companies, </p>
+<p>we believe its utility in our own case has greatly diminished.  </p>
+<p>You should be suspicious of such an assertion.  Yardsticks seldom </p>
+<p>are discarded while yielding favorable readings.  But when </p>
+<p>results deteriorate, most managers favor disposition of the </p>
+<p>yardstick rather than disposition of the manager.</p>
+<p>&nbsp;</p>
+<p>     To managers faced with such deterioration, a more flexible </p>
+<p>measurement system often suggests itself: just shoot the arrow of </p>
+<p>business performance into a blank canvas and then carefully draw </p>
+<p>the bullseye around the implanted arrow.  We generally believe in </p>
+<p>pre-set, long-lived and small bullseyes.  However, because of the </p>
+<p>importance of item (3) above, further explained in the following </p>
+<p>section, we believe our abandonment of the operating </p>
+<p>earnings/equity capital bullseye to be warranted.</p>
+<p>&nbsp;</p>
+<p><em>Non-Reported Ownership Earnings</em></p>
+<p>&nbsp;</p>
+<p>     The appended financial statements reflect “accounting” </p>
+<p>earnings that generally include our proportionate share of </p>
+<p>earnings from any underlying business in which our ownership is </p>
+<p>at least 20%.  Below the 20% ownership figure, however, only our </p>
+<p>share of dividends paid by the underlying business units is </p>
+<p>included in our accounting numbers; undistributed earnings of </p>
+<p>such less-than-20%-owned businesses are totally ignored.</p>
+<p>&nbsp;</p>
+<p>     There are a few exceptions to this rule; e.g., we own about </p>
+<p>35% of GEICO Corporation but, because we have assigned our voting </p>
+<p>rights, the company is treated for accounting purposes as a less-</p>
+<p>than-20% holding.  Thus, dividends received from GEICO in 1982 of </p>
+<p>$3.5 million after tax are the only item included in our </p>
+<p>“accounting”earnings.  An additional $23 million that represents </p>
+<p>our share of GEICO’s undistributed operating earnings for 1982 is </p>
+<p>totally excluded from our reported operating earnings.  If GEICO </p>
+<p>had earned less money in 1982 but had paid an additional $1 </p>
+<p>million in dividends, our reported earnings would have been </p>
+<p>larger despite the poorer business results.  Conversely, if GEICO </p>
+<p>had earned an additional $100 million - and retained it all - our </p>
+<p>reported earnings would have been unchanged.  Clearly </p>
+<p>“accounting” earnings can seriously misrepresent economic </p>
+<p>reality.</p>
+<p>&nbsp;</p>
+<p>     We prefer a concept of “economic” earnings that includes all </p>
+<p>undistributed earnings, regardless of ownership percentage.  In </p>
+<p>our view, the value to all owners of the retained earnings of a </p>
+<p>business enterprise is determined by the effectiveness with which </p>
+<p>those earnings are used - and not by the size of one’s ownership </p>
+<p>percentage.  If you have owned .01 of 1% of Berkshire during the </p>
+<p>past decade, you have benefited economically in full measure from </p>
+<p>your share of our retained earnings, no matter what your </p>
+<p>accounting system.  Proportionately, you have done just as well </p>
+<p>as if you had owned the magic 20%.  But if you have owned 100% of </p>
+<p>a great many capital-intensive businesses during the decade, </p>
+<p>retained earnings that were credited fully and with painstaking </p>
+<p>precision to you under standard accounting methods have resulted </p>
+<p>in minor or zero economic value.  This is not a criticism of </p>
+<p>accounting procedures.  We would not like to have the job of </p>
+<p>designing a better system.  It’s simply to say that managers and </p>
+<p>investors alike must understand that accounting numbers are the </p>
+<p>beginning, not the end, of business valuation.</p>
+<p>&nbsp;</p>
+<p>     In most corporations, less-than-20% ownership positions are </p>
+<p>unimportant (perhaps, in part, because they prevent maximization </p>
+<p>of cherished reported earnings) and the distinction between </p>
+<p>accounting and economic results we have just discussed matters </p>
+<p>little.  But in our own case, such positions are of very large </p>
+<p>and growing importance.  Their magnitude, we believe, is what </p>
+<p>makes our reported operating earnings figure of limited </p>
+<p>significance.</p>
+<p>&nbsp;</p>
+<p>     In our 1981 annual report we predicted that our share of </p>
+<p>undistributed earnings from four of our major non-controlled </p>
+<p>holdings would aggregate over $35 million in 1982.  With no </p>
+<p>change in our holdings of three of these companies - GEICO, </p>
+<p>General Foods and The Washington Post - and a considerable </p>
+<p>increase in our ownership of the fourth, R. J. Reynolds </p>
+<p>Industries, our share of undistributed 1982 operating earnings of </p>
+<p>this group came to well over $40 million.  This number - not </p>
+<p>reflected at all in our earnings - is greater than our total </p>
+<p>reported earnings, which include only the $14 million in </p>
+<p>dividends received from these companies.  And, of course, we have </p>
+<p>a number of smaller ownership interests that, in aggregate, had </p>
+<p>substantial additional undistributed earnings.</p>
+<p>&nbsp;</p>
+<p>      We attach real significance to the general magnitude of </p>
+<p>these numbers, but we don’t believe they should be carried to ten </p>
+<p>decimal places.  Realization by Berkshire of such retained </p>
+<p>earnings through improved market valuations is subject to very </p>
+<p>substantial, but indeterminate, taxation.  And while retained </p>
+<p>earnings over the years, and in the aggregate, have translated </p>
+<p>into at least equal market value for shareholders, the </p>
+<p>translation has been both extraordinarily uneven among companies </p>
+<p>and irregular and unpredictable in timing.</p>
+<p>&nbsp;</p>
+<p>     However, this very unevenness and irregularity offers </p>
+<p>advantages to the value-oriented purchaser of fractional portions </p>
+<p>of businesses.  This investor may select from almost the entire </p>
+<p>array of major American corporations, including many far superior </p>
+<p>to virtually any of the businesses that could be bought in their </p>
+<p>entirety in a negotiated deal.  And fractional-interest purchases </p>
+<p>can be made in an auction market where prices are set by </p>
+<p>participants with behavior patterns that sometimes resemble those </p>
+<p>of an army of manic-depressive lemmings.</p>
+<p>&nbsp;</p>
+<p>     Within this gigantic auction arena, it is our job to select </p>
+<p>businesses with economic characteristics allowing each dollar of </p>
+<p>retained earnings to be translated eventually into at least a </p>
+<p>dollar of market value.  Despite a lot of mistakes, we have so </p>
+<p>far achieved this goal.  In doing so, we have been greatly </p>
+<p>assisted by Arthur Okun’s patron saint for economists - St. </p>
+<p>Offset.  In some cases, that is, retained earnings attributable </p>
+<p>to our ownership position have had insignificant or even negative </p>
+<p>impact on market value, while in other major positions a dollar </p>
+<p>retained by an investee corporation has been translated into two </p>
+<p>or more dollars of market value.  To date, our corporate over-</p>
+<p>achievers have more than offset the laggards.  If we can continue </p>
+<p>this record, it will validate our efforts to maximize “economic” </p>
+<p>earnings, regardless of the impact upon “accounting” earnings.</p>
+<p>&nbsp;</p>
+<p>     Satisfactory as our partial-ownership approach has been, </p>
+<p>what really makes us dance is the purchase of 100% of good </p>
+<p>businesses at reasonable prices.  We’ve accomplished this feat a </p>
+<p>few times (and expect to do so again), but it is an </p>
+<p>extraordinarily difficult job - far more difficult than the </p>
+<p>purchase at attractive prices of fractional interests.</p>
+<p>&nbsp;</p>
+<p>     As we look at the major acquisitions that others made during </p>
+<p>1982, our reaction is not envy, but relief that we were non-</p>
+<p>participants.  For in many of these acquisitions, managerial </p>
+<p>intellect wilted in competition with managerial adrenaline The </p>
+<p>thrill of the chase blinded the pursuers to the consequences of </p>
+<p>the catch.  Pascal’s observation seems apt: “It has struck me </p>
+<p>that all men’s misfortunes spring from the single cause that they </p>
+<p>are unable to stay quietly in one room.”</p>
+<p>&nbsp;</p>
+<p>     (Your Chairman left the room once too often last year and </p>
+<p>almost starred in the Acquisition Follies of 1982.  In </p>
+<p>retrospect, our major accomplishment of the year was that a very </p>
+<p>large purchase to which we had firmly committed was unable to be </p>
+<p>completed for reasons totally beyond our control.  Had it come </p>
+<p>off, this transaction would have consumed extraordinary amounts </p>
+<p>of time and energy, all for a most uncertain payoff.  If we were </p>
+<p>to introduce graphics to this report, illustrating favorable </p>
+<p>business developments of the past year, two blank pages depicting </p>
+<p>this blown deal would be the appropriate centerfold.)</p>
+<p>&nbsp;</p>
+<p>     Our partial-ownership approach can be continued soundly only </p>
+<p>as long as portions of attractive businesses can be acquired at </p>
+<p>attractive prices.  We need a moderately-priced stock market to </p>
+<p>assist us in this endeavor.  The market, like the Lord, helps </p>
+<p>those who help themselves.  But, unlike the Lord, the market does </p>
+<p>not forgive those who know not what they do.  For the investor, a </p>
+<p>too-high purchase price for the stock of an excellent company can </p>
+<p>undo the effects of a subsequent decade of favorable business </p>
+<p>developments.</p>
+<p>&nbsp;</p>
+<p>     Should the stock market advance to considerably higher </p>
+<p>levels, our ability to utilize capital effectively in partial-</p>
+<p>ownership positions will be reduced or eliminated.  This will </p>
+<p>happen periodically: just ten years ago, at the height of the </p>
+<p>two-tier market mania (with high-return-on-equity businesses bid </p>
+<p>to the sky by institutional investors), Berkshire’s insurance </p>
+<p>subsidiaries owned only $18 million in market value of equities, </p>
+<p>excluding their interest in Blue Chip Stamps.  At that time, such </p>
+<p>equity holdings amounted to about 15% of our insurance company </p>
+<p>investments versus the present 80%.  There were as many good </p>
+<p>businesses around in 1972 as in 1982, but the prices the stock </p>
+<p>market placed upon those businesses in 1972 looked absurd.  While </p>
+<p>high stock prices in the future would make our performance look </p>
+<p>good temporarily, they would hurt our long-term business </p>
+<p>prospects rather than help them.  We currently are seeing early </p>
+<p>traces of this problem.</p>
+<p>&nbsp;</p>
+<p><em>Long-Term Corporate Performance</em></p>
+<p>&nbsp;</p>
+<p>     Our gain in net worth during 1982, valuing equities held by </p>
+<p>our insurance subsidiaries at market value (less capital gain </p>
+<p>taxes payable if unrealized gains were actually realized) </p>
+<p>amounted to $208 million.  On a beginning net worth base of $519 </p>
+<p>million, the percentage gain was 40%.</p>
+<p>&nbsp;</p>
+<p>     During the 18-year tenure of present management, book value </p>
+<p>has grown from $19.46 per share to $737.43 per share, or 22.0% </p>
+<p>compounded annually.  You can be certain that this percentage </p>
+<p>will diminish in the future.  Geometric progressions eventually </p>
+<p>forge their own anchors.</p>
+<p>&nbsp;</p>
+<p>     Berkshire’s economic goal remains to produce a long-term </p>
+<p>rate of return well above the return achieved by the average </p>
+<p>large American corporation.  Our willingness to purchase either </p>
+<p>partial or total ownership positions in favorably-situated </p>
+<p>businesses, coupled with reasonable discipline about the prices </p>
+<p>we are willing to pay, should give us a good chance of achieving </p>
+<p>our goal.</p>
+<p>&nbsp;</p>
+<p>     Again this year the gain in market valuation of partially-</p>
+<p>owned businesses outpaced the gain in underlying economic value </p>
+<p>of those businesses.  For example, $79 million of our $208 </p>
+<p>million gain is attributable to an increased market price for </p>
+<p>GEICO.  This company continues to do exceptionally well, and we </p>
+<p>are more impressed than ever by the strength of GEICO’s basic </p>
+<p>business idea and by the management skills of Jack Byrne. </p>
+<p>(Although not found in the catechism of the better business </p>
+<p>schools, “Let Jack Do It” works fine as a corporate creed for </p>
+<p>us.)</p>
+<p>&nbsp;</p>
+<p>     However, GEICO’s increase in market value during the past </p>
+<p>two years has been considerably greater than the gain in its </p>
+<p>intrinsic business value, impressive as the latter has been.  We </p>
+<p>expected such a favorable variation at some point, as the </p>
+<p>perception of investors converged with business reality.  And we </p>
+<p>look forward to substantial future gains in underlying business </p>
+<p>value accompanied by irregular, but eventually full, market </p>
+<p>recognition of such gains.</p>
+<p>&nbsp;</p>
+<p>     Year-to-year variances, however, cannot consistently be in </p>
+<p>our favor.  Even if our partially-owned businesses continue to </p>
+<p>perform well in an economic sense, there will be years when they </p>
+<p>perform poorly in the market.  At such times our net worth could </p>
+<p>shrink significantly.  We will not be distressed by such a </p>
+<p>shrinkage; if the businesses continue to look attractive and we </p>
+<p>have cash available, we simply will add to our holdings at even </p>
+<p>more favorable prices.</p>
+<p>&nbsp;</p>
+<p><em>Sources of Reported Earnings</em></p>
+<p>&nbsp;</p>
+<p>     The table below shows the sources of Berkshire’s reported </p>
+<p>earnings.  In 1981 and 1982 Berkshire owned about 60% of Blue </p>
+<p>Chip Stamps which, in turn, owned 80% of Wesco Financial </p>
+<p>Corporation.  The table displays aggregate operating earnings of </p>
+<p>the various business entities, as well as Berkshire’s share of </p>
+<p>those earnings.  All of the significant gains and losses </p>
+<p>attributable to unusual sales of assets by any of the business </p>
+<p>entities are aggregated with securities transactions in the line </p>
+<p>near the bottom of the table, and are not included in operating </p>
+<p>earnings.</p>
+<p><em>                                                                         Net Earnings</em></p>
+<p><em>                                   Earnings Before Income Taxes            After Tax</em></p>
+<p><em>                              --------------------------------------  ------------------</em></p>
+<p><em>                                    Total          Berkshire Share     Berkshire Share</em></p>
+<p><em>                              ------------------  ------------------  ------------------</em></p>
+<p><em>                                1982      1981      1982      1981      1982      1981</em></p>
+<p><em>                              --------  --------  --------  --------  --------  --------</em></p>
+<p><em>                                                    (000s omitted)</em></p>
+<p>Operating Earnings:</p>
+<p>  Insurance Group:</p>
+<p>    Underwriting ............ $(21,558)  $ 1,478  $(21,558)  $ 1,478  $(11,345)  $   798</p>
+<p>    Net Investment Income ...   41,620    38,823    41,620    38,823    35,270    32,401</p>
+<p>  Berkshire-Waumbec Textiles    (1,545)   (2,669)   (1,545)   (2,669)     (862)   (1,493)</p>
+<p>  Associated Retail Stores ..      914     1,763       914     1,763       446       759</p>
+<p>  See’s Candies .............   23,884    20,961    14,235    12,493     6,914     5,910</p>
+<p>  Buffalo Evening News ......   (1,215)   (1,217)     (724)     (725)     (226)     (320)</p>
+<p>  Blue Chip Stamps - Parent      4,182     3,642     2,492     2,171     2,472     2,134</p>
+<p>  Wesco Financial - Parent ..    6,156     4,495     2,937     2,145     2,210     1,590</p>
+<p>  Mutual Savings and Loan ...       (6)    1,605        (2)      766     1,524     1,536</p>
+<p>  Precision Steel ...........    1,035     3,453       493     1,648       265       841</p>
+<p>  Interest on Debt ..........  (14,996)  (14,656)  (12,977)  (12,649)   (6,951)   (6,671)</p>
+<p>  Other* ....................    2,631     2,985     1,857     1,992     1,780     1,936</p>
+<p>                              --------  --------  --------  --------  --------  --------</p>
+<p>Operating Earnings ..........   41,102    60,663    27,742    47,236    31,497    39,421</p>
+<p>Sales of securities and</p>
+<p>   unusual sales of assets ..   36,651    37,801    21,875    33,150    14,877    23,183</p>
+<p>                              --------  --------  --------  --------  --------  --------</p>
+<p>Total Earnings - all entities $ 77,753  $ 98,464  $ 49,617  $ 80,386  $ 46,374  $ 62,604</p>
+<p>                              ========  ========  ========  ========  ========  ========</p>
+<p>&nbsp;</p>
+<p>* Amortization of intangibles arising in accounting for purchases </p>
+<p>  of businesses (i.e. See’s, Mutual and Buffalo Evening News) is </p>
+<p>  reflected in the category designated as “Other”.</p>
+<p>&nbsp;</p>
+<p>     On pages 45-61 of this report we have reproduced the </p>
+<p>narrative reports of the principal executives of Blue Chip and </p>
+<p>Wesco, in which they describe 1982 operations.  A copy of the </p>
+<p>full annual report of either company will be mailed to any </p>
+<p>Berkshire shareholder upon request to Mr. Robert H. Bird for </p>
+<p>Blue Chip Stamps, 5801 South Eastern Avenue, Los Angeles, </p>
+<p>California 90040, or to Mrs. Jeanne Leach for Wesco Financial </p>
+<p>Corporation, 315 East Colorado Boulevard, Pasadena, California </p>
+<p>91109.</p>
+<p>&nbsp;</p>
+<p>     I believe you will find the Blue Chip chronicle of </p>
+<p>developments in the Buffalo newspaper situation particularly </p>
+<p>interesting.  There are now only 14 cities in the United States </p>
+<p>with a daily newspaper whose weekday circulation exceeds that of </p>
+<p>the Buffalo News.  But the real story has been the growth in </p>
+<p>Sunday circulation.  Six years ago, prior to introduction of a </p>
+<p>Sunday edition of the News, the long-established Courier-Express, </p>
+<p>as the only Sunday newspaper published in Buffalo, had </p>
+<p>circulation of 272,000.  The News now has Sunday circulation of </p>
+<p>367,000, a 35% gain - even though the number of households within </p>
+<p>the primary circulation area has shown little change during the </p>
+<p>six years.  We know of no city in the United States with a long </p>
+<p>history of seven-day newspaper publication in which the </p>
+<p>percentage of households purchasing the Sunday newspaper has </p>
+<p>grown at anything like this rate.  To the contrary, in most </p>
+<p>cities household penetration figures have grown negligibly, or </p>
+<p>not at all.  Our key managers in Buffalo - Henry Urban, Stan </p>
+<p>Lipsey, Murray Light, Clyde Pinson, Dave Perona and Dick Feather </p>
+<p>- deserve great credit for this unmatched expansion in Sunday </p>
+<p>readership.</p>
+<p>&nbsp;</p>
+<p>     As we indicated earlier, undistributed earnings in companies </p>
+<p>we do not control are now fully as important as the reported </p>
+<p>operating earnings detailed in the preceding table.  The </p>
+<p>distributed portion of non-controlled earnings, of course, finds </p>
+<p>its way into that table primarily through the net investment </p>
+<p>income segment of Insurance Group earnings.</p>
+<p>&nbsp;</p>
+<p>     We show below Berkshire’s proportional holdings in those </p>
+<p>non-controlled businesses for which only distributed earnings </p>
+<p>(dividends) are included in our earnings.</p>
+<p><em>No. of Shares</em></p>
+<p><em>or Share Equiv.                                          Cost       Market  </em></p>
+<p><em>---------------                                       ----------  ----------</em></p>
+<p><em>                                                          (000s omitted)</em></p>
+<p>   460,650 (a)   Affiliated Publications, Inc. ......  $  3,516    $ 16,929</p>
+<p>   908,800 (c)   Crum & Forster .....................    47,144      48,962</p>
+<p> 2,101,244 (b)   General Foods, Inc. ................    66,277      83,680</p>
+<p> 7,200,000 (a)   GEICO Corporation ..................    47,138     309,600</p>
+<p> 2,379,200 (a)   Handy & Harman .....................    27,318      46,692</p>
+<p>   711,180 (a)   Interpublic Group of Companies, Inc.     4,531      34,314</p>
+<p>   282,500 (a)   Media General ......................     4,545      12,289</p>
+<p>   391,400 (a)   Ogilvy & Mather Int’l. Inc. ........     3,709      17,319</p>
+<p> 3,107,675 (b)   R. J. Reynolds Industries ..........   142,343     158,715</p>
+<p> 1,531,391 (a)   Time, Inc. .........................    45,273      79,824</p>
+<p> 1,868,600 (a)   The Washington Post Company ........    10,628     103,240</p>
+<p>                                                      ----------  ----------</p>
+<p>                                                       $402,422    $911,564</p>
+<p>                 All Other Common Stockholdings .....    21,611      34,058</p>
+<p>                                                      ----------  ----------                                                        </p>
+<p>                 Total Common Stocks                   $424,033    $945,622</p>
+<p>                                                      ==========  ==========</p>
+<p>&nbsp;</p>
+<p>(a) All owned by Berkshire or its insurance subsidiaries.</p>
+<p>&nbsp;</p>
+<p>(b) Blue Chip and/or Wesco own shares of these companies.  All </p>
+<p>    numbers represent Berkshire’s net interest in the larger </p>
+<p>    gross holdings of the group.</p>
+<p>&nbsp;</p>
+<p>(c) Temporary holding as cash substitute.</p>
+<p>&nbsp;</p>
+<p>     In case you haven’t noticed, there is an important </p>
+<p>investment lesson to be derived from this table: nostalgia should </p>
+<p>be weighted heavily in stock selection.  Our two largest </p>
+<p>unrealized gains are in Washington Post and GEICO, companies with </p>
+<p>which your Chairman formed his first commercial connections at </p>
+<p>the ages of 13 and 20, respectively After straying for roughly 25 </p>
+<p>years, we returned as investors in the mid-1970s.  The table </p>
+<p>quantifies the rewards for even long-delayed corporate fidelity. </p>
+<p>&nbsp;</p>
+<p>     Our controlled and non-controlled businesses operate over </p>
+<p>such a wide spectrum that detailed commentary here would prove </p>
+<p>too lengthy.  Much financial and operational information </p>
+<p>regarding the controlled businesses is included in Management’s </p>
+<p>Discussion on pages 34-39, and in the narrative reports on pages </p>
+<p>45-61.  However, our largest area of business activity has been, </p>
+<p>and almost certainly will continue to be, the property-casualty </p>
+<p>insurance area.  So commentary on developments in that industry </p>
+<p>is appropriate.</p>
+<p>&nbsp;</p>
+<p><em>Insurance Industry Conditions</em></p>
+<p>&nbsp;</p>
+<p>     We show below an updated table of the industry statistics we </p>
+<p>utilized in last year’s annual report.  Its message is clear: </p>
+<p>underwriting results in 1983 will not be a sight for the </p>
+<p>squeamish.</p>
+<p><em>                      Yearly Change     Yearly Change      Combined Ratio</em></p>
+<p><em>                       in Premiums       in Premiums        after Policy-</em></p>
+<p><em>                       Written (%)        Earned (%)      holder Dividends</em></p>
+<p>                      -------------     -------------     ----------------</p>
+<p>1972 ................     10.2              10.9                96.2</p>
+<p>1973 ................      8.0               8.8                99.2</p>
+<p>1974 ................      6.2               6.9               105.4</p>
+<p>1975 ................     11.0               9.6               107.9</p>
+<p>1976 ................     21.9              19.4               102.4</p>
+<p>1977 ................     19.8              20.5                97.2</p>
+<p>1978 ................     12.8              14.3                97.5</p>
+<p>1979 ................     10.3              10.4               100.6</p>
+<p>1980 ................      6.0               7.8               103.1</p>
+<p>1981 (Rev.) .........      3.9               4.1               106.0</p>
+<p>1982 (Est.) .........      5.1               4.6               109.5</p>
+<p>&nbsp;</p>
+<p><em>Source:   Best’s Aggregates and Averages.</em></p>
+<p>&nbsp;</p>
+<p>     The Best’s data reflect the experience of practically the </p>
+<p>entire industry, including stock, mutual and reciprocal </p>
+<p>companies.  The combined ratio represents total operating and </p>
+<p>loss costs as compared to revenue from premiums; a ratio below </p>
+<p>100 indicates an underwriting profit, and one above 100 indicates </p>
+<p>a loss.</p>
+<p>&nbsp;</p>
+<p>     For reasons outlined in last year’s report, as long as the </p>
+<p>annual gain in industry premiums written falls well below 10%, </p>
+<p>you can expect the underwriting picture in the next year to </p>
+<p>deteriorate.  This will be true even at today’s lower general </p>
+<p>rate of inflation.  With the number of policies increasing </p>
+<p>annually, medical inflation far exceeding general inflation, and </p>
+<p>concepts of insured liability broadening, it is highly unlikely </p>
+<p>that yearly increases in insured losses will fall much below 10%.  </p>
+<p>&nbsp;</p>
+<p>     You should be further aware that the 1982 combined ratio of </p>
+<p>109.5 represents a “best case” estimate.  In a given year, it is </p>
+<p>possible for an insurer to show almost any profit number it </p>
+<p>wishes, particularly if it (1) writes “long-tail” business </p>
+<p>(coverage where current costs can be only estimated, because </p>
+<p>claim payments are long delayed), (2) has been adequately </p>
+<p>reserved in the past, or (3)is growing very rapidly.  There are </p>
+<p>indications that several large insurers opted in 1982 for obscure </p>
+<p>accounting and reserving maneuvers that masked significant </p>
+<p>deterioration in their underlying businesses.  In insurance, as </p>
+<p>elsewhere, the reaction of weak managements to weak operations is </p>
+<p>often weak accounting. (“It’s difficult for an empty sack to </p>
+<p>stand upright.”)</p>
+<p>&nbsp;</p>
+<p>     The great majority of managements, however, try to play it </p>
+<p>straight.  But even managements of integrity may subconsciously </p>
+<p>be less willing in poor profit years to fully recognize adverse </p>
+<p>loss trends.  Industry statistics indicate some deterioration in </p>
+<p>loss reserving practices during 1982 and the true combined ratio </p>
+<p>is likely to be modestly worse than indicated by our table.</p>
+<p>&nbsp;</p>
+<p>     The conventional wisdom is that 1983 or 1984 will see the </p>
+<p>worst of underwriting experience and then, as in the past, the </p>
+<p>“cycle” will move, significantly and steadily, toward better </p>
+<p>results.  We disagree because of a pronounced change in the </p>
+<p>competitive environment, hard to see for many years but now quite </p>
+<p>visible.</p>
+<p>&nbsp;</p>
+<p>     To understand the change, we need to look at some major </p>
+<p>factors that affect levels of corporate profitability generally.  </p>
+<p>Businesses in industries with both substantial over-capacity and </p>
+<p>a “commodity” product (undifferentiated in any customer-important </p>
+<p>way by factors such as performance, appearance, service support, </p>
+<p>etc.) are prime candidates for profit troubles.  These may be </p>
+<p>escaped, true, if prices or costs are administered in some manner </p>
+<p>and thereby insulated at least partially from normal market </p>
+<p>forces.  This administration can be carried out (a) legally </p>
+<p>through government intervention (until recently, this category </p>
+<p>included pricing for truckers and deposit costs for financial </p>
+<p>institutions), (b) illegally through collusion, or (c) “extra-</p>
+<p>legally” through OPEC-style foreign cartelization (with tag-along </p>
+<p>benefits for domestic non-cartel operators).</p>
+<p>&nbsp;</p>
+<p>     If, however, costs and prices are determined by full-bore </p>
+<p>competition, there is more than ample capacity, and the buyer </p>
+<p>cares little about whose product or distribution services he </p>
+<p>uses, industry economics are almost certain to be unexciting.  </p>
+<p>They may well be disastrous.</p>
+<p>&nbsp;</p>
+<p>     Hence the constant struggle of every vendor to establish and </p>
+<p>emphasize special qualities of product or service.  This works </p>
+<p>with candy bars (customers buy by brand name, not by asking for a </p>
+<p>“two-ounce candy bar”) but doesn’t work with sugar (how often do </p>
+<p>you hear, “I’ll have a cup of coffee with cream and C & H sugar, </p>
+<p>please”).</p>
+<p>&nbsp;</p>
+<p>     In many industries, differentiation simply can’t be made </p>
+<p>meaningful.  A few producers in such industries may consistently </p>
+<p>do well if they have a cost advantage that is both wide and </p>
+<p>sustainable.  By definition such exceptions are few, and, in many </p>
+<p>industries, are non-existent.  For the great majority of </p>
+<p>companies selling “commodity”products, a depressing equation of </p>
+<p>business economics prevails: persistent over-capacity without </p>
+<p>administered prices (or costs) equals poor profitability.</p>
+<p>&nbsp;</p>
+<p>     Of course, over-capacity may eventually self-correct, either </p>
+<p>as capacity shrinks or demand expands.  Unfortunately for the </p>
+<p>participants, such corrections often are long delayed.  When they </p>
+<p>finally occur, the rebound to prosperity frequently produces a </p>
+<p>pervasive enthusiasm for expansion that, within a few years, </p>
+<p>again creates over-capacity and a new profitless environment.  In </p>
+<p>other words, nothing fails like success.</p>
+<p>&nbsp;</p>
+<p>     What finally determines levels of long-term profitability in </p>
+<p>such industries is the ratio of supply-tight to supply-ample </p>
+<p>years.  Frequently that ratio is dismal. (It seems as if the most </p>
+<p>recent supply-tight period in our textile business - it occurred </p>
+<p>some years back - lasted the better part of a morning.)</p>
+<p>&nbsp;</p>
+<p>     In some industries, however, capacity-tight conditions can </p>
+<p>last a long time.  Sometimes actual growth in demand will outrun </p>
+<p>forecasted growth for an extended period.  In other cases, adding </p>
+<p>capacity requires very long lead times because complicated </p>
+<p>manufacturing facilities must be planned and built.</p>
+<p>&nbsp;</p>
+<p>     But in the insurance business, to return to that subject, </p>
+<p>capacity can be instantly created by capital plus an </p>
+<p>underwriter’s willingness to sign his name. (Even capital is less </p>
+<p>important in a world in which state-sponsored guaranty funds </p>
+<p>protect many policyholders against insurer insolvency.) Under </p>
+<p>almost all conditions except that of fear for survival - </p>
+<p>produced, perhaps, by a stock market debacle or a truly major </p>
+<p>natural disaster - the insurance industry operates under the </p>
+<p>competitive sword of substantial overcapacity.  Generally, also, </p>
+<p>despite heroic attempts to do otherwise, the industry sells a </p>
+<p>relatively undifferentiated commodity-type product. (Many </p>
+<p>insureds, including the managers of large businesses, do not even </p>
+<p>know the names of their insurers.) Insurance, therefore, would </p>
+<p>seem to be a textbook case of an industry usually faced with the </p>
+<p>deadly combination of excess capacity and a “commodity” product.</p>
+<p>&nbsp;</p>
+<p>     Why, then, was underwriting, despite the existence of </p>
+<p>cycles, generally profitable over many decades? (From 1950 </p>
+<p>through 1970, the industry combined ratio averaged 99.0.  </p>
+<p>allowing all investment income plus 1% of premiums to flow </p>
+<p>through to profits.) The answer lies primarily in the historic </p>
+<p>methods of regulation and distribution.  For much of this </p>
+<p>century, a large portion of the industry worked, in effect, </p>
+<p>within a legal quasi-administered pricing system fostered by </p>
+<p>insurance regulators.  While price competition existed, it was </p>
+<p>not pervasive among the larger companies.  The main competition </p>
+<p>was for agents, who were courted via various non-price-related </p>
+<p>strategies.</p>
+<p>&nbsp;</p>
+<p>     For the giants of the industry, most rates were set through </p>
+<p>negotiations between industry “bureaus” (or through companies </p>
+<p>acting in accord with their recommendations) and state </p>
+<p>regulators.  Dignified haggling occurred, but it was between </p>
+<p>company and regulator rather than between company and customer.  </p>
+<p>When the dust settled, Giant A charged the same price as Giant B </p>
+<p>- and both companies and agents were prohibited by law from </p>
+<p>cutting such filed rates.</p>
+<p>&nbsp;</p>
+<p>     The company-state negotiated prices included specific profit </p>
+<p>allowances and, when loss data indicated that current prices were </p>
+<p>unprofitable, both company managements and state regulators </p>
+<p>expected that they would act together to correct the situation.  </p>
+<p>Thus, most of the pricing actions of the giants of the industry </p>
+<p>were “gentlemanly”, predictable, and profit-producing.  Of prime </p>
+<p>importance - and in contrast to the way most of the business </p>
+<p>world operated - insurance companies could legally price their </p>
+<p>way to profitability even in the face of substantial over-</p>
+<p>capacity.</p>
+<p>&nbsp;</p>
+<p>     That day is gone.  Although parts of the old structure </p>
+<p>remain, far more than enough new capacity exists outside of that </p>
+<p>structure to force all parties, old and new, to respond.  The new </p>
+<p>capacity uses various methods of distribution and is not </p>
+<p>reluctant to use price as a prime competitive weapon.  Indeed, it </p>
+<p>relishes that use.  In the process, customers have learned that </p>
+<p>insurance is no longer a one-price business.  They won’t forget.</p>
+<p>&nbsp;</p>
+<p>     Future profitability of the industry will be determined by </p>
+<p>current competitive characteristics, not past ones.  Many </p>
+<p>managers have been slow to recognize this.  It’s not only </p>
+<p>generals that prefer to fight the last war.  Most business and </p>
+<p>investment analysis also comes from the rear-view mirror.  It </p>
+<p>seems clear to us, however, that only one condition will allow </p>
+<p>the insurance industry to achieve significantly improved </p>
+<p>underwriting results.  That is the same condition that will allow </p>
+<p>better results for the aluminum, copper, or corn producer - a </p>
+<p>major narrowing of the gap between demand and supply.</p>
+<p>&nbsp;</p>
+<p>     Unfortunately, there can be no surge in demand for insurance </p>
+<p>policies comparable to one that might produce a market tightness </p>
+<p>in copper or aluminum.  Rather, the supply of available insurance </p>
+<p>coverage must be curtailed.  “Supply”, in this context, is mental </p>
+<p>rather than physical: plants or companies need not be shut; only </p>
+<p>the willingness of underwriters to sign their names need be </p>
+<p>curtailed.</p>
+<p>&nbsp;</p>
+<p>     This contraction will not happen because of generally poor </p>
+<p>profit levels.  Bad profits produce much hand-wringing and </p>
+<p>finger-pointing.  But they do not lead major sources of insurance </p>
+<p>capacity to turn their backs on very large chunks of business, </p>
+<p>thereby sacrificing market share and industry significance.</p>
+<p>&nbsp;</p>
+<p>     Instead, major capacity withdrawals require a shock factor </p>
+<p>such as a natural or financial “megadisaster”.  One might occur </p>
+<p>tomorrow - or many years from now.  The insurance business - even </p>
+<p>taking investment income into account - will not be particularly </p>
+<p>profitable in the meantime.</p>
+<p>&nbsp;</p>
+<p>     When supply ultimately contracts, large amounts of business </p>
+<p>will be available for the few with large capital capacity, a </p>
+<p>willingness to commit it, and an in-place distribution system.  </p>
+<p>We would expect great opportunities for our insurance </p>
+<p>subsidiaries at such a time.</p>
+<p>&nbsp;</p>
+<p>     During 1982, our insurance underwriting deteriorated far </p>
+<p>more than did the industry’s.  From a profit position well above </p>
+<p>average, we, slipped to a performance modestly below average.  </p>
+<p>The biggest swing was in National Indemnity’s traditional </p>
+<p>coverages.  Lines that have been highly profitable for us in the </p>
+<p>past are now priced at levels that guarantee underwriting losses.  </p>
+<p>In 1983 we expect our insurance group to record an average </p>
+<p>performance in an industry in which average is very poor.</p>
+<p>&nbsp;</p>
+<p>     Two of our stars, Milt Thornton at Cypress and Floyd Taylor </p>
+<p>at Kansas Fire and Casualty, continued their outstanding records </p>
+<p>of producing an underwriting profit every year since joining us.  </p>
+<p>Both Milt and Floyd simply are incapable of being average.  They </p>
+<p>maintain a passionately proprietary attitude toward their </p>
+<p>operations and have developed a business culture centered upon </p>
+<p>unusual cost-consciousness and customer service.  It shows on </p>
+<p>their scorecards.</p>
+<p>&nbsp;</p>
+<p>     During 1982, parent company responsibility for most of our </p>
+<p>insurance operations was given to Mike Goldberg.  Planning, </p>
+<p>recruitment, and monitoring all have shown significant </p>
+<p>improvement since Mike replaced me in this role.</p>
+<p>&nbsp;</p>
+<p>     GEICO continues to be managed with a zeal for efficiency and </p>
+<p>value to the customer that virtually guarantees unusual success.  </p>
+<p>Jack Byrne and Bill Snyder are achieving the most elusive of </p>
+<p>human goals - keeping things simple and remembering what you set </p>
+<p>out to do.  In Lou Simpson, additionally, GEICO has the best </p>
+<p>investment manager in the property-casualty business.  We are </p>
+<p>happy with every aspect of this operation.  GEICO is a </p>
+<p>magnificent illustration of the high-profit exception we </p>
+<p>described earlier in discussing commodity industries with over-</p>
+<p>capacity - a company with a wide and sustainable cost advantage.  </p>
+<p>Our 35% interest in GEICO represents about $250 million of </p>
+<p>premium volume, an amount considerably greater than all of the </p>
+<p>direct volume we produce.</p>
+<p>&nbsp;</p>
+<p><em>Issuance of Equity</em></p>
+<p>&nbsp;</p>
+<p>     Berkshire and Blue Chip are considering merger in 1983.  If </p>
+<p>it takes place, it will involve an exchange of stock based upon </p>
+<p>an identical valuation method applied to both companies.  The one </p>
+<p>other significant issuance of shares by Berkshire or its </p>
+<p>affiliated companies that occurred during present management’s </p>
+<p>tenure was in the 1978 merger of Berkshire with Diversified </p>
+<p>Retailing Company.</p>
+<p>&nbsp;</p>
+<p>     Our share issuances follow a simple basic rule: we will not </p>
+<p>issue shares unless we receive as much intrinsic business value </p>
+<p>as we give.  Such a policy might seem axiomatic.  Why, you might </p>
+<p>ask, would anyone issue dollar bills in exchange for fifty-cent </p>
+<p>pieces?  Unfortunately, many corporate managers have been willing </p>
+<p>to do just that.</p>
+<p>&nbsp;</p>
+<p>     The first choice of these managers in making acquisitions </p>
+<p>may be to use cash or debt.  But frequently the CEO’s cravings </p>
+<p>outpace cash and credit resources (certainly mine always have).  </p>
+<p>Frequently, also, these cravings occur when his own stock is </p>
+<p>selling far below intrinsic business value.  This state of </p>
+<p>affairs produces a moment of truth.  At that point, as Yogi Berra </p>
+<p>has said, “You can observe a lot just by watching.” For </p>
+<p>shareholders then will find which objective the management truly </p>
+<p>prefers - expansion of domain or maintenance of owners’ wealth.</p>
+<p>&nbsp;</p>
+<p>     The need to choose between these objectives occurs for some </p>
+<p>simple reasons.  Companies often sell in the stock market below </p>
+<p>their intrinsic business value.  But when a company wishes to </p>
+<p>sell out completely, in a negotiated transaction, it inevitably </p>
+<p>wants to - and usually can - receive full business value in </p>
+<p>whatever kind of currency the value is to be delivered.  If cash </p>
+<p>is to be used in payment, the seller’s calculation of value </p>
+<p>received couldn’t be easier.  If stock of the buyer is to be the </p>
+<p>currency, the seller’s calculation is still relatively easy: just </p>
+<p>figure the market value in cash of what is to be received in </p>
+<p>stock.</p>
+<p>&nbsp;</p>
+<p>     Meanwhile, the buyer wishing to use his own stock as </p>
+<p>currency for the purchase has no problems if the stock is selling </p>
+<p>in the market at full intrinsic value.</p>
+<p>&nbsp;</p>
+<p>     But suppose it is selling at only half intrinsic value.  In </p>
+<p>that case, the buyer is faced with the unhappy prospect of using </p>
+<p>a substantially undervalued currency to make its purchase.</p>
+<p>&nbsp;</p>
+<p>     Ironically, were the buyer to instead be a seller of its </p>
+<p>entire business, it too could negotiate for, and probably get, </p>
+<p>full intrinsic business value.  But when the buyer makes a </p>
+<p>partial sale of itself - <em>and that is what the issuance of shares </em></p>
+<p><em>to make an acquisition amounts to</em> - it can customarily get no </p>
+<p>higher value set on its shares than the market chooses to grant </p>
+<p>it.</p>
+<p>&nbsp;</p>
+<p>     The acquirer who nevertheless barges ahead ends up using an </p>
+<p>undervalued (market value) currency to pay for a fully valued </p>
+<p>(negotiated value) property.  In effect, the acquirer must give </p>
+<p>up $2 of value to receive $1 of value.  Under such circumstances, </p>
+<p>a marvelous business purchased at a fair sales price becomes a </p>
+<p>terrible buy.  For gold valued as gold cannot be purchased </p>
+<p>intelligently through the utilization of gold - or even silver - </p>
+<p>valued as lead.</p>
+<p>&nbsp;</p>
+<p>     If, however, the thirst for size and action is strong </p>
+<p>enough, the acquirer’s manager will find ample rationalizations </p>
+<p>for such a value-destroying issuance of stock.  Friendly </p>
+<p>investment bankers will reassure him as to the soundness of his </p>
+<p>actions. (Don’t ask the barber whether you need a haircut.)</p>
+<p>&nbsp;</p>
+<p>     A few favorite rationalizations employed by stock-issuing </p>
+<p>managements follow:</p>
+<p>&nbsp;</p>
+<p>     (a) “The company we’re buying is going to be worth a lot </p>
+<p>         more in the future.” (Presumably so is the interest in </p>
+<p>         the old business that is being traded away; future </p>
+<p>         prospects are implicit in the business valuation </p>
+<p>         process.  If 2X is issued for X, the imbalance still </p>
+<p>         exists when both parts double in business value.)</p>
+<p>&nbsp;</p>
+<p>     (b) “We have to grow.” (Who, it might be asked, is the “we”?  </p>
+<p>         For present shareholders, the reality is that all </p>
+<p>         existing businesses shrink when shares are issued.  Were </p>
+<p>         Berkshire to issue shares tomorrow for an acquisition, </p>
+<p>         Berkshire would own everything that it now owns plus the </p>
+<p>         new business, but <em>your</em> interest in such hard-to-match </p>
+<p>         businesses as See’s Candy Shops, National Indemnity, </p>
+<p>         etc. would automatically be reduced.  If (1) your family </p>
+<p>         owns a 120-acre farm and (2)  you invite a neighbor with </p>
+<p>         60 acres of comparable land to merge his farm into an </p>
+<p>         equal partnership - with you to be managing partner, </p>
+<p>         then (3) your managerial domain will have grown to 180 </p>
+<p>         acres but you will have permanently shrunk by 25% your </p>
+<p>         family’s ownership interest in both acreage and crops.  </p>
+<p>         Managers who want to expand their domain at the expense </p>
+<p>         of owners might better consider a career in government.)</p>
+<p>&nbsp;</p>
+<p>     (c) “Our stock is undervalued and we’ve minimized its use in </p>
+<p>         this deal - but we need to give the selling shareholders </p>
+<p>         51% in stock and 49% in cash so that certain of those </p>
+<p>         shareholders can get the tax-free exchange they want.” </p>
+<p>         (This argument acknowledges that it is beneficial to the </p>
+<p>         acquirer to hold down the issuance of shares, and we like </p>
+<p>         that.  But if it hurts the old owners to utilize shares </p>
+<p>         on a 100% basis, it very likely hurts on a 51% basis.  </p>
+<p>         After all, a man is not charmed if a spaniel defaces his </p>
+<p>         lawn, just because it’s a spaniel and not a St. Bernard.  </p>
+<p>         And the wishes of sellers can’t be the determinant of the </p>
+<p>         best interests of the buyer - what would happen if, </p>
+<p>         heaven forbid, the seller insisted that as a condition of </p>
+<p>         merger the CEO of the acquirer be replaced?)</p>
+<p>&nbsp;</p>
+<p>     There are three ways to avoid destruction of value for old </p>
+<p>owners when shares are issued for acquisitions.  One is to have a </p>
+<p>true business-value-for-business-value merger, such as the </p>
+<p>Berkshire-Blue Chip combination is intended to be.  Such a merger </p>
+<p>attempts to be fair to shareholders of <em>both</em> parties, with each </p>
+<p>receiving just as much as it gives in terms of intrinsic business </p>
+<p>value.  The Dart Industries-Kraft and Nabisco Standard Brands </p>
+<p>mergers appeared to be of this type, but they are the exceptions.  </p>
+<p>It’s not that acquirers wish to avoid such deals; it’s just that </p>
+<p>they are very hard to do.</p>
+<p>&nbsp;</p>
+<p>     The second route presents itself when the acquirer’s stock </p>
+<p>sells at or above its intrinsic business value.  In that </p>
+<p>situation, the use of stock as currency actually may enhance the </p>
+<p>wealth of the acquiring company’s owners.  Many mergers were </p>
+<p>accomplished on this basis in the 1965-69 period.  The results </p>
+<p>were the converse of most of the activity since 1970: the </p>
+<p>shareholders of the <em>acquired</em> company received very inflated </p>
+<p>currency (frequently pumped up by dubious accounting and </p>
+<p>promotional techniques) and were the losers of wealth through </p>
+<p>such transactions.</p>
+<p>&nbsp;</p>
+<p>     During recent years the second solution has been available </p>
+<p>to very few large companies.  The exceptions have primarily been </p>
+<p>those companies in glamorous or promotional businesses to which </p>
+<p>the market temporarily attaches valuations at or above intrinsic </p>
+<p>business valuation.</p>
+<p>&nbsp;</p>
+<p>     The third solution is for the acquirer to go ahead with the </p>
+<p>acquisition, but then subsequently repurchase a quantity of </p>
+<p>shares equal to the number issued in the merger.  In this manner, </p>
+<p>what originally was a stock-for-stock merger can be converted, </p>
+<p>effectively, into a cash-for-stock acquisition.  Repurchases of </p>
+<p>this kind are damage-repair moves.  Regular readers will </p>
+<p>correctly guess that we much prefer repurchases that directly </p>
+<p>enhance the wealth of owners instead of repurchases that merely </p>
+<p>repair previous damage.  Scoring touchdowns is more exhilarating </p>
+<p>than recovering one’s fumbles.  But, when a fumble has occurred, </p>
+<p>recovery is important and we heartily recommend damage-repair </p>
+<p>repurchases that turn a bad stock deal into a fair cash deal.</p>
+<p>&nbsp;</p>
+<p>     The language utilized in mergers tends to confuse the issues </p>
+<p>and encourage irrational actions by managers.  For example, </p>
+<p>“dilution” is usually carefully calculated on a pro forma basis </p>
+<p>for both book value and current earnings per share.  Particular </p>
+<p>emphasis is given to the latter item.  When that calculation is </p>
+<p>negative (dilutive) from the acquiring company’s standpoint, a </p>
+<p>justifying explanation will be made (internally, if not </p>
+<p>elsewhere) that the lines will cross favorably at some point in </p>
+<p>the future. (While deals often fail in practice, they never fail </p>
+<p>in projections - if the CEO is visibly panting over a prospective </p>
+<p>acquisition, subordinates and consultants will supply the </p>
+<p>requisite projections to rationalize any price.) Should the </p>
+<p>calculation produce numbers that are immediately positive - that </p>
+<p>is, anti-dilutive - for the acquirer, no comment is thought to be </p>
+<p>necessary.</p>
+<p>&nbsp;</p>
+<p>     The attention given this form of dilution is overdone: </p>
+<p>current earnings per share (or even earnings per share of the </p>
+<p>next few years) are an important variable in most business </p>
+<p>valuations, but far from all powerful.</p>
+<p>&nbsp;</p>
+<p>     There have been plenty of mergers, non-dilutive in this </p>
+<p>limited sense, that were instantly value destroying for the </p>
+<p>acquirer.  And some mergers that have diluted current and near-</p>
+<p>term earnings per share have in fact been value-enhancing.  What </p>
+<p>really counts is whether a merger is dilutive or anti-dilutive in </p>
+<p>terms of intrinsic business value (a judgment involving </p>
+<p>consideration of many variables).  We believe calculation of </p>
+<p>dilution from this viewpoint to be all-important (and too seldom </p>
+<p>made).</p>
+<p>&nbsp;</p>
+<p>     A second language problem relates to the equation of </p>
+<p>exchange.  If Company A announces that it will issue shares to </p>
+<p>merge with Company B, the process is customarily described as </p>
+<p>“Company A to Acquire Company B”, or “B Sells to A”.  Clearer </p>
+<p>thinking about the matter would result if a more awkward but more </p>
+<p>accurate description were used: “Part of A sold to acquire B”, or </p>
+<p>“Owners of B to receive part of A in exchange for their </p>
+<p>properties”.  In a trade, what you are giving is just as </p>
+<p>important as what you are getting.  This remains true even when </p>
+<p>the final tally on what is being given is delayed.  Subsequent </p>
+<p>sales of common stock or convertible issues, either to complete </p>
+<p>the financing for a deal or to restore balance sheet strength, </p>
+<p>must be fully counted in evaluating the fundamental mathematics </p>
+<p>of the original acquisition. (If corporate pregnancy is going to </p>
+<p>be the consequence of corporate mating, the time to face that </p>
+<p>fact is before the moment of ecstasy.)</p>
+<p>&nbsp;</p>
+<p>     Managers and directors might sharpen their thinking by </p>
+<p>asking themselves if they would sell 100% of their business on </p>
+<p>the same basis they are being asked to sell part of it.  And if </p>
+<p>it isn’t smart to sell all on such a basis, they should ask </p>
+<p>themselves why it is smart to sell a portion.  A cumulation of </p>
+<p>small managerial stupidities will produce a major stupidity - not </p>
+<p>a major triumph. (Las Vegas has been built upon the wealth </p>
+<p>transfers that occur when people engage in seemingly-small </p>
+<p>disadvantageous capital transactions.)</p>
+<p>&nbsp;</p>
+<p>     The “giving versus getting” factor can most easily be </p>
+<p>calculated in the case of registered investment companies.  </p>
+<p>Assume Investment Company X, selling at 50% of asset value, </p>
+<p>wishes to merge with Investment Company Y.  Assume, also, that </p>
+<p>Company X therefore decides to issue shares equal in market value </p>
+<p>to 100% of Y’s asset value.</p>
+<p>&nbsp;</p>
+<p>     Such a share exchange would leave X trading $2 of its </p>
+<p>previous intrinsic value for $1 of Y’s intrinsic value.  Protests </p>
+<p>would promptly come forth from both X’s shareholders and the SEC, </p>
+<p>which rules on the fairness of registered investment company </p>
+<p>mergers.  Such a transaction simply would not be allowed.</p>
+<p>&nbsp;</p>
+<p>     In the case of manufacturing, service, financial companies, </p>
+<p>etc., values are not normally as precisely calculable as in the </p>
+<p>case of investment companies.  But we have seen mergers in these </p>
+<p>industries that just as dramatically destroyed value for the </p>
+<p>owners of the acquiring company as was the case in the </p>
+<p>hypothetical illustration above.  This destruction could not </p>
+<p>happen if management and directors would assess the fairness of </p>
+<p>any transaction by using the same yardstick in the measurement of </p>
+<p>both businesses.</p>
+<p>&nbsp;</p>
+<p>     Finally, a word should be said about the “double whammy” </p>
+<p>effect upon owners of the acquiring company when value-diluting </p>
+<p>stock issuances occur.  Under such circumstances, the first blow </p>
+<p>is the loss of intrinsic business value that occurs through the </p>
+<p>merger itself.  The second is the downward revision in market </p>
+<p>valuation that, quite rationally, is given to that now-diluted </p>
+<p>business value.  For current and prospective owners </p>
+<p>understandably will not pay as much for assets lodged in the </p>
+<p>hands of a management that has a record of wealth-destruction </p>
+<p>through unintelligent share issuances as they will pay for assets </p>
+<p>entrusted to a management with precisely equal operating talents, </p>
+<p>but a known distaste for anti-owner actions.  Once management </p>
+<p>shows itself insensitive to the interests of owners, shareholders </p>
+<p>will suffer a long time from the price/value ratio afforded their </p>
+<p>stock (relative to other stocks), no matter what assurances </p>
+<p>management gives that the value-diluting action taken was a one-</p>
+<p>of-a-kind event.</p>
+<p>&nbsp;</p>
+<p>     Those assurances are treated by the market much as one-bug-</p>
+<p>in-the-salad explanations are treated at restaurants.  Such </p>
+<p>explanations, even when accompanied by a new waiter, do not </p>
+<p>eliminate a drop in the demand (and hence market value) for </p>
+<p>salads, both on the part of the offended customer and his </p>
+<p>neighbors pondering what to order.  Other things being equal, the </p>
+<p>highest stock market prices relative to intrinsic business value </p>
+<p>are given to companies whose managers have demonstrated their </p>
+<p>unwillingness to issue shares at any time on terms unfavorable to </p>
+<p>the owners of the business.</p>
+<p>&nbsp;</p>
+<p>     At Berkshire, or any company whose policies we determine </p>
+<p>(including Blue Chip and Wesco), we will issue shares only if our </p>
+<p>owners receive in business value as much as we give.  We will not </p>
+<p>equate activity with progress or corporate size with owner-</p>
+<p>wealth.</p>
+<p>&nbsp;</p>
+<p><em>Miscellaneous</em></p>
+<p>&nbsp;</p>
+<p>     This annual report is read by a varied audience, and it is </p>
+<p>possible that some members of that audience may be helpful to us </p>
+<p>in our acquisition program.</p>
+<p>&nbsp;</p>
+<p>     We prefer:</p>
+<p>&nbsp;</p>
+<p>        (1) large purchases (at least $5 million of after-tax </p>
+<p>            earnings),</p>
+<p>&nbsp;</p>
+<p>        (2) demonstrated consistent earning power (future </p>
+<p>            projections are of little interest to us, nor are </p>
+<p>            “turn-around” situations),</p>
+<p>&nbsp;</p>
+<p>        (3) businesses earning good returns on equity while </p>
+<p>            employing little or no debt,</p>
+<p>&nbsp;</p>
+<p>        (4) management in place (we can’t supply it),</p>
+<p>&nbsp;</p>
+<p>        (5) simple businesses (if there’s lots of technology, we </p>
+<p>            won’t understand it),</p>
+<p>&nbsp;</p>
+<p>        (6) an offering price (we don’t want to waste our time or </p>
+<p>            that of the seller by talking, even preliminarily, </p>
+<p>            about a transaction when price is unknown).</p>
+<p>&nbsp;</p>
+<p>     We will not engage in unfriendly transactions.  We can </p>
+<p>promise complete confidentiality and a very fast answer as to </p>
+<p>possible interest - customarily within five minutes.  Cash </p>
+<p>purchases are preferred, but we will consider the use of stock </p>
+<p>when it can be done on the basis described in the previous </p>
+<p>section.</p>
+<p>&nbsp;</p>
+<p>                         *  *  *  *  *</p>
+<p>&nbsp;</p>
+<p>     Our shareholder-designated contributions program met with </p>
+<p>enthusiasm again this year; 95.8% of eligible shares </p>
+<p>participated.  This response was particularly encouraging since </p>
+<p>only $1 per share was made available for designation, down from </p>
+<p>$2 in 1981.  If the merger with Blue Chip takes place, a probable </p>
+<p>by-product will be the attainment of a consolidated tax position </p>
+<p>that will significantly enlarge our contribution base and give us </p>
+<p>a potential for designating bigger per-share amounts in the </p>
+<p>future.</p>
+<p><em>     If you wish to participate in future programs, we strongly </em></p>
+<p><em>urge that you immediately make sure that your shares are </em></p>
+<p><em>registered in the actual owner’s name, not a “street” or nominee </em></p>
+<p><em>name.</em>  For new shareholders, a more complete description of the </p>
+<p>program is on pages 62-63.</p>
+<p>&nbsp;</p>
+<p>                         *  *  *  *  *</p>
+<p>&nbsp;</p>
+<p>     In a characteristically rash move, we have expanded World </p>
+<p>Headquarters by 252 square feet (17%), coincidental with the </p>
+<p>signing of a new five-year lease at 1440 Kiewit Plaza.  The five </p>
+<p>people who work here with me - Joan Atherton, Mike Goldberg, </p>
+<p>Gladys Kaiser, Verne McKenzie and Bill Scott - outproduce </p>
+<p>corporate groups many times their number.  A compact organization </p>
+<p>lets all of us spend our time managing the business rather than </p>
+<p>managing each other.</p>
+<p>&nbsp;</p>
+<p>     Charlie Munger, my partner in management, will continue to </p>
+<p>operate from Los Angeles whether or not the Blue Chip merger </p>
+<p>occurs.  Charlie and I are interchangeable in business decisions.  </p>
+<p>Distance impedes us not at all: we’ve always found a telephone </p>
+<p>call to be more productive than a half-day committee meeting.</p>
+<p>&nbsp;</p>
+<p>                         *  *  *  *  *</p>
+<p>&nbsp;</p>
+<p>     Two of our managerial stars retired this year: Phil Liesche </p>
+<p>at 65 from National Indemnity Company, and Ben Rosner at 79 from </p>
+<p>Associated Retail Stores.  Both of these men made you, as </p>
+<p>shareholders of Berkshire, a good bit wealthier than you </p>
+<p>otherwise would have been.  National Indemnity has been the most </p>
+<p>important operation in Berkshire’s growth.  Phil and Jack </p>
+<p>Ringwalt, his predecessor, were the two prime movers in National </p>
+<p>Indemnity’s success.  Ben Rosner sold Associated Retail Stores to </p>
+<p>Diversified Retailing Company for cash in 1967, promised to stay </p>
+<p>on only until the end of the year, and then hit business home </p>
+<p>runs for us for the next fifteen years.</p>
+<p>&nbsp;</p>
+<p>     Both Ben and Phil ran their businesses for Berkshire with </p>
+<p>every bit of the care and drive that they would have exhibited </p>
+<p>had they personally owned 100% of these businesses.  No rules </p>
+<p>were necessary to enforce or even encourage this attitude; it was </p>
+<p>embedded in the character of these men long before we came on the </p>
+<p>scene.  Their good character became our good fortune.  If we can </p>
+<p>continue to attract managers with the qualities of Ben and Phil, </p>
+<p>you need not worry about Berkshire’s future.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>                                          Warren E. Buffett</p>
+<p>                                          Chairman of the Board</p>
+<p>&nbsp;</p>`,
 
     concepts: ['intrinsic-value', 'moat', 'compounding', 'owner-earnings'],
     companies: ['berkshire-hathaway'],
@@ -7011,7 +8958,1156 @@ export const berkshireLetters: Letter[] = [
     date: '1983-02-01',
     summary:
       "1983 saw excellent results. See's Candy and other controlled businesses contributed strongly while the investment portfolio appreciated.",
-        fullText: `[[PLACEHOLDER]]`,
+        fullText: `<p><strong>To the Shareholders of Berkshire Hathaway Inc.:</strong></p>
+<p>&nbsp;</p>
+<p>     This past year our registered shareholders increased from </p>
+<p>about 1900 to about 2900.  Most of this growth resulted from our </p>
+<p>merger with Blue Chip Stamps, but there also was an acceleration </p>
+<p>in the pace of “natural” increase that has raised us from the </p>
+<p>1000 level a few years ago.</p>
+<p>&nbsp;</p>
+<p>     With so many new shareholders, it’s appropriate to summarize </p>
+<p>the major business principles we follow that pertain to the </p>
+<p>manager-owner relationship:</p>
+<p>&nbsp;</p>
+<p>   <strong>o</strong> Although our form is corporate, our attitude is </p>
+<p>partnership.  Charlie Munger and I think of our shareholders as </p>
+<p>owner-partners, and of ourselves as managing partners.  (Because </p>
+<p>of the size of our shareholdings we also are, for better or </p>
+<p>worse, controlling partners.) We do not view the company itself </p>
+<p>as the ultimate owner of our business assets but, instead, view </p>
+<p>the company as a conduit through which our shareholders own the </p>
+<p>assets.</p>
+<p>&nbsp;</p>
+<p>   <strong>o</strong> In line with this owner-orientation, our directors are all </p>
+<p>major shareholders of Berkshire Hathaway.  In the case of at </p>
+<p>least four of the five, over 50% of family net worth is </p>
+<p>represented by holdings of Berkshire.  We eat our own cooking.</p>
+<p>&nbsp;</p>
+<p>   <strong>o</strong> Our long-term economic goal (subject to some qualifications </p>
+<p>mentioned later) is to maximize the average annual rate of gain </p>
+<p>in intrinsic business value on a per-share basis.  We do not </p>
+<p>measure the economic significance or performance of Berkshire by </p>
+<p>its size; we measure by per-share progress.  We are certain that </p>
+<p>the rate of per-share progress will diminish in the future - a </p>
+<p>greatly enlarged capital base will see to that.  But we will be </p>
+<p>disappointed if our rate does not exceed that of the average </p>
+<p>large American corporation.</p>
+<p>&nbsp;</p>
+<p>   <strong>o</strong> Our preference would be to reach this goal by directly </p>
+<p>owning a diversified group of businesses that generate cash and </p>
+<p>consistently earn above-average returns on capital.  Our second </p>
+<p>choice is to own parts of similar businesses, attained primarily </p>
+<p>through purchases of marketable common stocks by our insurance </p>
+<p>subsidiaries.  The price and availability of businesses and the </p>
+<p>need for insurance capital determine any given year’s capital </p>
+<p>allocation.</p>
+<p>&nbsp;</p>
+<p>   <strong>o</strong> Because of this two-pronged approach to business ownership </p>
+<p>and because of the limitations of conventional accounting, </p>
+<p>consolidated reported earnings may reveal relatively little about </p>
+<p>our true economic performance.  Charlie and I, both as owners and </p>
+<p>managers, virtually ignore such consolidated numbers.  However, </p>
+<p>we will also report to you the earnings of each major business we </p>
+<p>control, numbers we consider of great importance.  These figures, </p>
+<p>along with other information we will supply about the individual </p>
+<p>businesses, should generally aid you in making judgments about </p>
+<p>them.</p>
+<p>&nbsp;</p>
+<p>   <strong>o</strong> Accounting consequences do not influence our operating or </p>
+<p>capital-allocation decisions.  When acquisition costs are </p>
+<p>similar, we much prefer to purchase $2 of earnings that is not </p>
+<p>reportable by us under standard accounting principles than to </p>
+<p>purchase $1 of earnings that is reportable.  This is precisely </p>
+<p>the choice that often faces us since entire businesses (whose </p>
+<p>earnings will be fully reportable) frequently sell for double the </p>
+<p>pro-rata price of small portions (whose earnings will be largely </p>
+<p>unreportable).  In aggregate and over time, we expect the </p>
+<p>unreported earnings to be fully reflected in our intrinsic </p>
+<p>business value through capital gains.</p>
+<p>&nbsp;</p>
+<p>   <strong>o</strong> We rarely use much debt and, when we do, we attempt to </p>
+<p>structure it on a long-term fixed rate basis.  We will reject </p>
+<p>interesting opportunities rather than over-leverage our balance </p>
+<p>sheet.  This conservatism has penalized our results but it is the </p>
+<p>only behavior that leaves us comfortable, considering our </p>
+<p>fiduciary obligations to policyholders, depositors, lenders and </p>
+<p>the many equity holders who have committed unusually large </p>
+<p>portions of their net worth to our care.</p>
+<p>&nbsp;</p>
+<p>   <strong>o</strong> A managerial “wish list” will not be filled at shareholder </p>
+<p>expense.  We will not diversify by purchasing entire businesses </p>
+<p>at control prices that ignore long-term economic consequences to </p>
+<p>our shareholders.  We will only do with your money what we would </p>
+<p>do with our own, weighing fully the values you can obtain by </p>
+<p>diversifying your own portfolios through direct purchases in the </p>
+<p>stock market.</p>
+<p>&nbsp;</p>
+<p>   <strong>o</strong> We feel noble intentions should be checked periodically </p>
+<p>against results.  We test the wisdom of retaining earnings by </p>
+<p>assessing whether retention, over time, delivers shareholders at </p>
+<p>least $1 of market value for each $1 retained.  To date, this </p>
+<p>test has been met.  We will continue to apply it on a five-year </p>
+<p>rolling basis.  As our net worth grows, it is more difficult to </p>
+<p>use retained earnings wisely.</p>
+<p>&nbsp;</p>
+<p>   <strong>o</strong> We will issue common stock only when we receive as much in </p>
+<p>business value as we give.  This rule applies to all forms of </p>
+<p>issuance - not only mergers or public stock offerings, but stock </p>
+<p>for-debt swaps, stock options, and convertible securities as </p>
+<p>well.  We will not sell small portions of your company - and that </p>
+<p>is what the issuance of shares amounts to - on a basis </p>
+<p>inconsistent with the value of the entire enterprise.</p>
+<p>&nbsp;</p>
+<p>   <strong>o</strong> You should be fully aware of one attitude Charlie and I </p>
+<p>share that hurts our financial performance: regardless of price, </p>
+<p>we have no interest at all in selling any good businesses that </p>
+<p>Berkshire owns, and are very reluctant to sell sub-par businesses </p>
+<p>as long as we expect them to generate at least some cash and as </p>
+<p>long as we feel good about their managers and labor relations.  </p>
+<p>We hope not to repeat the capital-allocation mistakes that led us </p>
+<p>into such sub-par businesses.  And we react with great caution to </p>
+<p>suggestions that our poor businesses can be restored to </p>
+<p>satisfactory profitability by major capital expenditures.  (The </p>
+<p>projections will be dazzling - the advocates will be sincere - </p>
+<p>but, in the end, major additional investment in a terrible </p>
+<p>industry usually is about as rewarding as struggling in </p>
+<p>quicksand.) Nevertheless, gin rummy managerial behavior (discard </p>
+<p>your least promising business at each turn) is not our style.  We </p>
+<p>would rather have our overall results penalized a bit than engage </p>
+<p>in it.</p>
+<p>&nbsp;</p>
+<p>   <strong>o</strong> We will be candid in our reporting to you, emphasizing the </p>
+<p>pluses and minuses important in appraising business value.  Our </p>
+<p>guideline is to tell you the business facts that we would want to </p>
+<p>know if our positions were reversed.  We owe you no less.  </p>
+<p>Moreover, as a company with a major communications business, it </p>
+<p>would be inexcusable for us to apply lesser standards of </p>
+<p>accuracy, balance and incisiveness when reporting on ourselves </p>
+<p>than we would expect our news people to apply when reporting on </p>
+<p>others.  We also believe candor benefits us as managers: the CEO </p>
+<p>who misleads others in public may eventually mislead himself in </p>
+<p>private.</p>
+<p>&nbsp;</p>
+<p>   <strong>o</strong> Despite our policy of candor, we will discuss our </p>
+<p>activities in marketable securities only to the extent legally </p>
+<p>required.  Good investment ideas are rare, valuable and subject </p>
+<p>to competitive appropriation just as good product or business </p>
+<p>acquisition ideas are.  Therefore, we normally will not talk </p>
+<p>about our investment ideas.  This ban extends even to securities </p>
+<p>we have sold (because we may purchase them again) and to stocks </p>
+<p>we are incorrectly rumored to be buying.  If we deny those </p>
+<p>reports but say “no comment” on other occasions, the no-comments </p>
+<p>become confirmation.</p>
+<p>&nbsp;</p>
+<p>     That completes the catechism, and we can now move on to the </p>
+<p>high point of 1983 - the acquisition of a majority interest in </p>
+<p>Nebraska Furniture Mart and our association with Rose Blumkin and </p>
+<p>her family.</p>
+<p><strong>Nebraska Furniture Mart</strong></p>
+<p>&nbsp;</p>
+<p>     Last year, in discussing how managers with bright, but </p>
+<p>adrenalin-soaked minds scramble after foolish acquisitions, I </p>
+<p>quoted Pascal: “It has struck me that all the misfortunes of men </p>
+<p>spring from the single cause that they are unable to stay quietly </p>
+<p>in one room.”</p>
+<p>&nbsp;</p>
+<p>     Even Pascal would have left the room for Mrs. Blumkin.</p>
+<p>&nbsp;</p>
+<p>     About 67 years ago Mrs. Blumkin, then 23, talked her way </p>
+<p>past a border guard to leave Russia for America.  She had no </p>
+<p>formal education, not even at the grammar school level, and knew </p>
+<p>no English.  After some years in this country, she learned the </p>
+<p>language when her older daughter taught her, every evening, the </p>
+<p>words she had learned in school during the day.</p>
+<p>&nbsp;</p>
+<p>     In 1937, after many years of selling used clothing, Mrs.  </p>
+<p>Blumkin had saved $500 with which to realize her dream of opening </p>
+<p>a furniture store.  Upon seeing the American Furniture Mart in </p>
+<p>Chicago - then the center of the nation’s wholesale furniture </p>
+<p>activity - she decided to christen her dream Nebraska Furniture </p>
+<p>Mart.</p>
+<p>&nbsp;</p>
+<p>     She met every obstacle you would expect (and a few you </p>
+<p>wouldn’t) when a business endowed with only $500 and no </p>
+<p>locational or product advantage goes up against rich, long-</p>
+<p>entrenched competition.  At one early point, when her tiny </p>
+<p>resources ran out, “Mrs.  B” (a personal trademark now as well </p>
+<p>recognized in Greater Omaha as Coca-Cola or Sanka) coped in a way </p>
+<p>not taught at business schools: she simply sold the furniture and </p>
+<p>appliances from her home in order to pay creditors precisely as </p>
+<p>promised.</p>
+<p>&nbsp;</p>
+<p>     Omaha retailers began to recognize that Mrs. B would offer </p>
+<p>customers far better deals than they had been giving, and they </p>
+<p>pressured furniture and carpet manufacturers not to sell to her.  </p>
+<p>But by various strategies she obtained merchandise and cut prices </p>
+<p>sharply.  Mrs. B was then hauled into court for violation of Fair </p>
+<p>Trade laws.  She not only won all the cases, but received </p>
+<p>invaluable publicity.  At the end of one case, after </p>
+<p>demonstrating to the court that she could profitably sell carpet </p>
+<p>at a huge discount from the prevailing price, she sold the judge </p>
+<p>$1400 worth of carpet.</p>
+<p>&nbsp;</p>
+<p>     Today Nebraska Furniture Mart generates over $100 million of </p>
+<p>sales annually out of one 200,000 square-foot store.  No other </p>
+<p>home furnishings store in the country comes close to that volume.  </p>
+<p>That single store also sells more furniture, carpets, and </p>
+<p>appliances than do all Omaha competitors combined.</p>
+<p>&nbsp;</p>
+<p>     One question I always ask myself in appraising a business is </p>
+<p>how I would like, assuming I had ample capital and skilled </p>
+<p>personnel, to compete with it.  I’d rather wrestle grizzlies than </p>
+<p>compete with Mrs. B and her progeny.  They buy brilliantly, they </p>
+<p>operate at expense ratios competitors don’t even dream about, and </p>
+<p>they then pass on to their customers much of the savings.  It’s </p>
+<p>the ideal business - one built upon exceptional value to the </p>
+<p>customer that in turn translates into exceptional economics for </p>
+<p>its owners.</p>
+<p>&nbsp;</p>
+<p>     Mrs. B is wise as well as smart and, for far-sighted family </p>
+<p>reasons, was willing to sell the business last year.  I had </p>
+<p>admired both the family and the business for decades, and a deal </p>
+<p>was quickly made.  But Mrs. B, now 90, is not one to go home and </p>
+<p>risk, as she puts it, “losing her marbles”.  She remains Chairman </p>
+<p>and is on the sales floor seven days a week.  Carpet sales are </p>
+<p>her specialty.  She personally sells quantities that would be a </p>
+<p>good departmental total for other carpet retailers.</p>
+<p>&nbsp;</p>
+<p>     We purchased 90% of the business - leaving 10% with members </p>
+<p>of the family who are involved in management - and have optioned </p>
+<p>10% to certain key young family managers.</p>
+<p>&nbsp;</p>
+<p>     And what managers they are.  Geneticists should do </p>
+<p>handsprings over the Blumkin family.  Louie Blumkin, Mrs.  B’s </p>
+<p>son, has been President of Nebraska Furniture Mart for many years </p>
+<p>and is widely regarded as the shrewdest buyer of furniture and </p>
+<p>appliances in the country.  Louie says he had the best teacher, </p>
+<p>and Mrs. B says she had the best student.  They’re both right.  </p>
+<p>Louie and his three sons all have the Blumkin business ability, </p>
+<p>work ethic, and, most important, character.  On top of that, they </p>
+<p>are really nice people.  We are delighted to be in partnership </p>
+<p>with them.</p>
+<p><strong>Corporate Performance</strong></p>
+<p>&nbsp;</p>
+<p>     During 1983 our book value increased from $737.43 per share </p>
+<p>to $975.83 per share, or by 32%.  We never take the one-year </p>
+<p>figure very seriously.  After all, why should the time required </p>
+<p>for a planet to circle the sun synchronize precisely with the </p>
+<p>time required for business actions to pay off?  Instead, we </p>
+<p>recommend not less than a five-year test as a rough yardstick of </p>
+<p>economic performance.  Red lights should start flashing if the </p>
+<p>five-year average annual gain falls much below the return on </p>
+<p>equity earned over the period by American industry in aggregate. </p>
+<p>(Watch out for our explanation if that occurs as Goethe observed, </p>
+<p>“When ideas fail, words come in very handy.”)</p>
+<p>&nbsp;</p>
+<p>     During the 19-year tenure of present management, book value </p>
+<p>has grown from $19.46 per share to $975.83, or 22.6% compounded </p>
+<p>annually.  Considering our present size, nothing close to this </p>
+<p>rate of return can be sustained.  Those who believe otherwise </p>
+<p>should pursue a career in sales, but avoid one in mathematics.</p>
+<p>&nbsp;</p>
+<p>     We report our progress in terms of book value because in our </p>
+<p>case (though not, by any means, in all cases) it is a </p>
+<p>conservative but reasonably adequate proxy for growth in </p>
+<p>intrinsic business value - <em>the measurement that really counts.</em>  </p>
+<p>Book value’s virtue as a score-keeping measure is that it is easy </p>
+<p>to calculate and doesn’t involve the subjective (but important) </p>
+<p>judgments employed in calculation of intrinsic business value.  </p>
+<p>It is important to understand, however, that the two terms - book </p>
+<p>value and intrinsic business value - have very different </p>
+<p>meanings.</p>
+<p>&nbsp;</p>
+<p>     Book value is an accounting concept, recording the </p>
+<p>accumulated financial input from both contributed capital and </p>
+<p>retained earnings.  Intrinsic business value is an economic </p>
+<p>concept, estimating future cash output discounted to present </p>
+<p>value.  Book value tells you what has been put in; intrinsic </p>
+<p>business value estimates what can be taken out.</p>
+<p>&nbsp;</p>
+<p>     An analogy will suggest the difference.  Assume you spend </p>
+<p>identical amounts putting each of two children through college.  </p>
+<p>The book value (measured by financial input) of each child’s </p>
+<p>education would be the same.  But the present value of the future </p>
+<p>payoff (the intrinsic business value) might vary enormously - </p>
+<p>from zero to many times the cost of the education.  So, also, do </p>
+<p>businesses having equal financial input end up with wide </p>
+<p>variations in value.</p>
+<p>&nbsp;</p>
+<p>     At Berkshire, at the beginning of fiscal 1965 when the </p>
+<p>present management took over, the $19.46 per share book value </p>
+<p>considerably overstated intrinsic business value.  All of that </p>
+<p>book value consisted of textile assets that could not earn, on </p>
+<p>average, anything close to an appropriate rate of return.  In the </p>
+<p>terms of our analogy, the investment in textile assets resembled </p>
+<p>investment in a largely-wasted education.</p>
+<p>&nbsp;</p>
+<p>     Now, however, our intrinsic business value considerably </p>
+<p>exceeds book value.  There are two major reasons:</p>
+<p>&nbsp;</p>
+<p>     (1) Standard accounting principles require that common </p>
+<p>         stocks held by our insurance subsidiaries be stated on </p>
+<p>         our books at market value, but that other stocks we own </p>
+<p>         be carried at the lower of aggregate cost or market.  </p>
+<p>         At the end of 1983, the market value of this latter </p>
+<p>         group exceeded carrying value by $70 million pre-tax, </p>
+<p>         or about $50 million after tax.  This excess belongs in </p>
+<p>         our intrinsic business value, but is not included in </p>
+<p>         the calculation of book value;</p>
+<p>&nbsp;</p>
+<p>     (2) More important, we own several businesses that possess </p>
+<p>         economic Goodwill (which is properly includable in </p>
+<p>         intrinsic business value) far larger than the </p>
+<p>         accounting Goodwill that is carried on our balance </p>
+<p>         sheet and reflected in book value.</p>
+<p>&nbsp;</p>
+<p>     Goodwill, both economic and accounting, is an arcane subject </p>
+<p>and requires more explanation than is appropriate here.  The </p>
+<p>appendix that follows this letter - “Goodwill and its </p>
+<p>Amortization: The Rules and The Realities” - explains why </p>
+<p>economic and accounting Goodwill can, and usually do, differ </p>
+<p>enormously.</p>
+<p>&nbsp;</p>
+<p>     You can live a full and rewarding life without ever thinking </p>
+<p>about Goodwill and its amortization.  But students of investment </p>
+<p>and management should understand the nuances of the subject.  My </p>
+<p>own thinking has changed drastically from 35 years ago when I was </p>
+<p>taught to favor tangible assets and to shun businesses whose </p>
+<p>value depended largely upon economic Goodwill.  This bias caused </p>
+<p>me to make many important business mistakes of omission, although </p>
+<p>relatively few of commission.</p>
+<p>&nbsp;</p>
+<p>     Keynes identified my problem: “The difficulty lies not in </p>
+<p>the new ideas but in escaping from the old ones.” My escape was </p>
+<p>long delayed, in part because most of what I had been taught by </p>
+<p>the same teacher had been (and continues to be) so </p>
+<p>extraordinarily valuable.  Ultimately, business experience, </p>
+<p>direct and vicarious, produced my present strong preference for </p>
+<p>businesses that possess large amounts of enduring Goodwill and </p>
+<p>that utilize a minimum of tangible assets.</p>
+<p>&nbsp;</p>
+<p>     I recommend the Appendix to those who are comfortable with </p>
+<p>accounting terminology and who have an interest in understanding </p>
+<p>the business aspects of Goodwill.  Whether or not you wish to </p>
+<p>tackle the Appendix, you should be aware that Charlie and I </p>
+<p>believe that Berkshire possesses very significant economic </p>
+<p>Goodwill value above that reflected in our book value.</p>
+<p><strong>Sources of Reported Earnings</strong></p>
+<p>&nbsp;</p>
+<p>     The table below shows the sources of Berkshire’s reported </p>
+<p>earnings.  In 1982, Berkshire owned about 60% of Blue Chip Stamps </p>
+<p>whereas, in 1983, our ownership was 60% throughout the first six </p>
+<p>months and 100% thereafter.  In turn, Berkshire’s net interest in </p>
+<p>Wesco was 48% during 1982 and the first six months of 1983, and </p>
+<p>80% for the balance of 1983.  Because of these changed ownership </p>
+<p>percentages, the first two columns of the table provide the best </p>
+<p>measure of underlying business performance.</p>
+<p>&nbsp;</p>
+<p>     All of the significant gains and losses attributable to </p>
+<p>unusual sales of assets by any of the business entities are </p>
+<p>aggregated with securities transactions on the line near the </p>
+<p>bottom of the table, and are not included in operating earnings. </p>
+<p>(We regard any annual figure for realized capital gains or losses </p>
+<p>as meaningless, but we regard the aggregate realized and </p>
+<p>unrealized capital gains over a period of years as very </p>
+<p>important.) Furthermore, amortization of Goodwill is not charged </p>
+<p>against the specific businesses but, for reasons outlined in the </p>
+<p>Appendix, is set forth as a separate item.</p>
+<p><em>                                                                         Net Earnings</em></p>
+<p><em>                                   Earnings Before Income Taxes            After Tax</em></p>
+<p><em>                              --------------------------------------  ------------------</em></p>
+<p><em>                                    Total          Berkshire Share     Berkshire Share</em></p>
+<p><em>                              ------------------  ------------------  ------------------</em></p>
+<p><em>                                1983      1982      1983      1982      1983      1982</em></p>
+<p><em>                              --------  --------  --------  --------  --------  --------</em></p>
+<p><em>                                                    (000s omitted)</em></p>
+<p>Operating Earnings:</p>
+<p>  Insurance Group:</p>
+<p>    Underwriting ............ $(33,872) $(21,558) $(33,872) $(21,558) $(18,400) $(11,345)</p>
+<p>    Net Investment Income ...   43,810    41,620    43,810    41,620    39,114    35,270</p>
+<p>  Berkshire-Waumbec Textiles      (100)   (1,545)     (100)   (1,545)      (63)     (862)</p>
+<p>  Associated Retail Stores ..      697       914       697       914       355       446</p>
+<p>  Nebraska Furniture Mart(1)     3,812      --       3,049      --       1,521      --</p>
+<p>  See’s Candies .............   27,411    23,884    24,526    14,235    12,212     6,914</p>
+<p>  Buffalo Evening News ......   19,352    (1,215)   16,547      (724)    8,832      (226)</p>
+<p>  Blue Chip Stamps(2) .......   (1,422)    4,182    (1,876)    2,492      (353)    2,472</p>
+<p>  Wesco Financial - Parent ..    7,493     6,156     4,844     2,937     3,448     2,210</p>
+<p>  Mutual Savings and Loan ...     (798)       (6)     (467)       (2)    1,917     1,524</p>
+<p>  Precision Steel ...........    3,241     1,035     2,102       493     1,136       265</p>
+<p>  Interest on Debt ..........  (15,104)  (14,996)  (13,844)  (12,977)   (7,346)   (6,951)</p>
+<p>  Special GEICO Distribution    21,000      --      21,000      --      19,551      --</p>
+<p>  Shareholder-Designated</p>
+<p>     Contributions ..........   (3,066)     (891)   (3,066)     (891)   (1,656)     (481)</p>
+<p>  Amortization of Goodwill ..     (532)      151      (563)       90      (563)       90</p>
+<p>  Other .....................   10,121     3,371     9,623     2,658     8,490     2,171</p>
+<p>                              --------  --------  --------  --------  --------  --------</p>
+<p>Operating Earnings ..........   82,043    41,102    72,410    27,742    68,195    31,497</p>
+<p>Sales of securities and</p>
+<p>   unusual sales of assets ..   67,260    36,651    65,089    21,875    45,298    14,877</p>
+<p>                              --------  --------  --------  --------  --------  --------</p>
+<p>Total Earnings .............. $149,303  $ 77,753  $137,499  $ 49,617  $113,493  $ 46,374</p>
+<p>                              ========  ========  ========  ========  ========  ========</p>
+<p>&nbsp;</p>
+<p>(1) October through December</p>
+<p>(2) 1982 and 1983 are not comparable; major assets were </p>
+<p>    transferred in the merger.</p>
+<p>&nbsp;</p>
+<p>     For a discussion of the businesses owned by Wesco, please </p>
+<p>read Charlie Munger’s report on pages 46-51.  Charlie replaced </p>
+<p>Louie Vincenti as Chairman of Wesco late in 1983 when health </p>
+<p>forced Louie’s retirement at age 77.  In some instances, “health” </p>
+<p>is a euphemism, but in Louie’s case nothing but health would </p>
+<p>cause us to consider his retirement.  Louie is a marvelous man </p>
+<p>and has been a marvelous manager.</p>
+<p>&nbsp;</p>
+<p>     The special GEICO distribution reported in the table arose </p>
+<p>when that company made a tender offer for a portion of its stock, </p>
+<p>buying both from us and other shareholders.  At GEICO’s request, </p>
+<p>we tendered a quantity of shares that kept our ownership </p>
+<p>percentage the same after the transaction as before.  The </p>
+<p>proportional nature of our sale permitted us to treat the </p>
+<p>proceeds as a dividend.  Unlike individuals, corporations net </p>
+<p>considerably more when earnings are derived from dividends rather </p>
+<p>than from capital gains, since the effective Federal income tax </p>
+<p>rate on dividends is 6.9% versus 28% on capital gains.</p>
+<p>&nbsp;</p>
+<p>     Even with this special item added in, our total dividends </p>
+<p>from GEICO in 1983 were considerably less than our share of </p>
+<p>GEICO’s earnings.  Thus it is perfectly appropriate, from both an </p>
+<p>accounting and economic standpoint, to include the redemption </p>
+<p>proceeds in our reported earnings.  It is because the item is </p>
+<p>large and unusual that we call your attention to it.</p>
+<p>&nbsp;</p>
+<p>     The table showing you our sources of earnings includes </p>
+<p>dividends from those non-controlled companies whose marketable </p>
+<p>equity securities we own.  But the table does not include </p>
+<p>earnings those companies have retained that are applicable to our </p>
+<p>ownership.  In aggregate and over time we expect those </p>
+<p>undistributed earnings to be reflected in market prices and to </p>
+<p>increase our intrinsic business value on a dollar-for-dollar </p>
+<p>basis, just as if those earnings had been under our control and </p>
+<p>reported as part of our profits.  That does not mean we expect </p>
+<p>all of our holdings to behave uniformly; some will disappoint us, </p>
+<p>others will deliver pleasant surprises.  To date our experience </p>
+<p>has been better than we originally anticipated, In aggregate, we </p>
+<p>have received far more than a dollar of market value gain for </p>
+<p>every dollar of earnings retained.</p>
+<p>&nbsp;</p>
+<p>     The following table shows our 1983 yearend net holdings in </p>
+<p>marketable equities.  All numbers represent 100% of Berkshire’s </p>
+<p>holdings, and 80% of Wesco’s holdings.  The portion attributable </p>
+<p>to minority shareholders of Wesco has been excluded.</p>
+<p><em>No. of Shares                                        Cost        Market</em></p>
+<p><em>-------------                                     ----------   ----------</em></p>
+<p><em>                                                      (000s omitted)</em></p>
+<p>    690,975    Affiliated Publications, Inc. ....  $  3,516     $  26,603</p>
+<p>  4,451,544    General Foods Corporation(a) .....   163,786       228,698</p>
+<p>  6,850,000    GEICO Corporation ................    47,138       398,156</p>
+<p>  2,379,200    Handy & Harman ...................    27,318        42,231</p>
+<p>    636,310    Interpublic Group of Companies, Inc.   4,056        33,088</p>
+<p>    197,200    Media General ....................     3,191        11,191</p>
+<p>    250,400    Ogilvy & Mather International ....     2,580        12,833</p>
+<p>  5,618,661    R. J. Reynolds Industries, Inc.(a)   268,918       341,334</p>
+<p>    901,788    Time, Inc. .......................    27,732        56,860</p>
+<p>  1,868,600    The Washington Post Company ......    10,628       136,875</p>
+<p>                                                  ----------   ----------</p>
+<p>                                                   $558,863    $1,287,869</p>
+<p>               All Other Common Stockholdings ...     7,485        18,044</p>
+<p>                                                  ----------   ----------</p>
+<p>               Total Common Stocks ..............  $566,348    $1,305,913</p>
+<p>                                                  ==========   ==========</p>
+<p>&nbsp;</p>
+<p>(a) WESCO owns shares in these companies.</p>
+<p>&nbsp;</p>
+<p>     Based upon present holdings and present dividend rates - </p>
+<p>excluding any special items such as the GEICO proportional </p>
+<p>redemption last year - we would expect reported dividends from </p>
+<p>this group to be approximately $39 million in 1984.  We can also </p>
+<p>make a very rough guess about the earnings this group will retain </p>
+<p>that will be attributable to our ownership: these may total about </p>
+<p>$65 million for the year.  These retained earnings could well </p>
+<p>have no immediate effect on market prices of the securities.  </p>
+<p>Over time, however, we feel they will have real meaning.</p>
+<p>&nbsp;</p>
+<p>     In addition to the figures already supplied, information </p>
+<p>regarding the businesses we control appears in Management’s </p>
+<p>Discussion on pages 40-44.  The most significant of these are </p>
+<p>Buffalo Evening News, See’s, and the Insurance Group, to which we </p>
+<p>will give some special attention here.</p>
+<p><strong>Buffalo Evening News</strong></p>
+<p>&nbsp;</p>
+<p>     First, a clarification: our corporate name is Buffalo </p>
+<p>Evening News, Inc. but the name of the newspaper, since we began </p>
+<p>a morning edition a little over a year ago, is Buffalo News.</p>
+<p>&nbsp;</p>
+<p>     In 1983 the News somewhat exceeded its targeted profit </p>
+<p>margin of 10% after tax.  Two factors were responsible: (1) a </p>
+<p>state income tax cost that was subnormal because of a large loss </p>
+<p>carry-forward, now fully utilized, and (2) a large drop in the </p>
+<p>per-ton cost of newsprint (an unanticipated fluke that will be </p>
+<p>reversed in 1984).</p>
+<p>&nbsp;</p>
+<p>     Although our profit margins in 1983 were about average for </p>
+<p>newspapers such as the News, the paper’s performance, </p>
+<p>nevertheless, was a significant achievement considering the </p>
+<p>economic and retailing environment in Buffalo.</p>
+<p>&nbsp;</p>
+<p>     Buffalo has a concentration of heavy industry, a segment of </p>
+<p>the economy that was hit particularly hard by the recent </p>
+<p>recession and that has lagged the recovery.  As Buffalo consumers </p>
+<p>have suffered, so also have the paper’s retailing customers.  </p>
+<p>Their numbers have shrunk over the past few years and many of </p>
+<p>those surviving have cut their linage.</p>
+<p>&nbsp;</p>
+<p>     Within this environment the News has one exceptional </p>
+<p>strength: its acceptance by the public, a matter measured by the </p>
+<p>paper’s “penetration ratio” - the percentage of households within </p>
+<p>the community purchasing the paper each day.  Our ratio is </p>
+<p>superb: for the six months ended September 30, 1983 the News </p>
+<p>stood number one in weekday penetration among the 100 largest </p>
+<p>papers in the United States (the ranking is based on “city zone” </p>
+<p>numbers compiled by the Audit Bureau of Circulations).</p>
+<p>&nbsp;</p>
+<p>     In interpreting the standings, it is important to note that </p>
+<p>many large cities have two papers, and that in such cases the </p>
+<p>penetration of either paper is necessarily lower than if there </p>
+<p>were a single paper, as in Buffalo.  Nevertheless, the list of </p>
+<p>the 100 largest papers includes many that have a city to </p>
+<p>themselves.  Among these, the News is at the top nationally, far </p>
+<p>ahead of many of the country’s best-known dailies.</p>
+<p>&nbsp;</p>
+<p>     Among Sunday editions of these same large dailies, the News </p>
+<p>ranks number three in penetration - ten to twenty percentage </p>
+<p>points ahead of many well-known papers.  It was not always this </p>
+<p>way in Buffalo. Below we show Sunday circulation in Buffalo in </p>
+<p>the years prior to 1977 compared with the present period.  In </p>
+<p>that earlier period the Sunday paper was the Courier-Express (the </p>
+<p>News was not then publishing a Sunday paper).  Now, of course, it </p>
+<p>is the News.</p>
+<p><em>                  Average Sunday Circulation</em></p>
+<p><em>                  --------------------------</em></p>
+<p><em>               Year                    Circulation</em></p>
+<p>               ----                    -----------</p>
+<p>               1970                      314,000</p>
+<p>               1971                      306,000</p>
+<p>               1972                      302,000</p>
+<p>               1973                      290,000</p>
+<p>               1974                      278,000</p>
+<p>               1975                      269,000</p>
+<p>               1976                      270,000</p>
+<p>&nbsp;</p>
+<p>               1984 (Current)            376,000</p>
+<p>&nbsp;</p>
+<p>     We believe a paper’s penetration ratio to be the best </p>
+<p>measure of the strength of its franchise.  Papers with unusually </p>
+<p>high penetration in the geographical area that is of prime </p>
+<p>interest to major local retailers, and with relatively little </p>
+<p>circulation elsewhere, are exceptionally efficient buys for those </p>
+<p>retailers.  Low-penetration papers have a far less compelling </p>
+<p>message to present to advertisers.</p>
+<p>&nbsp;</p>
+<p>     In our opinion, three factors largely account for the </p>
+<p>unusual acceptance of the News in the community.  Among these, </p>
+<p>points 2 and 3 also may explain the popularity of the Sunday News </p>
+<p>compared to that of the Sunday Courier-Express when it was the </p>
+<p>sole Sunday paper:</p>
+<p>&nbsp;</p>
+<p>     (1) The first point has nothing to do with merits of the </p>
+<p>         News.  Both emigration and immigration are relatively </p>
+<p>         low in Buffalo.  A stable population is more interested </p>
+<p>         and involved in the activities of its community than is </p>
+<p>         a shifting population - and, as a result, is more </p>
+<p>         interested in the content of the local daily paper.  </p>
+<p>         Increase the movement in and out of a city and </p>
+<p>         penetration ratios will fall.</p>
+<p>&nbsp;</p>
+<p>     (2) The News has a reputation for editorial quality and </p>
+<p>         integrity that was honed by our longtime editor, the </p>
+<p>         legendary Alfred Kirchhofer, and that has been preserved </p>
+<p>         and extended by Murray Light.  This reputation was </p>
+<p>         enormously important to our success in establishing a </p>
+<p>         Sunday paper against entrenched competition.  And without </p>
+<p>         a Sunday edition, the News would not have survived in the </p>
+<p>         long run.</p>
+<p>&nbsp;</p>
+<p>     (3) The News lives up to its name - it delivers a very </p>
+<p>         unusual amount of news.  During 1983, our “news hole” </p>
+<p>         (editorial material - not ads) amounted to 50% of the </p>
+<p>         newspaper’s content (excluding preprinted inserts).  </p>
+<p>         Among papers that dominate their markets and that are of </p>
+<p>         comparable or larger size, we know of only one whose news </p>
+<p>         hole percentage exceeds that of the News.  Comprehensive </p>
+<p>         figures are not available, but a sampling indicates an </p>
+<p>         average percentage in the high 30s.  In other words, page </p>
+<p>         for page, our mix gives readers over 25% more news than </p>
+<p>         the typical paper.  This news-rich mixture is by intent.  </p>
+<p>         Some publishers, pushing for higher profit margins, have </p>
+<p>         cut their news holes during the past decade.  We have </p>
+<p>         maintained ours and will continue to do so.  Properly </p>
+<p>         written and edited, a full serving of news makes our </p>
+<p>         paper more valuable to the reader and contributes to our </p>
+<p>         unusual penetration ratio.</p>
+<p>&nbsp;</p>
+<p>     Despite the strength of the News’ franchise, gains in ROP </p>
+<p>linage (advertising printed within the newspaper pages as </p>
+<p>contrasted to preprinted inserts) are going to be very difficult </p>
+<p>to achieve.  We had an enormous gain in preprints during 1983: </p>
+<p>lines rose from 9.3 million to 16.4 million, revenues from $3.6 </p>
+<p>million to $8.1 million.  These gains are consistent with </p>
+<p>national trends, but exaggerated in our case by business we </p>
+<p>picked up when the Courier-Express closed.</p>
+<p>&nbsp;</p>
+<p>     On balance, the shift from ROP to preprints has negative </p>
+<p>economic implications for us.  Profitability on preprints is less </p>
+<p>and the business is more subject to competition from alternative </p>
+<p>means of delivery.  Furthermore, a reduction in ROP linage means </p>
+<p>less absolute space devoted to news (since the news hole </p>
+<p>percentage remains constant), thereby reducing the utility of the </p>
+<p>paper to the reader.</p>
+<p>&nbsp;</p>
+<p>     Stan Lipsey became Publisher of the Buffalo News at midyear </p>
+<p>upon the retirement of Henry Urban.  Henry never flinched during </p>
+<p>the dark days of litigation and losses following our introduction </p>
+<p>of the Sunday paper - an introduction whose wisdom was questioned </p>
+<p>by many in the newspaper business, including some within our own </p>
+<p>building.  Henry is admired by the Buffalo business community, </p>
+<p>he’s admired by all who worked for him, and he is admired by </p>
+<p>Charlie and me.  Stan worked with Henry for several years, and </p>
+<p>has worked for Berkshire Hathaway since 1969.  He has been </p>
+<p>personally involved in all nuts-and-bolts aspects of the </p>
+<p>newspaper business from editorial to circulation.  We couldn’t do </p>
+<p>better.</p>
+<p><strong>See’s Candy Shops</strong></p>
+<p>&nbsp;</p>
+<p>     The financial results at See’s continue to be exceptional.  </p>
+<p>The business possesses a valuable and solid consumer franchise </p>
+<p>and a manager equally valuable and solid.</p>
+<p>&nbsp;</p>
+<p>     In recent years See’s has encountered two important </p>
+<p>problems, at least one of which is well on its way toward </p>
+<p>solution.  That problem concerns costs, except those for raw </p>
+<p>materials.  We have enjoyed a break on raw material costs in </p>
+<p>recent years though so, of course, have our competitors.  One of </p>
+<p>these days we will get a nasty surprise in the opposite </p>
+<p>direction.  In effect, raw material costs are largely beyond our </p>
+<p>control since we will, as a matter of course, buy the finest </p>
+<p>ingredients that we can, regardless of changes in their price </p>
+<p>levels.  We regard product quality as sacred.</p>
+<p>&nbsp;</p>
+<p>     But other kinds of costs are more controllable, and it is in </p>
+<p>this area that we have had problems.  On a per-pound basis, our </p>
+<p>costs (not including those for raw materials) have increased in </p>
+<p>the last few years at a rate significantly greater than the </p>
+<p>increase in the general price level.  It is vital to our </p>
+<p>competitive position and profit potential that we reverse this </p>
+<p>trend.</p>
+<p>&nbsp;</p>
+<p>     In recent months much better control over costs has been </p>
+<p>attained and we feel certain that our rate of growth in these </p>
+<p>costs in 1984 will be below the rate of inflation.  This </p>
+<p>confidence arises out of our long experience with the managerial </p>
+<p>talents of Chuck Huggins.  We put Chuck in charge the day we took </p>
+<p>over, and his record has been simply extraordinary, as shown by </p>
+<p>the following table:</p>
+<p><em>  52-53 Week Year                     Operating     Number of    Number of</em></p>
+<p><em>    Ended About           Sales        Profits      Pounds of   Stores Open</em></p>
+<p><em>    December 31         Revenues     After Taxes   Candy Sold   at Year End</em></p>
+<p>-------------------   ------------   -----------   ----------   -----------</p>
+<p>1983 (53 weeks) ...   $133,531,000   $13,699,000   24,651,000       207</p>
+<p>1982 ..............    123,662,000    11,875,000   24,216,000       202</p>
+<p>1981 ..............    112,578,000    10,779,000   24,052,000       199</p>
+<p>1980 ..............     97,715,000     7,547,000   24,065,000       191</p>
+<p>1979 ..............     87,314,000     6,330,000   23,985,000       188</p>
+<p>1978 ..............     73,653,000     6,178,000   22,407,000       182</p>
+<p>1977 ..............     62,886,000     6,154,000   20,921,000       179</p>
+<p>1976 (53 weeks) ...     56,333,000     5,569,000   20,553,000       173</p>
+<p>1975 ..............     50,492,000     5,132,000   19,134,000       172</p>
+<p>1974 ..............     41,248,000     3,021,000   17,883,000       170</p>
+<p>1973 ..............     35,050,000     1,940,000   17,813,000       169</p>
+<p>1972 ..............     31,337,000     2,083,000   16,954,000       167</p>
+<p>&nbsp;</p>
+<p>     The other problem we face, as the table suggests, is our </p>
+<p>recent inability to achieve meaningful gains in pounds sold.  The </p>
+<p>industry has the same problem.  But for many years we </p>
+<p>outperformed the industry in this respect and now we are not.</p>
+<p>&nbsp;</p>
+<p>     The poundage volume in our retail stores has been virtually </p>
+<p>unchanged each year for the past four, despite small increases </p>
+<p>every year in the number of shops (and in distribution expense as </p>
+<p>well).  Of course, dollar volume has increased because we have </p>
+<p>raised prices significantly.  But we regard the most important </p>
+<p>measure of retail trends to be units sold per store rather than </p>
+<p>dollar volume.  On a same-store basis (counting only shops open </p>
+<p>throughout both years) with all figures adjusted to a 52-week </p>
+<p>year, poundage was down .8 of 1% during 1983.  This small decline </p>
+<p>was our best same-store performance since 1979; the cumulative </p>
+<p>decline since then has been about 8%.  Quantity-order volume, </p>
+<p>about 25% of our total, has plateaued in recent years following </p>
+<p>very large poundage gains throughout the 1970s.</p>
+<p>&nbsp;</p>
+<p>     We are not sure to what extent this flat volume - both in </p>
+<p>the retail shop area and the quantity order area - is due to our </p>
+<p>pricing policies and to what extent it is due to static industry </p>
+<p>volume, the recession, and the extraordinary share of market we </p>
+<p>already enjoy in our primary marketing area.  Our price increase </p>
+<p>for 1984 is much more modest than has been the case in the past </p>
+<p>few years, and we hope that next year we can report better volume </p>
+<p>figures to you.  But we have no basis to forecast these.</p>
+<p>&nbsp;</p>
+<p>     Despite the volume problem, See’s strengths are many and </p>
+<p>important.  In our primary marketing area, the West, our candy is </p>
+<p>preferred by an enormous margin to that of any competitor.  In </p>
+<p>fact, we believe most lovers of chocolate prefer it to candy </p>
+<p>costing two or three times as much. (In candy, as in stocks, </p>
+<p>price and value can differ; price is what you give, value is what </p>
+<p>you get.) The quality of customer service in our shops - operated </p>
+<p>throughout the country by us and not by franchisees is every bit </p>
+<p>as good as the product.  Cheerful, helpful personnel are as much </p>
+<p>a trademark of See’s as is the logo on the box.  That’s no small </p>
+<p>achievement in a business that requires us to hire about 2000 </p>
+<p>seasonal workers.  We know of no comparably-sized organization </p>
+<p>that betters the quality of customer service delivered by Chuck </p>
+<p>Huggins and his associates.</p>
+<p>&nbsp;</p>
+<p>     Because we have raised prices so modestly in 1984, we expect </p>
+<p>See’s profits this year to be about the same as in 1983.  </p>
+<p><strong>Insurance - Controlled Operations</strong></p>
+<p>&nbsp;</p>
+<p>     We both operate insurance companies and have a large </p>
+<p>economic interest in an insurance business we don’t operate, </p>
+<p>GEICO.  The results for all can be summed up easily: in </p>
+<p>aggregate, the companies we operate and whose underwriting </p>
+<p>results reflect the consequences of decisions that were my </p>
+<p>responsibility a few years ago, had absolutely terrible results.  </p>
+<p>Fortunately, GEICO, whose policies I do not influence, simply </p>
+<p>shot the lights out.  The inference you draw from this summary is </p>
+<p>the correct one.  I made some serious mistakes a few years ago </p>
+<p>that came home to roost.</p>
+<p>&nbsp;</p>
+<p>     The industry had its worst underwriting year in a long time, </p>
+<p>as indicated by the table below:</p>
+<p><em>                          Yearly Change      Combined Ratio</em></p>
+<p><em>                           in Premiums        after Policy-</em></p>
+<p><em>                           Written (%)      holder Dividends</em></p>
+<p>                          -------------     ----------------</p>
+<p>1972 ....................     10.2                96.2</p>
+<p>1973 ....................      8.0                99.2</p>
+<p>1974 ....................      6.2               105.4</p>
+<p>1975 ....................     11.0               107.9</p>
+<p>1976 ....................     21.9               102.4</p>
+<p>1977 ....................     19.8                97.2</p>
+<p>1978 ....................     12.8                97.5</p>
+<p>1979 ....................     10.3               100.6</p>
+<p>1980 ....................      6.0               103.1</p>
+<p>1981 ....................      3.9               106.0</p>
+<p>1982 (Revised) ..........      4.4               109.7</p>
+<p>1983 (Estimated) ........      4.6               111.0</p>
+<p>&nbsp;</p>
+<p><em>Source: Best’s Aggregates and Averages.</em></p>
+<p>&nbsp;</p>
+<p>     Best’s data reflect the experience of practically the entire </p>
+<p>industry, including stock, mutual, and reciprocal companies.  The </p>
+<p>combined ratio represents total insurance costs (losses incurred </p>
+<p>plus expenses) compared to revenue from premiums; a ratio below </p>
+<p>100 indicates an underwriting profit and one above 100 indicates </p>
+<p>a loss.</p>
+<p>&nbsp;</p>
+<p>     For the reasons outlined in last year’s report, we expect </p>
+<p>the poor industry experience of 1983 to be more or less typical </p>
+<p>for a good many years to come. (As Yogi Berra put it: “It will be </p>
+<p>deja vu all over again.”) That doesn’t mean we think the figures </p>
+<p>won’t bounce around a bit; they are certain to.  But we believe </p>
+<p>it highly unlikely that the combined ratio during the balance of </p>
+<p>the decade will average significantly below the 1981-1983 level.  </p>
+<p>Based on our expectations regarding inflation - <em>and we are as </em></p>
+<p><em>pessimistic as ever on that front</em> - industry premium volume must </p>
+<p>grow about 10% annually merely to stabilize loss ratios at </p>
+<p>present levels.</p>
+<p>&nbsp;</p>
+<p>     Our own combined ratio in 1983 was 121.  Since Mike Goldberg </p>
+<p>recently took over most of the responsibility for the insurance </p>
+<p>operation, it would be nice for me if our shortcomings could be </p>
+<p>placed at his doorstep rather than mine.  But unfortunately, as </p>
+<p>we have often pointed out, the insurance business has a long </p>
+<p>lead-time.  Though business policies may be changed and personnel </p>
+<p>improved, a significant period must pass before the effects are </p>
+<p>seen.  (This characteristic of the business enabled us to make a </p>
+<p>great deal of money in GEICO; we could picture what was likely to </p>
+<p>happen well before it actually occurred.) So the roots of the </p>
+<p>1983 results are operating and personnel decisions made two or </p>
+<p>more years back when I had direct managerial responsibility for </p>
+<p>the insurance group.</p>
+<p>&nbsp;</p>
+<p>     Despite our poor results overall, several of our managers </p>
+<p>did truly outstanding jobs.  Roland Miller guided the auto and </p>
+<p>general liability business of National Indemnity Company and </p>
+<p>National Fire and Marine Insurance Company to improved results, </p>
+<p>while those of competitors deteriorated.  In addition, Tom Rowley </p>
+<p>at Continental Divide Insurance - our fledgling Colorado </p>
+<p>homestate company - seems certain to be a winner.  Mike found him </p>
+<p>a little over a year ago, and he was an important acquisition.</p>
+<p>&nbsp;</p>
+<p>     We have become active recently - and hope to become much </p>
+<p>more active - in reinsurance transactions where the buyer’s </p>
+<p>overriding concern should be the seller’s long-term </p>
+<p>creditworthiness.  In such transactions our premier financial </p>
+<p>strength should make us the number one choice of both claimants </p>
+<p>and insurers who must rely on the reinsurer’s promises for a </p>
+<p>great many years to come.</p>
+<p>&nbsp;</p>
+<p>     A major source of such business is structured settlements - </p>
+<p>a procedure for settling losses under which claimants receive </p>
+<p>periodic payments (almost always monthly, for life) rather than a </p>
+<p>single lump sum settlement.  This form of settlement has </p>
+<p>important tax advantages for the claimant and also prevents his </p>
+<p>squandering a large lump-sum payment.  Frequently, some inflation </p>
+<p>protection is built into the settlement.  Usually the claimant </p>
+<p>has been seriously injured, and thus the periodic payments must </p>
+<p>be unquestionably secure for decades to come.  We believe we </p>
+<p>offer unparalleled security.  No other insurer we know of - even </p>
+<p>those with much larger gross assets - has our financial strength.</p>
+<p>&nbsp;</p>
+<p>     We also think our financial strength should recommend us to </p>
+<p>companies wishing to transfer loss reserves.  In such </p>
+<p>transactions, other insurance companies pay us lump sums to </p>
+<p>assume all (or a specified portion of) future loss payments </p>
+<p>applicable to large blocks of expired business.  Here also, the </p>
+<p>company transferring such claims needs to be certain of the </p>
+<p>transferee’s financial strength for many years to come.  Again, </p>
+<p>most of our competitors soliciting such business appear to us to </p>
+<p>have a financial condition that is materially inferior to ours.</p>
+<p>&nbsp;</p>
+<p>     Potentially, structured settlements and the assumption of </p>
+<p>loss reserves could become very significant to us.  Because of </p>
+<p>their potential size and because these operations generate large </p>
+<p>amounts of investment income compared to premium volume, we will </p>
+<p>show underwriting results from those businesses on a separate </p>
+<p>line in our insurance segment data.  We also will exclude their </p>
+<p>effect in reporting our combined ratio to you.  We “front end” no </p>
+<p>profit on structured settlement or loss reserve transactions, and </p>
+<p>all attributable overhead is expensed currently.  Both businesses </p>
+<p>are run by Don Wurster at National Indemnity Company.</p>
+<p><strong>Insurance - GEICO</strong></p>
+<p>&nbsp;</p>
+<p>     Geico’s performance during 1983 was as good as our own </p>
+<p>insurance performance was poor.  Compared to the industry’s </p>
+<p>combined ratio of 111, GEICO wrote at 96 <em>after</em> a large voluntary </p>
+<p>accrual for policyholder dividends.  A few years ago I would not </p>
+<p>have thought GEICO could so greatly outperform the industry.  Its </p>
+<p>superiority reflects the combination of a truly exceptional </p>
+<p>business idea and an exceptional management.</p>
+<p>&nbsp;</p>
+<p>     Jack Byrne and Bill Snyder have maintained extraordinary </p>
+<p>discipline in the underwriting area (including, crucially, </p>
+<p>provision for full and proper loss reserves), and their efforts </p>
+<p>are now being further rewarded by significant gains in new </p>
+<p>business.  Equally important, Lou Simpson is the class of the </p>
+<p>field among insurance investment managers.  The three of them are </p>
+<p>some team.</p>
+<p>&nbsp;</p>
+<p>     We have approximately a one-third interest in GEICO.  That </p>
+<p>gives us a $270 million share in the company’s premium volume, an </p>
+<p>amount some 80% larger than our own volume.  Thus, the major </p>
+<p>portion of our total insurance business comes from the best </p>
+<p>insurance book in the country.  This fact does not moderate by an </p>
+<p>iota the need for us to improve our own operation.</p>
+<p><strong>Stock Splits and Stock Activity</strong></p>
+<p>&nbsp;</p>
+<p>     We often are asked why Berkshire does not split its stock.  </p>
+<p>The assumption behind this question usually appears to be that a </p>
+<p>split would be a pro-shareholder action.  We disagree.  Let me </p>
+<p>tell you why.</p>
+<p>&nbsp;</p>
+<p>     One of our goals is to have Berkshire Hathaway stock sell at </p>
+<p>a price rationally related to its intrinsic business value.  (But </p>
+<p>note “rationally related”, not “identical”: if well-regarded </p>
+<p>companies are generally selling in the market at large discounts </p>
+<p>from value, Berkshire might well be priced similarly.) The key to </p>
+<p>a rational stock price is rational shareholders, both current and </p>
+<p>prospective.</p>
+<p>&nbsp;</p>
+<p>     If the holders of a company’s stock and/or the prospective </p>
+<p>buyers attracted to it are prone to make irrational or emotion-</p>
+<p>based decisions, some pretty silly stock prices are going to </p>
+<p>appear periodically.  Manic-depressive personalities produce </p>
+<p>manic-depressive valuations.  Such aberrations may help us in </p>
+<p>buying and selling the stocks of other companies.  But we think </p>
+<p>it is in both your interest and ours to minimize their occurrence </p>
+<p>in the market for Berkshire.</p>
+<p>&nbsp;</p>
+<p>     To obtain only high quality shareholders is no cinch.  Mrs. </p>
+<p>Astor could select her 400, but anyone can buy any stock.  </p>
+<p>Entering members of a shareholder “club” cannot be screened for </p>
+<p>intellectual capacity, emotional stability, moral sensitivity or </p>
+<p>acceptable dress.  Shareholder eugenics, therefore, might appear </p>
+<p>to be a hopeless undertaking.</p>
+<p>&nbsp;</p>
+<p>     In large part, however, we feel that high quality ownership </p>
+<p>can be attracted and maintained if we consistently communicate </p>
+<p>our business and ownership philosophy - <em>along with no other </em></p>
+<p><em>conflicting messages</em> - and then let self selection follow its </p>
+<p>course.  For example, self selection will draw a far different </p>
+<p>crowd to a musical event advertised as an opera than one </p>
+<p>advertised as a rock concert even though anyone can buy a ticket </p>
+<p>to either.</p>
+<p>&nbsp;</p>
+<p>     Through our policies and communications - our </p>
+<p>“advertisements” - we try to attract investors who will </p>
+<p>understand our operations, attitudes and expectations. (And, </p>
+<p>fully as important, we try to dissuade those who won’t.) We want </p>
+<p>those who think of themselves as business owners and invest in </p>
+<p>companies with the intention of staying a long time.  And, we </p>
+<p>want those who keep their eyes focused on business results, not </p>
+<p>market prices.</p>
+<p>&nbsp;</p>
+<p>     Investors possessing those characteristics are in a small </p>
+<p>minority, but we have an exceptional collection of them.  I </p>
+<p>believe well over 90% - probably over 95% - of our shares are </p>
+<p>held by those who were shareholders of Berkshire or Blue Chip </p>
+<p>five years ago.  And I would guess that over 95% of our shares </p>
+<p>are held by investors for whom the holding is at least double the </p>
+<p>size of their next largest.  Among companies with at least </p>
+<p>several thousand public shareholders and more than $1 billion of </p>
+<p>market value, we are almost certainly the leader in the degree to </p>
+<p>which our shareholders think and act like owners.  Upgrading a </p>
+<p>shareholder group that possesses these characteristics is not </p>
+<p>easy.</p>
+<p>&nbsp;</p>
+<p>     Were we to split the stock or take other actions focusing on </p>
+<p>stock price rather than business value, we would attract an </p>
+<p>entering class of buyers inferior to the exiting class of </p>
+<p>sellers.  At $1300, there are very few investors who can’t afford </p>
+<p>a Berkshire share.  Would a potential one-share purchaser be </p>
+<p>better off if we split 100 for 1 so he could buy 100 shares?  </p>
+<p>Those who think so and who would buy the stock because of the </p>
+<p>split or in anticipation of one would definitely downgrade the </p>
+<p>quality of our present shareholder group. (Could we really </p>
+<p>improve our shareholder group by trading some of our present </p>
+<p>clear-thinking members for impressionable new ones who, </p>
+<p>preferring paper to value, feel wealthier with nine $10 bills </p>
+<p>than with one $100 bill?) People who buy for non-value reasons </p>
+<p>are likely to sell for non-value reasons.  Their presence in the </p>
+<p>picture will accentuate erratic price swings unrelated to </p>
+<p>underlying business developments.</p>
+<p>&nbsp;</p>
+<p>     We will try to avoid policies that attract buyers with a </p>
+<p>short-term focus on our stock price and try to follow policies </p>
+<p>that attract informed long-term investors focusing on business </p>
+<p>values. just as you purchased your Berkshire shares in a market </p>
+<p>populated by rational informed investors, you deserve a chance to </p>
+<p>sell - should you ever want to - in the same kind of market.  We </p>
+<p>will work to keep it in existence.</p>
+<p>&nbsp;</p>
+<p>     One of the ironies of the stock market is the emphasis on </p>
+<p>activity.  Brokers, using terms such as “marketability” and </p>
+<p>“liquidity”, sing the praises of companies with high share </p>
+<p>turnover (those who cannot fill your pocket will confidently fill </p>
+<p>your ear).  But investors should understand that what is good for </p>
+<p>the croupier is not good for the customer.  A hyperactive stock </p>
+<p>market is the pickpocket of enterprise.</p>
+<p>&nbsp;</p>
+<p>     For example, consider a typical company earning, say, 12% on </p>
+<p>equity.  Assume a very high turnover rate in its shares of 100% </p>
+<p>per year.  If a purchase and sale of the stock each extract </p>
+<p>commissions of 1% (the rate may be much higher on low-priced </p>
+<p>stocks) and if the stock trades at book value, the owners of our </p>
+<p>hypothetical company will pay, in aggregate, 2% of the company’s </p>
+<p>net worth annually for the privilege of transferring ownership.  </p>
+<p>This activity does nothing for the earnings of the business, and </p>
+<p>means that 1/6 of them are lost to the owners through the </p>
+<p>“frictional” cost of transfer. (And this calculation does not </p>
+<p>count option trading, which would increase frictional costs still </p>
+<p>further.)</p>
+<p>&nbsp;</p>
+<p>     All that makes for a rather expensive game of musical </p>
+<p>chairs.  Can you imagine the agonized cry that would arise if a </p>
+<p>governmental unit were to impose a new 16 2/3% tax on earnings of </p>
+<p>corporations or investors?  By market activity, investors can </p>
+<p>impose upon themselves the equivalent of such a tax.</p>
+<p>&nbsp;</p>
+<p>     Days when the market trades 100 million shares (and that </p>
+<p>kind of volume, when over-the-counter trading is included, is </p>
+<p>today abnormally low) are a curse for owners, not a blessing - </p>
+<p>for they mean that owners are paying twice as much to change </p>
+<p>chairs as they are on a 50-million-share day.  If 100 million-</p>
+<p>share days persist for a year and the average cost on each </p>
+<p>purchase and sale is 15 cents a share, the chair-changing tax for </p>
+<p>investors in aggregate would total about $7.5 billion - an amount </p>
+<p>roughly equal to the combined 1982 profits of Exxon, General </p>
+<p>Motors, Mobil and Texaco, the four largest companies in the </p>
+<p>Fortune 500.</p>
+<p>&nbsp;</p>
+<p>     These companies had a combined net worth of $75 billion at </p>
+<p>yearend 1982 and accounted for over 12% of both net worth and net </p>
+<p>income of the entire Fortune 500 list.  Under our assumption </p>
+<p>investors, in aggregate, every year forfeit all earnings from </p>
+<p>this staggering sum of capital merely to satisfy their penchant </p>
+<p>for “financial flip-flopping”.  In addition, investment </p>
+<p>management fees of over $2 billion annually - sums paid for </p>
+<p>chair-changing advice - require the forfeiture by investors of </p>
+<p>all earnings of the five largest banking organizations (Citicorp, </p>
+<p>Bank America, Chase Manhattan, Manufacturers Hanover and J. P. </p>
+<p>Morgan).  These expensive activities may decide who eats the pie, </p>
+<p>but they don’t enlarge it.</p>
+<p>&nbsp;</p>
+<p>     (We are aware of the pie-expanding argument that says that </p>
+<p>such activities improve the rationality of the capital allocation </p>
+<p>process.  We think that this argument is specious and that, on </p>
+<p>balance, hyperactive equity markets subvert rational capital </p>
+<p>allocation and act as pie shrinkers.  Adam Smith felt that all </p>
+<p>noncollusive acts in a free market were guided by an invisible </p>
+<p>hand that led an economy to maximum progress; our view is that </p>
+<p>casino-type markets and hair-trigger investment management act as </p>
+<p>an invisible foot that trips up and slows down a forward-moving </p>
+<p>economy.)</p>
+<p>&nbsp;</p>
+<p>     Contrast the hyperactive stock with Berkshire.  The bid-and-</p>
+<p>ask spread in our stock currently is about 30 points, or a little </p>
+<p>over 2%.  Depending on the size of the transaction, the </p>
+<p>difference between proceeds received by the seller of Berkshire </p>
+<p>and cost to the buyer may range downward from 4% (in trading </p>
+<p>involving only a few shares) to perhaps 1 1/2% (in large trades </p>
+<p>where negotiation can reduce both the market-maker’s spread and </p>
+<p>the broker’s commission).  Because most Berkshire shares are </p>
+<p>traded in fairly large transactions, the spread on all trading </p>
+<p>probably does not average more than 2%.</p>
+<p>&nbsp;</p>
+<p>     Meanwhile, true turnover in Berkshire stock (excluding </p>
+<p>inter-dealer transactions, gifts and bequests) probably runs 3% </p>
+<p>per year.  Thus our owners, in aggregate, are paying perhaps </p>
+<p>6/100 of 1% of Berkshire’s market value annually for transfer </p>
+<p>privileges.  By this very rough estimate, that’s $900,000 - not a </p>
+<p>small cost, but far less than average.  Splitting the stock would </p>
+<p>increase that cost, downgrade the quality of our shareholder </p>
+<p>population, and encourage a market price less consistently </p>
+<p>related to intrinsic business value.  We see no offsetting </p>
+<p>advantages.</p>
+<p><strong>Miscellaneous</strong></p>
+<p>&nbsp;</p>
+<p>     Last year in this section I ran a small ad to encourage </p>
+<p>acquisition candidates.  In our communications businesses we tell </p>
+<p>our advertisers that repetition is a key to results (which it </p>
+<p>is), so we will again repeat our acquisition criteria.</p>
+<p>&nbsp;</p>
+<p>     We prefer:</p>
+<p>        (1) large purchases (at least $5 million of after-tax </p>
+<p>            earnings),</p>
+<p>        (2) demonstrated consistent earning power (future </p>
+<p>            projections are of little interest to us, nor are </p>
+<p>            “turn-around” situations),</p>
+<p>        (3) businesses earning good returns on equity while </p>
+<p>            employing little or no debt,</p>
+<p>        (4) management in place (we can’t supply it),</p>
+<p>        (5) simple businesses (if there’s lots of technology, we </p>
+<p>            won’t understand it),</p>
+<p>        (6) an offering price (we don’t want to waste our time or </p>
+<p>            that of the seller by talking, even preliminarily, </p>
+<p>            about a transaction when price is unknown).</p>
+<p>&nbsp;</p>
+<p>     We will not engage in unfriendly takeovers.  We can promise </p>
+<p>complete confidentiality and a very fast answer - customarily </p>
+<p>within five minutes - as to whether we’re interested.  We prefer </p>
+<p>to buy for cash, but will consider issuance of stock when we </p>
+<p>receive as much in intrinsic business value as we give.  We </p>
+<p>invite potential sellers to check us out by contacting people </p>
+<p>with whom we have done business in the past.  For the right </p>
+<p>business - and the right people - we can provide a good home.</p>
+<p>&nbsp;</p>
+<p>                         *  *  *  *  *</p>
+<p>&nbsp;</p>
+<p>     About 96.4% of all eligible shares participated in our 1983 </p>
+<p>shareholder-designated contributions program.  The total </p>
+<p>contributions made pursuant to this program - disbursed in the </p>
+<p>early days of 1984 but fully expensed in 1983 - were $3,066,501, </p>
+<p>and 1353 charities were recipients.  Although the response </p>
+<p>measured by the percentage of shares participating was </p>
+<p>extraordinarily good, the response measured by the percentage of </p>
+<p>holders participating was not as good.  The reason may well be </p>
+<p>the large number of new shareholders acquired through the merger </p>
+<p>and their lack of familiarity with the program.  We urge new </p>
+<p>shareholders to read the description of the program on pages 52-</p>
+<p>53.</p>
+<p>&nbsp;</p>
+<p>     <em>If you wish to participate in future programs, we strongly </em></p>
+<p><em>urge that you immediately make sure that your shares are </em></p>
+<p><em>registered in the actual owner’s name, not in “street” or nominee </em></p>
+<p><em>name.  Shares not so registered on September 28, 1984 will not be </em></p>
+<p><em>eligible for any 1984 program.</em></p>
+<p>&nbsp;</p>
+<p>                         *  *  *  *  *</p>
+<p>&nbsp;</p>
+<p>     The Blue Chip/Berkshire merger went off without a hitch.  </p>
+<p>Less than one-tenth of 1% of the shares of each company voted </p>
+<p>against the merger, and no requests for appraisal were made.  In </p>
+<p>1983, we gained some tax efficiency from the merger and we expect </p>
+<p>to gain more in the future.</p>
+<p>&nbsp;</p>
+<p>     One interesting sidelight to the merger: Berkshire now has </p>
+<p>1,146,909 shares outstanding compared to 1,137,778 shares at the </p>
+<p>beginning of fiscal 1965, the year present management assumed </p>
+<p>responsibility.  For every 1% of the company you owned at that </p>
+<p>time, you now would own .99%. Thus, all of today’s assets - the </p>
+<p>News, See’s, Nebraska Furniture Mart, the Insurance Group, $1.3 </p>
+<p>billion in marketable stocks, etc. - have been added to the </p>
+<p>original textile assets with virtually no net dilution to the </p>
+<p>original owners.</p>
+<p>&nbsp;</p>
+<p>     We are delighted to have the former Blue Chip shareholders </p>
+<p>join us.  To aid in your understanding of Berkshire Hathaway, we </p>
+<p>will be glad to send you the Compendium of Letters from the </p>
+<p>Annual Reports of 1977-1981, and/or the 1982 Annual report.  </p>
+<p>Direct your request to the Company at 1440 Kiewit Plaza, Omaha, </p>
+<p>Nebraska 68131.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>                                        Warren E. Buffett</p>
+<p>March 14, 1984                          Chairman of the Board</p>
+<p>&nbsp;</p>
+<p><strong>Appendix</strong></p>
+<p style="text-align:center"><strong>BERKSHIRE HATHAWAY INC.</strong></p>
+<p style="text-align:center"><strong> </strong></p>
+<p style="text-align:center"><strong>Goodwill and its Amortization: The Rules and The Realities</strong></p>
+<p>This appendix deals only with economic and accounting Goodwill – not the goodwill of everyday usage. For example, a business may be well liked, even loved, by most of its customers but possess no economic goodwill. (AT&T, before the breakup, was generally well thought of, but possessed not a dime of economic Goodwill.) And, regrettably, a business may be disliked by its customers but possess substantial, and growing, economic Goodwill. So, just for the moment, forget emotions and focus only on economics and accounting.</p>
+<p>When a business is purchased, accounting principles require that the purchase price first be assigned to the fair value of the identifiable assets that are acquired. Frequently the sum of the fair values put on the assets (after the deduction of liabilities) is less than the total purchase price of the business. In that case, the difference is assigned to an asset account entitled "excess of cost over equity in net assets acquired". To avoid constant repetition of this mouthful, we will substitute "Goodwill".</p>
+<p>Accounting Goodwill arising from businesses purchased before November 1970 has a special standing. Except under rare circumstances, it can remain an asset on the balance sheet as long as the business bought is retained. That means no amortization charges to gradually extinguish that asset need be made against earnings.</p>
+<p>The case is different, however, with purchases made from November 1970 on. When these create Goodwill, it must be amortized over not more than 40 years through charges – of equal amount in every year – to the earnings account. Since 40 years is the maximum period allowed, 40 years is what managements (including us) usually elect. This annual charge to earnings is not allowed as a tax deduction and, thus, has an effect on after-tax income that is roughly double that of most other expenses.</p>
+<p>That’s how accounting Goodwill works. To see how it differs from economic reality, let’s look at an example close at hand. We’ll round some figures, and greatly oversimplify, to make the example easier to follow. We’ll also mention some implications for investors and managers.</p>
+<p>Blue Chip Stamps bought See’s early in 1972 for $25 million, at which time See’s had about $8 million of net tangible assets. (Throughout this discussion, accounts receivable will be classified as tangible assets, a definition proper for business analysis.) This level of tangible assets was adequate to conduct the business without use of debt, except for short periods seasonally. See’s was earning about $2 million after tax at the time, and such earnings seemed conservatively representative of future earning power in constant 1972 dollars.</p>
+<p>Thus our first lesson: businesses logically are worth far more than net tangible assets when they can be expected to produce earnings on such assets considerably in excess of market rates of return. The capitalized value of this excess return is economic Goodwill.</p>
+<p>In 1972 (and now) relatively few businesses could be expected to consistently earn the 25% after tax on net tangible assets that was earned by See’s – doing it, furthermore, with conservative accounting and no financial leverage. It was not the fair market value of the inventories, receivables or fixed assets that produced the premium rates of return. Rather it was a combination of intangible assets, particularly a pervasive favorable reputation with consumers based upon countless pleasant experiences they have had with both product and personnel.</p>
+<p>Such a reputation creates a consumer franchise that allows the value of the product to the purchaser, rather than its production cost, to be the major determinant of selling price. Consumer franchises are a prime source of economic Goodwill. Other sources include governmental franchises not subject to profit regulation, such as television stations, and an enduring position as the low cost producer in an industry.</p>
+<p>Let’s return to the accounting in the See’s example. Blue Chip’s purchase of See’s at $17 million over net tangible assets required that a Goodwill account of this amount be established as an asset on Blue Chip’s books and that $425,000 be charged to income annually for 40 years to amortize that asset. By 1983, after 11 years of such charges, the $17 million had been reduced to about $12.5 million. Berkshire, meanwhile, owned 60% of Blue Chip and, therefore, also 60% of See’s. This ownership meant that Berkshire’s balance sheet reflected 60% of See’s Goodwill, or about $7.5 million.</p>
+<p>In 1983 Berkshire acquired the rest of Blue Chip in a merger that required purchase accounting as contrasted to the "pooling" treatment allowed for some mergers. Under purchase accounting, the "fair value" of the shares we gave to (or "paid") Blue Chip holders had to be spread over the net assets acquired from Blue Chip. This "fair value" was measured, as it almost always is when public companies use their shares to make acquisitions, by the market value of the shares given up.</p>
+<p>The assets "purchased" consisted of 40% of everything owned by Blue Chip (as noted, Berkshire already owned the other 60%). What Berkshire "paid" was more than the net identifiable assets we received by $51.7 million, and was assigned to two pieces of Goodwill: $28.4 million to See’s and $23.3 million to Buffalo Evening News.</p>
+<p>After the merger, therefore, Berkshire was left with a Goodwill asset for See’s that had two components: the $7.5 million remaining from the 1971 purchase, and $28.4 million newly created by the 40% "purchased" in 1983. Our amortization charge now will be about $1.0 million for the next 28 years, and $.7 million for the following 12 years, 2002 through 2013.</p>
+<p>In other words, different purchase dates and prices have given us vastly different asset values and amortization charges for two pieces of the same asset. (We repeat our usual disclaimer: we have no better accounting system to suggest. The problems to be dealt with are mind boggling and require arbitrary rules.)</p>
+<p>But what are the economic realities? One reality is that the amortization charges that have been deducted as costs in the earnings statement each year since acquisition of See’s were not true economic costs. We know that because See’s last year earned $13 million after taxes on about $20 million of net tangible assets – a performance indicating the existence of economic Goodwill far larger than the total original cost of our accounting Goodwill. In other words, while accounting Goodwill regularly decreased from the moment of purchase, economic Goodwill increased in irregular but very substantial fashion.</p>
+<p>Another reality is that annual amortization charges in the future will not correspond to economic costs. It is possible, of course, that See’s economic Goodwill will disappear. But it won’t shrink in even decrements or anything remotely resembling them. What is more likely is that the Goodwill will <em>increase</em> – in current, if not in constant, dollars – because of inflation.</p>
+<p>That probability exists because true economic Goodwill tends to rise in nominal value proportionally with inflation. To illustrate how this works, let’s contrast a See’s kind of business with a more mundane business. When we purchased See’s in 1972, it will be recalled, it was earning about $2 million on $8 million of net tangible assets. Let us assume that our hypothetical mundane business then had $2 million of earnings also, but needed $18 million in net tangible assets for normal operations. Earning only 11% on required tangible assets, that mundane business would possess little or no economic Goodwill.</p>
+<p>A business like that, therefore, might well have sold for the value of its net tangible assets, or for $18 million. In contrast, we paid $25 million for See’s, even though it had no more in earnings and less than half as much in "honest-to-God" assets. Could less really have been more, as our purchase price implied? The answer is "yes" – <em>even if both businesses were expected to have flat unit volume</em> – as long as you anticipated, as we did in 1972, a world of continuous inflation.</p>
+<p>To understand why, imagine the effect that a doubling of the price level would subsequently have on the two businesses. Both would need to double their nominal earnings to $4 million to keep themselves even with inflation. This would seem to be no great trick: just sell the same number of units at double earlier prices and, assuming profit margins remain unchanged, profits also must double.</p>
+<p>But, crucially, to bring that about, both businesses probably would have to double their nominal investment in net tangible assets, since that is the kind of economic requirement that inflation usually imposes on businesses, both good and bad. A doubling of dollar sales means correspondingly more dollars must be employed immediately in receivables and inventories. Dollars employed in fixed assets will respond more slowly to inflation, but probably just as surely. And all of this inflation-required investment will produce no improvement in rate of return. The motivation for this investment is the survival of the business, not the prosperity of the owner.</p>
+<p>Remember, however, that See’s had net tangible assets of only $8 million. So it would only have had to commit an additional $8 million to finance the capital needs imposed by inflation. The mundane business, meanwhile, had a burden over twice as large – a need for $18 million of additional capital.</p>
+<p>After the dust had settled, the mundane business, now earning $4 million annually, might still be worth the value of its tangible assets, or $36 million. That means its owners would have gained only a dollar of nominal value for every new dollar invested. (This is the same dollar-for-dollar result they would have achieved if they had added money to a savings account.)</p>
+<p>See’s, however, also earning $4 million, might be worth $50 million if valued (as it logically would be) on the same basis as it was at the time of our purchase. So it would have gained $25 million in nominal value while the owners were putting up only $8 million in additional capital – over $3 of nominal value gained for each $1 invested.</p>
+<p>Remember, even so, that the owners of the See’s kind of business were forced by inflation to ante up $8 million in additional capital just to stay even in real profits. Any unleveraged business that requires some net tangible assets to operate (and almost all do) is hurt by inflation. Businesses needing little in the way of tangible assets simply are hurt the least.</p>
+<p>And that fact, of course, has been hard for many people to grasp. For years the traditional wisdom – long on tradition, short on wisdom – held that inflation protection was best provided by businesses laden with natural resources, plants and machinery, or other tangible assets ("In Goods We Trust"). It doesn’t work that way. Asset-heavy businesses generally earn low rates of return – rates that often barely provide enough capital to fund the inflationary needs of the existing business, with nothing left over for real growth, for distribution to owners, or for acquisition of new businesses.</p>
+<p>In contrast, a disproportionate number of the great business fortunes built up during the inflationary years arose from ownership of operations that combined intangibles of lasting value with relatively minor requirements for tangible assets. In such cases earnings have bounded upward in nominal dollars, and these dollars have been largely available for the acquisition of additional businesses. This phenomenon has been particularly evident in the communications business. That business has required little in the way of tangible investment – yet its franchises have endured. During inflation, Goodwill is the gift that keeps giving.</p>
+<p>But that statement applies, naturally, only to true economic Goodwill. Spurious accounting Goodwill – and there is plenty of it around – is another matter. When an overexcited management purchases a business at a silly price, the same accounting niceties described earlier are observed. Because it can’t go anywhere else, the silliness ends up in the Goodwill account. Considering the lack of managerial discipline that created the account, under such circumstances it might better be labeled "No-Will". Whatever the term, the 40-year ritual typically is observed and the adrenalin so capitalized remains on the books as an "asset" just as if the acquisition had been a sensible one.</p>
+<p style="text-align:center">* * * * *</p>
+<p>If you cling to any belief that accounting treatment of Goodwill is the best measure of economic reality, I suggest one final item to ponder.</p>
+<p>Assume a company with $20 per share of net worth, all tangible assets. Further assume the company has internally developed some magnificent consumer franchise, or that it was fortunate enough to obtain some important television stations by original FCC grant. Therefore, it earns a great deal on tangible assets, say $5 per share, or 25%.</p>
+<p>With such economics, it might sell for $100 per share or more, and it might well also bring that price in a negotiated sale of the entire business.</p>
+<p>Assume an investor buys the stock at $100 per share, paying in effect $80 per share for Goodwill (just as would a corporate purchaser buying the whole company). Should the investor impute a $2 per share amortization charge annually ($80 divided by 40 years) to calculate "true" earnings per share? And, if so, should the new "true" earnings of $3 per share cause him to rethink his purchase price?</p>
+<p style="text-align:center">* * * * *</p>
+<p>We believe managers and investors alike should view intangible assets from two perspectives:</p>
+<p>1）In analysis of operating results – that is, in evaluating the underlying economics of a business unit – amortization charges should be ignored. What a business can be expected to earn on unleveraged net tangible assets, excluding any charges against earnings for amortization of Goodwill, is the best guide to the economic attractiveness of the operation. It is also the best guide to the current value of the operation’s economic Goodwill.</p>
+<p>2）In evaluating the wisdom of business acquisitions, amortization charges should be ignored also. They should be deducted neither from earnings nor from the cost of the business. This means forever viewing purchased Goodwill at its full cost, before any amortization. Furthermore, cost should be defined as including the full intrinsic business value – not just the recorded accounting value – of all consideration given, irrespective of market prices of the securities involved at the time of merger and irrespective of whether pooling treatment was allowed. For example, what we truly paid in the Blue Chip merger for 40% of the Goodwill of See’s and the News was considerably more than the $51.7 million entered on our books. This disparity exists because the market value of the Berkshire shares given up in the merger was less than their intrinsic business value, which is the value that defines the true cost to us.</p>
+<p>Operations that appear to be winners based upon perspective (1) may pale when viewed from perspective (2). A good business is not always a good purchase – although it’s a good place to look for one.</p>
+<p>We will try to acquire businesses that have excellent operating economics measured by (1) and that provide reasonable returns measured by (2). Accounting consequences will be totally ignored.</p>
+<p>At yearend 1983, net Goodwill on our accounting books totaled $62 million, consisting of the $79 million you see stated on the asset side of our balance sheet, and $17 million of negative Goodwill that is offset against the carrying value of our interest in Mutual Savings and Loan.</p>
+<p>We believe net economic Goodwill far exceeds the $62 million accounting number.</p>`,
 
     concepts: ['intrinsic-value', 'moat', 'compounding', 'owner-earnings'],
     companies: ['berkshire-hathaway'],
@@ -7030,7 +10126,169 @@ export const berkshireLetters: Letter[] = [
     date: '1984-02-01',
     summary:
       "1984 was another strong year. Buffett discussed the concept of 'wide moats' around businesses and the importance of franchise value.",
-        fullText: `[[PLACEHOLDER]]`,
+        fullText: `<p><strong>To the Shareholders of Berkshire Hathaway Inc.:</strong></p>
+<p>Our gain in net worth during 1984 was $152.6 million, or $133 per share. This sounds pretty good but actually it’s mediocre. Economic gains must be evaluated by comparison with the capital that produces them. Our twenty-year compounded annual gain in book value has been 22.1% (from $19.46 in 1964 to $1108.77 in 1984), but our gain in 1984 was only 13.6%.</p>
+<p>As we discussed last year, the gain in per-share intrinsic business value is the economic measurement that really counts. But calculations of intrinsic business value are subjective. In our case, book value serves as a useful, although somewhat understated, proxy. In my judgment, intrinsic business value and book value increased during 1984 at about the same rate.</p>
+<p>Using my academic voice, I have told you in the past of the drag that a mushrooming capital base exerts upon rates of return. Unfortunately, my academic voice is now giving way to a reportorial voice. Our historical 22% rate is just that—history. To earn even 15% annually over the next decade (assuming we continue to follow our present dividend policy, about which more will be said later in this letter) we would need profits aggregating about $3.9 billion. Accomplishing this will require a few big ideas—small ones just won’t do. Charlie Munger, my partner in general management, and I do not have any such ideas at present, but our experience has been that they pop up occasionally. (How’s that for a strategic plan?)</p>
+<p><strong>Sources of Reported Earnings</strong></p>
+<p>The table on the following page shows the sources of Berkshire’s reported earnings. Berkshire’s net ownership interest in many of the constituent businesses changed at midyear 1983 when the Blue Chip merger took place. Because of these changes, the first two columns of the table provide the best measure of underlying business performance.</p>
+<p>All of the significant gains and losses attributable to unusual sales of assets by any of the business entities are aggregated with securities transactions on the line near the bottom of the table, and are not included in operating earnings. (We regard any annual figure for realized capital gains or losses as meaningless, but we regard the aggregate realized and unrealized capital gains over a period of years as very important.)</p>
+<p>Furthermore, amortization of Goodwill is not charged against the specific businesses but, for reasons outlined in the Appendix to my letter in the 1983 annual report, is set forth as a separate item.</p>
+<p>(1) 1983 figures are those for October through December.(2) 1984 and 1983 are not comparable; major assets were transferred in the mid-year 1983 merger of Blue Chip Stamps.</p>
+<p>Sharp-eyed shareholders will notice that the amount of the special GEICO distribution and its location in the table have been changed from the presentation of last year. Though they reclassify and reduce “accounting” earnings, the changes are entirely of form, not of substance. The story behind the changes, however, is interesting.</p>
+<p>As reported last year: (1) in mid-1983 GEICO made a tender offer to buy its own shares; (2) at the same time, we agreed by written contract to sell GEICO an amount of its shares that would be proportionately related to the aggregate number of shares GEICO repurchased via the tender from all other shareholders; (3) at completion of the tender, we delivered 350,000 shares to GEICO, received $21 million cash, and were left owning exactly the same percentage of GEICO that we owned before the tender; (4) GEICO’s transaction with us amounted to a proportionate redemption, an opinion rendered us, without qualification, by a leading law firm; (5) the Tax Code logically regards such proportionate redemptions as substantially equivalent to dividends and, therefore, the $21 million we received was taxed at only the 6.9% inter-corporate dividend rate; (6) importantly, that $21 million was far less than the previously-undistributed earnings that had inured to our ownership in GEICO and, thus, from the standpoint of economic substance, was in our view equivalent to a dividend.</p>
+<p>Because it was material and unusual, we highlighted the GEICO distribution last year to you, both in the applicable quarterly report and in this section of the annual report. Additionally, we emphasized the transaction to our auditors, Peat, Marwick, Mitchell & Co. Both the Omaha office of Peat Marwick and the reviewing Chicago partner, without objection, concurred with our dividend presentation.</p>
+<p>In 1984, we had a virtually identical transaction with General Foods. The only difference was that General Foods repurchased its stock over a period of time in the open market, whereas GEICO had made a “one-shot” tender offer. In the General Foods case we sold to the company, on each day that it repurchased shares, a quantity of shares that left our ownership percentage precisely unchanged. Again our transaction was pursuant to a written contract executed before repurchases began. And again the money we received was far less than the retained earnings that had inured to our ownership interest since our purchase. Overall we received $21,843,601 in cash from General Foods, and our ownership remained at exactly 8.75%.</p>
+<p>At this point the New York office of Peat Marwick came into the picture. Late in 1984 it indicated that it disagreed with the conclusions of the firm’s Omaha office and Chicago reviewing partner. The New York view was that the GEICO and General Foods transactions should be treated as sales of stock by Berkshire rather than as the receipt of dividends. Under this accounting approach, a portion of the cost of our investment in the stock of each company would be charged against the redemption payment and any gain would be shown as a capital gain, not as dividend income. This is an accounting approach only, having no bearing on taxes: Peat Marwick agrees that the transactions were dividends for IRS purposes.</p>
+<p>We disagree with the New York position from both the viewpoint of economic substance and proper accounting. But, to avoid a qualified auditor’s opinion, we have adopted herein Peat Marwick’s 1984 view and restated 1983 accordingly. None of this, however, has any effect on intrinsic business value: our ownership interests in GEICO and General Foods, our cash, our taxes, and the market value and tax basis of our holdings all remain the same.</p>
+<p>This year we have again entered into a contract with General Foods whereby we will sell them shares concurrently with open market purchases that they make. The arrangement provides that our ownership interest will remain unchanged at all times. By keeping it so, we will insure ourselves dividend treatment for tax purposes. In our view also, the economic substance of this transaction again is the creation of dividend income. However, we will account for the redemptions as sales of stock rather than dividend income unless accounting rules are adopted that speak directly to this point. We will continue to prominently identify any such special transactions in our reports to you.</p>
+<p>While we enjoy a low tax charge on these proportionate redemptions, and have participated in several of them, we view such repurchases as at least equally favorable for shareholders who do not sell. When companies with outstanding businesses and comfortable financial positions find their shares selling far below intrinsic value in the marketplace, no alternative action can benefit shareholders as surely as repurchases.</p>
+<p>(Our endorsement of repurchases is limited to those dictated by price/value relationships and does not extend to the “greenmail” repurchase—a practice we find odious and repugnant. In these transactions, two parties achieve their personal ends by exploitation of an innocent and unconsulted third party. The players are: (1) the “shareholder” extortionist who, even before the ink on his stock certificate dries, delivers his “your-money-or-your-life” message to managers; (2) the corporate insiders who quickly seek peace at any price—as long as the price is paid by someone else; and (3) the shareholders whose money is used by (2) to make (1) go away. As the dust settles, the mugging, transient shareholder gives his speech on “free enterprise”, the muggee management gives its speech on “the best interests of the company”, and the innocent shareholder standing by mutely funds the payoff.)</p>
+<p>The companies in which we have our largest investments have all engaged in significant stock repurchases at times when wide discrepancies existed between price and value. As shareholders, we find this encouraging and rewarding for two important reasons—one that is obvious, and one that is subtle and not always understood. The obvious point involves basic arithmetic: major repurchases at prices well below per-share intrinsic business value immediately increase, in a highly significant way, that value. When companies purchase their own stock, they often find it easy to get $2 of present value for $1. Corporate acquisition programs almost never do as well and, in a discouragingly large number of cases, fail to get anything close to $1 of value for each $1 expended.</p>
+<p>The other benefit of repurchases is less subject to precise measurement but can be fully as important over time. By making repurchases when a company’s market value is well below its business value, management clearly demonstrates that it is given to actions that enhance the wealth of shareholders, rather than to actions that expand management’s domain but that do nothing for (or even harm) shareholders. Seeing this, shareholders and potential shareholders increase their estimates of future returns from the business. This upward revision, in turn, produces market prices more in line with intrinsic business value. These prices are entirely rational. Investors should pay more for a business that is lodged in the hands of a manager with demonstrated pro-shareholder leanings than for one in the hands of a self-interested manager marching to a different drummer. (To make the point extreme, how much would you pay to be a minority shareholder of a company controlled by Robert Wesco?)</p>
+<p>The key word is “demonstrated”. A manager who consistently turns his back on repurchases, when these clearly are in the interests of owners, reveals more than he knows of his motivations. No matter how often or how eloquently he mouths some public relations-inspired phrase such as “maximizing shareholder wealth” (this season’s favorite), the market correctly discounts assets lodged with him. His heart is not listening to his mouth—and, after a while, neither will the market.</p>
+<p>We have prospered in a very major way—as have other shareholders—by the large share repurchases of GEICO, Washington Post, and General Foods, our three largest holdings. (Exxon, in which we have our fourth largest holding, has also wisely and aggressively repurchased shares but, in this case, we have only recently established our position.) In each of these companies, shareholders have had their interests in outstanding businesses materially enhanced by repurchases made at bargain prices. We feel very comfortable owning interests in businesses such as these that offer excellent economics combined with shareholder-conscious managements.</p>
+<p>The following table shows our 1984 yearend net holdings in marketable equities. All numbers exclude the interests attributable to minority shareholders of Wesco and Nebraska Furniture Mart.</p>
+<p>&nbsp;</p>
+<p>It’s been over ten years since it has been as difficult as now to find equity investments that meet both our qualitative standards and our quantitative standards of value versus price. We try to avoid compromise of these standards, although we find doing nothing the most difficult task of all. (One English statesman attributed his country’s greatness in the nineteenth century to a policy of “masterly inactivity”. This is a strategy that is far easier for historians to commend than for participants to follow.)</p>
+<p>In addition to the figures supplied at the beginning of this section, information regarding the businesses we own appears in Management’s Discussion on pages 42-47. An amplified discussion of Wesco’s businesses appears in Charlie Munger’s report on pages 50-59. You will find particularly interesting his comments about conditions in the thrift industry. Our other major controlled businesses are Nebraska Furniture Mart, See’s, Buffalo Evening News, and the Insurance Group, to which we will give some special attention here.</p>
+<p><strong>Nebraska Furniture Mart</strong></p>
+<p>Last year I introduced you to Mrs. B (Rose Blumkin) and her family. I told you they were terrific, and I understated the case. After another year of observing their remarkable talents and character, I can honestly say that I never have seen a managerial group that either functions or behaves better than the Blumkin family.</p>
+<p>Mrs. B, Chairman of the Board, is now 91, and recently was quoted in the local newspaper as saying, “I come home to eat and sleep, and that’s about it. I can’t wait until it gets daylight so I can get back to the business”. Mrs. B is at the store seven days a week, from opening to close, and probably makes more decisions in a day than most CEOs do in a year (better ones, too).</p>
+<p>In May Mrs. B was granted an Honorary Doctorate in Commercial Science by New York University. (She’s a “fast track” student: not one day in her life was spent in a school room prior to her receipt of the doctorate.) Previous recipients of honorary degrees in business from NYU include Clifton Garvin, Jr., CEO of Exxon Corp.; Walter Wriston, then CEO of Citicorp; Frank Cary, then CEO of IBM; Tom Murphy, then CEO of General Motors; and, most recently, Paul Volcker. (They are in good company.)</p>
+<p>The Blumkin blood did not run thin. Louie, Mrs. B’s son, and his three boys, Ron, Irv, and Steve, all contribute in full measure to NFM’s amazing success. The younger generation has attended the best business school of them all—that conducted by Mrs. B and Louie—and their training is evident in their performance.</p>
+<p>Last year NFM’s net sales increased by $14.3 million, bringing the total to $115 million, all from the one store in Omaha. That is by far the largest volume produced by a single home furnishings store in the United States. In fact, the gain in sales last year was itself greater than the annual volume of many good-sized successful stores. The business achieves this success because it deserves this success. A few figures will tell you why.</p>
+<p>In its fiscal 1984 10-K, the largest independent specialty retailer of home furnishings in the country, Levitz Furniture, described its prices as “generally lower than the prices charged by conventional furniture stores in its trading area”. Levitz, in that year, operated at a gross margin of 44.4% (that is, on average, customers paid it $100 for merchandise that had cost it $55.60 to buy). The gross margin at NFM is not much more than half of that. NFM’s low mark-ups are possible because of its exceptional efficiency: operating expenses (payroll, occupancy, advertising, etc.) are about 16.5% of sales versus 35.6% at Levitz.</p>
+<p>None of this is in criticism of Levitz, which has a well-managed operation. But the NFM operation is simply extraordinary (and, remember, it all comes from a $500 investment by Mrs. B in 1937). By unparalleled efficiency and astute volume purchasing, NFM is able to earn excellent returns on capital while saving its customers at least $30 million annually from what, on average, it would cost them to buy the same merchandise at stores maintaining typical mark-ups. Such savings enable NFM to constantly widen its geographical reach and thus to enjoy growth well beyond the natural growth of the Omaha market.</p>
+<p>I have been asked by a number of people just what secrets the Blumkins bring to their business. These are not very esoteric. All members of the family: (1) apply themselves with an enthusiasm and energy that would make Ben Franklin and Horatio Alger look like dropouts; (2) define with extraordinary realism their area of special competence and act decisively on all matters within it; (3) ignore even the most enticing propositions failing outside of that area of special competence; and, (4) unfailingly behave in a high-grade manner with everyone they deal with. (Mrs. B boils it down to “sell cheap and tell the truth”.)</p>
+<p>Our evaluation of the integrity of Mrs. B and her family was demonstrated when we purchased 90% of the business: NFM had never had an audit and we did not request one; we did not take an inventory nor verify the receivables; we did not check property titles. We gave Mrs. B a check for $55 million and she gave us her word. That made for an even exchange.</p>
+<p>You and I are fortunate to be in partnership with the Blumkin family.</p>
+<p><strong>See’s Candy Shops, Inc.</strong></p>
+<p>Below is our usual recap of See’s performance since the time of purchase by Blue Chip Stamps:</p>
+<p>This performance has not been produced by a generally rising tide. To the contrary, many well-known participants in the boxed-chocolate industry either have lost money in this same period or have been marginally profitable. To our knowledge, only one good-sized competitor has achieved high profitability. The success of See’s reflects the combination of an exceptional product and an exceptional manager, Chuck Huggins.</p>
+<p>During 1984 we increased prices considerably less than has been our practice in recent years: per-pound realization was $5.49, up only 1.4% from 1983. Fortunately, we made good progress on cost control, an area that has caused us problems in recent years. Per-pound costs—other than those for raw materials, a segment of expense largely outside of our control—increased by only 2.2% last year.</p>
+<p>Our cost-control problem has been exacerbated by the problem of modestly declining volume (measured by pounds, not dollars) on a same-store basis. Total pounds sold through shops in recent years has been maintained at a roughly constant level only by the net addition of a few shops annually. This more-shops-to-get-the-same-volume situation naturally puts heavy pressure on per-pound selling costs.</p>
+<p>In 1984, same-store volume declined 1.1%. Total shop volume, however, grew 0.6% because of an increase in stores. (Both percentages are adjusted to compensate for a 53-week fiscal year in 1983.)</p>
+<p>See’s business tends to get a bit more seasonal each year. In the four weeks prior to Christmas, we do 40% of the year’s volume and earn about 75% of the year’s profits. We also earn significant sums in the Easter and Valentine’s Day periods, but pretty much tread water the rest of the year. In recent years, shop volume at Christmas has grown in relative importance, and so have quantity orders and mail orders. The increased concentration of business in the Christmas period produces a multitude of managerial problems, all of which have been handled by Chuck and his associates with exceptional skill and grace.</p>
+<p>Their solutions have in no way involved compromises in either quality of service or quality of product. Most of our larger competitors could not say the same. Though faced with somewhat less extreme peaks and valleys in demand than we, they add preservatives or freeze the finished product in order to smooth the production cycle and thereby lower unit costs. We reject such techniques, opting, in effect, for production headaches rather than product modification.</p>
+<p>Our mall stores face a host of new food and snack vendors that provide particularly strong competition at non-holiday periods. We need new products to fight back and during 1984 we introduced six candy bars that, overall, met with a good reception. Further product introductions are planned.</p>
+<p>In 1985 we will intensify our efforts to keep per-pound cost increases below the rate of inflation. Continued success in these efforts, however, will require gains in same-store poundage. Prices in 1985 should average 6%—7% above those of 1984. Assuming no change in same-store volume, profits should show a moderate gain.</p>
+<p><strong>Buffalo Evening News</strong></p>
+<p>Profits at the News in 1984 were considerably greater than we expected. As at See’s, excellent progress was made in controlling costs. Excluding hours worked in the newsroom, total hours worked decreased by about 2.8%. With this productivity improvement, overall costs increased only 4.9%. This performance by Stan Lipsey and his management team was one of the best in the industry.</p>
+<p>However, we now face an acceleration in costs. In mid-1984 we entered into new multi-year union contracts that provided for a large “catch-up” wage increase. This catch-up is entirely appropriate: the cooperative spirit of our unions during the unprofitable 1977-1982 period was an important factor in our success in remaining cost competitive with The Courier-Express. Had we not kept costs down, the outcome of that struggle might well have been different.</p>
+<p>Because our new union contracts took effect at varying dates, little of the catch-up increase was reflected in our 1984 costs. But the increase will be almost totally effective in 1985 and, therefore, our unit labor costs will rise this year at a rate considerably greater than that of the industry. We expect to mitigate this increase by continued small gains in productivity, but we cannot avoid significantly higher wage costs this year. Newsprint price trends also are less favorable now than they were in 1984. Primarily because of these two factors, we expect at least a minor contraction in margins at the News.</p>
+<p>Working in our favor at the News are two factors of major economic importance:</p>
+<p>Our circulation is concentrated to an unusual degree in the area of maximum utility to our advertisers. “Regional” newspapers with wide-ranging circulation, on the other hand, have a significant portion of their circulation in areas that are of negligible utility to most advertisers. A subscriber several hundred miles away is not much of a prospect for the puppy you are offering to sell via a classified ad—nor for the grocer with stores only in the metropolitan area. “Wasted” circulation—as the advertisers call it -hurts profitability: expenses of a newspaper are determined largely by gross circulation while advertising revenues (usually 70%—80% of total revenues) are responsive only to useful circulation;</p>
+<p>Our penetration of the Buffalo retail market is exceptional; advertisers can reach almost all of their potential customers using only the News.</p>
+<p>Last year I told you about this unusual reader acceptance: among the 100 largest newspapers in the country, we were then number one, daily, and number three, Sunday, in penetration. The most recent figures show us number one in penetration on weekdays and number two on Sunday. (Even so, the number of households in Buffalo has declined, so our current weekday circulation is down slightly; on Sundays it is unchanged.)</p>
+<p>I told you also that one of the major reasons for this unusual acceptance by readers was the unusual quantity of news that we delivered to them: a greater percentage of our paper is devoted to news than is the case at any other dominant paper in our size range. In 1984 our “news hole” ratio was 50.9%, (versus 50.4% in 1983), a level far above the typical 35%-40%. We will continue to maintain this ratio in the 50% area. Also, though we last year reduced total hours worked in other departments, we maintained the level of employment in the newsroom and, again, will continue to do so. Newsroom costs advanced 9.1% in 1984, a rise far exceeding our overall cost increase of 4.9%.</p>
+<p>Our news hole policy costs us significant extra money for newsprint. As a result, our news costs (newsprint for the news hole plus payroll and expenses of the newsroom) as a percentage of revenue run higher than those of most dominant papers of our size. There is adequate room, however, for our paper or any other dominant paper to sustain these costs: the difference between “high” and “low” news costs at papers of comparable size runs perhaps three percentage points while pre-tax profit margins are often ten times that amount.</p>
+<p>The economics of a dominant newspaper are excellent, among the very best in the business world. Owners, naturally, would like to believe that their wonderful profitability is achieved only because they unfailingly turn out a wonderful product. That comfortable theory wilts before an uncomfortable fact. While first-class newspapers make excellent profits, the profits of third-rate papers are as good or better—as long as either class of paper is dominant within its community. Of course, product quality may have been crucial to the paper in achieving dominance. We believe this was the case at the News, in very large part because of people such as Alfred Kirchhofer who preceded us.</p>
+<p>Once dominant, the newspaper itself, not the marketplace, determines just how good or how bad the paper will be. Good or bad, it will prosper. That is not true of most businesses: inferior quality generally produces inferior economics. But even a poor newspaper is a bargain to most citizens simply because of its “bulletin board” value. Other things being equal, a poor product will not achieve quite the level of readership achieved by a first-class product. A poor product, however, will still remain essential to most citizens, and what commands their attention will command the attention of advertisers.</p>
+<p>Since high standards are not imposed by the marketplace, management must impose its own. Our commitment to an above-average expenditure for news represents an important quantitative standard. We have confidence that Stan Lipsey and Murray Light will continue to apply the far-more important qualitative standards. Charlie and I believe that newspapers are very special institutions in society. We are proud of the News, and intend an even greater pride to be justified in the years ahead.</p>
+<p><strong>Insurance Operations</strong></p>
+<p>Shown below is an updated version of our usual table listing two key figures for the insurance industry:</p>
+<p><em>Source:  Best’s Aggregates and Averages.</em></p>
+<p>Best’s data reflect the experience of practically the entire industry, including stock, mutual, and reciprocal companies. The combined ratio represents total insurance costs (losses incurred plus expenses) compared to revenue from premiums; a ratio below 100 indicates an underwriting profit, and one above 100 indicates a loss.</p>
+<p>For a number of years, we have told you that an annual increase by the industry of about 10% per year in premiums written is necessary for the combined ratio to remain roughly unchanged. We assumed in making that assertion that expenses as a percentage of premium volume would stay relatively stable and that losses would grow at about 10% annually because of the combined influence of unit volume increases, inflation, and judicial rulings that expand what is covered by the insurance policy.</p>
+<p>Our opinion is proving dismayingly accurate: a premium increase of 10% per year since 1979 would have produced an aggregate increase through 1984 of 61% and a combined ratio in 1984 almost identical to the 100.6 of 1979. Instead, the industry had only a 30% increase in premiums and a 1984 combined ratio of 117.7. Today, we continue to believe that the key index to the trend of underwriting profitability is the year-to-year percentage change in industry premium volume.</p>
+<p>It now appears that premium volume in 1985 will grow well over 10%. Therefore, assuming that catastrophes are at a “normal” level, we would expect the combined ratio to begin easing downward toward the end of the year. However, under our industrywide loss assumptions (i.e., increases of 10% annually), five years of 15%-per-year increases in premiums would be required to get the combined ratio back to 100. This would mean a doubling of industry volume by 1989, an outcome that seems highly unlikely to us. Instead, we expect several years of premium gains somewhat above the 10% level, followed by highly-competitive pricing that generally will produce combined ratios in the 108-113 range.</p>
+<p>Our own combined ratio in 1984 was a humbling 134. (Here, as throughout this report, we exclude structured settlements and the assumption of loss reserves in reporting this ratio. Much additional detail, including the effect of discontinued operations on the ratio, appears on pages 42-43). This is the third year in a row that our underwriting performance has been far poorer than that of the industry. We expect an improvement in the combined ratio in 1985, and also expect our improvement to be substantially greater than that of the industry. Mike Goldberg has corrected many of the mistakes I made before he took over insurance operations. Moreover, our business is concentrated in lines that have experienced poorer-than-average results during the past several years, and that circumstance has begun to subdue many of our competitors and even eliminate some. With the competition shaken, we were able during the last half of 1984 to raise prices significantly in certain important lines with little loss of business.</p>
+<p>For some years I have told you that there could be a day coming when our premier financial strength would make a real difference in the competitive position of our insurance operation. That day may have arrived. We are almost without question the strongest property/casualty insurance operation in the country, with a capital position far superior to that of well-known companies of much greater size.</p>
+<p>Equally important, our corporate policy is to retain that superiority. The buyer of insurance receives only a promise in exchange for his cash. The value of that promise should be appraised against the possibility of adversity, not prosperity. At a minimum, the promise should appear able to withstand a prolonged combination of depressed financial markets and exceptionally unfavorable underwriting results. Our insurance subsidiaries are both willing and able to keep their promises in any such environment—and not too many other companies clearly are.</p>
+<p>Our financial strength is a particular asset in the business of structured settlements and loss reserve assumptions that we reported on last year. The claimant in a structured settlement and the insurance company that has reinsured loss reserves need to be completely confident that payments will be forthcoming for decades to come. Very few companies in the property/casualty field can meet this test of unquestioned long-term strength. (In fact, only a handful of companies exists with which we will reinsure our own liabilities.)</p>
+<p>We have grown in these new lines of business: funds that we hold to offset assumed liabilities grew from $16.2 million to $30.6 million during the year. We expect growth to continue and perhaps to greatly accelerate. To support this projected growth we have added substantially to the capital of Columbia Insurance Company, our reinsurance unit specializing in structured settlements and loss reserve assumptions. While these businesses are very competitive, returns should be satisfactory.</p>
+<p>At GEICO the news, as usual, is mostly good. That company achieved excellent unit growth in its primary insurance business during 1984, and the performance of its investment portfolio continued to be extraordinary. Though underwriting results deteriorated late in the year, they still remain far better than those of the industry. Our ownership in GEICO at yearend amounted to 36% and thus our interest in their direct property/casualty volume of $885 million amounted to $320 million, or well over double our own premium volume.</p>
+<p>I have reported to you in the past few years that the performance of GEICO’s stock has considerably exceeded that company’s business performance, brilliant as the latter has been. In those years, the carrying value of our GEICO investment on our balance sheet grew at a rate greater than the growth in GEICO’s intrinsic business value. I warned you that over performance by the stock relative to the performance of the business obviously could not occur every year, and that in some years the stock must under perform the business. In 1984 that occurred and the carrying value of our interest in GEICO changed hardly at all, while the intrinsic business value of that interest increased substantially.</p>
+<p>Since 27% of Berkshire’s net worth at the beginning of 1984 was represented by GEICO, its static market value had a significant impact upon our rate of gain for the year. We are not at all unhappy with such a result: we would far rather have the business value of GEICO increase by X during the year, while market value decreases, than have the intrinsic value increase by only 1/2 X with market value soaring. In GEICO’s case, as in all of our investments, we look to business performance, not market performance. If we are correct in expectations regarding the business, the market eventually will follow along.</p>
+<p>You, as shareholders of Berkshire, have benefited in enormous measure from the talents of GEICO’s Jack Byrne, Bill Snyder, and Lou Simpson. In its core business—low-cost auto and homeowners insurance—GEICO has a major, sustainable competitive advantage. That is a rare asset in business generally, and it’s almost non-existent in the field of financial services. (GEICO, itself, illustrates this point: despite the company’s excellent management, superior profitability has eluded GEICO in all endeavors other than its core business.) In a large industry, a competitive advantage such as GEICO’s provides the potential for unusual economic rewards, and Jack and Bill continue to exhibit great skill in realizing that potential.</p>
+<p>Most of the funds generated by GEICO’s core insurance operation are made available to Lou for investment. Lou has the rare combination of temperamental and intellectual characteristics that produce outstanding long-term investment performance. Operating with below-average risk, he has generated returns that have been by far the best in the insurance industry. I applaud and appreciate the efforts and talents of these three outstanding managers.</p>
+<p><strong>Errors in Loss Reserving</strong></p>
+<p>Any shareholder in a company with important interests in the property/casualty insurance business should have some understanding of the weaknesses inherent in the reporting of current earnings in that industry. Phil Graham, when publisher of the Washington Post, described the daily newspaper as “a first rough draft of history”. Unfortunately, the financial statements of a property/casualty insurer provide, at best, only a first rough draft of earnings and financial condition.</p>
+<p>The determination of costs is the main problem. Most of an insurer’s costs result from losses on claims, and many of the losses that should be charged against the current year’s revenue are exceptionally difficult to estimate. Sometimes the extent of these losses, or even their existence, is not known for decades.</p>
+<p>The loss expense charged in a property/casualty company’s current income statement represents: (1) losses that occurred and were paid during the year; (2) estimates for losses that occurred and were reported to the insurer during the year, but which have yet to be settled; (3) estimates of ultimate dollar costs for losses that occurred during the year but of which the insurer is unaware (termed “IBNR”: incurred but not reported); and (4) the net effect of revisions this year of similar estimates for (2) and (3) made in past years.</p>
+<p>Such revisions may be long delayed, but eventually any estimate of losses that causes the income for year X to be misstated must be corrected, whether it is in year X + 1, or X + 10. This, perforce, means that earnings in the year of correction also are misstated. For example, assume a claimant was injured by one of our insureds in 1979 and we thought a settlement was likely to be made for $10,000. That year we would have charged $10,000 to our earnings statement for the estimated cost of the loss and, correspondingly, set up a liability reserve on the balance sheet for that amount. If we settled the claim in 1984 for $100,000, we would charge earnings with a loss cost of $90,000 in 1984, although that cost was truly an expense of 1979. And if that piece of business was our only activity in 1979, we would have badly misled ourselves as to costs, and you as to earnings.</p>
+<p>The necessarily-extensive use of estimates in assembling the figures that appear in such deceptively precise form in the income statement of property/casualty companies means that some error must seep in, no matter how proper the intentions of management. In an attempt to minimize error, most insurers use various statistical techniques to adjust the thousands of individual loss evaluations (called case reserves) that comprise the raw data for estimation of aggregate liabilities. The extra reserves created by these adjustments are variously labeled “bulk”, “development”, or “supplemental” reserves. The goal of the adjustments should be a loss-reserve total that has a 50-50 chance of being proved either slightly too high or slightly too low when all losses that occurred prior to the date of the financial statement are ultimately paid.</p>
+<p>At Berkshire, we have added what we thought were appropriate supplemental reserves but in recent years they have not been adequate. It is important that you understand the magnitude of the errors that have been involved in our reserving. You can thus see for yourselves just how imprecise the process is, and also judge whether we may have some systemic bias that should make you wary of our current and future figures.</p>
+<p>The following table shows the results from insurance underwriting as we have reported them to you in recent years, and also gives you calculations a year later on an “if-we-knew-then-what-we think-we-know-now” basis. I say “what we think we know now” because the adjusted figures still include a great many estimates for losses that occurred in the earlier years. However, many claims from the earlier years have been settled so that our one-year-later estimate contains less guess work than our earlier estimate:</p>
+<p>Our structured settlement and loss-reserve assumption businesses are not included in this table. Important additional information on loss reserve experience appears on pages 43-45.</p>
+<p>To help you understand this table, here is an explanation of the most recent figures: 1984’s reported pre-tax underwriting loss of $45.4 million consists of $27.6 million we estimate that we lost on 1984’s business, plus the increased loss of $17.8 million reflected in the corrected figure for 1983.</p>
+<p>As you can see from reviewing the table, my errors in reporting to you have been substantial and recently have always presented a better underwriting picture than was truly the case. This is a source of particular chagrin to me because: (1) I like for you to be able to count on what I say; (2) our insurance managers and I undoubtedly acted with less urgency than we would have had we understood the full extent of our losses; and (3) we paid income taxes calculated on overstated earnings and thereby gave the government money that we didn’t need to. (These overpayments eventually correct themselves, but the delay is long and we don’t receive interest on the amounts we overpaid.)</p>
+<p>Because our business is weighted toward casualty and reinsurance lines, we have more problems in estimating loss costs than companies that specialize in property insurance. (When a building that you have insured burns down, you get a much faster fix on your costs than you do when an employer you have insured finds out that one of his retirees has contracted a disease attributable to work he did decades earlier.) But I still find our errors embarrassing. In our direct business, we have far underestimated the mushrooming tendency of juries and courts to make the “deep pocket” pay, regardless of the factual situation and the past precedents for establishment of liability. We also have underestimated the contagious effect that publicity regarding giant awards has on juries. In the reinsurance area, where we have had our worst experience in under reserving, our customer insurance companies have made the same mistakes. Since we set reserves based on information they supply us, their mistakes have become our mistakes.</p>
+<p>I heard a story recently that is applicable to our insurance accounting problems: a man was traveling abroad when he received a call from his sister informing him that their father had died unexpectedly. It was physically impossible for the brother to get back home for the funeral, but he told his sister to take care of the funeral arrangements and to send the bill to him. After returning home he received a bill for several thousand dollars, which he promptly paid. The following month another bill came along for $15, and he paid that too. Another month followed, with a similar bill. When, in the next month, a third bill for $15 was presented, he called his sister to ask what was going on. “Oh”, she said. “I forgot to tell you. We buried Dad in a rented suit.”</p>
+<p>If you’ve been in the insurance business in recent years—particularly the reinsurance business—this story hurts. We have tried to include all of our “rented suit” liabilities in our current financial statement, but our record of past error should make us humble, and you suspicious. I will continue to report to you the errors, plus or minus, that surface each year.</p>
+<p>Not all reserving errors in the industry have been of the innocent-but-dumb variety. With underwriting results as bad as they have been in recent years—and with managements having as much discretion as they do in the presentation of financial statements—some unattractive aspects of human nature have manifested themselves. Companies that would be out of business if they realistically appraised their loss costs have, in some cases, simply preferred to take an extraordinarily optimistic view about these yet-to-be-paid sums. Others have engaged in various transactions to hide true current loss costs.</p>
+<p>Both of these approaches can “work” for a considerable time: external auditors cannot effectively police the financial statements of property/casualty insurers. If liabilities of an insurer, correctly stated, would exceed assets, it falls to the insurer to volunteer this morbid information. In other words, the corpse is supposed to file the death certificate. Under this “honor system” of mortality, the corpse sometimes gives itself the benefit of the doubt.</p>
+<p>In most businesses, of course, insolvent companies run out of cash. Insurance is different: you can be broke but flush. Since cash comes in at the inception of an insurance policy and losses are paid much later, insolvent insurers don’t run out of cash until long after they have run out of net worth. In fact, these “walking dead” often redouble their efforts to write business, accepting almost any price or risk, simply to keep the cash flowing in. With an attitude like that of an embezzler who has gambled away his purloined funds, these companies hope that somehow they can get lucky on the next batch of business and thereby cover up earlier shortfalls. Even if they don’t get lucky, the penalty to managers is usually no greater for a $100 million shortfall than one of $10 million; in the meantime, while the losses mount, the managers keep their jobs and perquisites.</p>
+<p>The loss-reserving errors of other property/casualty companies are of more than academic interest to Berkshire. Not only does Berkshire suffer from sell-at-any-price competition by the “walking dead”, but we also suffer when their insolvency is finally acknowledged. Through various state guarantee funds that levy assessments, Berkshire ends up paying a portion of the insolvent insurers’ asset deficiencies, swollen as they usually are by the delayed detection that results from wrong reporting. There is even some potential for cascading trouble. The insolvency of a few large insurers and the assessments by state guarantee funds that would follow could imperil weak-but-previously-solvent insurers. Such dangers can be mitigated if state regulators become better at prompt identification and termination of insolvent insurers, but progress on that front has been slow.</p>
+<p><strong>Washington Public Power Supply System</strong></p>
+<p>From October, 1983 through June, 1984 Berkshire’s insurance subsidiaries continuously purchased large quantities of bonds of Projects 1, 2, and 3 of Washington Public Power Supply System (“WPPSS”). This is the same entity that, on July 1, 1983, defaulted on $2.2 billion of bonds issued to finance partial construction of the now-abandoned Projects 4 and 5. While there are material differences in the obligors, promises, and properties underlying the two categories of bonds, the problems of Projects 4 and 5 have cast a major cloud over Projects 1, 2, and 3, and might possibly cause serious problems for the latter issues. In addition, there have been a multitude of problems related directly to Projects 1, 2, and 3 that could weaken or destroy an otherwise strong credit position arising from guarantees by Bonneville Power Administration.</p>
+<p>Despite these important negatives, Charlie and I judged the risks at the time we purchased the bonds and at the prices Berkshire paid (much lower than present prices) to be considerably more than compensated for by prospects of profit.</p>
+<p>As you know, we buy marketable stocks for our insurance companies based upon the criteria we would apply in the purchase of an entire business. This business-valuation approach is not widespread among professional money managers and is scorned by many academics. Nevertheless, it has served its followers well (to which the academics seem to say, “Well, it may be all right in practice, but it will never work in theory.”) Simply put, we feel that if we can buy small pieces of businesses with satisfactory underlying economics at a fraction of the per-share value of the entire business, something good is likely to happen to us—particularly if we own a group of such securities.</p>
+<p>We extend this business-valuation approach even to bond purchases such as WPPSS. We compare the $139 million cost of our yearend investment in WPPSS to a similar $139 million investment in an operating business. In the case of WPPSS, the “business” contractually earns $22.7 million after tax (via the interest paid on the bonds), and those earnings are available to us currently in cash. We are unable to buy operating businesses with economics close to these. Only a relatively few businesses earn the 16.3% after tax on unleveraged capital that our WPPSS investment does and those businesses, when available for purchase, sell at large premiums to that capital. In the average negotiated business transaction, unleveraged corporate earnings of $22.7 million after-tax (equivalent to about $45 million pre-tax) might command a price of $250—$300 million (or sometimes far more). For a business we understand well and strongly like, we will gladly pay that much. But it is double the price we paid to realize the same earnings from WPPSS bonds.</p>
+<p>However, in the case of WPPSS, there is what we view to be a very slight risk that the “business” could be worth nothing within a year or two. There also is the risk that interest payments might be interrupted for a considerable period of time. Furthermore, the most that the “business” could be worth is about the $205 million face value of the bonds that we own, an amount only 48% higher than the price we paid.</p>
+<p>This ceiling on upside potential is an important minus. It should be realized, however, that the great majority of operating businesses have a limited upside potential also unless more capital is continuously invested in them. That is so because most businesses are unable to significantly improve their average returns on equity—even under inflationary conditions, though these were once thought to automatically raise returns.</p>
+<p>(Let’s push our bond-as-a-business example one notch further: if you elect to “retain” the annual earnings of a 12% bond by using the proceeds from coupons to buy more bonds, earnings of that bond “business” will grow at a rate comparable to that of most operating businesses that similarly reinvest all earnings. In the first instance, a 30-year, zero-coupon, 12% bond purchased today for $10 million will be worth $300 million in 2015. In the second, a $10 million business that regularly earns 12% on equity and retains all earnings to grow, will also end up with $300 million of capital in 2015. Both the business and the bond will earn over $32 million in the final year.)</p>
+<p>Our approach to bond investment—treating it as an unusual sort of “business” with special advantages and disadvantages—may strike you as a bit quirky. However, we believe that many staggering errors by investors could have been avoided if they had viewed bond investment with a businessman’s perspective. For example, in 1946, 20-year AAA tax-exempt bonds traded at slightly below a 1% yield. In effect, the buyer of those bonds at that time bought a “business” that earned about 1% on “book value” (and that, moreover, could never earn a dime more than 1% on book), and paid 100 cents on the dollar for that abominable business.</p>
+<p>If an investor had been business-minded enough to think in those terms—and that was the precise reality of the bargain struck—he would have laughed at the proposition and walked away. For, at the same time, businesses with excellent future prospects could have been bought at, or close to, book value while earning 10%, 12%, or 15% after tax on book. Probably no business in America changed hands in 1946 at book value that the buyer believed lacked the ability to earn more than 1% on book. But investors with bond-buying habits eagerly made economic commitments throughout the year on just that basis. Similar, although less extreme, conditions prevailed for the next two decades as bond investors happily signed up for twenty or thirty years on terms outrageously inadequate by business standards. (In what I think is by far the best book on investing ever written—”The Intelligent Investor”, by Ben Graham—the last section of the last chapter begins with, “Investment is most intelligent when it is most businesslike.” This section is called “A Final Word”, and it is appropriately titled.)</p>
+<p>We will emphasize again that there is unquestionably some risk in the WPPSS commitment. It is also the sort of risk that is difficult to evaluate. Were Charlie and I to deal with 50 similar evaluations over a lifetime, we would expect our judgment to prove reasonably satisfactory. But we do not get the chance to make 50 or even 5 such decisions in a single year. Even though our long-term results may turn out fine, in any given year we run a risk that we will look extraordinarily foolish. (That’s why all of these sentences say “Charlie and I”, or “we”.)</p>
+<p>Most managers have very little incentive to make the intelligent-but-with-some-chance-of-looking-like-an-idiot decision. Their personal gain/loss ratio is all too obvious: if an unconventional decision works out well, they get a pat on the back and, if it works out poorly, they get a pink slip. (Failing conventionally is the route to go; as a group, lemmings may have a rotten image, but no individual lemming has ever received bad press.)</p>
+<p>Our equation is different. With 47% of Berkshire’s stock, Charlie and I don’t worry about being fired, and we receive our rewards as owners, not managers. Thus we behave with Berkshire’s money as we would with our own. That frequently leads us to unconventional behavior both in investments and general business management.</p>
+<p>We remain unconventional in the degree to which we concentrate the investments of our insurance companies, including those in WPPSS bonds. This concentration makes sense only because our insurance business is conducted from a position of exceptional financial strength. For almost all other insurers, a comparable degree of concentration (or anything close to it) would be totally inappropriate. Their capital positions are not strong enough to withstand a big error, no matter how attractive an investment opportunity might appear when analyzed on the basis of probabilities.</p>
+<p>With our financial strength we can own large blocks of a few securities that we have thought hard about and bought at attractive prices. (Billy Rose described the problem of over-diversification: “If you have a harem of forty women, you never get to know any of them very well.”) Over time our policy of concentration should produce superior results, though these will be tempered by our large size. When this policy produces a really bad year, as it must, at least you will know that our money was committed on the same basis as yours.</p>
+<p>We made the major part of our WPPSS investment at different prices and under somewhat different factual circumstances than exist at present. If we decide to change our position, we will not inform shareholders until long after the change has been completed. (We may be buying or selling as you read this.) The buying and selling of securities is a competitive business, and even a modest amount of added competition on either side can cost us a great deal of money. Our WPPSS purchases illustrate this principle. From October, 1983 through June, 1984, we attempted to buy almost all the bonds that we could of Projects 1, 2, and 3. Yet we purchased less than 3% of the bonds outstanding. Had we faced even a few additional well-heeled investors, stimulated to buy because they knew we were, we could have ended up with a materially smaller amount of bonds, purchased at a materially higher price. (A couple of coat-tail riders easily could have cost us $5 million.) For this reason, we will not comment about our activities in securities—neither to the press, nor shareholders, nor to anyone else—unless legally required to do so.</p>
+<p>One final observation regarding our WPPSS purchases: we dislike the purchase of most long-term bonds under most circumstances and have bought very few in recent years. That’s because bonds are as sound as a dollar—and we view the long-term outlook for dollars as dismal. We believe substantial inflation lies ahead, although we have no idea what the average rate will turn out to be. Furthermore, we think there is a small, but not insignificant, chance of runaway inflation.</p>
+<p>Such a possibility may seem absurd, considering the rate to which inflation has dropped. But we believe that present fiscal policy—featuring a huge deficit—is both extremely dangerous and difficult to reverse. (So far, most politicians in both parties have followed Charlie Brown’s advice: “No problem is so big that it can’t be run away from.”) Without a reversal, high rates of inflation may be delayed (perhaps for a long time), but will not be avoided. If high rates materialize, they bring with them the potential for a runaway upward spiral.</p>
+<p>While there is not much to choose between bonds and stocks (as a class) when annual inflation is in the 5%-10% range, runaway inflation is a different story. In that circumstance, a diversified stock portfolio would almost surely suffer an enormous loss in real value. But bonds already outstanding would suffer far more. Thus, we think an all-bond portfolio carries a small but unacceptable “wipe out” risk, and we require any purchase of long-term bonds to clear a special hurdle. Only when bond purchases appear decidedly superior to other business opportunities will we engage in them. Those occasions are likely to be few and far between.</p>
+<p><strong>Dividend Policy</strong></p>
+<p>Dividend policy is often reported to shareholders, but seldom explained. A company will say something like, “Our goal is to pay out 40% to 50% of earnings and to increase dividends at a rate at least equal to the rise in the CPI”. And that’s it—no analysis will be supplied as to why that particular policy is best for the owners of the business. Yet, allocation of capital is crucial to business and investment management. Because it is, we believe managers and owners should think hard about the circumstances under which earnings should be retained and under which they should be distributed.</p>
+<p>The first point to understand is that all earnings are not created equal. In many businesses particularly those that have high asset/profit ratios—inflation causes some or all of the reported earnings to become ersatz. The ersatz portion—let’s call these earnings “restricted”—cannot, if the business is to retain its economic position, be distributed as dividends. Were these earnings to be paid out, the business would lose ground in one or more of the following areas: its ability to maintain its unit volume of sales, its long-term competitive position, its financial strength. No matter how conservative its payout ratio, a company that consistently distributes restricted earnings is destined for oblivion unless equity capital is otherwise infused.</p>
+<p>Restricted earnings are seldom valueless to owners, but they often must be discounted heavily. In effect, they are conscripted by the business, no matter how poor its economic potential. (This retention-no-matter-how-unattractive-the-return situation was communicated unwittingly in a marvelously ironic way by Consolidated Edison a decade ago. At the time, a punitive regulatory policy was a major factor causing the company’s stock to sell as low as one-fourth of book value; i.e., every time a dollar of earnings was retained for reinvestment in the business, that dollar was transformed into only 25 cents of market value. But, despite this gold-into-lead process, most earnings were reinvested in the business rather than paid to owners. Meanwhile, at construction and maintenance sites throughout New York, signs proudly proclaimed the corporate slogan, “Dig We Must”.)</p>
+<p>Restricted earnings need not concern us further in this dividend discussion. Let’s turn to the much-more-valued unrestricted variety. These earnings may, with equal feasibility, be retained or distributed. In our opinion, management should choose whichever course makes greater sense for the owners of the business.</p>
+<p>This principle is not universally accepted. For a number of reasons managers like to withhold unrestricted, readily distributable earnings from shareholders—to expand the corporate empire over which the managers rule, to operate from a position of exceptional financial comfort, etc. But we believe there is only one valid reason for retention. Unrestricted earnings should be retained only when there is a reasonable prospect—backed preferably by historical evidence or, when appropriate, by a thoughtful analysis of the future—that for every dollar retained by the corporation, at least one dollar of market value will be created for owners. This will happen only if the capital retained produces incremental earnings equal to, or above, those generally available to investors.</p>
+<p>To illustrate, let’s assume that an investor owns a risk-free 10% perpetual bond with one very unusual feature. Each year the investor can elect either to take his 10% coupon in cash, or to reinvest the coupon in more 10% bonds with identical terms; i.e., a perpetual life and coupons offering the same cash-or-reinvest option. If, in any given year, the prevailing interest rate on long-term, risk-free bonds is 5%, it would be foolish for the investor to take his coupon in cash since the 10% bonds he could instead choose would be worth considerably more than 100 cents on the dollar. Under these circumstances, the investor wanting to get his hands on cash should take his coupon in additional bonds and then immediately sell them. By doing that, he would realize more cash than if he had taken his coupon directly in cash. Assuming all bonds were held by rational investors, no one would opt for cash in an era of 5% interest rates, not even those bondholders needing cash for living purposes.</p>
+<p>If, however, interest rates were 15%, no rational investor would want his money invested for him at 10%. Instead, the investor would choose to take his coupon in cash, even if his personal cash needs were nil. The opposite course—reinvestment of the coupon—would give an investor additional bonds with market value far less than the cash he could have elected. If he should want 10% bonds, he can simply take the cash received and buy them in the market, where they will be available at a large discount.</p>
+<p>An analysis similar to that made by our hypothetical bondholder is appropriate for owners in thinking about whether a company’s unrestricted earnings should be retained or paid out. Of course, the analysis is much more difficult and subject to error because the rate earned on reinvested earnings is not a contractual figure, as in our bond case, but rather a fluctuating figure. Owners must guess as to what the rate will average over the intermediate future. However, once an informed guess is made, the rest of the analysis is simple: you should wish your earnings to be reinvested if they can be expected to earn high returns, and you should wish them paid to you if low returns are the likely outcome of reinvestment.</p>
+<p>Many corporate managers reason very much along these lines in determining whether subsidiaries should distribute earnings to their parent company. At that level,. the managers have no trouble thinking like intelligent owners. But payout decisions at the parent company level often are a different story. Here managers frequently have trouble putting themselves in the shoes of their shareholder-owners.</p>
+<p>With this schizoid approach, the CEO of a multi-divisional company will instruct Subsidiary A, whose earnings on incremental capital may be expected to average 5%, to distribute all available earnings in order that they may be invested in Subsidiary B, whose earnings on incremental capital are expected to be 15%. The CEO’s business school oath will allow no lesser behavior. But if his own long-term record with incremental capital is 5%—and market rates are 10%—he is likely to impose a dividend policy on shareholders of the parent company that merely follows some historical or industry-wide payout pattern. Furthermore, he will expect managers of subsidiaries to give him a full account as to why it makes sense for earnings to be retained in their operations rather than distributed to the parent-owner. But seldom will he supply his owners with a similar analysis pertaining to the whole company.</p>
+<p>In judging whether managers should retain earnings, shareholders should not simply compare total incremental earnings in recent years to total incremental capital because that relationship may be distorted by what is going on in a core business. During an inflationary period, companies with a core business characterized by extraordinary economics can use small amounts of incremental capital in that business at very high rates of return (as was discussed in last year’s section on Goodwill). But, unless they are experiencing tremendous unit growth, outstanding businesses by definition generate large amounts of excess cash. If a company sinks most of this money in other businesses that earn low returns, the company’s overall return on retained capital may nevertheless appear excellent because of the extraordinary returns being earned by the portion of earnings incrementally invested in the core business. The situation is analogous to a Pro-Am golf event: even if all of the amateurs are hopeless duffers, the team’s best-ball score will be respectable because of the dominating skills of the professional.</p>
+<p>Many corporations that consistently show good returns both on equity and on overall incremental capital have, indeed, employed a large portion of their retained earnings on an economically unattractive, even disastrous, basis. Their marvelous core businesses, however, whose earnings grow year after year, camouflage repeated failures in capital allocation elsewhere (usually involving high-priced acquisitions of businesses that have inherently mediocre economics). The managers at fault periodically report on the lessons they have learned from the latest disappointment. They then usually seek out future lessons. (Failure seems to go to their heads.)</p>
+<p>In such cases, shareholders would be far better off if earnings were retained only to expand the high-return business, with the balance paid in dividends or used to repurchase stock (an action that increases the owners’ interest in the exceptional business while sparing them participation in subpar businesses). Managers of high-return businesses who consistently employ much of the cash thrown off by those businesses in other ventures with low returns should be held to account for those allocation decisions, regardless of how profitable the overall enterprise is.</p>
+<p>Nothing in this discussion is intended to argue for dividends that bounce around from quarter to quarter with each wiggle in earnings or in investment opportunities. Shareholders of public corporations understandably prefer that dividends be consistent and predictable. Payments, therefore, should reflect long-term expectations for both earnings and returns on incremental capital. Since the long-term corporate outlook changes only infrequently, dividend patterns should change no more often. But over time distributable earnings that have been withheld by managers should earn their keep. If earnings have been unwisely retained, it is likely that managers, too, have been unwisely retained.</p>
+<p>Let’s now turn to Berkshire Hathaway and examine how these dividend principles apply to it. Historically, Berkshire has earned well over market rates on retained earnings, thereby creating over one dollar of market value for every dollar retained. Under such circumstances, any distribution would have been contrary to the financial interest of shareholders, large or small.</p>
+<p>In fact, significant distributions in the early years might have been disastrous, as a review of our starting position will show you. Charlie and I then controlled and managed three companies, Berkshire Hathaway Inc., Diversified Retailing Company, Inc., and Blue Chip Stamps (all now merged into our present operation). Blue Chip paid only a small dividend, Berkshire and DRC paid nothing. If, instead, the companies had paid out their entire earnings, we almost certainly would have no earnings at all now—and perhaps no capital as well.</p>
+<p>The three companies each originally made their money from a single business: (1) textiles at Berkshire; (2) department stores at Diversified; and (3) trading stamps at Blue Chip. These cornerstone businesses (carefully chosen, it should be noted, by your Chairman and Vice Chairman) have, respectively, (1) survived but earned almost nothing, (2) shriveled in size while incurring large losses, and (3) shrunk in sales volume to about 5% its size at the time of our entry. (Who says “you can’t lose ‘em all”?) Only by committing available funds to much better businesses were we able to overcome these origins. (It’s been like overcoming a misspent youth.) Clearly, diversification has served us well.</p>
+<p>We expect to continue to diversify while also supporting the growth of current operations though, as we’ve pointed out, our returns from these efforts will surely be below our historical returns. But as long as prospective returns are above the rate required to produce a dollar of market value per dollar retained, we will continue to retain all earnings. Should our estimate of future returns fall below that point, we will distribute all unrestricted earnings that we believe can not be effectively used. In making that judgment, we will look at both our historical record and our prospects. Because our year-to-year results are inherently volatile, we believe a five-year rolling average to be appropriate for judging the historical record.</p>
+<p>Our present plan is to use our retained earnings to further build the capital of our insurance companies. Most of our competitors are in weakened financial condition and reluctant to expand substantially. Yet large premium-volume gains for the industry are imminent, amounting probably to well over $15 billion in 1985 versus less than $5 billion in 1983. These circumstances could produce major amounts of profitable business for us. Of course, this result is no sure thing, but prospects for it are far better than they have been for many years.</p>
+<p><strong>Miscellaneous</strong></p>
+<p>This is the spot where each year I run my small “business wanted” ad. In 1984 John Loomis, one of our particularly knowledgeable and alert shareholders, came up with a company that met all of our tests. We immediately pursued this idea, and only a chance complication prevented a deal. Since our ad is pulling, we will repeat it in precisely last year’s form:</p>
+<p>We prefer:</p>
+<p>large purchases (at least $5 million of after-tax earnings),</p>
+<p>demonstrated consistent earning power (future projections are of little interest to us, nor are “turn-around” situations),</p>
+<p>businesses earning good returns on equity while employing little or no debt,</p>
+<p>management in place (we can’t supply it),</p>
+<p>simple businesses (if there’s lots of technology, we won’t understand it),</p>
+<p>an offering price (we don’t want to waste our time or that of the seller by talking, even preliminarily, about a transaction when price is unknown).</p>
+<p>We will not engage in unfriendly takeovers. We can promise complete confidentiality and a very fast answer—customarily within five minutes—as to whether we’re interested. We prefer to buy for cash, but will consider issuance of stock when we receive as much in intrinsic business value as we give. We invite potential sellers to check us out by contacting people with whom we have done business in the past. For the right business—and the right people—we can provide a good home.</p>
+<p> * * *</p>
+<p>A record 97.2% of all eligible shares participated in Berkshire’s 1984 shareholder-designated contributions program. Total contributions made through this program were $3,179,000, and 1,519 charities were recipients. Our proxy material for the annual meeting will allow you to cast an advisory vote expressing your views about this program—whether you think we should continue it and, if so, at what per-share level. (You may be interested to learn that we were unable to find a precedent for an advisory vote in which management seeks the opinions of shareholders about owner-related corporate policies. Managers who put their trust in capitalism seem in no hurry to put their trust in capitalists.)</p>
+<p>We urge new shareholders to read the description of our shareholder-designated contributions program that appears on pages 60 and 61. If you wish to participate in future programs, we strongly urge that you immediately make sure that your shares are registered in the name of the actual owner, not in “street” name or nominee name. Shares not so registered on September 30, 1985 will be ineligible for the 1985 program.</p>
+<p> * * *</p>
+<p>Our annual meeting will be on May 21, 1985 in Omaha, and I hope that you attend. Many annual meetings are a waste of time, both for shareholders and for management. Sometimes that is true because management is reluctant to open up on matters of business substance. More often a nonproductive session is the fault of shareholder participants who are more concerned about their own moment on stage than they are about the affairs of the corporation. What should be a forum for business discussion becomes a forum for theatrics, spleen-venting and advocacy of issues. (The deal is irresistible: for the price of one share you get to tell a captive audience your ideas as to how the world should be run.) Under such circumstances, the quality of the meeting often deteriorates from year to year as the antics of those interested in themselves discourage attendance by those interested in the business.</p>
+<p>Berkshire’s meetings are a different story. The number of shareholders attending grows a bit each year and we have yet to experience a silly question or an ego-inspired commentary. Instead, we get a wide variety of thoughtful questions about the business. Because the annual meeting is the time and place for these, Charlie and I are happy to answer them all, no matter how long it takes. (We cannot, however, respond to written or phoned questions at other times of the year; one-person-at-a time reporting is a poor use of management time in a company with 3000 shareholders.) The only business matters that are off limits at the annual meeting are those about which candor might cost our company real money. Our activities in securities would be the main example.</p>
+<p>We always have bragged a bit on these pages about the quality of our shareholder-partners. Come to the annual meeting and you will see why. Out-of-towners should schedule a stop at Nebraska Furniture Mart. If you make some purchases, you’ll save far more than enough to pay for your trip, and you’ll enjoy the experience.</p>
+<p>February 25, 1985</p>
+<p>Warren E. BuffettChairman of the Board</p>
+<p>&nbsp;</p>
+<p>Subsequent Event: On March 18, a week after copy for this report went to the typographer but shortly before production, we agreed to purchase three million shares of Capital Cities Communications, Inc. at $172.50 per share. Our purchase is contingent upon the acquisition of American Broadcasting Companies, Inc. by Capital Cities, and will close when that transaction closes. At the earliest, that will be very late in 1985. Our admiration for the management of Capital Cities, led by Tom Murphy and Dan Burke, has been expressed several times in previous annual reports. Quite simply, they are tops in both ability and integrity. We will have more to say about this investment in next year’s report.</p>
+<table class="letter-table" style="width:100%;border-collapse:collapse;margin:1.5em 0">
+<tr><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;">Year</th><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;"></th><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;">Underwriting Results as Reported to You</th><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;"></th><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;">Corrected Figures After One Year’s Experience</th></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">1980</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">$  6,738,000</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">$ 14,887,000</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">1981</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">1,478,000</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">(1,118,000)</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">1982</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">(21,462,000)</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">(25,066,000)</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">1983</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">(33,192,000)</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">(50,974,000)</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">1984</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">(45,413,000)</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">?</td></tr>
+</table>`,
 
     concepts: ['intrinsic-value', 'moat', 'compounding', 'owner-earnings'],
     companies: ['berkshire-hathaway'],
@@ -7049,7 +10307,300 @@ export const berkshireLetters: Letter[] = [
     date: '1989-02-01',
     summary:
       "1989 saw continued progress. The insurance float became increasingly valuable while investment gains contributed to overall performance.",
-        fullText: `[[PLACEHOLDER]]`,
+        fullText: `<p><strong>To the Shareholders of Berkshire Hathaway Inc.:</strong></p>
+<p>Our gain in net worth during 1989 was $1.515 billion, or 44.4%. Over the last 25 years (that is, since present management took over) our per-share book value has grown from $19.46 to $4,296.01, or at a rate of 23.8% compounded annually.</p>
+<p>What counts, however, is intrinsic value—the figure indicating what all of our constituent businesses are rationally worth. With perfect foresight, this number can be calculated by taking all future cash flows of a business—in and out—and discounting them at prevailing interest rates. So valued, all businesses, from manufacturers of buggy whips to operators of cellular phones, become economic equals.</p>
+<p>Back when Berkshire’s book value was $19.46, intrinsic value was somewhat less because the book value was entirely tied up in a textile business not worth the figure at which it was carried. Now most of our businesses are worth far more than their carrying values. This agreeable evolution from a discount to a premium means that Berkshire’s intrinsic business value has compounded at a rate that somewhat exceeds our 23.8% annual growth in book value.</p>
+<p>The rear-view mirror is one thing; the windshield is another. A large portion of our book value is represented by equity securities that, with minor exceptions, are carried on our balance sheet at current market values. At yearend these securities were valued at higher prices, relative to their own intrinsic business values, than has been the case in the past. One reason is the buoyant 1989 stock market. More important, the virtues of these businesses have been widely recognized. Whereas once their stock prices were inappropriately low, they are not now.</p>
+<p>We will keep most of our major holdings, regardless of how they are priced relative to intrinsic business value. This ‘til-death-do-us-part attitude, combined with the full prices these holdings command, means that they cannot be expected to push up Berkshire’s value in the future as sharply as in the past. In other words, our performance to date has benefited from a double-dip: (1) the exceptional gains in intrinsic value that our portfolio companies have achieved; (2) the additional bonus we realized as the market appropriately “corrected” the prices of these companies, raising their valuations in relation to those of the average business. We will continue to benefit from good gains in business value that we feel confident our portfolio companies will make. But our “catch-up” rewards have been realized, which means we’ll have to settle for a single-dip in the future.</p>
+<p>We face another obstacle: In a finite world, high growth rates must self-destruct. If the base from which the growth is taking place is tiny, this law may not operate for a time. But when the base balloons, the party ends: A high growth rate eventually forges its own anchor.</p>
+<p>Carl Sagan has entertainingly described this phenomenon, musing about the destiny of bacteria that reproduce by dividing into two every 15 minutes. Says Sagan: “That means four doublings an hour, and 96 doublings a day. Although a bacterium weighs only about a trillionth of a gram, its descendants, after a day of wild asexual abandon, will collectively weigh as much as a mountain…in two days, more than the sun—and before very long, everything in the universe will be made of bacteria.” Not to worry, says Sagan: Some obstacle always impedes this kind of exponential growth. “The bugs run out of food, or they poison each other, or they are shy about reproducing in public.”</p>
+<p>Even on bad days, Charlie Munger (Berkshire’s Vice Chairman and my partner) and I do not think of Berkshire as a bacterium. Nor, to our unending sorrow, have we found a way to double its net worth every 15 minutes. Furthermore, we are not the least bit shy about reproducing—financially—in public. Nevertheless, Sagan’s observations apply. From Berkshire’s present base of $4.9 billion in net worth, we will find it much more difficult to average 15% annual growth in book value than we did to average 23.8% from the $22 million we began with.</p>
+<p><strong>Taxes</strong></p>
+<p>Our 1989 gain of $1.5 billion was achieved after we took a charge of about $712 million for income taxes. In addition, Berkshire’s share of the income taxes paid by its five major investees totaled about $175 million.</p>
+<p>Of this year’s tax charge, about $172 million will be paid currently; the remainder, $540 million, is deferred. Almost all of the deferred portion relates to the 1989 increase in unrealized profits in our common stock holdings. Against this increase, we have reserved a 34% tax.</p>
+<p>We also carry reserves at that rate against all unrealized profits generated in 1987 and 1988. But, as we explained last year, the unrealized gains we amassed before 1987—about $1.2 billion—carry reserves booked at the 28% tax rate that then prevailed.</p>
+<p>A new accounting rule is likely to be adopted that will require companies to reserve against all gains at the current tax rate, whatever it may be. With the rate at 34%, such a rule would increase our deferred tax liability, and decrease our net worth, by about $71 million—the result of raising the reserve on our pre-1987 gain by six percentage points. Because the proposed rule has sparked widespread controversy and its final form is unclear, we have not yet made this change.</p>
+<p>As you can see from our balance sheet on page 27, we would owe taxes of more than $1.1 billion were we to sell all of our securities at year-end market values. Is this $1.1 billion liability equal, or even similar, to a $1.1 billion liability payable to a trade creditor 15 days after the end of the year? Obviously not—despite the fact that both items have exactly the same effect on audited net worth, reducing it by $1.1 billion.</p>
+<p>On the other hand, is this liability for deferred taxes a meaningless accounting fiction because its payment can be triggered only by the sale of stocks that, in very large part, we have no intention of selling? Again, the answer is no.</p>
+<p>In economic terms, the liability resembles an interest-free loan from the U.S. Treasury that comes due only at our election (unless, of course, Congress moves to tax gains before they are realized). This “loan” is peculiar in other respects as well: It can be used only to finance the ownership of the particular, appreciated stocks and it fluctuates in size—daily as market prices change and periodically if tax rates change. In effect, this deferred tax liability is equivalent to a very large transfer tax that is payable only if we elect to move from one asset to another. Indeed, we sold some relatively small holdings in 1989, incurring about $76 million of “transfer” tax on $224 million of gains.</p>
+<p>Because of the way the tax law works, the Rip Van Winkle style of investing that we favor—if successful—has an important mathematical edge over a more frenzied approach. Let’s look at an extreme comparison.</p>
+<p>Imagine that Berkshire had only $1, which we put in a security that doubled by yearend and was then sold. Imagine further that we used the after-tax proceeds to repeat this process in each of the next 19 years, scoring a double each time. At the end of the 20 years, the 34% capital gains tax that we would have paid on the profits from each sale would have delivered about $13,000 to the government and we would be left with about $25,250. Not bad. If, however, we made a single fantastic investment that itself doubled 20 times during the 20 years, our dollar would grow to $1,048,576. Were we then to cash out, we would pay a 34% tax of roughly $356,500 and be left with about $692,000.</p>
+<p>The sole reason for this staggering difference in results would be the timing of tax payments. Interestingly, the government would gain from Scenario 2 in exactly the same 27:1 ratio as we—taking in taxes of $356,500 vs. $13,000—though, admittedly, it would have to wait for its money.</p>
+<p>We have not, we should stress, adopted our strategy favoring long-term investment commitments because of these mathematics. Indeed, it is possible we could earn greater after-tax returns by moving rather frequently from one investment to another. Many years ago, that’s exactly what Charlie and I did.</p>
+<p>Now we would rather stay put, even if that means slightly lower returns. Our reason is simple: We have found splendid business relationships to be so rare and so enjoyable that we want to retain all we develop. This decision is particularly easy for us because we feel that these relationships will produce good—though perhaps not optimal—financial results. Considering that, we think it makes little sense for us to give up time with people we know to be interesting and admirable for time with others we do not know and who are likely to have human qualities far closer to average. That would be akin to marrying for money—a mistake under most circumstances, insanity if one is already rich.</p>
+<p><strong>Sources of Reported Earnings</strong></p>
+<p>The table below shows the major sources of Berkshire’s reported earnings. In this presentation, amortization of Goodwill and other major purchase-price accounting adjustments are not charged against the specific businesses to which they apply, but are instead aggregated and shown separately. This procedure lets you view the earnings of our businesses as they would have been reported had we not purchased them. I’ve explained in past reports why this form of presentation seems to us to be more useful to investors and managers than one utilizing generally accepted accounting principles (GAAP), which require purchase-price adjustments to be made on a business-by-business basis. The total net earnings we show in the table are, of course, identical to the GAAP total in our audited financial statements.</p>
+<p>Further information about these businesses is given in the Business Segment section on pages 37-39, and in the Management’s Discussion section on pages 40-44. In these sections you also will find our segment earnings reported on a GAAP basis. For information on Wesco’s businesses, I urge you to read Charlie Munger’s letter, which starts on page 54. In addition, we have reprinted on page 71 Charlie’s May 30, 1989 letter to the U. S. League of Savings Institutions, which conveyed our disgust with its policies and our consequent decision to resign.</p>
+<p>* Excludes interest expense of Scott Fetzer Financial Group and Mutual Savings & Loan.</p>
+<p>We refer you also to pages 45-51, where we have rearranged Berkshire’s financial data into four segments. These correspond to the way Charlie and I think about the business and should help you calculate Berkshire’s intrinsic value. Shown on these pages are balance sheets and earnings statements for: (1) our insurance operations, with their major investment positions itemized; (2) our manufacturing, publishing and retailing businesses, leaving aside certain non-operating assets and purchase-price accounting adjustments; (3) our subsidiaries engaged in finance-type operations, which are Mutual Savings and Scott Fetzer Financial; and (4) an all-other category that includes the non-operating assets (primarily marketable securities) held by the companies in segment (2), all purchase price accounting adjustments, and various assets and debts of the Wesco and Berkshire parent companies.</p>
+<p>If you combine the earnings and net worths of these four segments, you will derive totals matching those shown on our GAAP statements. However, I want to emphasize that this four-category presentation does not fall within the purview of our auditors, who in no way bless it.</p>
+<p>In addition to our reported earnings, we also benefit from significant earnings of investees that standard accounting rules do not permit us to report. On page 15, we list five major investees from which we received dividends in 1989 of about $45 million, after taxes. However, our share of the retained earnings of these investees totaled about $212 million last year, not counting large capital gains realized by GEICO and Coca-Cola. If this $212 million had been distributed to us, our own operating earnings, after the payment of additional taxes, would have been close to $500 million rather than the $300 million shown in the table.</p>
+<p>The question you must decide is whether these undistributed earnings are as valuable to us as those we report. We believe they are—and even think they may be more valuable. The reason for this a-bird-in-the-bush-may-be-worth-two-in-the-hand conclusion is that earnings retained by these investees will be deployed by talented, owner-oriented managers who sometimes have better uses for these funds in their own businesses than we would have in ours. I would not make such a generous assessment of most managements, but it is appropriate in these cases.</p>
+<p>In our view, Berkshire’s fundamental earning power is best measured by a “look-through” approach, in which we append our share of the operating earnings retained by our investees to our own reported operating earnings, excluding capital gains in both instances. For our intrinsic business value to grow at an average of 15% per year, our “look-through” earnings must grow at about the same pace. We’ll need plenty of help from our present investees, and also need to add a new one from time to time, in order to reach this 15% goal.</p>
+<p><strong>Non-Insurance Operations</strong></p>
+<p>In the past, we have labeled our major manufacturing, publishing and retail operations “The Sainted Seven.” With our acquisition of Borsheim’s early in 1989, the challenge was to find a new title both alliterative and appropriate. We failed: Let’s call the group “The Sainted Seven Plus One.”</p>
+<p>This divine assemblage—Borsheim’s, The Buffalo News, Fechheimer Bros., Kirby, Nebraska Furniture Mart, Scott Fetzer Manufacturing Group, See’s Candies, World Book—is a collection of businesses with economic characteristics that range from good to superb. Its managers range from superb to superb.</p>
+<p>Most of these managers have no need to work for a living; they show up at the ballpark because they like to hit home runs. And that’s exactly what they do. Their combined financial statements (including those of some smaller operations), shown on page 49, illustrate just how outstanding their performance is. On an historical accounting basis, after-tax earnings of these operations were 57% on average equity capital. Moreover, this return was achieved with no net leverage: Cash equivalents have matched funded debt. When I call off the names of our managers—the Blumkin, Friedman and Heldman families, Chuck Huggins, Stan Lipsey, and Ralph Schey—I feel the same glow that Miller Huggins must have experienced when he announced the lineup of his 1927 New York Yankees.</p>
+<p>Let’s take a look, business by business:</p>
+<p>&nbsp;</p>
+<p>In its first year with Berkshire, Borsheim’s met all expectations. Sales rose significantly and are now considerably better than twice what they were four years ago when the company moved to its present location. In the six years prior to the move, sales had also doubled. Ike Friedman, Borsheim’s managing genius—and I mean that—has only one speed: fast-forward.</p>
+<p>&nbsp;</p>
+<p>If you haven’t been there, you’ve never seen a jewelry store like Borsheim’s. Because of the huge volume it does at one location, the store can maintain an enormous selection across all price ranges. For the same reason, it can hold its expense ratio to about one-third that prevailing at jewelry stores offering comparable merchandise. The store’s tight control of expenses, accompanied by its unusual buying power, enable it to offer prices far lower than those of other jewelers. These prices, in turn, generate even more volume, and so the circle goes ‘round and ‘round. The end result is store traffic as high as 4,000 people on seasonally-busy days.</p>
+<p>&nbsp;</p>
+<p>Ike Friedman is not only a superb businessman and a great showman but also a man of integrity. We bought the business without an audit, and all of our surprises have been on the plus side. “If you don’t know jewelry, know your jeweler” makes sense whether you are buying the whole business or a tiny diamond.</p>
+<p>&nbsp;</p>
+<p>A story will illustrate why I enjoy Ike so much: Every two years I’m part of an informal group that gathers to have fun and explore a few subjects. Last September, meeting at Bishop’s Lodge in Santa Fe, we asked Ike, his wife Roz, and his son Alan to come by and educate us on jewels and the jewelry business.</p>
+<p>&nbsp;</p>
+<p>Ike decided to dazzle the group, so he brought from Omaha about $20 million of particularly fancy merchandise. I was somewhat apprehensive—Bishop’s Lodge is no Fort Knox—and I mentioned my concern to Ike at our opening party the evening before his presentation. Ike took me aside. “See that safe?” he said. “This afternoon we changed the combination and now even the hotel management doesn’t know what it is.” I breathed easier. Ike went on: “See those two big fellows with guns on their hips? They’ll be guarding the safe all night.” I now was ready to rejoin the party. But Ike leaned closer: “And besides, Warren,” he confided, “the jewels aren’t in the safe.”</p>
+<p>&nbsp;</p>
+<p>How can we miss with a fellow like that—particularly when he comes equipped with a talented and energetic family, Alan, Marvin Cohn, and Don Yale.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>At See’s Candies we had an 8% increase in pounds sold, even though 1988 was itself a record year. Included in the 1989 performance were excellent same-store poundage gains, our first in many years.</p>
+<p>&nbsp;</p>
+<p>Advertising played an important role in this outstanding performance. We increased total advertising expenditures from $4 million to $5 million and also got copy from our agency, Hal Riney & Partners, Inc., that was 100% on the money in conveying the qualities that make See’s special.</p>
+<p>&nbsp;</p>
+<p>In our media businesses, such as the Buffalo News, we sell advertising. In other businesses, such as See’s, we are buyers. When we buy, we practice exactly what we preach when we sell. At See’s, we more than tripled our expenditures on newspaper advertising last year, to the highest percentage of sales that I can remember. The payoff was terrific, and we thank both Hal Riney and the power of well-directed newspaper advertising for this result.</p>
+<p>&nbsp;</p>
+<p>See’s splendid performances have become routine. But there is nothing routine about the management of Chuck Huggins: His daily involvement with all aspects of production and sales imparts a quality-and-service message to the thousands of employees we need to produce and distribute over 27 million pounds of candy annually. In a company with 225 shops and a massive mail order and phone business, it is no small trick to run things so that virtually every customer leaves happy. Chuck makes it look easy.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The Nebraska Furniture Mart had record sales and excellent earnings in 1989, but there was one sad note. Mrs. B—Rose Blumkin, who started the company 52 years ago with $500—quit in May, after disagreeing with other members of the Blumkin family/management about the remodeling and operation of the carpet department.</p>
+<p>&nbsp;</p>
+<p>Mrs. B probably has made more smart business decisions than any living American, but in this particular case I believe the other members of the family were entirely correct: Over the past three years, while the store’s other departments increased sales by 24%, carpet sales declined by 17% (but not because of any lack of sales ability by Mrs. B, who has always personally sold far more merchandise than any other salesperson in the store).</p>
+<p>&nbsp;</p>
+<p>You will be pleased to know that Mrs. B continues to make Horatio Alger’s heroes look like victims of tired blood. At age 96 she has started a new business selling—what else?—carpet and furniture. And as always, she works seven days a week.</p>
+<p>&nbsp;</p>
+<p>At the Mart Louie, Ron, and Irv Blumkin continue to propel what is by far the largest and most successful home furnishings store in the country. They are outstanding merchants, outstanding managers, and a joy to be associated with. One reading on their acumen: In the fourth quarter of 1989, the carpet department registered a 75.3% consumer share in the Omaha market, up from 67.7% a year earlier and over six times that of its nearest competitor.</p>
+<p>&nbsp;</p>
+<p>NFM and Borsheim’s follow precisely the same formula for success: (1) unparalleled depth and breadth of merchandise at one location; (2) the lowest operating costs in the business; (3) the shrewdest of buying, made possible in part by the huge volumes purchased; (4) gross margins, and therefore prices, far below competitors’; and (5) friendly personalized service with family members on hand at all times.</p>
+<p>&nbsp;</p>
+<p>Another plug for newspapers: NFM increased its linage in the local paper by over 20% in 1989—off a record 1988—and remains the paper’s largest ROP advertiser by far. (ROP advertising is the kind printed in the paper, as opposed to that in preprinted inserts.) To my knowledge, Omaha is the only city in which a home furnishings store is the advertising leader. Many retailers cut space purchases in 1989; our experience at See’s and NFM would indicate they made a major mistake.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The Buffalo News continued to star in 1989 in three important ways: First, among major metropolitan papers, both daily and Sunday, the News is number one in household penetration—the percentage of local households that purchase it each day. Second, in “news hole”—the portion of the paper devoted to news—the paper stood at 50.1% in 1989 vs. 49.5% in 1988, a level again making it more news-rich than any comparable American paper. Third, in a year that saw profits slip at many major papers, the News set its seventh consecutive profit record.</p>
+<p>&nbsp;</p>
+<p>To some extent, these three factors are related, though obviously a high-percentage news hole, by itself, reduces profits significantly. A large and intelligently-utilized news hole, however, attracts a wide spectrum of readers and thereby boosts penetration. High penetration, in turn, makes a newspaper particularly valuable to retailers since it allows them to talk to the entire community through a single “megaphone.” A low-penetration paper is a far less compelling purchase for many advertisers and will eventually suffer in both ad rates and profits.</p>
+<p>&nbsp;</p>
+<p>It should be emphasized that our excellent penetration is neither an accident nor automatic. The population of Erie County, home territory of the News, has been falling—from 1,113,000 in 1970 to 1,015,000 in 1980 to an estimated 966,000 in 1988. Circulation figures tell a different story. In 1975, shortly before we started our Sunday edition, the Courier-Express, a long-established Buffalo paper, was selling 207,500 Sunday copies in Erie County. Last year—with population at least 5% lower—the News sold an average of 292,700 copies. I believe that in no other major Sunday market has there been anything close to that increase in penetration.</p>
+<p>&nbsp;</p>
+<p>When this kind of gain is made—and when a paper attains an unequaled degree of acceptance in its home town—someone is doing something right. In this case major credit clearly belongs to Murray Light, our long-time editor who daily creates an informative, useful, and interesting product. Credit should go also to the Circulation and Production Departments: A paper that is frequently late, because of production problems or distribution weaknesses, will lose customers, no matter how strong its editorial content.</p>
+<p>&nbsp;</p>
+<p>Stan Lipsey, publisher of the News, has produced profits fully up to the strength of our product. I believe Stan’s managerial skills deliver at least five extra percentage points in profit margin compared to the earnings that would be achieved by an average manager given the same circumstances. That is an amazing performance, and one that could only be produced by a talented manager who knows—and cares—about every nut and bolt of the business.</p>
+<p>&nbsp;</p>
+<p>Stan’s knowledge and talents, it should be emphasized, extend to the editorial product. His early years in the business were spent on the news side and he played a key role in developing and editing a series of stories that in 1972 won a Pulitzer Prize for the Sun Newspaper of Omaha. Stan and I have worked together for over 20 years, through some bad times as well as good, and I could not ask for a better partner.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>At Fechheimer, the Heldman clan—Bob, George, Gary, Roger and Fred—continue their extraordinary performance. Profits in 1989 were down somewhat because of problems the business experienced in integrating a major 1988 acquisition. These problems will be ironed out in time. Meanwhile, return on invested capital at Fechheimer remains splendid.</p>
+<p>&nbsp;</p>
+<p>Like all of our managers, the Heldmans have an exceptional command of the details of their business. At last year’s annual meeting I mentioned that when a prisoner enters San Quentin, Bob and George probably know his shirt size. That’s only a slight exaggeration: No matter what area of the country is being discussed, they know exactly what is going on with major customers and with the competition.</p>
+<p>&nbsp;</p>
+<p>Though we purchased Fechheimer four years ago, Charlie and I have never visited any of its plants or the home office in Cincinnati. We’re much like the lonesome Maytag repairman: The Heldman managerial product is so good that a service call is never needed.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Ralph Schey continues to do a superb job in managing our largest group—World Book, Kirby, and the Scott Fetzer Manufacturing Companies. Aggregate earnings of these businesses have increased every year since our purchase and returns on invested capital continue to be exceptional. Ralph is running an enterprise large enough, were it standing alone, to be on the Fortune 500. And he’s running it in a fashion that would put him high in the top decile, measured by return on equity.</p>
+<p>&nbsp;</p>
+<p>For some years, World Book has operated out of a single location in Chicago’s Merchandise Mart. Anticipating the imminent expiration of its lease, the business is now decentralizing into four locations. The expenses of this transition are significant; nevertheless profits in 1989 held up well. It will be another year before costs of the move are fully behind us.</p>
+<p>&nbsp;</p>
+<p>Kirby’s business was particularly strong last year, featuring large gains in export sales. International business has more than doubled in the last two years and quintupled in the past four; its share of unit sales has risen from 5% to 20%. Our largest capital expenditures in 1989 were at Kirby, in preparation for a major model change in 1990.</p>
+<p>&nbsp;</p>
+<p>Ralph’s operations contribute about 40% of the total earnings of the non-insurance group whose results are shown on page 49. When we bought Scott Fetzer at the start of 1986, our acquisition of Ralph as a manager was fully as important as our acquisition of the businesses. In addition to generating extraordinary earnings, Ralph also manages capital extremely well. These abilities have produced funds for Berkshire that, in turn, have allowed us to make many other profitable commitments.</p>
+<p>&nbsp;</p>
+<p>And that completes our answer to the 1927 Yankees.</p>
+<p><strong>Insurance Operations</strong></p>
+<p>Shown below is an updated version of our usual table presenting key figures for the property-casualty insurance industry:</p>
+<p><em>Source: A.M. Best Co.</em></p>
+<p>The combined ratio represents total insurance costs (losses incurred plus expenses) compared to revenue from premiums: A ratio below 100 indicates an underwriting profit, and one above 100 indicates a loss. When the investment income that an insurer earns from holding policyholders’ funds (“the float”) is taken into account, a combined ratio in the 107-111 range typically produces an overall breakeven result, exclusive of earnings on the funds provided by shareholders.</p>
+<p>For the reasons laid out in previous reports, we expect the industry’s incurred losses to grow by about 10% annually, even in years when general inflation runs considerably lower. (Actually, over the last 25 years, incurred losses have grown at a still faster rate, 11%.) If premium growth meanwhile materially lags that 10% rate, underwriting losses will mount, though the industry’s tendency to underreserve when business turns bad may obscure their size for a time.</p>
+<p>Last year we said the climb in the combined ratio was “almost certain to continue—and probably will accelerate—for at least two more years.” This year we will not predict acceleration, but otherwise must repeat last year’s forecast. Premium growth is running far below the 10% required annually. Remember also that a 10% rate would only stabilize the combined ratio, not bring it down.</p>
+<p>The increase in the combined ratio in 1989 was a little more than we had expected because catastrophes (led by Hurricane Hugo) were unusually severe. These abnormalities probably accounted for about two points of the increase. If 1990 is more of a “normal” year, the combined ratio should rise only minimally from the catastrophe-swollen base of 1989. In 1991, though, the ratio is apt to climb by a greater degree.</p>
+<p>Commentators frequently discuss the “underwriting cycle” and speculate about its next turn. If that term is used to connote rhythmic qualities, it is in our view a misnomer that leads to faulty thinking about the industry’s fundamental economics.</p>
+<p>The term was appropriate some decades ago when the industry and regulators cooperated to conduct the business in cartel fashion. At that time, the combined ratio fluctuated rhythmically for two reasons, both related to lags. First, data from the past were analyzed and then used to set new “corrected” rates, which were subsequently put into effect by virtually all insurers. Second, the fact that almost all policies were then issued for a one-to three-year term—which meant that it took a considerable time for mispriced policies to expire—delayed the impact of new rates on revenues. These two lagged responses made combined ratios behave much like alternating current. Meanwhile, the absence of significant price competition guaranteed that industry profits, averaged out over the cycle, would be satisfactory.</p>
+<p>The cartel period is long gone. Now the industry has hundreds of participants selling a commodity-like product at independently-established prices. Such a configuration—whether the product being sold is steel or insurance policies—is certain to cause subnormal profitability in all circumstances but one: a shortage of usable capacity. Just how often these periods occur and how long they last determines the average profitability of the industry in question.</p>
+<p>In most industries, capacity is described in physical terms. In the insurance world, however, capacity is customarily described in financial terms; that is, it’s considered appropriate for a company to write no more than X dollars of business if it has Y dollars of net worth. In practice, however, constraints of this sort have proven ineffective. Regulators, insurance brokers, and customers are all slow to discipline companies that strain their resources. They also acquiesce when companies grossly overstate their true capital. Hence, a company can write a great deal of business with very little capital if it is so inclined. At bottom, therefore, the amount of industry capacity at any particular moment primarily depends on the mental state of insurance managers.</p>
+<p>All this understood, it is not very difficult to prognosticate the industry’s profits. Good profits will be realized only when there is a shortage of capacity. Shortages will occur only when insurers are frightened. That happens rarely—and most assuredly is not happening now.</p>
+<p>Some analysts have argued that the more onerous taxes recently imposed on the insurance industry and 1989’s catastrophes—Hurricane Hugo and the California earthquake—will cause prices to strengthen significantly. We disagree. These adversities have not destroyed the eagerness of insurers to write business at present prices. Therefore, premium volume won’t grow by 10% in 1990, which means the negative underwriting trend will not reverse.</p>
+<p>The industry will meantime say it needs higher prices to achieve profitability matching that of the average American business. Of course it does. So does the steel business. But needs and desires have nothing to do with the long-term profitability of industries. Instead, economic fundamentals determine the outcome. Insurance profitability will improve only when virtually all insurers are turning away business despite higher prices. And we’re a long way from that point.</p>
+<p>Berkshire’s premium volume may drop to $150 million or so in 1990 (from a high of $1 billion in 1986), partly because our traditional business continues to shrink and partly because the contract under which we received 7% of the business of Fireman’s Fund expired last August. Whatever the size of the drop, it will not disturb us. We have no interest in writing insurance that carries a mathematical expectation of loss; we experience enough disappointments doing transactions we believe to carry an expectation of profit.</p>
+<p>However, our appetite for appropriately-priced business is ample, as one tale from 1989 will tell. It concerns “CAT covers,” which are reinsurance contracts that primary insurance companies (and also reinsurers themselves) buy to protect themselves against a single catastrophe, such as a tornado or hurricane, that produces losses from a large number of policies. In these contracts, the primary insurer might retain the loss from a single event up to a maximum of, say, $10 million, buying various layers of reinsurance above that level. When losses exceed the retained amount, the reinsurer typically pays 95% of the excess up to its contractual limit, with the primary insurer paying the remainder. (By requiring the primary insurer to keep 5% of each layer, the reinsurer leaves him with a financial stake in each loss settlement and guards against his throwing away the reinsurer’s money.)</p>
+<p>CAT covers are usually one-year policies that also provide for one automatic reinstatement, which requires a primary insurer whose coverage has been exhausted by a catastrophe to buy a second cover for the balance of the year in question by paying another premium. This provision protects the primary company from being “bare” for even a brief period after a first catastrophic event. The duration of “an event” is usually limited by contract to any span of 72 hours designated by the primary company. Under this definition, a wide-spread storm, causing damage for three days, will be classified as a single event if it arises from a single climatic cause. If the storm lasts four days, however, the primary company will file a claim carving out the 72 consecutive hours during which it suffered the greatest damage. Losses that occurred outside that period will be treated as arising from a separate event.</p>
+<p>In 1989, two unusual things happened. First, Hurricane Hugo generated $4 billion or more of insured loss, at a pace, however, that caused the vast damage in the Carolinas to occur slightly more than 72 hours after the equally severe damage in the Caribbean. Second, the California earthquake hit within weeks, causing insured damage that was difficult to estimate, even well after the event. Slammed by these two—or possibly three—major catastrophes, some primary insurers, and also many reinsurers that had themselves bought CAT protection, either used up their automatic second cover or became uncertain as to whether they had done so.</p>
+<p>At that point sellers of CAT policies had lost a huge amount of money—perhaps twice because of the reinstatements—and not taken in much in premiums. Depending upon many variables, a CAT premium might generally have run 3% to 15% of the amount of protection purchased. For some years, we’ve thought premiums of that kind inadequate and have stayed away from the business.</p>
+<p>But because the 1989 disasters left many insurers either actually or possibly bare, and also left most CAT writers licking their wounds, there was an immediate shortage after the earthquake of much-needed catastrophe coverage. Prices instantly became attractive, particularly for the reinsurance that CAT writers themselves buy. Just as instantly, Berkshire Hathaway offered to write up to $250 million of catastrophe coverage, advertising that proposition in trade publications. Though we did not write all the business we sought, we did in a busy ten days book a substantial amount.</p>
+<p>Our willingness to put such a huge sum on the line for a loss that could occur tomorrow sets us apart from any reinsurer in the world. There are, of course, companies that sometimes write $250 million or even far more of catastrophe coverage. But they do so only when they can, in turn, reinsure a large percentage of the business with other companies. When they can’t “lay off” in size, they disappear from the market.</p>
+<p>Berkshire’s policy, conversely, is to retain the business we write rather than lay it off. When rates carry an expectation of profit, we want to assume as much risk as is prudent. And in our case, that’s a lot.</p>
+<p>We will accept more reinsurance risk for our own account than any other company because of two factors: (1) by the standards of regulatory accounting, we have a net worth in our insurance companies of about $6 billion—the second highest amount in the United States; and (2) we simply don’t care what earnings we report quarterly, or even annually, just as long as the decisions leading to those earnings (or losses) were reached intelligently.</p>
+<p>Obviously, if we write $250 million of catastrophe coverage and retain it all ourselves, there is some probability that we will lose the full $250 million in a single quarter. That probability is low, but it is not zero. If we had a loss of that magnitude, our after-tax cost would be about $165 million. Though that is far more than Berkshire normally earns in a quarter, the damage would be a blow only to our pride, not to our well-being.</p>
+<p>This posture is one few insurance managements will assume. Typically, they are willing to write scads of business on terms that almost guarantee them mediocre returns on equity. But they do not want to expose themselves to an embarrassing single-quarter loss, even if the managerial strategy that causes the loss promises, over time, to produce superior results. I can understand their thinking: What is best for their owners is not necessarily best for the managers. Fortunately Charlie and I have both total job security and financial interests that are identical with those of our shareholders. We are willing to look foolish as long as we don’t feel we have acted foolishly.</p>
+<p>Our method of operation, incidentally, makes us a stabilizing force in the industry. We add huge capacity when capacity is short and we become less competitive only when capacity is abundant. Of course, we don’t follow this policy in the interest of stabilization—we follow it because we believe it to be the most sensible and profitable course of action. Nevertheless, our behavior steadies the market. In this case, Adam Smith’s invisible hand works as advertised.</p>
+<p>Currently, we hold an exceptional amount of float compared to premium volume. This circumstance should produce quite favorable insurance results for us during the next few years as it did in 1989. Our underwriting losses should be tolerable and our investment income from policyholder funds large. This pleasant situation, however, will gradually deteriorate as our float runs off.</p>
+<p>At some point, however, there will be an opportunity for us to write large amounts of profitable business. Mike Goldberg and his management team of Rod Eldred, Dinos Iordanou, Ajit Jain, Phil Urban, and Don Wurster continue to position us well for this eventuality.</p>
+<p><strong>Marketable Securities</strong></p>
+<p>In selecting marketable securities for our insurance companies, we generally choose among five major categories: (1) long-term common stock investments, (2) medium-term fixed income securities, (3) long-term fixed income securities, (4) short-term cash equivalents, and (5) short-term arbitrage commitments.</p>
+<p>We have no particular bias when it comes to choosing from these categories; we just continuously search among them for the highest after-tax returns as measured by “mathematical expectation,” limiting ourselves always to investment alternatives we think we understand. Our criteria have nothing to do with maximizing immediately reportable earnings; our goal, rather, is to maximize eventual net worth.</p>
+<p>Below we list our common stock holdings having a value of over $100 million. A small portion of these investments belongs to subsidiaries of which Berkshire owns less than 100%.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>This list of companies is the same as last year’s and in only one case has the number of shares changed: Our holdings of Coca-Cola increased from 14,172,500 shares at the end of 1988 to 23,350,000.</p>
+<p>&nbsp;</p>
+<p>This Coca-Cola investment provides yet another example of the incredible speed with which your Chairman responds to investment opportunities, no matter how obscure or well-disguised they may be. I believe I had my first Coca-Cola in either 1935 or 1936. Of a certainty, it was in 1936 that I started buying Cokes at the rate of six for 25 cents from Buffett & Son, the family grocery store, to sell around the neighborhood for 5 cents each. In this excursion into high-margin retailing, I duly observed the extraordinary consumer attractiveness and commercial possibilities of the product.</p>
+<p>&nbsp;</p>
+<p>I continued to note these qualities for the next 52 years as Coke blanketed the world. During this period, however, I carefully avoided buying even a single share, instead allocating major portions of my net worth to street railway companies, windmill manufacturers, anthracite producers, textile businesses, trading-stamp issuers, and the like. (If you think I’m making this up, I can supply the names.) Only in the summer of 1988 did my brain finally establish contact with my eyes.</p>
+<p>&nbsp;</p>
+<p>What I then perceived was both clear and fascinating. After drifting somewhat in the 1970’s, Coca-Cola had in 1981 become a new company with the move of Roberto Goizueta to CEO. Roberto, along with Don Keough, once my across-the-street neighbor in Omaha, first rethought and focused the company’s policies and then energetically carried them out. What was already the world’s most ubiquitous product gained new momentum, with sales overseas virtually exploding.</p>
+<p>&nbsp;</p>
+<p>Through a truly rare blend of marketing and financial skills, Roberto has maximized both the growth of his product and the rewards that this growth brings to shareholders. Normally, the CEO of a consumer products company, drawing on his natural inclinations or experience, will cause either marketing or finance to dominate the business at the expense of the other discipline. With Roberto, the mesh of marketing and finance is perfect and the result is a shareholder’s dream.</p>
+<p>&nbsp;</p>
+<p>Of course, we should have started buying Coke much earlier, soon after Roberto and Don began running things. In fact, if I had been thinking straight I would have persuaded my grandfather to sell the grocery store back in 1936 and put all of the proceeds into Coca-Cola stock. I’ve learned my lesson: My response time to the next glaringly attractive idea will be slashed to well under 50 years.</p>
+<p>&nbsp;</p>
+<p>As I mentioned earlier, the yearend prices of our major investees were much higher relative to their intrinsic values than theretofore. While those prices may not yet cause nosebleeds, they are clearly vulnerable to a general market decline. A drop in their prices would not disturb us at all—it might in fact work to our eventual benefit—but it would cause at least a one-year reduction in Berkshire’s net worth. We think such a reduction is almost certain in at least one of the next three years. Indeed, it would take only about a 10% year-to-year decline in the aggregate value of our portfolio investments to send Berkshire’s net worth down.</p>
+<p>&nbsp;</p>
+<p>We continue to be blessed with extraordinary managers at our portfolio companies. They are high-grade, talented, and shareholder-oriented. The exceptional results we have achieved while investing with them accurately reflect their exceptional personal qualities.</p>
+<p>&nbsp;</p>
+<p>We told you last year that we expected to do little in arbitrage during 1989, and that’s the way it turned out. Arbitrage positions are a substitute for short-term cash equivalents, and during part of the year we held relatively low levels of cash. In the rest of the year we had a fairly good-sized cash position and even so chose not to engage in arbitrage. The main reason was corporate transactions that made no economic sense to us; arbitraging such deals comes too close to playing the greater-fool game. (As Wall Streeter Ray DeVoe says: “Fools rush in where angels fear to trade.”) We will engage in arbitrage from time to time—sometimes on a large scale—but only when we like the odds.</p>
+<p>&nbsp;</p>
+<p>Leaving aside the three convertible preferreds discussed in the next section, we substantially reduced our holdings in both medium- and long-term fixed-income securities. In the long-terms, just about our only holdings have been Washington Public Power Supply Systems (WPPSS) bonds carrying coupons ranging from low to high. During the year we sold a number of the low-coupon issues, which we originally bought at very large discounts. Many of these issues had approximately doubled in price since we purchased them and in addition had paid us 15%-17% annually, tax-free. Our prices upon sale were only slightly cheaper than typical high-grade tax-exempts then commanded. We have kept all of our high-coupon WPPSS issues. Some have been called for redemption in 1991 and 1992, and we expect the rest to be called in the early to mid-1990s.</p>
+<p>&nbsp;</p>
+<p>We also sold many of our medium-term tax-exempt bonds during the year. When we bought these bonds we said we would be happy to sell them—regardless of whether they were higher or lower than at our time of purchase—if something we liked better came along. Something did—and concurrently we unloaded most of these issues at modest gains. Overall, our 1989 profit from the sale of tax-exempt bonds was about $51 million pre-tax.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The proceeds from our bond sales, along with our excess cash at the beginning of the year and that generated later through earnings, went into the purchase of three convertible preferred stocks. In the first transaction, which took place in July, we purchased $600 million of The Gillette Co. preferred with an 8 3/4% dividend, a mandatory redemption in ten years, and the right to convert into common at $50 per share. We next purchased $358 million of USAir Group, Inc. preferred stock with mandatory redemption in ten years, a dividend of 9 1/4%, and the right to convert into common at $60 per share. Finally, late in the year we purchased $300 million of Champion International Corp. preferred with mandatory redemption in ten years, a 9 1/4% dividend, and the right to convert into common at $38 per share.</p>
+<p>&nbsp;</p>
+<p>Unlike standard convertible preferred stocks, the issues we own are either non-salable or non-convertible for considerable periods of time and there is consequently no way we can gain from short-term price blips in the common stock. I have gone on the board of Gillette, but I am not on the board of USAir or Champion. (I thoroughly enjoy the boards I am on, but can’t handle any more.)</p>
+<p>&nbsp;</p>
+<p>Gillette’s business is very much the kind we like. Charlie and I think we understand the company’s economics and therefore believe we can make a reasonably intelligent guess about its future. (If you haven’t tried Gillette’s new Sensor razor, go right out and get one.) However, we have no ability to forecast the economics of the investment banking business (in which we have a position through our 1987 purchase of Salomon convertible preferred), the airline industry, or the paper industry. This does not mean that we predict a negative future for these industries: we’re agnostics, not atheists. Our lack of strong convictions about these businesses, however, means that we must structure our investments in them differently from what we do when we invest in a business appearing to have splendid economic characteristics.</p>
+<p>&nbsp;</p>
+<p>In one major respect, however, these purchases are not different: We only want to link up with people whom we like, admire, and trust. John Gutfreund at Salomon, Colman Mockler, Jr. at Gillette, Ed Colodny at USAir, and Andy Sigler at Champion meet this test in spades.</p>
+<p>&nbsp;</p>
+<p>They in turn have demonstrated some confidence in us, insisting in each case that our preferreds have unrestricted voting rights on a fully-converted basis, an arrangement that is far from standard in corporate finance. In effect they are trusting us to be intelligent owners, thinking about tomorrow instead of today, just as we are trusting them to be intelligent managers, thinking about tomorrow as well as today.</p>
+<p>&nbsp;</p>
+<p>The preferred-stock structures we have negotiated will provide a mediocre return for us if industry economics hinder the performance of our investees, but will produce reasonably attractive results for us if they can earn a return comparable to that of American industry in general. We believe that Gillette, under Colman’s management, will far exceed that return and believe that John, Ed, and Andy will reach it unless industry conditions are harsh.</p>
+<p>&nbsp;</p>
+<p>Under almost any conditions, we expect these preferreds to return us our money plus dividends. If that is all we get, though, the result will be disappointing, because we will have given up flexibility and consequently will have missed some significant opportunities that are bound to present themselves during the decade. Under that scenario, we will have obtained only a preferred-stock yield during a period when the typical preferred stock will have held no appeal for us whatsoever. The only way Berkshire can achieve satisfactory results from its four preferred issues is to have the common stocks of the investee companies do well.</p>
+<p>&nbsp;</p>
+<p>Good management and at least tolerable industry conditions will be needed if that is to happen. But we believe Berkshire’s investment will also help and that the other shareholders of each investee will profit over the years ahead from our preferred-stock purchase. The help will come from the fact that each company now has a major, stable, and interested shareholder whose Chairman and Vice Chairman have, through Berkshire’s investments, indirectly committed a very large amount of their own money to these undertakings. In dealing with our investees, Charlie and I will be supportive, analytical, and objective. We recognize that we are working with experienced CEOs who are very much in command of their own businesses but who nevertheless, at certain moments, appreciate the chance to test their thinking on someone without ties to their industry or to decisions of the past.</p>
+<p>&nbsp;</p>
+<p>As a group, these convertible preferreds will not produce the returns we can achieve when we find a business with wonderful economic prospects that is unappreciated by the market. Nor will the returns be as attractive as those produced when we make our favorite form of capital deployment, the acquisition of 80% or more of a fine business with a fine management. But both opportunities are rare, particularly in a size befitting our present and anticipated resources.</p>
+<p>&nbsp;</p>
+<p>In summation, Charlie and I feel that our preferred stock investments should produce returns moderately above those achieved by most fixed-income portfolios and that we can play a minor but enjoyable and constructive role in the investee companies.</p>
+<p>&nbsp;</p>
+<p><strong>Zero-Coupon Securities</strong></p>
+<p>In September, Berkshire issued $902.6 million principal amount of Zero-Coupon Convertible Subordinated Debentures, which are now listed on the New York Stock Exchange. Salomon Brothers handled the underwriting in superb fashion, providing us helpful advice and a flawless execution.</p>
+<p>Most bonds, of course, require regular payments of interest, usually semi-annually. A zero-coupon bond, conversely, requires no current interest payments; instead, the investor receives his yield by purchasing the security at a significant discount from maturity value. The effective interest rate is determined by the original issue price, the maturity value, and the amount of time between issuance and maturity.</p>
+<p>In our case, the bonds were issued at 44.314% of maturity value and are due in 15 years. For investors purchasing the bonds, that is the mathematical equivalent of a 5.5% current payment compounded semi-annually. Because we received only 44.31 cents on the dollar, our proceeds from this offering were $400 million (less about $9.5 million of offering expenses).</p>
+<p>The bonds were issued in denominations of $10,000 and each bond is convertible into .4515 shares of Berkshire Hathaway. Because a $10,000 bond cost $4,431, this means that the conversion price was $9,815 per Berkshire share, a 15% premium to the market price then existing. Berkshire can call the bonds at any time after September 28, 1992 at their accreted value (the original issue price plus 5.5% compounded semi-annually) and on two specified days, September 28 of 1994 and 1999, the bondholders can require Berkshire to buy the securities at their accreted value.</p>
+<p>For tax purposes, Berkshire is entitled to deduct the 5.5% interest accrual each year, even though we make no payments to the bondholders. Thus the net effect to us, resulting from the reduced taxes, is positive cash flow. That is a very significant benefit. Some unknowable variables prevent us from calculating our exact effective rate of interest, but under all circumstances it will be well below 5.5%. There is meanwhile a symmetry to the tax law: Any taxable holder of the bonds must pay tax each year on the 5.5% interest, even though he receives no cash.</p>
+<p>Neither our bonds nor those of certain other companies that issued similar bonds last year (notably Loews and Motorola) resemble the great bulk of zero-coupon bonds that have been issued in recent years. Of these, Charlie and I have been, and will continue to be, outspoken critics. As I will later explain, such bonds have often been used in the most deceptive of ways and with deadly consequences to investors. But before we tackle that subject, let’s travel back to Eden, to a time when the apple had not yet been bitten.</p>
+<p>If you’re my age you bought your first zero-coupon bonds during World War II, by purchasing the famous Series E U. S. Savings Bond, the most widely-sold bond issue in history. (After the war, these bonds were held by one out of two U. S. households.) Nobody, of course, called the Series E a zero-coupon bond, a term in fact that I doubt had been invented. But that’s precisely what the Series E was.</p>
+<p>These bonds came in denominations as small as $18.75. That amount purchased a $25 obligation of the United States government due in 10 years, terms that gave the buyer a compounded annual return of 2.9%. At the time, this was an attractive offer: the 2.9% rate was higher than that generally available on Government bonds and the holder faced no market-fluctuation risk, since he could at any time cash in his bonds with only a minor reduction in interest.</p>
+<p>A second form of zero-coupon U. S. Treasury issue, also benign and useful, surfaced in the last decade. One problem with a normal bond is that even though it pays a given interest rate—say 10%—the holder cannot be assured that a compounded 10% return will be realized. For that rate to materialize, each semi-annual coupon must be reinvested at 10% as it is received. If current interest rates are, say, only 6% or 7% when these coupons come due, the holder will be unable to compound his money over the life of the bond at the advertised rate. For pension funds or other investors with long-term liabilities, “reinvestment risk” of this type can be a serious problem. Savings Bonds might have solved it, except that they are issued only to individuals and are unavailable in large denominations. What big buyers needed was huge quantities of “Savings Bond Equivalents.”</p>
+<p>Enter some ingenious and, in this case, highly useful investment bankers (led, I’m happy to say, by Salomon Brothers). They created the instrument desired by “stripping” the semi-annual coupons from standard Government issues. Each coupon, once detached, takes on the essential character of a Savings Bond since it represents a single sum due sometime in the future. For example, if you strip the 40 semi-annual coupons from a U. S.</p>
+<p>Government Bond due in the year 2010, you will have 40 zero-coupon bonds, with maturities from six months to 20 years, each of which can then be bundled with other coupons of like maturity and marketed. If current interest rates are, say, 10% for all maturities, the six-month issue will sell for 95.24% of maturity value and the 20-year issue will sell for 14.20%. The purchaser of any given maturity is thus guaranteed a compounded rate of 10% for his entire holding period. Stripping of government bonds has occurred on a large scale in recent years, as long-term investors, ranging from pension funds to individual IRA accounts, recognized these high-grade, zero-coupon issues to be well suited to their needs.</p>
+<p>But as happens in Wall Street all too often, what the wise do in the beginning, fools do in the end. In the last few years zero-coupon bonds (and their functional equivalent, pay-in-kind bonds, which distribute additional PIK bonds semi-annually as interest instead of paying cash) have been issued in enormous quantities by ever-junkier credits. To these issuers, zero (or PIK) bonds offer one overwhelming advantage: It is impossible to default on a promise to pay nothing. Indeed, if LDC governments had issued no debt in the 1970’s other than long-term zero-coupon obligations, they would now have a spotless record as debtors.</p>
+<p>This principle at work—that you need not default for a long time if you solemnly promise to pay nothing for a long time—has not been lost on promoters and investment bankers seeking to finance ever-shakier deals. But its acceptance by lenders took a while: When the leveraged buy-out craze began some years back, purchasers could borrow only on a reasonably sound basis, in which conservatively-estimated free cash flow—that is, operating earnings plus depreciation and amortization less normalized capital expenditures—was adequate to cover both interest and modest reductions in debt.</p>
+<p>Later, as the adrenalin of deal-makers surged, businesses began to be purchased at prices so high that all free cash flow necessarily had to be allocated to the payment of interest. That left nothing for the paydown of debt. In effect, a Scarlett O’Hara “I’ll think about it tomorrow” position in respect to principal payments was taken by borrowers and accepted by a new breed of lender, the buyer of original-issue junk bonds. Debt now became something to be refinanced rather than repaid. The change brings to mind a New Yorker cartoon in which the grateful borrower rises to shake the hand of the bank’s lending officer and gushes: “I don’t know how I’ll ever repay you.”</p>
+<p>Soon borrowers found even the new, lax standards intolerably binding. To induce lenders to finance even sillier transactions, they introduced an abomination, EBDIT—Earnings Before Depreciation, Interest and Taxes—as the test of a company’s ability to pay interest. Using this sawed-off yardstick, the borrower ignored depreciation as an expense on the theory that it did not require a current cash outlay.</p>
+<p>Such an attitude is clearly delusional. At 95% of American businesses, capital expenditures that over time roughly approximate depreciation are a necessity and are every bit as real an expense as labor or utility costs. Even a high school dropout knows that to finance a car he must have income that covers not only interest and operating expenses, but also realistically-calculated depreciation. He would be laughed out of the bank if he started talking about EBDIT.</p>
+<p>Capital outlays at a business can be skipped, of course, in any given month, just as a human can skip a day or even a week of eating. But if the skipping becomes routine and is not made up, the body weakens and eventually dies. Furthermore, a start-and-stop feeding policy will over time produce a less healthy organism, human or corporate, than that produced by a steady diet. As businessmen, Charlie and I relish having competitors who are unable to fund capital expenditures.</p>
+<p>You might think that waving away a major expense such as depreciation in an attempt to make a terrible deal look like a good one hits the limits of Wall Street’s ingenuity. If so, you haven’t been paying attention during the past few years. Promoters needed to find a way to justify even pricier acquisitions. Otherwise, they risked—heaven forbid!—losing deals to other promoters with more “imagination.”</p>
+<p>So, stepping through the Looking Glass, promoters and their investment bankers proclaimed that EBDIT should now be measured against cash interest only, which meant that interest accruing on zero-coupon or PIK bonds could be ignored when the financial feasibility of a transaction was being assessed. This approach not only relegated depreciation expense to the let’s-ignore-it corner, but gave similar treatment to what was usually a significant portion of interest expense. To their shame, many professional investment managers went along with this nonsense, though they usually were careful to do so only with clients’ money, not their own. (Calling these managers “professionals” is actually too kind; they should be designated “promotees.”)</p>
+<p>Under this new standard, a business earning, say, $100 million pre-tax and having debt on which $90 million of interest must be paid currently, might use a zero-coupon or PIK issue to incur another $60 million of annual interest that would accrue and compound but not come due for some years. The rate on these issues would typically be very high, which means that the situation in year 2 might be $90 million cash interest plus $69 million accrued interest, and so on as the compounding proceeds. Such high-rate reborrowing schemes, which a few years ago were appropriately confined to the waterfront, soon became models of modern finance at virtually all major investment banking houses.</p>
+<p>When they make these offerings, investment bankers display their humorous side: They dispense income and balance sheet projections extending five or more years into the future for companies they barely had heard of a few months earlier. If you are shown such schedules, I suggest that you join in the fun: Ask the investment banker for the one-year budgets that his own firm prepared as the last few years began and then compare these with what actually happened.</p>
+<p>Some time ago Ken Galbraith, in his witty and insightful The Great Crash, coined a new economic term: “the bezzle,” defined as the current amount of undiscovered embezzlement. This financial creature has a magical quality: The embezzlers are richer by the amount of the bezzle, while the embezzlees do not yet feel poorer.</p>
+<p>Professor Galbraith astutely pointed out that this sum should be added to the National Wealth so that we might know the Psychic National Wealth. Logically, a society that wanted to feel enormously prosperous would both encourage its citizens to embezzle and try not to detect the crime. By this means, “wealth” would balloon though not an erg of productive work had been done.</p>
+<p>The satirical nonsense of the bezzle is dwarfed by the real-world nonsense of the zero-coupon bond. With zeros, one party to a contract can experience “income” without his opposite experiencing the pain of expenditure. In our illustration, a company capable of earning only $100 million dollars annually—and therefore capable of paying only that much in interest—magically creates “earnings” for bondholders of $150 million. As long as major investors willingly don their Peter Pan wings and repeatedly say “I believe,” there is no limit to how much “income” can be created by the zero-coupon bond.</p>
+<p>Wall Street welcomed this invention with the enthusiasm less-enlightened folk might reserve for the wheel or the plow. Here, finally, was an instrument that would let the Street make deals at prices no longer limited by actual earning power. The result, obviously, would be more transactions: Silly prices will always attract sellers. And, as Jesse Unruh might have put it, transactions are the mother’s milk of finance.</p>
+<p>The zero-coupon or PIK bond possesses one additional attraction for the promoter and investment banker, which is that the time elapsing between folly and failure can be stretched out. This is no small benefit. If the period before all costs must be faced is long, promoters can create a string of foolish deals—and take in lots of fees—before any chickens come home to roost from their earlier ventures.</p>
+<p>But in the end, alchemy, whether it is metallurgical or financial, fails. A base business can not be transformed into a golden business by tricks of accounting or capital structure. The man claiming to be a financial alchemist may become rich. But gullible investors rather than business achievements will usually be the source of his wealth.</p>
+<p>Whatever their weaknesses, we should add, many zero-coupon and PIK bonds will not default. We have in fact owned some and may buy more if their market becomes sufficiently distressed. (We’ve not, however, even considered buying a new issue from a weak credit.) No financial instrument is evil per se; it’s just that some variations have far more potential for mischief than others.</p>
+<p>The blue ribbon for mischief-making should go to the zero-coupon issuer unable to make its interest payments on a current basis. Our advice: Whenever an investment banker starts talking about EBDIT—or whenever someone creates a capital structure that does not allow all interest, both payable and accrued, to be comfortably met out of current cash flow net of ample capital expenditures—zip up your wallet. Turn the tables by suggesting that the promoter and his high-priced entourage accept zero-coupon fees, deferring their take until the zero-coupon bonds have been paid in full. See then how much enthusiasm for the deal endures.</p>
+<p>Our comments about investment bankers may seem harsh. But Charlie and I—in our hopelessly old-fashioned way—believe that they should perform a gatekeeping role, guarding investors against the promoter’s propensity to indulge in excess. Promoters, after all, have throughout time exercised the same judgment and restraint in accepting money that alcoholics have exercised in accepting liquor. At a minimum, therefore, the banker’s conduct should rise to that of a responsible bartender who, when necessary, refuses the profit from the next drink to avoid sending a drunk out on the highway. In recent years, unfortunately, many leading investment firms have found bartender morality to be an intolerably restrictive standard. Lately, those who have traveled the high road in Wall Street have not encountered heavy traffic.</p>
+<p>One distressing footnote: The cost of the zero-coupon folly will not be borne solely by the direct participants. Certain savings and loan associations were heavy buyers of such bonds, using cash that came from FSLIC-insured deposits. Straining to show splendid earnings, these buyers recorded—but did not receive—ultra-high interest income on these issues. Many of these associations are now in major trouble. Had their loans to shaky credits worked, the owners of the associations would have pocketed the profits. In the many cases in which the loans will fail, the taxpayer will pick up the bill. To paraphrase Jackie Mason, at these associations it was the managers who should have been wearing the ski masks.</p>
+<p><strong>Mistakes of the First Twenty-five Years (A Condensed Version)</strong></p>
+<p>To quote Robert Benchley, “Having a dog teaches a boy fidelity, perseverance, and to turn around three times before lying down.” Such are the shortcomings of experience. Nevertheless, it’s a good idea to review past mistakes before committing new ones. So let’s take a quick look at the last 25 years.</p>
+<p>&nbsp;</p>
+<p>My first mistake, of course, was in buying control of Berkshire. Though I knew its business—textile manufacturing—to be unpromising, I was enticed to buy because the price looked cheap. Stock purchases of that kind had proved reasonably rewarding in my early years, though by the time Berkshire came along in 1965 I was becoming aware that the strategy was not ideal.</p>
+<p>&nbsp;</p>
+<p>If you buy a stock at a sufficiently low price, there will usually be some hiccup in the fortunes of the business that gives you a chance to unload at a decent profit, even though the long-term performance of the business may be terrible. I call this the “cigar butt” approach to investing. A cigar butt found on the street that has only one puff left in it may not offer much of a smoke, but the “bargain purchase” will make that puff all profit.</p>
+<p>&nbsp;</p>
+<p>Unless you are a liquidator, that kind of approach to buying businesses is foolish. First, the original “bargain” price probably will not turn out to be such a steal after all. In a difficult business, no sooner is one problem solved than another surfaces— never is there just one cockroach in the kitchen. Second, any initial advantage you secure will be quickly eroded by the low return that the business earns. For example, if you buy a business for $8 million that can be sold or liquidated for $10 million and promptly take either course, you can realize a high return. But the investment will disappoint if the business is sold for $10 million in ten years and in the interim has annually earned and distributed only a few percent on cost. Time is the friend of the wonderful business, the enemy of the mediocre.</p>
+<p>&nbsp;</p>
+<p>You might think this principle is obvious, but I had to learn it the hard way—in fact, I had to learn it several times over. Shortly after purchasing Berkshire, I acquired a Baltimore department store, Hochschild Kohn, buying through a company called Diversified Retailing that later merged with Berkshire. I bought at a substantial discount from book value, the people were first-class, and the deal included some extras—unrecorded real estate values and a significant LIFO inventory cushion. How could I miss? So-o-o—three years later I was lucky to sell the business for about what I had paid. After ending our corporate marriage to Hochschild Kohn, I had memories like those of the husband in the country song, “My Wife Ran Away With My Best Friend and I Still Miss Him a Lot.”</p>
+<p>&nbsp;</p>
+<p>I could give you other personal examples of “bargain-purchase” folly but I’m sure you get the picture: It’s far better to buy a wonderful company at a fair price than a fair company at a wonderful price. Charlie understood this early; I was a slow learner. But now, when buying companies or common stocks, we look for first-class businesses accompanied by first-class managements.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>That leads right into a related lesson: Good jockeys will do well on good horses, but not on broken-down nags. Both Berkshire’s textile business and Hochschild, Kohn had able and honest people running them. The same managers employed in a business with good economic characteristics would have achieved fine records. But they were never going to make any progress while running in quicksand.</p>
+<p>&nbsp;</p>
+<p>I’ve said many times that when a management with a reputation for brilliance tackles a business with a reputation for bad economics, it is the reputation of the business that remains intact. I just wish I hadn’t been so energetic in creating examples. My behavior has matched that admitted by Mae West: “I was Snow White, but I drifted.”</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>A further related lesson: Easy does it. After 25 years of buying and supervising a great variety of businesses, Charlie and I have not learned how to solve difficult business problems. What we have learned is to avoid them. To the extent we have been successful, it is because we concentrated on identifying one-foot hurdles that we could step over rather than because we acquired any ability to clear seven-footers.</p>
+<p>&nbsp;</p>
+<p>The finding may seem unfair, but in both business and investments it is usually far more profitable to simply stick with the easy and obvious than it is to resolve the difficult. On occasion, tough problems must be tackled as was the case when we started our Sunday paper in Buffalo. In other instances, a great investment opportunity occurs when a marvelous business encounters a one-time huge, but solvable, problem as was the case many years back at both American Express and GEICO. Overall, however, we’ve done better by avoiding dragons than by slaying them.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>My most surprising discovery: the overwhelming importance in business of an unseen force that we might call “the institutional imperative.” In business school, I was given no hint of the imperative’s existence and I did not intuitively understand it when I entered the business world. I thought then that decent, intelligent, and experienced managers would automatically make rational business decisions. But I learned over time that isn’t so. Instead, rationality frequently wilts when the institutional imperative comes into play.</p>
+<p>&nbsp;</p>
+<p>For example: (1) As if governed by Newton’s First Law of Motion, an institution will resist any change in its current direction; (2) Just as work expands to fill available time, corporate projects or acquisitions will materialize to soak up available funds; (3) Any business craving of the leader, however foolish, will be quickly supported by detailed rate-of-return and strategic studies prepared by his troops; and (4) The behavior of peer companies, whether they are expanding, acquiring, setting executive compensation or whatever, will be mindlessly imitated.</p>
+<p>&nbsp;</p>
+<p>Institutional dynamics, not venality or stupidity, set businesses on these courses, which are too often misguided. After making some expensive mistakes because I ignored the power of the imperative, I have tried to organize and manage Berkshire in ways that minimize its influence. Furthermore, Charlie and I have attempted to concentrate our investments in companies that appear alert to the problem.</p>
+<p>&nbsp;</p>
+<p>After some other mistakes, I learned to go into business only with people whom I like, trust, and admire. As I noted before, this policy of itself will not ensure success: A second-class textile or department-store company won’t prosper simply because its managers are men that you would be pleased to see your daughter marry. However, an owner—or investor—can accomplish wonders if he manages to associate himself with such people in businesses that possess decent economic characteristics. Conversely, we do not wish to join with managers who lack admirable qualities, no matter how attractive the prospects of their business. We’ve never succeeded in making a good deal with a bad person.</p>
+<p>Some of my worst mistakes were not publicly visible. These were stock and business purchases whose virtues I understood and yet didn’t make. It’s no sin to miss a great opportunity outside one’s area of competence. But I have passed on a couple of really big purchases that were served up to me on a platter and that I was fully capable of understanding. For Berkshire’s shareholders, myself included, the cost of this thumb-sucking has been huge.</p>
+<p>&nbsp;</p>
+<p>Our consistently-conservative financial policies may appear to have been a mistake, but in my view were not. In retrospect, it is clear that significantly higher, though still conventional, leverage ratios at Berkshire would have produced considerably better returns on equity than the 23.8% we have actually averaged. Even in 1965, perhaps we could have judged there to be a 99% probability that higher leverage would lead to nothing but good. Correspondingly, we might have seen only a 1% chance that some shock factor, external or internal, would cause a conventional debt ratio to produce a result falling somewhere between temporary anguish and default.</p>
+<p>&nbsp;</p>
+<p>We wouldn’t have liked those 99:1 odds—and never will. A small chance of distress or disgrace cannot, in our view, be offset by a large chance of extra returns. If your actions are sensible, you are certain to get good results; in most such cases, leverage just moves things along faster. Charlie and I have never been in a big hurry: We enjoy the process far more than the proceeds—though we have learned to live with those also.</p>
+<p>&nbsp;</p>
+<p> * * * * * * * * * * * *</p>
+<p>We hope in another 25 years to report on the mistakes of the first 50. If we are around in 2015 to do that, you can count on this section occupying many more pages than it does here.</p>
+<p><strong>Miscellaneous</strong></p>
+<p>We hope to buy more businesses that are similar to the ones we have, and we can use some help. If you have a business that fits the following criteria, call me or, preferably, write.</p>
+<p>Here’s what we’re looking for:</p>
+<p>Large purchases (at least $10 million of after-tax earnings),</p>
+<p>demonstrated consistent earning power (future projections are of little interest to us, nor are “turnaround” situations),</p>
+<p>businesses earning good returns on equity while employing little or no debt,</p>
+<p>management in place (we can’t supply it),</p>
+<p>simple businesses (if there’s lots of technology, we won’t understand it),</p>
+<p>an offering price (we don’t want to waste our time or that of the seller by talking, even preliminarily, about a transaction when price is unknown).</p>
+<p>We will not engage in unfriendly takeovers. We can promise complete confidentiality and a very fast answer—customarily within five minutes—as to whether we’re interested. We prefer to buy for cash, but will consider issuing stock when we receive as much in intrinsic business value as we give.</p>
+<p>Our favorite form of purchase is one fitting the Blumkin-Friedman-Heldman mold. In cases like these, the company’s owner-managers wish to generate significant amounts of cash, sometimes for themselves, but often for their families or inactive shareholders. At the same time, these managers wish to remain significant owners who continue to run their companies just as they have in the past. We think we offer a particularly good fit for owners with such objectives. We invite potential sellers to check us out by contacting people with whom we have done business in the past.</p>
+<p>Charlie and I frequently get approached about acquisitions that don’t come close to meeting our tests: We’ve found that if you advertise an interest in buying collies, a lot of people will call hoping to sell you their cocker spaniels. Our interest in new ventures, turnarounds, or auction-like sales can best be expressed by a Goldwynism: “Please include me out.”</p>
+<p>Besides being interested in the purchase of businesses as described above, we are also interested in the negotiated purchase of large, but not controlling, blocks of stock comparable to those we hold in Capital Cities, Salomon, Gillette, USAir and Champion. Last year we said we had a special interest in large purchases of convertible preferreds. We still have an appetite of that kind, but it is limited since we now are close to the maximum position we feel appropriate for this category of investment.</p>
+<p>* * * * * * * * * * * *</p>
+<p>Two years ago, I told you about Harry Bottle, who in 1962 quickly cured a major business mess at the first industrial company I controlled, Dempster Mill Manufacturing (one of my “bargain” purchases) and who 24 years later had reappeared to again rescue me, this time from problems at K&W Products, a small Berkshire subsidiary that produces automotive compounds. As I reported, in short order Harry reduced capital employed at K&W, rationalized production, cut costs, and quadrupled profits. You might think he would then have paused for breath. But last year Harry, now 70, attended a bankruptcy auction and, for a pittance, acquired a product line that is a natural for K&W. That company’s profitability may well be increased 50% by this coup. Watch this space for future bulletins on Harry’s triumphs.</p>
+<p>* * * * * * * * * * * *</p>
+<p>With more than a year behind him of trading Berkshire’s stock on the New York Stock Exchange, our specialist, Jim Maguire of Henderson Brothers, Inc. (“HBI”), continues his outstanding performance. Before we listed, dealer spreads often were 3% or more of market price. Jim has maintained the spread at 50 points or less, which at current prices is well under 1%. Shareholders who buy or sell benefit significantly from this reduction in transaction costs.</p>
+<p>Because we are delighted by our experience with Jim, HBI and the NYSE, I said as much in ads that have been run in a series placed by the NYSE. Normally I shun testimonials, but I was pleased in this instance to publicly compliment the Exchange.</p>
+<p>* * * * * * * * * * * *</p>
+<p>Last summer we sold the corporate jet that we purchased for $850,000 three years ago and bought another used jet for $6.7 million. Those of you who recall the mathematics of the multiplying bacteria on page 5 will understandably panic: If our net worth continues to increase at current rates, and the cost of replacing planes also continues to rise at the now-established rate of 100% compounded annually, it will not be long before Berkshire’s entire net worth is consumed by its jet.</p>
+<p>Charlie doesn’t like it when I equate the jet with bacteria; he feels it’s degrading to the bacteria. His idea of traveling in style is an air-conditioned bus, a luxury he steps up to only when bargain fares are in effect. My own attitude toward the jet can be summarized by the prayer attributed, apocryphally I’m sure, to St. Augustine as he contemplated leaving a life of secular pleasures to become a priest. Battling the conflict between intellect and glands, he pled: “Help me, Oh Lord, to become chaste—but not yet.”</p>
+<p>Naming the plane has not been easy. I initially suggested “The Charles T. Munger.” Charlie countered with “The Aberration.” We finally settled on “The Indefensible.”</p>
+<p>* * * * * * * * * * * *</p>
+<p>About 96.9% of all eligible shares participated in Berkshire’s 1989 shareholder-designated contributions program. Contributions made through the program were $5.9 million, and 2,550 charities were recipients.</p>
+<p>We urge new shareholders to read the description of our shareholder-designated contributions program that appears on pages 52-53. If you wish to participate in future programs, we strongly urge that you immediately make sure your shares are registered in the name of the actual owner, not in the nominee name of a broker, bank or depository. Shares not so registered on August 31, 1990 will be ineligible for the 1990 program.</p>
+<p>* * * * * * * * * * * *</p>
+<p>The annual meeting this year will take place at 9:30 a.m. on Monday, April 30, 1990. Attendance grew last year to about 1,000, very close to the seating capacity of the Witherspoon Hall at Joslyn Museum. So this year’s meeting will be moved to the Orpheum Theatre, which is in downtown Omaha, about one-quarter of a mile from the Red Lion Hotel. The Radisson-Redick Tower, a much smaller but nice hotel, is located across the street from the Orpheum. Or you may wish to stay at the Marriott, which is in west Omaha, about 100 yards from Borsheim’s. We will have buses at the Marriott that will leave at 8:30 and 8:45 for the meeting and return after it ends.</p>
+<p>Charlie and I always enjoy the meeting, and we hope you can make it. The quality of our shareholders is reflected in the quality of the questions we get: We have never attended an annual meeting anywhere that features such a consistently high level of intelligent, owner-related questions.</p>
+<p>An attachment to our proxy material explains how you can obtain the card you will need for admission to the meeting. Because weekday parking can be tight around the Orpheum, we have lined up a number of nearby lots for our shareholders to use. The attachment also contains information about them.</p>
+<p>As usual, we will have buses to take you to Nebraska Furniture Mart and Borsheim’s after the meeting and to take you to downtown hotels or to the airport later. I hope that you will allow plenty of time to fully explore the attractions of both stores. Those of you arriving early can visit the Furniture Mart any day of the week; it is open from 10 a.m. to 5:30 p.m. on Saturdays, and from noon to 5:30 p.m. on Sundays.</p>
+<p>Borsheim’s normally is closed on Sunday, but we will open for shareholders and their guests from noon to 6 p.m. on Sunday, April 29th. Ike likes to put on a show, and you can rely on him to produce something very special for our shareholders.</p>
+<p>In this letter we’ve had a lot to say about rates of compounding. If you can bear having your own rate turn negative for a day—not a pretty thought, I admit—visit Ike on the 29th.</p>
+<p>March 2, 1990</p>
+<p>Warren E. BuffettChairman of the Board</p>
+<p>&nbsp;</p>
+<table class="letter-table" style="width:100%;border-collapse:collapse;margin:1.5em 0">
+<tr><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;"></th><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;"></th><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;"></th><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;"></th><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;">12/31/89</th></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">Shares</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">Company</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">Cost</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">Market</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">(000s omitted)</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">3,000,000</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">Capital Cities/ABC, Inc.</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">$517,500</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">$1,692,375</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">23,350,000</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">The Coca-Cola Co.</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">1,023,920</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">1,803,787</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">2,400,000</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">Federal Home Loan Mortgage Corp.</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">71,729</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">161,100</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">6,850,000</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">GEICO Corp.</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">45,713</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">1,044,625</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">1,727,765</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">The Washington Post Company</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">9,731</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">486,366</td></tr>
+</table>`,
 
     concepts: ['intrinsic-value', 'moat', 'compounding', 'owner-earnings'],
     companies: ['berkshire-hathaway'],
@@ -7068,7 +10619,265 @@ export const berkshireLetters: Letter[] = [
     date: '1990-02-01',
     summary:
       "1990 brought a recession in the early 1990s. Berkshire's diversified operations and patient approach served well during uncertain times.",
-        fullText: `[[PLACEHOLDER]]`,
+        fullText: `<p><strong>To the Shareholders of Berkshire Hathaway Inc.:</strong></p>
+<p>Last year we made a prediction: “A reduction [in Berkshire’s net worth] is almost certain in at least one of the next three years.” During much of 1990’s second half, we were on the road to quickly proving that forecast accurate. But some strengthening in stock prices late in the year enabled us to close 1990 with net worth up by $362 million, or 7.3%. Over the last 26 years (that is, since present management took over) our per-share book value has grown from $19.46 to $4,612.06, or at a rate of 23.2% compounded annually.</p>
+<p>Our growth rate was lackluster in 1990 because our four major common stock holdings, in aggregate, showed little change in market value. Last year I told you that though these companies—Capital Cities/ABC, Coca-Cola, GEICO, and Washington Post—had fine businesses and superb managements, widespread recognition of these attributes had pushed the stock prices of the four to lofty levels. The market prices of the two media companies have since fallen significantly—for good reasons relating to evolutionary industry developments that I will discuss later—and the price of Coca-Cola stock has increased significantly for what I also believe are good reasons. Overall, yearend 1990 prices of our “permanent four,” though far from enticing, were a bit more appealing than they were a year earlier.</p>
+<p>Berkshire’s 26-year record is meaningless in forecasting future results; so also, we hope, is the one-year record. We continue to aim for a 15% average annual gain in intrinsic value. But, as we never tire of telling you, this goal becomes ever more difficult to reach as our equity base, now $5.3 billion, increases.</p>
+<p>If we do attain that 15% average, our shareholders should fare well. However, Berkshire’s corporate gains will produce an identical gain for a specific shareholder only if he eventually sells his shares at the same relationship to intrinsic value that existed when he bought them. For example, if you buy at a 10% premium to intrinsic value; if intrinsic value subsequently grows at 15% a year; and if you then sell at a 10% premium, your own return will correspondingly be 15% compounded. (The calculation assumes that no dividends are paid.) If, however, you buy at a premium and sell at a smaller premium, your results will be somewhat inferior to those achieved by the company.</p>
+<p>Ideally, the results of every Berkshire shareholder would closely mirror those of the company during his period of ownership. That is why Charlie Munger, Berkshire’s Vice Chairman and my partner, and I hope for Berkshire to sell consistently at about intrinsic value. We prefer such steadiness to the value-ignoring volatility of the past two years: In 1989 intrinsic value grew less than did book value, which was up 44%, while the market price rose 85%; in 1990 book value and intrinsic value increased by a small amount, while the market price fell 23%.</p>
+<p>Berkshire’s intrinsic value continues to exceed book value by a substantial margin. We can’t tell you the exact differential because intrinsic value is necessarily an estimate; Charlie and I might, in fact, differ by 10% in our appraisals. We do know, however, that we own some exceptional businesses that are worth considerably more than the values at which they are carried on our books.</p>
+<p>Much of the extra value that exists in our businesses has been created by the managers now running them. Charlie and I feel free to brag about this group because we had nothing to do with developing the skills they possess: These superstars just came that way. Our job is merely to identify talented managers and provide an environment in which they can do their stuff. Having done it, they send their cash to headquarters and we face our only other task: the intelligent deployment of these funds.</p>
+<p>My own role in operations may best be illustrated by a small tale concerning my granddaughter, Emily, and her fourth birthday party last fall. Attending were other children, adoring relatives, and Beemer the Clown, a local entertainer who includes magic tricks in his act.</p>
+<p>Beginning these, Beemer asked Emily to help him by waving a “magic wand” over “the box of wonders.” Green handkerchiefs went into the box, Emily waved the wand, and Beemer removed blue ones. Loose handkerchiefs went in and, upon a magisterial wave by Emily, emerged knotted. After four such transformations, each more amazing than its predecessor, Emily was unable to contain herself. Her face aglow, she exulted: “Gee, I’m really good at this.”</p>
+<p>And that sums up my contribution to the performance of Berkshire’s business magicians—the Blumkins, the Friedman family, Mike Goldberg, the Heldmans, Chuck Huggins, Stan Lipsey and Ralph Schey. They deserve your applause.</p>
+<p><strong>Sources of Reported Earnings</strong></p>
+<p>The table below shows the major sources of Berkshire’s reported earnings. In this presentation, amortization of Goodwill and other major purchase-price accounting adjustments are not charged against the specific businesses to which they apply, but are instead aggregated and shown separately. This procedure lets you view the earnings of our businesses as they would have been reported had we not purchased them. I’ve explained in past reports why this form of presentation seems to us to be more useful to investors and managers than one utilizing generally accepted accounting principles (GAAP), which require purchase-price adjustments to be made on a business-by-business basis. The total net earnings we show in the table are, of course, identical to the GAAP total in our audited financial statements.</p>
+<p>Much additional information about these businesses is given on pages 39-46, where you also will find our segment earnings reported on a GAAP basis. For information on Wesco’s businesses, I urge you to read Charlie Munger’s letter, which starts on page 56. His letter also contains the clearest and most insightful discussion of the banking industry that I have seen.</p>
+<p>*Excludes interest expense of Scott Fetzer Financial Group and Mutual Savings & Loan.</p>
+<p>We refer you also to pages 47-53, where we have rearranged Berkshire’s financial data into four segments. These correspond to the way Charlie and I think about the business and should help you more in estimating Berkshire’s intrinsic value than consolidated figures would do. Shown on these pages are balance sheets and earnings statements for: (1) our insurance operations, with their major investment positions itemized; (2) our manufacturing, publishing and retailing businesses, leaving aside certain non- operating assets and purchase-price accounting adjustments; (3) our subsidiaries engaged in finance-type operations, which are Mutual Savings and Scott Fetzer Financial; and (4) an all-other category that includes the non-operating assets (primarily marketable securities) held by the companies in segment (2), all purchase- price accounting adjustments, and various assets and debts of the Wesco and Berkshire parent companies.</p>
+<p>If you combine the earnings and net worths of these four segments, you will derive totals matching those shown on our GAAP statements. However, I want to emphasize that this four-category presentation does not fall within the purview of our auditors, who in no way bless it.</p>
+<p><strong>“Look-Through” Earnings</strong></p>
+<p>The term “earnings” has a precise ring to it. And when an earnings figure is accompanied by an unqualified auditor’s certificate, a naive reader might think it comparable in certitude to pi, calculated to dozens of decimal places.</p>
+<p>In reality, however, earnings can be as pliable as putty when a charlatan heads the company reporting them. Eventually truth will surface, but in the meantime a lot of money can change hands. Indeed, some important American fortunes have been created by the monetization of accounting mirages.</p>
+<p>Funny business in accounting is not new. For connoisseurs of chicanery, I have attached as Appendix A on page 22 a previously unpublished satire on accounting practices written by Ben Graham in 1936. Alas, excesses similar to those he then lampooned have many times since found their way into the financial statements of major American corporations and been duly certified by big-name auditors. Clearly, investors must always keep their guard up and use accounting numbers as a beginning, not an end, in their attempts to calculate true “economic earnings” accruing to them.</p>
+<p>Berkshire’s own reported earnings are misleading in a different, but important, way: We have huge investments in companies (“investees”) whose earnings far exceed their dividends and in which we record our share of earnings only to the extent of the dividends we receive. The extreme case is Capital Cities/ABC, Inc. Our 17% share of the company’s earnings amounted to more than $83 million last year. Yet only about $530,000 ($600,000 of dividends it paid us less some $70,000 of tax) is counted in Berkshire’s GAAP earnings. The residual $82 million-plus stayed with Cap Cities as retained earnings, which work for our benefit but go unrecorded on our books.</p>
+<p>Our perspective on such “forgotten-but-not-gone” earnings is simple: The way they are accounted for is of no importance, but their ownership and subsequent utilization is all-important. We care not whether the auditors hear a tree fall in the forest; we do care who owns the tree and what’s next done with it.</p>
+<p>When Coca-Cola uses retained earnings to repurchase its shares, the company increases our percentage ownership in what I regard to be the most valuable franchise in the world. (Coke also, of course, uses retained earnings in many other value-enhancing ways.) Instead of repurchasing stock, Coca-Cola could pay those funds to us in dividends, which we could then use to purchase more Coke shares. That would be a less efficient scenario: Because of taxes we would pay on dividend income, we would not be able to increase our proportionate ownership to the degree that Coke can, acting for us. If this less efficient procedure were followed, however, Berkshire would report far greater “earnings.”</p>
+<p>I believe the best way to think about our earnings is in terms of “look-through” results, calculated as follows: Take $250 million, which is roughly our share of the 1990 operating earnings retained by our investees; subtract $30 million, for the incremental taxes we would have owed had that $250 million been paid to us in dividends; and add the remainder, $220 million, to our reported operating earnings of $371 million. Thus our 1990 “look-through earnings” were about $590 million.</p>
+<p>As I mentioned last year, we hope to have look-through earnings grow about 15% annually. In 1990 we substantially exceeded that rate but in 1991 we will fall far short of it. Our Gillette preferred has been called and we will convert it into common stock on April 1. This will reduce reported earnings by about $35 million annually and look-through earnings by a much smaller, but still significant, amount. Additionally, our media earnings—both direct and look-through—appear sure to decline. Whatever the results, we will post you annually on how we are doing on a look-through basis.</p>
+<p><strong>Non-Insurance Operations</strong></p>
+<p>Take another look at the figures on page 51, which aggregate the earnings and balance sheets of our non-insurance operations. After-tax earnings on average equity in 1990 were 51%, a result that would have placed the group about 20th on the 1989 Fortune 500.</p>
+<p>Two factors make this return even more remarkable. First, leverage did not produce it: Almost all our major facilities are owned, not leased, and such small debt as these operations have is basically offset by cash they hold. In fact, if the measurement was return on assets—a calculation that eliminates the effect of debt upon returns—our group would rank in Fortune’s top ten.</p>
+<p>Equally important, our return was not earned from industries, such as cigarettes or network television stations, possessing spectacular economics for all participating in them. Instead it came from a group of businesses operating in such prosaic fields as furniture retailing, candy, vacuum cleaners, and even steel warehousing. The explanation is clear: Our extraordinary returns flow from outstanding operating managers, not fortuitous industry economics.</p>
+<p>Let’s look at the larger operations:</p>
+<p>•         It was a poor year for retailing—particularly for big-ticket items—but someone forgot to tell Ike Friedman at Borsheim’s. Sales were up 18%. That’s both a same-stores and all-stores percentage, since Borsheim’s operates but one establishment.</p>
+<p>But, oh, what an establishment! We can’t be sure about the fact (because most fine-jewelry retailers are privately owned) but we believe that this jewelry store does more volume than any other in the U.S., except for Tiffany’s New York store.</p>
+<p>Borsheim’s could not do nearly that well if our customers came only from the Omaha metropolitan area, whose population is about 600,000. We have long had a huge percentage of greater Omaha’s jewelry business, so growth in that market is necessarily limited. But every year business from non-Midwest customers grows dramatically. Many visit the store in person. A large number of others, however, buy through the mail in a manner you will find interesting.</p>
+<p>These customers request a jewelry selection of a certain type and value—say, emeralds in the $10,000 -$20,000 range—and we then send them five to ten items meeting their specifications and from which they can pick. Last year we mailed about 1,500 assortments of all kinds, carrying values ranging from under $1,000 to hundreds of thousands of dollars.</p>
+<p>The selections are sent all over the country, some to people no one at Borsheim’s has ever met. (They must always have been well recommended, however.) While the number of mailings in 1990 was a record, Ike has been sending merchandise far and wide for decades. Misanthropes will be crushed to learn how well our “honor-system” works: We have yet to experience a loss from customer dishonesty.</p>
+<p>We attract business nationwide because we have several advantages that competitors can’t match. The most important item in the equation is our operating costs, which run about 18% of sales compared to 40% or so at the typical competitor. (Included in the 18% are occupancy and buying costs, which some public companies include in “cost of goods sold.”) Just as Wal-Mart, with its 15% operating costs, sells at prices that high-cost competitors can’t touch and thereby constantly increases its market share, so does Borsheim’s. What works with diapers works with diamonds.</p>
+<p>Our low prices create huge volume that in turn allows us to carry an extraordinarily broad inventory of goods, running ten or more times the size of that at the typical fine-jewelry store. Couple our breadth of selection and low prices with superb service and you can understand how Ike and his family have built a national jewelry phenomenon from an Omaha location.</p>
+<p>And family it is. Ike’s crew always includes son Alan and sons-in-law Marvin Cohn and Donald Yale. And when things are busy—that’s often—they are joined by Ike’s wife, Roz, and his daughters, Janis and Susie. In addition, Fran Blumkin, wife of Louie (Chairman of Nebraska Furniture Mart and Ike’s cousin), regularly pitches in. Finally, you’ll find Ike’s 89-year-old mother, Rebecca, in the store most afternoons, Wall Street Journal in hand. Given a family commitment like this, is it any surprise that Borsheim’s runs rings around competitors whose managers are thinking about how soon 5 o’clock will arrive?</p>
+<p>•         While Fran Blumkin was helping the Friedman family set records at Borsheim’s, her sons, Irv and Ron, along with husband Louie, were setting records at The Nebraska Furniture Mart. Sales at our one-and-only location were $159 million, up 4% from 1989. Though again the fact can’t be conclusively proved, we believe NFM does close to double the volume of any other home furnishings store in the country.</p>
+<p>The NFM formula for success parallels that of Borsheim’s. First, operating costs are rock-bottom—15% in 1990 against about 40% for Levitz, the country’s largest furniture retailer, and 25% for Circuit City Stores, the leading discount retailer of electronics and appliances. Second, NFM’s low costs allow the business to price well below all competitors. Indeed, major chains, knowing what they will face, steer clear of Omaha. Third, the huge volume generated by our bargain prices allows us to carry the broadest selection of merchandise available anywhere.</p>
+<p>Some idea of NFM’s merchandising power can be gleaned from a recent report of consumer behavior in Des Moines, which showed that NFM was Number 3 in popularity among 20 furniture retailers serving that city. That may sound like no big deal until you consider that 19 of those retailers are located in Des Moines, whereas our store is 130 miles away. This leaves customers driving a distance equal to that between Washington and Philadelphia in order to shop with us, even though they have a multitude of alternatives next door. In effect, NFM, like Borsheim’s, has dramatically expanded the territory it serves—not by the traditional method of opening new stores but rather by creating an irresistible magnet that employs price and selection to pull in the crowds.</p>
+<p>Last year at the Mart there occurred an historic event: I experienced a counterrevelation. Regular readers of this report know that I have long scorned the boasts of corporate executives about synergy, deriding such claims as the last refuge of scoundrels defending foolish acquisitions. But now I know better: In Berkshire’s first synergistic explosion, NFM put a See’s candy cart in the store late last year and sold more candy than that moved by some of the full-fledged stores See’s operates in California. This success contradicts all tenets of retailing. With the Blumkins, though, the impossible is routine.</p>
+<p>•         At See’s, physical volume set a record in 1990—but only barely and only because of good sales early in the year. After the invasion of Kuwait, mall traffic in the West fell. Our poundage volume at Christmas dropped slightly, though our dollar sales were up because of a 5% price increase.</p>
+<p>That increase, and better control of expenses, improved profit margins. Against the backdrop of a weak retailing environment, Chuck Huggins delivered outstanding results, as he has in each of the nineteen years we have owned See’s. Chuck’s imprint on the business—a virtual fanaticism about quality and service—is visible at all of our 225 stores.</p>
+<p>One happening in 1990 illustrates the close bond between See’s and its customers. After 15 years of operation, our store in Albuquerque was endangered: The landlord would not renew our lease, wanting us instead to move to an inferior location in the mall and even so to pay a much higher rent. These changes would have wiped out the store’s profit. After extended negotiations got us nowhere, we set a date for closing the store.</p>
+<p>On her own, the store’s manager, Ann Filkins, then took action, urging customers to protest the closing. Some 263 responded by sending letters and making phone calls to See’s headquarters in San Francisco, in some cases threatening to boycott the mall. An alert reporter at the Albuquerque paper picked up the story. Supplied with this evidence of a consumer uprising, our landlord offered us a satisfactory deal. (He, too, proved susceptible to a counterrevelation.)</p>
+<p>Chuck subsequently wrote personal letters of thanks to every loyalist and sent each a gift certificate. He repeated his thanks in a newspaper ad that listed the names of all 263. The sequel: Christmas sales in Albuquerque were up substantially.</p>
+<p>•         Charlie and I were surprised at developments this past year in the media industry, including newspapers such as our Buffalo News. The business showed far more vulnerability to the early stages of a recession than has been the case in the past. The question is whether this erosion is just part of an aberrational cycle—to be fully made up in the next upturn—or whether the business has slipped in a way that permanently reduces intrinsic business values.</p>
+<p>Since I didn’t predict what has happened, you may question the value of my prediction about what will happen. Nevertheless, I’ll proffer a judgment: While many media businesses will remain economic marvels in comparison with American industry generally, they will prove considerably less marvelous than I, the industry, or lenders thought would be the case only a few years ago.</p>
+<p>The reason media businesses have been so outstanding in the past was not physical growth, but rather the unusual pricing power that most participants wielded. Now, however, advertising dollars are growing slowly. In addition, retailers that do little or no media advertising (though they sometimes use the Postal Service) have gradually taken market share in certain merchandise categories. Most important of all, the number of both print and electronic advertising channels has substantially increased. As a consequence, advertising dollars are more widely dispersed and the pricing power of ad vendors has diminished. These circumstances materially reduce the intrinsic value of our major media investments and also the value of our operating unit, Buffalo News—though all remain fine businesses.</p>
+<p>Notwithstanding the problems, Stan Lipsey’s management of the News continues to be superb. During 1990, our earnings held up much better than those of most metropolitan papers, falling only 5%. In the last few months of the year, however, the rate of decrease was far greater.</p>
+<p>I can safely make two promises about the News in 1991: (1) Stan will again rank at the top among newspaper publishers; and (2) earnings will fall substantially. Despite a slowdown in the demand for newsprint, the price per ton will average significantly more in 1991 and the paper’s labor costs will also be considerably higher. Since revenues may meanwhile be down, we face a real squeeze.</p>
+<p>Profits may be off but our pride in the product remains. We continue to have a larger “news hole”—the portion of the paper devoted to news—than any comparable paper. In 1990, the proportion rose to 52.3% against 50.1% in 1989. Alas, the increase resulted from a decline in advertising pages rather than from a gain in news pages. Regardless of earnings pressures, we will maintain at least a 50% news hole. Cutting product quality is not a proper response to adversity.</p>
+<p>•         The news at Fechheimer, our manufacturer and retailer of uniforms, is all good with one exception: George Heldman, at 69, has decided to retire. I tried to talk him out of it but he had one irrefutable argument: With four other Heldmans—Bob, Fred, Gary and Roger—to carry on, he was leaving us with an abundance of managerial talent.</p>
+<p>Fechheimer’s operating performance improved considerably in 1990, as many of the problems we encountered in integrating the large acquisition we made in 1988 were moderated or solved. However, several unusual items caused the earnings reported in the “Sources” table to be flat. In the retail operation, we continue to add stores and now have 42 in 22 states. Overall, prospects appear excellent for Fechheimer.</p>
+<p>•         At Scott Fetzer, Ralph Schey runs 19 businesses with a mastery few bring to running one. In addition to overseeing three entities listed on page 6—World Book, Kirby, and Scott Fetzer Manufacturing—Ralph directs a finance operation that earned a record $12.2 million pre-tax in 1990.</p>
+<p>Were Scott Fetzer an independent company, it would rank close to the top of the Fortune 500 in terms of return on equity, although it is not in businesses that one would expect to be economic champs. The superior results are directly attributable to Ralph.</p>
+<p>At World Book, earnings improved on a small decrease in unit volume. The costs of our decentralization move were considerably less in 1990 than 1989 and the benefits of decentralization are being realized. World Book remains far and away the leader in United States encyclopedia sales and we are growing internationally, though from a small base.</p>
+<p>Kirby unit volume grew substantially in 1990 with the help of our new vacuum cleaner, The Generation 3, which was an unqualified success. Earnings did not grow as fast as sales because of both start-up expenditures and “learning-curve” problems we encountered in manufacturing the new product. International business, whose dramatic growth I described last year, had a further 20% sales gain in 1990. With the aid of a recent price increase, we expect excellent earnings at Kirby in 1991.</p>
+<p>Within the Scott Fetzer Manufacturing Group, Campbell Hausfeld, its largest unit, had a particularly fine year. This company, the country’s leading producer of small and medium-sized air compressors, achieved record sales of $109 million, more than 30% of which came from products introduced during the last five years.</p>
+<p>* * * * * * * * * * * *</p>
+<p>In looking at the figures for our non-insurance operations, you will see that net worth increased by only $47 million in 1990 although earnings were $133 million. This does not mean that our managers are in any way skimping on investments that strengthen their business franchises or that promote growth. Indeed, they diligently pursue both goals.</p>
+<p>But they also never deploy capital without good reason. The result: In the past five years they have funneled well over 80% of their earnings to Charlie and me for use in new business and investment opportunities.</p>
+<p><strong>Insurance Operations</strong></p>
+<p>Shown below is an updated version of our usual table presenting key figures for the property-casualty insurance industry:</p>
+<p><em>Source: A.M. Best Co.</em></p>
+<p>The combined ratio represents total insurance costs (losses incurred plus expenses) compared to revenue from premiums: A ratio below 100 indicates an underwriting profit, and one above 100 indicates a loss. The higher the ratio, the worse the year. When the investment income that an insurer earns from holding policyholders’ funds (“the float”) is taken into account, a combined ratio in the 107—111 range typically produces an overall breakeven result, exclusive of earnings on the funds provided by shareholders.</p>
+<p>For the reasons laid out in previous reports, we expect the industry’s incurred losses to grow at an average of 10% annually, even in periods when general inflation runs considerably lower. (Over the last 25 years, incurred losses have in reality grown at a still faster rate, 11%.) If premium growth meanwhile materially lags that 10% rate, underwriting losses will mount, though the industry’s tendency to under-reserve when business turns bad may obscure their size for a time.</p>
+<p>Last year premium growth fell far short of the required 10% and underwriting results therefore worsened. (In our table, however, the severity of the deterioration in 1990 is masked because the industry’s 1989 losses from Hurricane Hugo caused the ratio for that year to be somewhat above trendline.) The combined ratio will again increase in 1991, probably by about two points.</p>
+<p>Results will improve only when most insurance managements become so fearful that they run from business, even though it can be done at much higher prices than now exist. At some point these managements will indeed get the message: The most important thing to do when you find yourself in a hole is to stop digging. But so far that point hasn’t gotten across: Insurance managers continue to dig—sullenly but vigorously.</p>
+<p>The picture would change quickly if a major physical or financial catastrophe were to occur. Absent such a shock, one to two years will likely pass before underwriting losses become large enough to raise management fear to a level that would spur major price increases. When that moment arrives, Berkshire will be ready—both financially and psychologically—to write huge amounts of business.</p>
+<p>In the meantime, our insurance volume continues to be small but satisfactory. In the next section of this report we will give you a framework for evaluating insurance results. From that discussion, you will gain an understanding of why I am so enthusiastic about the performance of our insurance manager, Mike Goldberg, and his cadre of stars, Rod Eldred, Dinos Iordanou, Ajit Jain, and Don Wurster.</p>
+<p>In assessing our insurance results over the next few years, you should be aware of one type of business we are pursuing that could cause them to be unusually volatile. If this line of business expands, as it may, our underwriting experience will deviate from the trendline you might expect: In most years we will somewhat exceed expectations and in an occasional year we will fall far below them.</p>
+<p>The volatility I predict reflects the fact that we have become a large seller of insurance against truly major catastrophes (“super-cats”), which could for example be hurricanes, windstorms or earthquakes. The buyers of these policies are reinsurance companies that themselves are in the business of writing catastrophe coverage for primary insurers and that wish to “lay off,” or rid themselves, of part of their exposure to catastrophes of special severity. Because the need for these buyers to collect on such a policy will only arise at times of extreme stress—perhaps even chaos—in the insurance business, they seek financially strong sellers. And here we have a major competitive advantage: In the industry, our strength is unmatched.</p>
+<p>A typical super-cat contract is complicated. But in a plain- vanilla instance we might write a one-year, $10 million policy providing that the buyer, a reinsurer, would be paid that sum only if a catastrophe caused two results: (1) specific losses for the reinsurer above a threshold amount; and (2) aggregate losses for the insurance industry of, say, more than $5 billion. Under virtually all circumstances, loss levels that satisfy the second condition will also have caused the first to be met.</p>
+<p>For this $10 million policy, we might receive a premium of, say, $3 million. Say, also, that we take in annual premiums of $100 million from super-cat policies of all kinds. In that case we are very likely in any given year to report either a profit of close to $100 million or a loss of well over $200 million. Note that we are not spreading risk as insurers typically do; we are concentrating it. Therefore, our yearly combined ratio on this business will almost never fall in the industry range of 100—120, but will instead be close to either zero or 300%.</p>
+<p>Most insurers are financially unable to tolerate such swings. And if they have the ability to do so, they often lack the desire. They may back away, for example, because they write gobs of primary property insurance that would deliver them dismal results at the very time they would be experiencing major losses on super- cat reinsurance. In addition, most corporate managements believe that their shareholders dislike volatility in results.</p>
+<p>We can take a different tack: Our business in primary property insurance is small and we believe that Berkshire shareholders, if properly informed, can handle unusual volatility in profits so long as the swings carry with them the prospect of superior long-term results. (Charlie and I always have preferred a lumpy 15% return to a smooth 12%.)</p>
+<p>We want to emphasize three points: (1) While we expect our super-cat business to produce satisfactory results over, say, a decade, we’re sure it will produce absolutely terrible results in at least an occasional year; (2) Our expectations can be based on little more than subjective judgments—for this kind of insurance, historical loss data are of very limited value to us as we decide what rates to charge today; and (3) Though we expect to write significant quantities of super-cat business, we will do so only at prices we believe to be commensurate with risk. If competitors become optimistic, our volume will fall. This insurance has, in fact, tended in recent years to be woefully underpriced; most sellers have left the field on stretchers.</p>
+<p>At the moment, we believe Berkshire to be the largest U.S. writer of super-cat business. So when a major quake occurs in an urban area or a winter storm rages across Europe, light a candle for us.</p>
+<p><strong>Measuring Insurance Performance</strong></p>
+<p>In the previous section I mentioned “float,” the funds of others that insurers, in the conduct of their business, temporarily hold. Because these funds are available to be invested, the typical property-casualty insurer can absorb losses and expenses that exceed premiums by 7% to 11% and still be able to break even on its business. Again, this calculation excludes the earnings the insurer realizes on net worth—that is, on the funds provided by shareholders.</p>
+<p>However, many exceptions to this 7% to 11% range exist. For example, insurance covering losses to crops from hail damage produces virtually no float at all. Premiums on this kind of business are paid to the insurer just prior to the time hailstorms are a threat, and if a farmer sustains a loss he will be paid almost immediately. Thus, a combined ratio of 100 for crop hail insurance produces no profit for the insurer.</p>
+<p>At the other extreme, malpractice insurance covering the potential liabilities of doctors, lawyers and accountants produces a very high amount of float compared to annual premium volume. The float materializes because claims are often brought long after the alleged wrongdoing takes place and because their payment may be still further delayed by lengthy litigation. The industry calls malpractice and certain other kinds of liability insurance “long- tail” business, in recognition of the extended period during which insurers get to hold large sums that in the end will go to claimants and their lawyers (and to the insurer’s lawyers as well).</p>
+<p>In long-tail situations a combined ratio of 115 (or even more) can prove profitable, since earnings produced by the float will exceed the 15% by which claims and expenses overrun premiums. The catch, though, is that “long-tail” means exactly that: Liability business written in a given year and presumed at first to have produced a combined ratio of 115 may eventually smack the insurer with 200, 300 or worse when the years have rolled by and all claims have finally been settled.</p>
+<p>The pitfalls of this business mandate an operating principle that too often is ignored: Though certain long-tail lines may prove profitable at combined ratios of 110 or 115, insurers will invariably find it unprofitable to price using those ratios as targets. Instead, prices must provide a healthy margin of safety against the societal trends that are forever springing expensive surprises on the insurance industry. Setting a target of 100 can itself result in heavy losses; aiming for 110—115 is business suicide.</p>
+<p>All of that said, what should the measure of an insurer’s profitability be? Analysts and managers customarily look to the combined ratio—and it’s true that this yardstick usually is a good indicator of where a company ranks in profitability. We believe a better measure, however, to be a comparison of underwriting loss to float developed.</p>
+<p>This loss/float ratio, like any statistic used in evaluating insurance results, is meaningless over short time periods: Quarterly underwriting figures and even annual ones are too heavily based on estimates to be much good. But when the ratio takes in a period of years, it gives a rough indication of the cost of funds generated by insurance operations. A low cost of funds signifies a good business; a high cost translates into a poor business.</p>
+<p>On the next page we show the underwriting loss, if any, of our insurance group in each year since we entered the business and relate that bottom line to the average float we have held during the year. From this data we have computed a “cost of funds developed from insurance.”</p>
+<p>&nbsp;</p>
+<p>The float figures are derived from the total of loss reserves, loss adjustment expense reserves and unearned premium reserves minus agents’ balances, prepaid acquisition costs and deferred charges applicable to assumed reinsurance. At some insurers other items should enter into the calculation, but in our case these are unimportant and have been ignored.</p>
+<p>During 1990 we held about $1.6 billion of float slated eventually to find its way into the hands of others. The underwriting loss we sustained during the year was $27 million and thus our insurance operation produced funds for us at a cost of about 1.6%. As the table shows, we managed in some years to underwrite at a profit and in those instances our cost of funds was less than zero. In other years, such as 1984, we paid a very high price for float. In 19 years out of the 24 we have been in insurance, though, we have developed funds at a cost below that paid by the government.</p>
+<p>There are two important qualifications to this calculation. First, the fat lady has yet to gargle, let alone sing, and we won’t know our true 1967—1990 cost of funds until all losses from this period have been settled many decades from now. Second, the value of the float to shareholders is somewhat undercut by the fact that they must put up their own funds to support the insurance operation and are subject to double taxation on the investment income these funds earn. Direct investments would be more tax-efficient.</p>
+<p>The tax penalty that indirect investments impose on shareholders is in fact substantial. Though the calculation is necessarily imprecise, I would estimate that the owners of the average insurance company would find the tax penalty adds about one percentage point to their cost of float. I also think that approximates the correct figure for Berkshire.</p>
+<p>Figuring a cost of funds for an insurance business allows anyone analyzing it to determine whether the operation has a positive or negative value for shareholders. If this cost (including the tax penalty) is higher than that applying to alternative sources of funds, the value is negative. If the cost is lower, the value is positive—and if the cost is significantly lower, the insurance business qualifies as a very valuable asset.</p>
+<p>So far Berkshire has fallen into the significantly-lower camp. Even more dramatic are the numbers at GEICO, in which our ownership interest is now 48% and which customarily operates at an underwriting profit. GEICO’s growth has generated an ever-larger amount of funds for investment that have an effective cost of considerably less than zero. Essentially, GEICO’s policyholders, in aggregate, pay the company interest on the float rather than the other way around. (But handsome is as handsome does: GEICO’s unusual profitability results from its extraordinary operating efficiency and its careful classification of risks, a package that in turn allows rock-bottom prices for policyholders.)</p>
+<p>Many well-known insurance companies, on the other hand, incur an underwriting loss/float cost that, combined with the tax penalty, produces negative results for owners. In addition, these companies, like all others in the industry, are vulnerable to catastrophe losses that could exceed their reinsurance protection and take their cost of float right off the chart. Unless these companies can materially improve their underwriting performance—and history indicates that is an almost impossible task—their shareholders will experience results similar to those borne by the owners of a bank that pays a higher rate of interest on deposits than it receives on loans.</p>
+<p>All in all, the insurance business has treated us very well. We have expanded our float at a cost that on the average is reasonable, and we have further prospered because we have earned good returns on these low-cost funds. Our shareholders, true, have incurred extra taxes, but they have been more than compensated for this cost (so far) by the benefits produced by the float.</p>
+<p>A particularly encouraging point about our record is that it was achieved despite some colossal mistakes made by your Chairman prior to Mike Goldberg’s arrival. Insurance offers a host of opportunities for error, and when opportunity knocked, too often I answered. Many years later, the bills keep arriving for these mistakes: In the insurance business, there is no statute of limitations on stupidity.</p>
+<p>The intrinsic value of our insurance business will always be far more difficult to calculate than the value of, say, our candy or newspaper companies. By any measure, however, the business is worth far more than its carrying value. Furthermore, despite the problems this operation periodically hands us, it is the one—among all the fine businesses we own—that has the greatest potential.</p>
+<p><strong>Marketable Securities</strong></p>
+<p>Below we list our common stock holdings having a value of over $100 million. A small portion of these investments belongs to subsidiaries of which Berkshire owns less than 100%.</p>
+<p>&nbsp;</p>
+<p>Lethargy bordering on sloth remains the cornerstone of our investment style: This year we neither bought nor sold a share of five of our six major holdings. The exception was Wells Fargo, a superbly-managed, high-return banking operation in which we increased our ownership to just under 10%, the most we can own without the approval of the Federal Reserve Board. About one-sixth of our position was bought in 1989, the rest in 1990.</p>
+<p>The banking business is no favorite of ours. When assets are twenty times equity—a common ratio in this industry—mistakes that involve only a small portion of assets can destroy a major portion of equity. And mistakes have been the rule rather than the exception at many major banks. Most have resulted from a managerial failing that we described last year when discussing the “institutional imperative:” the tendency of executives to mindlessly imitate the behavior of their peers, no matter how foolish it may be to do so. In their lending, many bankers played follow-the-leader with lemming-like zeal; now they are experiencing a lemming-like fate.</p>
+<p>Because leverage of 20:1 magnifies the effects of managerial strengths and weaknesses, we have no interest in purchasing shares of a poorly-managed bank at a “cheap” price. Instead, our only interest is in buying into well-managed banks at fair prices.</p>
+<p>With Wells Fargo, we think we have obtained the best managers in the business, Carl Reichardt and Paul Hazen. In many ways the combination of Carl and Paul reminds me of another—Tom Murphy and Dan Burke at Capital Cities/ABC. First, each pair is stronger than the sum of its parts because each partner understands, trusts and admires the other. Second, both managerial teams pay able people well, but abhor having a bigger head count than is needed. Third, both attack costs as vigorously when profits are at record levels as when they are under pressure. Finally, both stick with what they understand and let their abilities, not their egos, determine what they attempt. (Thomas J. Watson Sr. of IBM followed the same rule: “I’m no genius,” he said. “I’m smart in spots—but I stay around those spots.”)</p>
+<p>Our purchases of Wells Fargo in 1990 were helped by a chaotic market in bank stocks. The disarray was appropriate: Month by month the foolish loan decisions of once well-regarded banks were put on public display. As one huge loss after another was unveiled—often on the heels of managerial assurances that all was well—investors understandably concluded that no bank’s numbers were to be trusted. Aided by their flight from bank stocks, we purchased our 10% interest in Wells Fargo for $290 million, less than five times after-tax earnings, and less than three times pre-tax earnings.</p>
+<p>Wells Fargo is big—it has $56 billion in assets—and has been earning more than 20% on equity and 1.25% on assets. Our purchase of one-tenth of the bank may be thought of as roughly equivalent to our buying 100% of a $5 billion bank with identical financial characteristics. But were we to make such a purchase, we would have to pay about twice the $290 million we paid for Wells Fargo. Moreover, that $5 billion bank, commanding a premium price, would present us with another problem: We would not be able to find a Carl Reichardt to run it. In recent years, Wells Fargo executives have been more avidly recruited than any others in the banking business; no one, however, has been able to hire the dean.</p>
+<p>Of course, ownership of a bank—or about any other business—is far from riskless. California banks face the specific risk of a major earthquake, which might wreak enough havoc on borrowers to in turn destroy the banks lending to them. A second risk is systemic—the possibility of a business contraction or financial panic so severe that it would endanger almost every highly-leveraged institution, no matter how intelligently run. Finally, the market’s major fear of the moment is that West Coast real estate values will tumble because of overbuilding and deliver huge losses to banks that have financed the expansion. Because it is a leading real estate lender, Wells Fargo is thought to be particularly vulnerable.</p>
+<p>None of these eventualities can be ruled out. The probability of the first two occurring, however, is low and even a meaningful drop in real estate values is unlikely to cause major problems for well-managed institutions. Consider some mathematics: Wells Fargo currently earns well over $1 billion pre-tax annually after expensing more than $300 million for loan losses. If 10% of all $48 billion of the bank’s loans—not just its real estate loans—were hit by problems in 1991, and these produced losses (including foregone interest) averaging 30% of principal, the company would roughly break even.</p>
+<p>A year like that—which we consider only a low-level possibility, not a likelihood—would not distress us. In fact, at Berkshire we would love to acquire businesses or invest in capital projects that produced no return for a year, but that could then be expected to earn 20% on growing equity. Nevertheless, fears of a California real estate disaster similar to that experienced in New England caused the price of Wells Fargo stock to fall almost 50% within a few months during 1990. Even though we had bought some shares at the prices prevailing before the fall, we welcomed the decline because it allowed us to pick up many more shares at the new, panic prices.</p>
+<p>Investors who expect to be ongoing buyers of investments throughout their lifetimes should adopt a similar attitude toward market fluctuations; instead many illogically become euphoric when stock prices rise and unhappy when they fall. They show no such confusion in their reaction to food prices: Knowing they are forever going to be buyers of food, they welcome falling prices and deplore price increases. (It’s the seller of food who doesn’t like declining prices.) Similarly, at the Buffalo News we would cheer lower prices for newsprint—even though it would mean marking down the value of the large inventory of newsprint we always keep on hand—because we know we are going to be perpetually buying the product.</p>
+<p>Identical reasoning guides our thinking about Berkshire’s investments. We will be buying businesses—or small parts of businesses, called stocks—year in, year out as long as I live (and longer, if Berkshire’s directors attend the seances I have scheduled). Given these intentions, declining prices for businesses benefit us, and rising prices hurt us.</p>
+<p>The most common cause of low prices is pessimism—some times pervasive, some times specific to a company or industry. We want to do business in such an environment, not because we like pessimism but because we like the prices it produces. It’s optimism that is the enemy of the rational buyer.</p>
+<p>None of this means, however, that a business or stock is an intelligent purchase simply because it is unpopular; a contrarian approach is just as foolish as a follow-the-crowd strategy. What’s required is thinking rather than polling. Unfortunately, Bertrand Russell’s observation about life in general applies with unusual force in the financial world: “Most men would rather die than think. Many do.”</p>
+<p>* * * * * * * * * * * *</p>
+<p>Our other major portfolio change last year was large additions to our holdings of RJR Nabisco bonds, securities that we first bought in late 1989. At yearend 1990 we had $440 million invested in these securities, an amount that approximated market value. (As I write this, however, their market value has risen by more than $150 million.)</p>
+<p>Just as buying into the banking business is unusual for us, so is the purchase of below-investment-grade bonds. But opportunities that interest us and that are also large enough to have a worthwhile impact on Berkshire’s results are rare. Therefore, we will look at any category of investment, so long as we understand the business we’re buying into and believe that price and value may differ significantly. (Woody Allen, in another context, pointed out the advantage of open-mindedness: “I can’t understand why more people aren’t bi-sexual because it doubles your chances for a date on Saturday night.”)</p>
+<p>In the past we have bought a few below-investment-grade bonds with success, though these were all old-fashioned “fallen angels”—bonds that were initially of investment grade but that were downgraded when the issuers fell on bad times. In the 1984 annual report we described our rationale for buying one fallen angel, the Washington Public Power Supply System.</p>
+<p>A kind of bastardized fallen angel burst onto the investment scene in the 1980s—”junk bonds” that were far below investment- grade when issued. As the decade progressed, new offerings of manufactured junk became ever junkier and ultimately the predictable outcome occurred: Junk bonds lived up to their name. In 1990—even before the recession dealt its blows—the financial sky became dark with the bodies of failing corporations.</p>
+<p>The disciples of debt assured us that this collapse wouldn’t happen: Huge debt, we were told, would cause operating managers to focus their efforts as never before, much as a dagger mounted on the steering wheel of a car could be expected to make its driver proceed with intensified care. We’ll acknowledge that such an attention-getter would produce a very alert driver. But another certain consequence would be a deadly—and unnecessary—accident if the car hit even the tiniest pothole or sliver of ice. The roads of business are riddled with potholes; a plan that requires dodging them all is a plan for disaster.</p>
+<p>In the final chapter of The Intelligent Investor Ben Graham forcefully rejected the dagger thesis: “Confronted with a challenge to distill the secret of sound investment into three words, we venture the motto, Margin of Safety.” Forty-two years after reading that, I still think those are the right three words. The failure of investors to heed this simple message caused them staggering losses as the 1990s began.</p>
+<p>At the height of the debt mania, capital structures were concocted that guaranteed failure: In some cases, so much debt was issued that even highly favorable business results could not produce the funds to service it. One particularly egregious “kill- ‘em-at-birth” case a few years back involved the purchase of a mature television station in Tampa, bought with so much debt that the interest on it exceeded the station’s gross revenues. Even if you assume that all labor, programs and services were donated rather than purchased, this capital structure required revenues to explode—or else the station was doomed to go broke. (Many of the bonds that financed the purchase were sold to now-failed savings and loan associations; as a taxpayer, you are picking up the tab for this folly.)</p>
+<p>All of this seems impossible now. When these misdeeds were done, however, dagger-selling investment bankers pointed to the “scholarly” research of academics, which reported that over the years the higher interest rates received from low-grade bonds had more than compensated for their higher rate of default. Thus, said the friendly salesmen, a diversified portfolio of junk bonds would produce greater net returns than would a portfolio of high-grade bonds. (Beware of past-performance “proofs” in finance: If history books were the key to riches, the Forbes 400 would consist of librarians.)</p>
+<p>There was a flaw in the salesmen’s logic—one that a first- year student in statistics is taught to recognize. An assumption was being made that the universe of newly-minted junk bonds was identical to the universe of low-grade fallen angels and that, therefore, the default experience of the latter group was meaningful in predicting the default experience of the new issues. (That was an error similar to checking the historical death rate from Kool-Aid before drinking the version served at Jonestown.)</p>
+<p>The universes were of course dissimilar in several vital respects. For openers, the manager of a fallen angel almost invariably yearned to regain investment-grade status and worked toward that goal. The junk-bond operator was usually an entirely different breed. Behaving much as a heroin user might, he devoted his energies not to finding a cure for his debt-ridden condition, but rather to finding another fix. Additionally, the fiduciary sensitivities of the executives managing the typical fallen angel were often, though not always, more finely developed than were those of the junk-bond-issuing financiopath.</p>
+<p>Wall Street cared little for such distinctions. As usual, the Street’s enthusiasm for an idea was proportional not to its merit, but rather to the revenue it would produce. Mountains of junk bonds were sold by those who didn’t care to those who didn’t think—and there was no shortage of either.</p>
+<p>Junk bonds remain a mine field, even at prices that today are often a small fraction of issue price. As we said last year, we have never bought a new issue of a junk bond. (The only time to buy these is on a day with no “y” in it.) We are, however, willing to look at the field, now that it is in disarray.</p>
+<p>In the case of RJR Nabisco, we feel the Company’s credit is considerably better than was generally perceived for a while and that the yield we receive, as well as the potential for capital gain, more than compensates for the risk we incur (though that is far from nil). RJR has made asset sales at favorable prices, has added major amounts of equity, and in general is being run well.</p>
+<p>However, as we survey the field, most low-grade bonds still look unattractive. The handiwork of the Wall Street of the 1980s is even worse than we had thought: Many important businesses have been mortally wounded. We will, though, keep looking for opportunities as the junk market continues to unravel.</p>
+<p><strong>Convertible Preferred Stocks</strong></p>
+<p>We continue to hold the convertible preferred stocks described in earlier reports: $700 million of Salomon Inc, $600 million of The Gillette Company, $358 million of USAir Group, Inc. and $300 million of Champion International Corp. Our Gillette holdings will be converted into 12 million shares of common stock on April 1. Weighing interest rates, credit quality and prices of the related common stocks, we can assess our holdings in Salomon and Champion at yearend 1990 as worth about what we paid, Gillette as worth somewhat more, and USAir as worth substantially less.</p>
+<p>In making the USAir purchase, your Chairman displayed exquisite timing: I plunged into the business at almost the exact moment that it ran into severe problems. (No one pushed me; in tennis parlance, I committed an “unforced error.”) The company’s troubles were brought on both by industry conditions and by the post-merger difficulties it encountered in integrating Piedmont, an affliction I should have expected since almost all airline mergers have been followed by operational turmoil.</p>
+<p>In short order, Ed Colodny and Seth Schofield resolved the second problem: The airline now gets excellent marks for service. Industry-wide problems have proved to be far more serious. Since our purchase, the economics of the airline industry have deteriorated at an alarming pace, accelerated by the kamikaze pricing tactics of certain carriers. The trouble this pricing has produced for all carriers illustrates an important truth: In a business selling a commodity-type product, it’s impossible to be a lot smarter than your dumbest competitor.</p>
+<p>However, unless the industry is decimated during the next few years, our USAir investment should work out all right. Ed and Seth have decisively addressed the current turbulence by making major changes in operations. Even so, our investment is now less secure than at the time I made it.</p>
+<p>Our convertible preferred stocks are relatively simple securities, yet I should warn you that, if the past is any guide, you may from time to time read inaccurate or misleading statements about them. Last year, for example, several members of the press calculated the value of all our preferreds as equal to that of the common stock into which they are convertible. By their logic, that is, our Salomon preferred, convertible into common at $38, would be worth 60% of face value if Salomon common were selling at $22.80. But there is a small problem with this line of reasoning: Using it, one must conclude that all of the value of a convertible preferred resides in the conversion privilege and that the value of a non-convertible preferred of Salomon would be zero, no matter what its coupon or terms for redemption.</p>
+<p>The point you should keep in mind is that most of the value of our convertible preferreds is derived from their fixed-income characteristics. That means the securities cannot be worth less than the value they would possess as non-convertible preferreds and may be worth more because of their conversion options.</p>
+<p>* * * * * * * * * * * *</p>
+<p>I deeply regret having to end this section of the report with a note about my friend, Colman Mockler, Jr., CEO of Gillette, who died in January. No description better fitted Colman than “gentleman”—a word signifying integrity, courage and modesty. Couple these qualities with the humor and exceptional business ability that Colman possessed and you can understand why I thought it an undiluted pleasure to work with him and why I, and all others who knew him, will miss Colman so much.</p>
+<p>A few days before Colman died, Gillette was richly praised in a Forbes cover story. Its theme was simple: The company’s success in shaving products has come not from marketing savvy (though it exhibits that talent repeatedly) but has instead resulted from its devotion to quality. This mind-set has caused it to consistently focus its energies on coming up with something better, even though its existing products already ranked as the class of the field. In so depicting Gillette, Forbes in fact painted a portrait of Colman.</p>
+<p><strong>Help! Help!</strong></p>
+<p>Regular readers know that I shamelessly utilize the annual letter in an attempt to acquire businesses for Berkshire. And, as we constantly preach at the Buffalo News, advertising does work: Several businesses have knocked on our door because someone has read in these pages of our interest in making acquisitions. (Any good ad salesman will tell you that trying to sell something without advertising is like winking at a girl in the dark.)</p>
+<p>In Appendix B (on pages 26-27) I’ve reproduced the essence of a letter I wrote a few years back to the owner/manager of a desirable business. If you have no personal connection with a business that might be of interest to us but have a friend who does, perhaps you can pass this report along to him.</p>
+<p>Here’s the sort of business we are looking for:</p>
+<p>Large purchases (at least $10 million of after-tax earnings),</p>
+<p>Demonstrated consistent earning power (future projections are of little interest to us, nor are “turnaround” situations),</p>
+<p>Businesses earning good returns on equity while employing little or no debt,</p>
+<p>Management in place (we can’t supply it),</p>
+<p>Simple businesses (if there’s lots of technology, we won’t understand it),</p>
+<p>An offering price (we don’t want to waste our time or that of the seller by talking, even preliminarily, about a transaction when price is unknown).</p>
+<p>We will not engage in unfriendly takeovers. We can promise complete confidentiality and a very fast answer—customarily within five minutes—as to whether we’re interested. We prefer to buy for cash, but will consider issuing stock when we receive as much in intrinsic business value as we give.</p>
+<p>Our favorite form of purchase is one fitting the Blumkin- Friedman-Heldman mold. In cases like these, the company’s owner- managers wish to generate significant amounts of cash, sometimes for themselves, but often for their families or inactive shareholders. At the same time, these managers wish to remain significant owners who continue to run their companies just as they have in the past. We think we offer a particularly good fit for owners with such objectives. We invite potential sellers to check us out by contacting people with whom we have done business in the past.</p>
+<p>Charlie and I frequently get approached about acquisitions that don’t come close to meeting our tests: We’ve found that if you advertise an interest in buying collies, a lot of people will call hoping to sell you their cocker spaniels. A line from a country song expresses our feeling about new ventures, turnarounds, or auction-like sales: “When the phone don’t ring, you’ll know it’s me.”</p>
+<p>Besides being interested in the purchase of businesses as described above, we are also interested in the negotiated purchase of large, but not controlling, blocks of stock comparable to those we hold in Capital Cities, Salomon, Gillette, USAir, and Champion. We are not interested, however, in receiving suggestions about purchases we might make in the general stock market.</p>
+<p><strong>Miscellaneous</strong></p>
+<p>Ken Chace has decided not to stand for reelection as a director at our upcoming annual meeting. We have no mandatory retirement age for directors at Berkshire (and won’t!), but Ken, at 75 and living in Maine, simply decided to cut back his activities.</p>
+<p>Ken was my immediate choice to run the textile operation after Buffett Partnership, Ltd. assumed control of Berkshire early in 1965. Although I made an economic mistake in sticking with the textile business, I made no mistake in choosing Ken: He ran the operation well, he was always 100% straight with me about its problems, and he generated the funds that allowed us to diversify into insurance.</p>
+<p>My wife, Susan, will be nominated to succeed Ken. She is now the second largest shareholder of Berkshire and if she outlives me will inherit all of my stock and effectively control the company. She knows, and agrees, with my thoughts on successor management and also shares my view that neither Berkshire nor its subsidiary businesses and important investments should be sold simply because some very high bid is received for one or all.</p>
+<p>I feel strongly that the fate of our businesses and their managers should not depend on my health—which, it should be added, is excellent—and I have planned accordingly. Neither my estate plan nor that of my wife is designed to preserve the family fortune; instead, both are aimed at preserving the character of Berkshire and returning the fortune to society.</p>
+<p>Were I to die tomorrow, you could be sure of three things: (1) None of my stock would have to be sold; (2) Both a controlling shareholder and a manager with philosophies similar to mine would follow me; and (3) Berkshire’s earnings would increase by $1 million annually, since Charlie would immediately sell our corporate jet, The Indefensible (ignoring my wish that it be buried with me).</p>
+<p>* * * * * * * * * * * *</p>
+<p>About 97.3% of all eligible shares participated in Berkshire’s 1990 shareholder-designated contributions program. Contributions made through the program were $5.8 million, and 2,600 charities were recipients.</p>
+<p>We suggest that new shareholders read the description of our shareholder-designated contributions program that appears on pages 54-55. To participate in future programs, you must make sure your shares are registered in the name of the actual owner, not in the nominee name of a broker, bank or depository. Shares not so registered on August 31, 1991 will be ineligible for the 1991 program.</p>
+<p>In addition to the shareholder-designated contributions that Berkshire distributes, managers of our operating businesses make contributions, including merchandise, averaging about $1.5 million annually. These contributions support local charities, such as The United Way, and produce roughly commensurate benefits for our businesses.</p>
+<p>However, neither our operating managers nor officers of the parent company use Berkshire funds to make contributions to broad national programs or charitable activities of special personal interest to them, except to the extent they do so as shareholders. If your employees, including your CEO, wish to give to their alma maters or other institutions to which they feel a personal attachment, we believe they should use their own money, not yours.</p>
+<p>* * * * * * * * * * * *</p>
+<p>The annual meeting this year will be held at the Orpheum Theater in downtown Omaha at 9:30 a.m. on Monday, April 29, 1991. Attendance last year grew to a record 1,300, about a 100-fold increase from ten years ago.</p>
+<p>We recommend getting your hotel reservations early at one of these hotels: (1) The Radisson-Redick Tower, a small (88 rooms) but nice hotel across the street from the Orpheum; (2) the much larger Red Lion Hotel, located about a five-minute walk from the Orpheum; or (3) the Marriott, located in West Omaha about 100 yards from Borsheim’s and a twenty minute drive from downtown. We will have buses at the Marriott that will leave at 8:30 and 8:45 for the meeting, and return after it ends.</p>
+<p>Charlie and I always enjoy the meeting, and we hope you can make it. The quality of our shareholders is reflected in the quality of the questions we get: We have never attended an annual meeting anywhere that features such a consistently high level of intelligent, owner-related questions.</p>
+<p>An attachment to our proxy material explains how you can obtain the card you will need for admission to the meeting. Because weekday parking can be tight around the Orpheum, we have lined up a number of nearby lots for our shareholders to use. The attachment also contains information about them.</p>
+<p>As usual, we will have buses to take you to Nebraska Furniture Mart and Borsheim’s after the meeting and to take you to downtown hotels or to the airport later. I hope that you will allow plenty of time to fully explore the attractions of both stores. Those of you arriving early can visit the Furniture Mart any day of the week; it is open from 10 a.m. to 5:30 p.m. on Saturdays, and from noon to 5:30 p.m. on Sundays. While there, stop at the See’s Candy cart and see for yourself the dawn of synergism at Berkshire.</p>
+<p>Borsheim’s normally is closed on Sunday, but we will open for shareholders and their guests from noon to 6 p.m. on Sunday, April 28. At our Sunday opening last year you made Ike very happy: After totaling the day’s volume, he suggested to me that we start holding annual meetings quarterly. Join us at Borsheim’s even if you just come to watch; it’s a show you shouldn’t miss.</p>
+<p>Last year the first question at the annual meeting was asked by 11-year-old Nicholas Kenner, a third-generation shareholder from New York City. Nicholas plays rough: “How come the stock is down?” he fired at me. My answer was not memorable.</p>
+<p>We hope that other business engagements won’t keep Nicholas away from this year’s meeting. If he attends, he will be offered the chance to again ask the first question; Charlie and I want to tackle him while we’re fresh. This year, however, it’s Charlie’s turn to answer.</p>
+<p>&nbsp;</p>
+<p>March 1, 1991</p>
+<p>Warren E. BuffettChairman of the Board</p>
+<p>&nbsp;</p>
+<p><strong>APPENDIX A</strong></p>
+<p><strong>U. S. STEEL ANNOUNCES SWEEPING MODERNIZATION SCHEME*</strong></p>
+<p><em>* An unpublished satire by Ben Graham, written in 1936 and given by the author to Warren Buffett in 1954.</em></p>
+<p>Myron C. Taylor, Chairman of U. S. Steel Corporation, today announced the long awaited plan for completely modernizing the world’s largest industrial enterprise. Contrary to expectations, no changes will be made in the company’s manufacturing or selling policies. Instead, the bookkeeping system is to be entirely revamped. By adopting and further improving a number of modern accounting and financial devices the corporation’s earning power will be amazingly transformed. Even under the subnormal conditions of 1935, it is estimated that the new bookkeeping methods would have yielded a reported profit of close to $50 per share on the common stock. The scheme of improvement is the result of a comprehensive survey made by Messrs. Price, Bacon, Guthrie & Colpitts; it includes the following six points:</p>
+<p>Writing down of Plant Account to Minus $1,000,000,000.</p>
+<p>Par value of common stock to be reduced to 1¢.</p>
+<p>Payment of all wages and salaries in option warrants.</p>
+<p>Inventories to be carried at $1.</p>
+<p>Preferred Stock to be replaced by non-interest bearing bonds redeemable at 50% discount.</p>
+<p>A $1,000,000,000 Contingency Reserve to be established.</p>
+<p>The official statement of this extraordinary Modernization Plan follows in full:</p>
+<p>The Board of Directors of U. S. Steel Corporation is pleased to announce that after intensive study of the problems arising from changed conditions in the industry, it has approved a comprehensive plan for remodeling the Corporation’s accounting methods. A survey by a Special Committee, aided and abetted by Messrs. Price, Bacon, Guthrie & Colpitts, revealed that our company has lagged somewhat behind other American business enterprises in utilizing certain advanced bookkeeping methods, by means of which the earning power may be phenomenally enhanced without requiring any cash outlay or any changes in operating or sales conditions. It has been decided not only to adopt these newer methods, but to develop them to a still higher stage of perfection. The changes adopted by the Board may be summarized under six heads, as follows:</p>
+<p>Fixed Assets to be written down to Minus $1,000,000,000.</p>
+<p>Many representative companies have relieved their income accounts of all charges for depreciation by writing down their plant account to $1. The Special Committee points out that if their plants are worth only $1, the fixed assets of U. S. Steel Corporation are worth a good deal less than that sum. It is now a well-recognized fact that many plants are in reality a liability rather than an asset, entailing not only depreciation charges, but taxes, maintenance, and other expenditures. Accordingly, the Board has decided to extend the write-down policy initiated in the 1935 report, and to mark down the Fixed Assets from $1,338,522,858.96 to a round Minus $1,000,000,000.</p>
+<p>The advantages of this move should be evident. As the plant wears out, the liability becomes correspondingly reduced. Hence, instead of the present depreciation charge of some $47,000,000 yearly there will be an annual appreciation credit of 5%, or $50,000,000. This will increase earnings by no less than $97,000,000 per annum.</p>
+<p>Reduction of Par Value of Common Stock to 1¢, and</p>
+<p>Payment of Salaries and Wages in Option Warrants.</p>
+<p>Many corporations have been able to reduce their overhead expenses substantially by paying a large part of their executive salaries in the form of options to buy stock, which carry no charge against earnings. The full possibilities of this modern device have apparently not been adequately realized. The Board of Directors has adopted the following advanced form of this idea:</p>
+<p>The entire personnel of the Corporation are to receive their compensation in the form of rights to buy common stock at $50 per share, at the rate of one purchase right for each $50 of salary and/or wages in their present amounts. The par value of the common stock is to be reduced to 1¢.</p>
+<p>The almost incredible advantages of this new plan are evident from the following:</p>
+<p>A. The payroll of the Corporation will be entirely eliminated, a saving of $250,000,000 per annum, based on 1935 operations.</p>
+<p>B. At the same time, the effective compensation of all our employees will be increased severalfold. Because of the large earnings per share to be shown on our common stock under the new methods, it is certain that the shares will command a price in the market far above the option level of $50 per share, making the readily realizable value of these option warrants greatly in excess of the present cash wages that they will replace.</p>
+<p>C. The Corporation will realize an additional large annual profit through the exercise of these warrants. Since the par value of the common stock will be fixed at 1¢, there will be a gain of $49.99 on each share subscribed for. In the interest of conservative accounting, however, this profit will not be included in the income account, but will be shown separately as a credit to Capital Surplus.</p>
+<p>D. The Corporation’s cash position will be enormously strengthened. In place of the present annual cash outgo of $250,000,000 for wages (1935 basis), there will be annual cash inflow of $250,000,000 through exercise of the subscription warrants for 5,000,000 shares of common stock. The Company’s large earnings and strong cash position will permit the payment of a liberal dividend which, in turn, will result in the exercise of these option warrants immediately after issuance which, in turn, will further improve the cash position which, in turn, will permit a higher dividend rate—and so on, indefinitely.</p>
+<p>Inventories to be carried at $1.</p>
+<p>Serious losses have been taken during the depression due to the necessity of adjusting inventory value to market. Various enterprises—notably in the metal and cotton-textile fields—have successfully dealt with this problem by carrying all or part of their inventories at extremely low unit prices. The U. S. Steel Corporation has decided to adopt a still more progressive policy, and to carry its entire inventory at $1. This will be effected by an appropriate write-down at the end of each year, the amount of said write-down to be charged to the Contingency Reserve hereinafter referred to.</p>
+<p>The benefits to be derived from this new method are very great. Not only will it obviate all possibility of inventory depreciation, but it will substantially enhance the annual earnings of the Corporation. The inventory on hand at the beginning of the year, valued at $1, will be sold during the year at an excellent profit. It is estimated that our income will be increased by means of this method to the extent of at least $150,000,000 per annum which, by a coincidence, will about equal the amount of the write-down to be made each year against Contingency Reserve.</p>
+<p>A minority report of the Special Committee recommends that Accounts Receivable and Cash also be written down to $1, in the interest of consistency and to gain additional advantages similar to those just discussed. This proposal has been rejected for the time being because our auditors still require that any recoveries of receivables and cash so charged off be credited to surplus instead of to the year’s income. It is expected, however, that this auditing rule—which is rather reminiscent of the horse-and-buggy days—will soon be changed in line with modern tendencies. Should this occur, the minority report will be given further and favorable consideration.</p>
+<p>Replacement of Preferred Stock by Non-Interest-Bearing Bonds Redeemable at 50% Discount.</p>
+<p>During the recent depression many companies have been able to offset their operating losses by including in income profits arising from repurchases of their own bonds at a substantial discount from par. Unfortunately the credit of U. S. Steel Corporation has always stood so high that this lucrative source of revenue has not hitherto been available to it. The Modernization Scheme will remedy this condition.</p>
+<p>It is proposed that each share of preferred stock be exchanged for $300 face value of non-interest-bearing sinking-fund notes, redeemable by lot at 50% of face value in 10 equal annual installments. This will require the issuance of $1,080,000,000 of new notes, of which $108,000,000 will be retired each year at a cost to the Corporation of only $54,000,000, thus creating an annual profit of the same amount.</p>
+<p>Like the wage-and/or-salary plan described under 3. above, this arrangement will benefit both the Corporation and its preferred stockholders. The latter are assured payment for their present shares at 150% of par value over an average period of five years. Since short-term securities yield practically no return at present, the non-interest-bearing feature is of no real importance. The Corporation will convert its present annual charge of $25,000,000 for preferred dividends into an annual bond-retirement profit of $54,000,000—an aggregate yearly gain of $79,000,000.</p>
+<p>Establishment of a Contingency Reserve of $1,000,000,000.</p>
+<p>The Directors are confident that the improvements hereinbefore described will assure the Corporation of a satisfactory earning power under all conditions in the future. Under modern accounting methods, however, it is unnecessary to incur the slightest risk of loss through adverse business developments of any sort, since all these may be provided for in advance by means of a Contingency Reserve.</p>
+<p>The Special Committee has recommended that the Corporation create such a Contingency Reserve in the fairly substantial amount of $1,000,000,000. As previously set forth, the annual write-down of inventory to $1 will be absorbed by this reserve. To prevent eventual exhaustion of the Contingency Reserve, it has been further decided that it be replenished each year by transfer of an appropriate sum from Capital Surplus. Since the latter is expected to increase each year by not less than $250,000,000 through the exercise of the Stock Option Warrants (see 3. above), it will readily make good any drains on the Contingency Reserve.</p>
+<p>In setting up this arrangement, the Board of Directors must confess regretfully that they have been unable to improve upon the devices already employed by important corporations in transferring large sums between Capital, Capital Surplus, Contingency Reserves and other Balance Sheet Accounts. In fact, it must be admitted that our entries will be somewhat too simple, and will lack that element of extreme mystification that characterizes the most advanced procedure in this field. The Board of Directors, however, have insisted upon clarity and simplicity in framing their Modernization Plan, even at the sacrifice of possible advantage to the Corporation’s earning power.</p>
+<p>In order to show the combined effect of the new proposals upon the Corporation’s earning power, we submit herewith a condensed Income Account for 1935 on two bases, viz:</p>
+<p>In accordance with a somewhat antiquated custom there is appended herewith a condensed pro-forma Balance Sheet of the U. S. Steel Corporation as of December 31, 1935, after giving effect to proposed changes in asset and liability accounts.</p>
+<p>&nbsp;</p>
+<p>* Given a Stated Value differing from Par Value, in accordance with the laws of the State of Virginia, where the company will be re-incorporated.</p>
+<p>It is perhaps unnecessary to point out to our stockholders that modern accounting methods give rise to balance sheets differing somewhat in appearance from those of a less advanced period. In view of the very large earning power that will result from these changes in the Corporation’s Balance Sheet, it is not expected that undue attention will be paid to the details of assets and liabilities.</p>
+<p>In conclusion, the Board desires to point out that the combined procedure, whereby plant will be carried at a minus figure, our wage bill will be eliminated, and inventory will stand on our books at virtually nothing, will give U. S. Steel Corporation an enormous competitive advantage in the industry. We shall be able to sell our products at exceedingly low prices and still show a handsome margin of profit. It is the considered view of the Board of Directors that under the Modernization Scheme we shall be able to undersell all competitors to such a point that the anti-trust laws will constitute the only barrier to 100% domination of the industry.</p>
+<p>In making this statement, the Board is not unmindful of the possibility that some of our competitors may seek to offset our new advantages by adopting similar accounting improvements. We are confident, however, that U. S. Steel will be able to retain the loyalty of its customers, old and new, through the unique prestige that will accrue to it as the originator and pioneer in these new fields of service to the user of steel. Should necessity arise, moreover, we believe we shall be able to maintain our deserved superiority by introducing still more advanced bookkeeping methods, which are even now under development in our Experimental Accounting Laboratory.</p>
+<p><strong>APPENDIX B</strong></p>
+<p><strong>Some Thoughts on Selling Your Business*</strong></p>
+<p><em>* This is an edited version of a letter I sent some years ago to a man who had indicated that he might want to sell his family business. I present it here because it is a message I would like to convey to other prospective sellers. — W.E.B.</em></p>
+<p>Dear _____________:</p>
+<p>Here are a few thoughts pursuant to our conversation of the other day.</p>
+<p>Most business owners spend the better part of their lifetimes building their businesses. By experience built upon endless repetition, they sharpen their skills in merchandising, purchasing, personnel selection, etc. It’s a learning process, and mistakes made in one year often contribute to competence and success in succeeding years.</p>
+<p>In contrast, owner-managers sell their business only once—frequently in an emotionally-charged atmosphere with a multitude of pressures coming from different directions. Often, much of the pressure comes from brokers whose compensation is contingent upon consummation of a sale, regardless of its consequences for both buyer and seller. The fact that the decision is so important, both financially and personally, to the owner can make the process more, rather than less, prone to error. And, mistakes made in the once-in-a-lifetime sale of a business are not reversible.</p>
+<p>Price is very important, but often is not the most critical aspect of the sale. You and your family have an extraordinary business—one of a kind in your field—and any buyer is going to recognize that. It’s also a business that is going to get more valuable as the years go by. So if you decide not to sell now, you are very likely to realize more money later on. With that knowledge you can deal from strength and take the time required to select the buyer you want.</p>
+<p>If you should decide to sell, I think Berkshire Hathaway offers some advantages that most other buyers do not. Practically all of these buyers will fall into one of two categories:</p>
+<p>(1) A company located elsewhere but operating in your business or in a business somewhat akin to yours. Such a buyer—no matter what promises are made—will usually have managers who feel they know how to run your business operations and, sooner or later, will want to apply some hands-on “help.” If the acquiring company is much larger, it often will have squads of managers, recruited over the years in part by promises that they will get to run future acquisitions. They will have their own way of doing things and, even though your business record undoubtedly will be far better than theirs, human nature will at some point cause them to believe that their methods of operating are superior. You and your family probably have friends who have sold their businesses to larger companies, and I suspect that their experiences will confirm the tendency of parent companies to take over the running of their subsidiaries, particularly when the parent knows the industry, or thinks it does.</p>
+<p>(2) A financial maneuverer, invariably operating with large amounts of borrowed money, who plans to resell either to the public or to another corporation as soon as the time is favorable. Frequently, this buyer’s major contribution will be to change accounting methods so that earnings can be presented in the most favorable light just prior to his bailing out. I’m enclosing a recent article that describes this sort of transaction, which is becoming much more frequent because of a rising stock market and the great supply of funds available for such transactions.</p>
+<p>If the sole motive of the present owners is to cash their chips and put the business behind them—and plenty of sellers fall in this category—either type of buyer that I’ve just described is satisfactory. But if the sellers’ business represents the creative work of a lifetime and forms an integral part of their personality and sense of being, buyers of either type have serious flaws.</p>
+<p>Berkshire is another kind of buyer—a rather unusual one. We buy to keep, but we don’t have, and don’t expect to have, operating people in our parent organization. All of the businesses we own are run autonomously to an extraordinary degree. In most cases, the managers of important businesses we have owned for many years have not been to Omaha or even met each other. When we buy a business, the sellers go on running it just as they did before the sale; we adapt to their methods rather than vice versa.</p>
+<p>We have no one—family, recently recruited MBAs, etc.—to whom we have promised a chance to run businesses we have bought from owner-managers. And we won’t have.</p>
+<p>You know of some of our past purchases. I’m enclosing a list of everyone from whom we have ever bought a business, and I invite you to check with them as to our performance versus our promises. You should be particularly interested in checking with the few whose businesses did not do well in order to ascertain how we behaved under difficult conditions.</p>
+<p>Any buyer will tell you that he needs you personally—and if he has any brains, he most certainly does need you. But a great many buyers, for the reasons mentioned above, don’t match their subsequent actions to their earlier words. We will behave exactly as promised, both because we have so promised, and because we need to in order to achieve the best business results.</p>
+<p>This need explains why we would want the operating members of your family to retain a 20% interest in the business. We need 80% to consolidate earnings for tax purposes, which is a step important to us. It is equally important to us that the family members who run the business remain as owners. Very simply, we would not want to buy unless we felt key members of present management would stay on as our partners. Contracts cannot guarantee your continued interest; we would simply rely on your word.</p>
+<p>The areas I get involved in are capital allocation and selection and compensation of the top man. Other personnel decisions, operating strategies, etc. are his bailiwick. Some Berkshire managers talk over some of their decisions with me; some don’t. It depends upon their personalities and, to an extent, upon their own personal relationship with me.</p>
+<p>If you should decide to do business with Berkshire, we would pay in cash. Your business would not be used as collateral for any loan by Berkshire. There would be no brokers involved.</p>
+<p>Furthermore, there would be no chance that a deal would be announced and that the buyer would then back off or start suggesting adjustments (with apologies, of course, and with an explanation that banks, lawyers, boards of directors, etc. were to be blamed). And finally, you would know exactly with whom you are dealing. You would not have one executive negotiate the deal only to have someone else in charge a few years later, or have the president regretfully tell you that his board of directors required this change or that (or possibly required sale of your business to finance some new interest of the parent’s).</p>
+<p>It’s only fair to tell you that you would be no richer after the sale than now. The ownership of your business already makes you wealthy and soundly invested. A sale would change the form of your wealth, but it wouldn’t change its amount. If you sell, you will have exchanged a 100%-owned valuable asset that you understand for another valuable asset—cash—that will probably be invested in small pieces (stocks) of other businesses that you understand less well. There is often a sound reason to sell but, if the transaction is a fair one, the reason is not so that the seller can become wealthier.</p>
+<p>I will not pester you; if you have any possible interest in selling, I would appreciate your call. I would be extraordinarily proud to have Berkshire, along with the key members of your family, own _______; I believe we would do very well financially; and I believe you would have just as much fun running the business over the next 20 years as you have had during the past 20.</p>
+<p>Sincerely,</p>
+<p>Warren E. Buffett</p>
+<p>&nbsp;</p>
+<table class="letter-table" style="width:100%;border-collapse:collapse;margin:1.5em 0">
+<tr><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;">LIABILITIES</th></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">Common Stock Par 1¢ (Par Value $87,032.52) Stated Value*</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">($3,500,000,000)</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">Subsidiaries’ Bonds and Stocks</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">113,000,000</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">New Sinking Fund Notes</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">1,080,000,000</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">Current Liabilities</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">69,000,000</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">Contingency Reserve</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">1,000,000,000</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">Other Reserves</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">74,000,000</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">Initial Surplus</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">389,000,001</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">Total</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">($774,999,999)</td></tr>
+</table>`,
 
     concepts: ['intrinsic-value', 'moat', 'compounding', 'owner-earnings'],
     companies: ['berkshire-hathaway'],
@@ -7087,7 +10896,148 @@ export const berkshireLetters: Letter[] = [
     date: '1991-02-01',
     summary:
       "1991 showed strong performance despite economic uncertainty. The insurance operations continued to generate valuable float.",
-        fullText: `[[PLACEHOLDER]]`,
+        fullText: `<p><strong>To the Shareholders of Berkshire Hathaway Inc.:</strong></p>
+<p>Our gain in net worth during 1991 was $2.1 billion, or 39.6%. Over the last 27 years (that is, since present management took over) our per-share book value has grown from $19 to $6,437, or at a rate of 23.7% compounded annually.</p>
+<p>The size of our equity capital—which now totals $7.4 billion—makes it certain that we cannot maintain our past rate of gain or, for that matter, come close to doing so. As Berkshire grows, the universe of opportunities that can significantly influence the company’s performance constantly shrinks. When we were working with capital of $20 million, an idea or business producing $1 million of profit added five percentage points to our return for the year. Now we need a $370 million idea (i.e., one contributing over $550 million of pre-tax profit) to achieve the same result. And there are many more ways to make $1 million than to make $370 million.</p>
+<p>Charlie Munger, Berkshire’s Vice Chairman, and I have set a goal of attaining a 15% average annual increase in Berkshire’s intrinsic value. If our growth in book value is to keep up with a 15% pace, we must earn $22 billion during the next decade. Wish us luck—we’ll need it.</p>
+<p>Our outsized gain in book value in 1991 resulted from a phenomenon not apt to be repeated: a dramatic rise in the price-earnings ratios of Coca-Cola and Gillette. These two stocks accounted for nearly $1.6 billion of our $2.1 billion growth in net worth last year. When we loaded up on Coke three years ago, Berkshire’s net worth was $3.4 billion; now our Coke stock alone is worth more than that.</p>
+<p>Coca-Cola and Gillette are two of the best companies in the world and we expect their earnings to grow at hefty rates in the years ahead. Over time, also, the value of our holdings in these stocks should grow in rough proportion. Last year, however, the valuations of these two companies rose far faster than their earnings. In effect, we got a double-dip benefit, delivered partly by the excellent earnings growth and even more so by the market’s reappraisal of these stocks. We believe this reappraisal was warranted. But it can’t recur annually: We’ll have to settle for a single dip in the future.</p>
+<p><strong>A Second Job</strong></p>
+<p>In 1989 when I—a happy consumer of five cans of Cherry Coke daily—announced our purchase of $1 billion worth of Coca-Cola stock, I described the move as a rather extreme example of putting our money where my mouth was. On August 18 of last year, when I was elected Interim Chairman of Salomon Inc, it was a different story: I put my mouth where our money was.</p>
+<p>You’ve all read of the events that led to my appointment. My decision to take the job carried with it an implicit but important message: Berkshire’s operating managers are so outstanding that I knew I could materially reduce the time I was spending at the company and yet remain confident that its economic progress would not skip a beat. The Blumkins, the Friedman family, Mike Goldberg, the Heldmans, Chuck Huggins, Stan Lipsey, Ralph Schey and Frank Rooney (CEO of H.H. Brown, our latest acquisition, which I will describe later) are all masters of their operations and need no help from me. My job is merely to treat them right and to allocate the capital they generate. Neither function is impeded by my work at Salomon.</p>
+<p>The role that Charlie and I play in the success of our operating units can be illustrated by a story about George Mira, the one-time quarterback of the University of Miami, and his coach, Andy Gustafson. Playing Florida and near its goal line, Mira dropped back to pass. He spotted an open receiver but found his right shoulder in the unshakable grasp of a Florida linebacker. The right-handed Mira thereupon switched the ball to his other hand and threw the only left-handed pass of his life—for a touchdown. As the crowd erupted, Gustafson calmly turned to a reporter and declared: “Now that’s what I call coaching.”</p>
+<p>Given the managerial stars we have at our operating units, Berkshire’s performance is not affected if Charlie or I slip away from time to time. You should note, however, the “interim” in my Salomon title. Berkshire is my first love and one that will never fade: At the Harvard Business School last year, a student asked me when I planned to retire and I replied, “About five to ten years after I die.”</p>
+<p><strong>Sources of Reported Earnings</strong></p>
+<p>The table below shows the major sources of Berkshire’s reported earnings. In this presentation, amortization of Goodwill and other major purchase-price accounting adjustments are not charged against the specific businesses to which they apply, but are instead aggregated and shown separately. This procedure lets you view the earnings of our businesses as they would have been reported had we not purchased them. I’ve explained in past reports why this form of presentation seems to us to be more useful to investors and managers than one utilizing generally accepted accounting principles (GAAP), which require purchase-price adjustments to be made on a business-by-business basis. The total net earnings we show in the table are, of course, identical to the GAAP total in our audited financial statements.</p>
+<p>A large amount of additional information about these businesses is given on pages 33-47, where you also will find our segment earnings reported on a GAAP basis. However, we will not in this letter discuss each of our non-insurance operations, as we have in the past. Our businesses have grown in number—and will continue to grow—so it now makes sense to rotate coverage, discussing one or two in detail each year.</p>
+<p>* Excludes interest expense of Scott Fetzer Financial Group and Mutual Savings & Loan.</p>
+<p><strong>“Look-Through” Earnings</strong></p>
+<p>We’ve previously discussed look-through earnings, which consist of: (1) the operating earnings reported in the previous section, plus; (2) the retained operating earnings of major investees that, under GAAP accounting, are not reflected in our profits, less; (3) an allowance for the tax that would be paid by Berkshire if these retained earnings of investees had instead been distributed to us.</p>
+<p>I’ve told you that over time look-through earnings must increase at about 15% annually if our intrinsic business value is to grow at that rate. Indeed, since present management took over in 1965, our look-through earnings have grown at almost the identical 23% rate of gain recorded for book value.</p>
+<p>Last year, however, our look-through earnings did not grow at all but rather declined by 14%. To an extent, the decline was precipitated by two forces that I discussed in last year’s report and that I warned you would have a negative effect on look-through earnings.</p>
+<p>First, I told you that our media earnings—both direct and look-through—were “sure to decline” and they in fact did. The second force came into play on April 1, when the call of our Gillette preferred stock required us to convert it into common. The after-tax earnings in 1990 from our preferred had been about $45 million, an amount somewhat higher than the combination in 1991 of three months of dividends on our preferred plus nine months of look-through earnings on the common.</p>
+<p>Two other outcomes that I did not foresee also hurt look-through earnings in 1991. First, we had a break-even result from our interest in Wells Fargo (dividends we received from the company were offset by negative retained earnings). Last year I said that such a result at Wells was “a low-level possibility—not a likelihood.” Second, we recorded significantly lower—though still excellent—insurance profits.</p>
+<p>The following table shows you how we calculate look-through earnings, although I warn you that the figures are necessarily very rough. (The dividends paid to us by these investees have been included in the operating earnings itemized on page 6, mostly under “Insurance Group: Net Investment Income.”)</p>
+<p>(1)     Net of minority interest at Wesco(2)     For the nine months after Berkshire converted its preferred on April(3)     Calculated on average ownership for the year</p>
+<p>* * * * * * * * * * * *</p>
+<p>We also believe that investors can benefit by focusing on their own look-through earnings. To calculate these, they should determine the underlying earnings attributable to the shares they hold in their portfolio and total these. The goal of each investor should be to create a portfolio (in effect, a “company”) that will deliver him or her the highest possible look-through earnings a decade or so from now.</p>
+<p>An approach of this kind will force the investor to think about long-term business prospects rather than short-term stock market prospects, a perspective likely to improve results. It’s true, of course, that, in the long run, the scoreboard for investment decisions is market price. But prices will be determined by future earnings. In investing, just as in baseball, to put runs on the scoreboard one must watch the playing field, not the scoreboard.</p>
+<p><strong>A Change in Media Economics and Some Valuation Math</strong></p>
+<p>In last year’s report, I stated my opinion that the decline in the profitability of media companies reflected secular as well as cyclical factors. The events of 1991 have fortified that case: The economic strength of once-mighty media enterprises continues to erode as retailing patterns change and advertising and entertainment choices proliferate. In the business world, unfortunately, the rear-view mirror is always clearer than the windshield: A few years back no one linked to the media business—neither lenders, owners nor financial analysts—saw the economic deterioration that was in store for the industry. (But give me a few years and I’ll probably convince myself that I did.)</p>
+<p>The fact is that newspaper, television, and magazine properties have begun to resemble businesses more than franchises in their economic behavior. Let’s take a quick look at the characteristics separating these two classes of enterprise, keeping in mind, however, that many operations fall in some middle ground and can best be described as weak franchises or strong businesses.</p>
+<p>An economic franchise arises from a product or service that: (1) is needed or desired; (2) is thought by its customers to have no close substitute and; (3) is not subject to price regulation. The existence of all three conditions will be demonstrated by a company’s ability to regularly price its product or service aggressively and thereby to earn high rates of return on capital. Moreover, franchises can tolerate mis-management. Inept managers may diminish a franchise’s profitability, but they cannot inflict mortal damage.</p>
+<p>In contrast, “a business” earns exceptional profits only if it is the low-cost operator or if supply of its product or service is tight. Tightness in supply usually does not last long. With superior management, a company may maintain its status as a low-cost operator for a much longer time, but even then unceasingly faces the possibility of competitive attack. And a business, unlike a franchise, can be killed by poor management.</p>
+<p>Until recently, media properties possessed the three characteristics of a franchise and consequently could both price aggressively and be managed loosely. Now, however, consumers looking for information and entertainment (their primary interest being the latter) enjoy greatly broadened choices as to where to find them. Unfortunately, demand can’t expand in response to this new supply: 500 million American eyeballs and a 24-hour day are all that’s available. The result is that competition has intensified, markets have fragmented, and the media industry has lost some—though far from all—of its franchise strength.</p>
+<p>* * * * * * * * * * * *</p>
+<p>The industry’s weakened franchise has an impact on its value that goes far beyond the immediate effect on earnings. For an understanding of this phenomenon, let’s look at some much over-simplified, but relevant, math.</p>
+<p>A few years ago the conventional wisdom held that a newspaper, television or magazine property would forever increase its earnings at 6% or so annually and would do so without the employment of additional capital, for the reason that depreciation charges would roughly match capital expenditures and working capital requirements would be minor. Therefore, reported earnings (before amortization of intangibles) were also freely-distributable earnings, which meant that ownership of a media property could be construed as akin to owning a perpetual annuity set to grow at 6% a year. Say, next, that a discount rate of 10% was used to determine the present value of that earnings stream. One could then calculate that it was appropriate to pay a whopping $25 million for a property with current after-tax earnings of $1 million. (This after-tax multiplier of 25 translates to a multiplier on pre-tax earnings of about 16.)</p>
+<p>Now change the assumption and posit that the $1 million represents “normal earning power” and that earnings will bob around this figure cyclically. A “bob-around” pattern is indeed the lot of most businesses, whose income stream grows only if their owners are willing to commit more capital (usually in the form of retained earnings). Under our revised assumption, $1 million of earnings, discounted by the same 10%, translates to a $10 million valuation. Thus a seemingly modest shift in assumptions reduces the property’s valuation to 10 times after-tax earnings (or about 6 1/2 times pre-tax earnings).</p>
+<p>Dollars are dollars whether they are derived from the operation of media properties or of steel mills. What in the past caused buyers to value a dollar of earnings from media far higher than a dollar from steel was that the earnings of a media property were expected to constantly grow (without the business requiring much additional capital), whereas steel earnings clearly fell in the bob-around category. Now, however, expectations for media have moved toward the bob-around model. And, as our simplified example illustrates, valuations must change dramatically when expectations are revised.</p>
+<p>We have a significant investment in media—both through our direct ownership of Buffalo News and our shareholdings in The Washington Post Company and Capital Cities/ABC—and the intrinsic value of this investment has declined materially because of the secular transformation that the industry is experiencing. (Cyclical factors have also hurt our current look-through earnings, but these factors do not reduce intrinsic value.) However, as our Business Principles on page 2-3 note, one of the rules by which we run Berkshire is that we do not sell businesses—or investee holdings that we have classified as permanent—simply because we see ways to use the money more advantageously elsewhere. (We did sell certain other media holdings sometime back, but these were relatively small.)</p>
+<p>The intrinsic value losses that we have suffered have been moderated because the Buffalo News, under Stan Lipsey’s leadership, has done far better than most newspapers and because both Cap Cities and Washington Post are exceptionally well-managed. In particular, these companies stayed on the sidelines during the late 1980’s period in which purchasers of media properties regularly paid irrational prices. Also, the debt of both Cap Cities and Washington Post is small and roughly offset by cash that they hold. As a result, the shrinkage in the value of their assets has not been accentuated by the effects of leverage. Among publicly-owned media companies, our two investees are about the only ones essentially free of debt. Most of the other companies, through a combination of the aggressive acquisition policies they pursued and shrinking earnings, find themselves with debt equal to five or more times their current net income.</p>
+<p>The strong balance sheets and strong managements of Cap Cities and Washington Post leave us more comfortable with these investments than we would be with holdings in any other media companies. Moreover, most media properties continue to have far better economic characteristics than those possessed by the average American business. But gone are the days of bullet-proof franchises and cornucopian economics.</p>
+<p><strong>Twenty Years in a Candy Store</strong></p>
+<p>We’ve just passed a milestone: Twenty years ago, on January 3, 1972, Blue Chip Stamps (then an affiliate of Berkshire and later merged into it) bought control of See’s Candy Shops, a West Coast manufacturer and retailer of boxed-chocolates. The nominal price that the sellers were asking—calculated on the 100% ownership we ultimately attained—was $40 million. But the company had $10 million of excess cash, and therefore the true offering price was $30 million. Charlie and I, not yet fully appreciative of the value of an economic franchise, looked at the company’s mere $7 million of tangible net worth and said $25 million was as high as we would go (and we meant it). Fortunately, the sellers accepted our offer.</p>
+<p>The sales of trading stamps by Blue Chip thereafter declined from $102.5 million in 1972 to $1.2 million in 1991. But See’s candy sales in the same period increased from $29 million to $196 million. Moreover, profits at See’s grew even faster than sales, from $4.2 million pre-tax in 1972 to $42.4 million last year.</p>
+<p>For an increase in profits to be evaluated properly, it must be compared with the incremental capital investment required to produce it. On this score, See’s has been astounding: The company now operates comfortably with only $25 million of net worth, which means that our beginning base of $7 million has had to be supplemented by only $18 million of reinvested earnings. Meanwhile, See’s remaining pre-tax profits of $410 million were distributed to Blue Chip/Berkshire during the 20 years for these companies to deploy (after payment of taxes) in whatever way made most sense.</p>
+<p>In our See’s purchase, Charlie and I had one important insight: We saw that the business had untapped pricing power. Otherwise, we were lucky twice over. First, the transaction was not derailed by our dumb insistence on a $25 million price. Second, we found Chuck Huggins, then See’s executive vice-president, whom we instantly put in charge. Both our business and personal experiences with Chuck have been outstanding. One example: When the purchase was made, we shook hands with Chuck on a compensation arrangement—conceived in about five minutes and never reduced to a written contract—that remains unchanged to this day.</p>
+<p>In 1991, See’s sales volume, measured in dollars, matched that of 1990. In pounds, however, volume was down 4%. All of that slippage took place in the last two months of the year, a period that normally produces more than 80% of annual profits. Despite the weakness in sales, profits last year grew 7%, and our pre-tax profit margin was a record 21.6%.</p>
+<p>Almost 80% of See’s sales come from California and our business clearly was hurt by the recession, which hit the state with particular force late in the year. Another negative, however, was the mid-year initiation in California of a sales tax of 7%-8% (depending on the county involved) on “snack food” that was deemed applicable to our candy.</p>
+<p>Shareholders who are students of epistemological shadings will enjoy California’s classifications of “snack” and “non-snack” foods:</p>
+<p>What—you are sure to ask—is the tax status of a melted Milky Way ice cream bar? In that androgynous form, does it more resemble an ice cream bar or a candy bar that has been left in the sun? It’s no wonder that Brad Sherman, Chairman of California’s State Board of Equalization, who opposed the snack food bill but must now administer it, has said: “I came to this job as a specialist in tax law. Now I find my constituents should have elected Julia Child.”</p>
+<p>Charlie and I have many reasons to be thankful for our association with Chuck and See’s. The obvious ones are that we’ve earned exceptional returns and had a good time in the process. Equally important, ownership of See’s has taught us much about the evaluation of franchises. We’ve made significant money in certain common stocks because of the lessons we learned at See’s.</p>
+<p><strong>H. H. Brown</strong></p>
+<p>We made a sizable acquisition in 1991—the H. H. Brown Company—and behind this business is an interesting history. In 1927 a 29-year-old businessman named Ray Heffernan purchased the company, then located in North Brookfield, Massachusetts, for $10,000 and began a 62-year career of running it. (He also found time for other pursuits: At age 90 he was still joining new golf clubs.) By Mr. Heffernan’s retirement in early 1990 H. H. Brown had three plants in the United States and one in Canada; employed close to 2,000 people; and earned about $25 million annually before taxes.</p>
+<p>Along the way, Frances Heffernan, one of Ray’s daughters, married Frank Rooney, who was sternly advised by Mr. Heffernan before the wedding that he had better forget any ideas he might have about working for his father-in-law. That was one of Mr. Heffernan’s few mistakes: Frank went on to become CEO of Melville Shoe (now Melville Corp.). During his 23 years as boss, from 1964 through 1986, Melville’s earnings averaged more than 20% on equity and its stock (adjusted for splits) rose from $16 to $960. And a few years after Frank retired, Mr. Heffernan, who had fallen ill, asked him to run Brown.</p>
+<p>After Mr. Heffernan died late in 1990, his family decided to sell the company—and here we got lucky. I had known Frank for a few years but not well enough for him to think of Berkshire as a possible buyer. He instead gave the assignment of selling Brown to a major investment banker, which failed also to think of us. But last spring Frank was playing golf in Florida with John Loomis, a long-time friend of mine as well as a Berkshire shareholder, who is always on the alert for something that might fit us. Hearing about the impending sale of Brown, John told Frank that the company should be right up Berkshire’s alley, and Frank promptly gave me a call. I thought right away that we would make a deal and before long it was done.</p>
+<p>Much of my enthusiasm for this purchase came from Frank’s willingness to continue as CEO. Like most of our managers, he has no financial need to work but does so because he loves the game and likes to excel. Managers of this stripe cannot be “hired” in the normal sense of the word. What we must do is provide a concert hall in which business artists of this class will wish to perform.</p>
+<p>Brown (which, by the way, has no connection to Brown Shoe of St. Louis) is the leading North American manufacturer of work shoes and boots, and it has a history of earning unusually fine margins on sales and assets. Shoes are a tough business—of the billion pairs purchased in the United States each year, about 85% are imported —and most manufacturers in the industry do poorly. The wide range of styles and sizes that producers offer causes inventories to be heavy; substantial capital is also tied up in receivables. In this kind of environment, only outstanding managers like Frank and the group developed by Mr. Heffernan can prosper.</p>
+<p>A distinguishing characteristic of H. H. Brown is one of the most unusual compensation systems I’ve encountered—but one that warms my heart: A number of key managers are paid an annual salary of $7,800, to which is added a designated percentage of the profits of the company after these are reduced by a charge for capital employed. These managers therefore truly stand in the shoes of owners. In contrast, most managers talk the talk but don’t walk the walk, choosing instead to employ compensation systems that are long on carrots but short on sticks (and that almost invariably treat equity capital as if it were cost-free). The arrangement at Brown, in any case, has served both the company and its managers exceptionally well, which should be no surprise: Managers eager to bet heavily on their abilities usually have plenty of ability to bet on.</p>
+<p>* * * * * * * * * * * *</p>
+<p>It’s discouraging to note that though we have on four occasions made major purchases of companies whose sellers were represented by prominent investment banks, we were in only one of these instances contacted by the investment bank. In the other three cases, I myself or a friend initiated the transaction at some point after the investment bank had solicited its own list of prospects. We would love to see an intermediary earn its fee by thinking of us—and therefore repeat here what we’re looking for:</p>
+<p>Large purchases (at least $10 million of after-tax earnings),</p>
+<p>Demonstrated consistent earning power (future projections are of little interest to us, nor are “turnaround” situations),</p>
+<p>Businesses earning good returns on equity while employing little or no debt,</p>
+<p>Management in place (we can’t supply it),</p>
+<p>Simple businesses (if there’s lots of technology, we won’t understand it),</p>
+<p>An offering price (we don’t want to waste our time or that of the seller by talking, even preliminarily, about a transaction when price is unknown).</p>
+<p>We will not engage in unfriendly takeovers. We can promise complete confidentiality and a very fast answer—customarily within five minutes—as to whether we’re interested. (With Brown, we didn’t even need to take five.) We prefer to buy for cash, but will consider issuing stock when we receive as much in intrinsic business value as we give.</p>
+<p>Our favorite form of purchase is one fitting the pattern through which we acquired Nebraska Furniture Mart, Fechheimer’s and Borsheim’s. In cases like these, the company’s owner-managers wish to generate significant amounts of cash, sometimes for themselves, but often for their families or inactive shareholders. At the same time, these managers wish to remain significant owners who continue to run their companies just as they have in the past. We think we offer a particularly good fit for owners with such objectives and we invite potential sellers to check us out by contacting people with whom we have done business in the past.</p>
+<p>Charlie and I frequently get approached about acquisitions that don’t come close to meeting our tests: We’ve found that if you advertise an interest in buying collies, a lot of people will call hoping to sell you their cocker spaniels. A line from a country song expresses our feeling about new ventures, turnarounds, or auction-like sales: “When the phone don’t ring, you’ll know it’s me.”</p>
+<p>Besides being interested in the purchase of businesses as described above, we are also interested in the negotiated purchase of large, but not controlling, blocks of stock comparable to those we hold in Capital Cities, Salomon, Gillette, USAir, Champion, and American Express. We are not interested, however, in receiving suggestions about purchases we might make in the general stock market.</p>
+<p><strong>Insurance Operations</strong></p>
+<p>Shown below is an updated version of our usual table presenting key figures for the property-casualty insurance industry:</p>
+<p>&nbsp;</p>
+<p>The combined ratio represents total insurance costs (losses incurred plus expenses) compared to revenue from premiums: A ratio below 100 indicates an underwriting profit, and one above 100 indicates a loss. The higher the ratio, the worse the year. When the investment income that an insurer earns from holding policyholders’ funds (“the float”) is taken into account, a combined ratio in the 107—111 range typically produces an overall break-even result, exclusive of earnings on the funds provided by shareholders.</p>
+<p>For the reasons laid out in previous reports, we expect the industry’s incurred losses to grow at close to 10% annually, even in periods when general inflation runs considerably lower. (Over the last 25 years, incurred losses have in reality grown at a still faster rate, 11%.) If premium growth meanwhile materially lags that 10% rate, underwriting losses will mount.</p>
+<p>However, the industry’s tendency to under-reserve when business turns bad may obscure the picture for a time—and that could well describe the situation last year. Though premiums did not come close to growing 10%, the combined ratio failed to deteriorate as I had expected but instead slightly improved. Loss-reserve data for the industry indicate that there is reason to be skeptical of that outcome, and it may turn out that 1991’s ratio should have been worse than was reported. In the long run, of course, trouble awaits managements that paper over operating problems with accounting maneuvers. Eventually, managements of this kind achieve the same result as the seriously-ill patient who tells his doctor: “I can’t afford the operation, but would you accept a small payment to touch up the x-rays?”</p>
+<p>Berkshire’s insurance business has changed in ways that make combined ratios, our own or the industry’s, largely irrelevant to our performance. What counts with us is the “cost of funds developed from insurance,” or in the vernacular, “the cost of float.”</p>
+<p>Float—which we generate in exceptional amounts—is the total of loss reserves, loss adjustment expense reserves and unearned premium reserves minus agents balances, prepaid acquisition costs and deferred charges applicable to assumed reinsurance. And the cost of float is measured by our underwriting loss.</p>
+<p>The table below shows our cost of float since we entered the business in 1967.</p>
+<p>As you can see, our cost of funds in 1991 was well below the U. S. Government’s cost on newly-issued long-term bonds. We have in fact beat the government’s rate in 20 of the 25 years we have been in the insurance business, often by a wide margin. We have over that time also substantially increased the amount of funds we hold, which counts as a favorable development but only because the cost of funds has been satisfactory. Our float should continue to grow; the challenge will be to garner these funds at a reasonable cost.</p>
+<p>Berkshire continues to be a very large writer—perhaps the largest in the world—of “super-cat” insurance, which is coverage that other insurance companies buy to protect themselves against major catastrophic losses. Profits in this business are enormously volatile. As I mentioned last year, $100 million in super-cat premiums, which is roughly our annual expectation, could deliver us anything from a $100 million profit (in a year with no big catastrophe) to a $200 million loss (in a year in which a couple of major hurricanes and/or earthquakes come along).</p>
+<p>We price this business expecting to pay out, over the long term, about 90% of the premiums we receive. In any given year, however, we are likely to appear either enormously profitable or enormously unprofitable. That is true in part because GAAP accounting does not allow us to set up reserves in the catastrophe-free years for losses that are certain to be experienced in other years. In effect, a one-year accounting cycle is ill-suited to the nature of this business—and that is a reality you should be aware of when you assess our annual results.</p>
+<p>Last year there appears to have been, by our definition, one super-cat, but it will trigger payments from only about 25% of our policies. Therefore, we currently estimate the 1991 underwriting profit from our catastrophe business to have been about $11 million. (You may be surprised to learn the identity of the biggest catastrophe in 1991: It was neither the Oakland fire nor Hurricane Bob, but rather a September typhoon in Japan that caused the industry an insured loss now estimated at about $4-$5 billion. At the higher figure, the loss from the typhoon would surpass that from Hurricane Hugo, the previous record-holder.)</p>
+<p>Insurers will always need huge amounts of reinsurance protection for marine and aviation disasters as well as for natural catastrophes. In the 1980’s much of this reinsurance was supplied by “innocents”—that is, by insurers that did not understand the risks of the business—but they have now been financially burned beyond recognition. (Berkshire itself was an innocent all too often when I was personally running the insurance operation.) Insurers, though, like investors, eventually repeat their mistakes. At some point—probably after a few catastrophe-scarce years—innocents will reappear and prices for super-cat policies will plunge to silly levels.</p>
+<p>As long as apparently-adequate rates prevail, however, we will be a major participant in super-cat coverages. In marketing this product, we enjoy a significant competitive advantage because of our premier financial strength. Thinking insurers know that when “the big one” comes, many reinsurers who found it easy to write policies will find it difficult to write checks. (Some reinsurers can say what Jackie Mason does: “I’m fixed for life—as long as I don’t buy anything.”) Berkshire’s ability to fulfill all its commitments under conditions of even extreme adversity is unquestioned.</p>
+<p>Overall, insurance offers Berkshire its greatest opportunities. Mike Goldberg has accomplished wonders with this operation since he took charge and it has become a very valuable asset, albeit one that can’t be appraised with any precision.</p>
+<p><strong>Marketable Common Stocks</strong></p>
+<p>On the next page we list our common stock holdings having a value of over $100 million. A small portion of these investments belongs to subsidiaries of which Berkshire owns less than 100%.</p>
+<p>&nbsp;</p>
+<p>As usual the list reflects our Rip Van Winkle approach to investing. Guinness is a new position. But we held the other seven stocks a year ago (making allowance for the conversion of our Gillette position from preferred to common) and in six of those we hold an unchanged number of shares. The exception is Federal Home Loan Mortgage (“Freddie Mac”), in which our shareholdings increased slightly. Our stay-put behavior reflects our view that the stock market serves as a relocation center at which money is moved from the active to the patient. (With tongue only partly in check, I suggest that recent events indicate that the much-maligned “idle rich” have received a bad rap: They have maintained or increased their wealth while many of the “energetic rich”—aggressive real estate operators, corporate acquirers, oil drillers, etc.—have seen their fortunes disappear.)</p>
+<p>Our Guinness holding represents Berkshire’s first significant investment in a company domiciled outside the United States. Guinness, however, earns its money in much the same fashion as Coca-Cola and Gillette, U.S.-based companies that garner most of their profits from international operations. Indeed, in the sense of where they earn their profits—continent-by-continent—Coca-Cola and Guinness display strong similarities. (But you’ll never get their drinks confused—and your Chairman remains unmovably in the Cherry Coke camp.)</p>
+<p>We continually search for large businesses with understandable, enduring and mouth-watering economics that are run by able and shareholder-oriented managements. This focus doesn’t guarantee results: We both have to buy at a sensible price and get business performance from our companies that validates our assessment. But this investment approach—searching for the superstars—offers us our only chance for real success. Charlie and I are simply not smart enough, considering the large sums we work with, to get great results by adroitly buying and selling portions of far-from-great businesses. Nor do we think many others can achieve long-term investment success by flitting from flower to flower. Indeed, we believe that according the name “investors” to institutions that trade actively is like calling someone who repeatedly engages in one-night stands a romantic.</p>
+<p>If my universe of business possibilities was limited, say, to private companies in Omaha, I would, first, try to assess the long-term economic characteristics of each business; second, assess the quality of the people in charge of running it; and, third, try to buy into a few of the best operations at a sensible price. I certainly would not wish to own an equal part of every business in town. Why, then, should Berkshire take a different tack when dealing with the larger universe of public companies? And since finding great businesses and outstanding managers is so difficult, why should we discard proven products? (I was tempted to say “the real thing.”) Our motto is: “If at first you do succeed, quit trying.”</p>
+<p>John Maynard Keynes, whose brilliance as a practicing investor matched his brilliance in thought, wrote a letter to a business associate, F. C. Scott, on August 15, 1934 that says it all: “As time goes on, I get more and more convinced that the right method in investment is to put fairly large sums into enterprises which one thinks one knows something about and in the management of which one thoroughly believes. It is a mistake to think that one limits one’s risk by spreading too much between enterprises about which one knows little and has no reason for special confidence. . . . One’s knowledge and experience are definitely limited and there are seldom more than two or three enterprises at any given time in which I personally feel myself entitled to put full confidence.”</p>
+<p><strong>Mistake Du Jour</strong></p>
+<p>In the 1989 annual report I wrote about “Mistakes of the First 25 Years” and promised you an update in 2015. My experiences in the first few years of this second “semester” indicate that my backlog of matters to be discussed will become unmanageable if I stick to my original plan. Therefore, I will occasionally unburden myself in these pages in the hope that public confession may deter further bumblings. (Post-mortems prove useful for hospitals and football teams; why not for businesses and investors?)</p>
+<p>Typically, our most egregious mistakes fall in the omission, rather than the commission, category. That may spare Charlie and me some embarrassment, since you don’t see these errors; but their invisibility does not reduce their cost. In this mea culpa, I am not talking about missing out on some company that depends upon an esoteric invention (such as Xerox), high-technology (Apple), or even brilliant merchandising (Wal-Mart). We will never develop the competence to spot such businesses early. Instead I refer to business situations that Charlie and I can understand and that seem clearly attractive—but in which we nevertheless end up sucking our thumbs rather than buying.</p>
+<p>Every writer knows it helps to use striking examples, but I wish the one I now present wasn’t quite so dramatic: In early 1988, we decided to buy 30 million shares (adjusted for a subsequent split) of Federal National Mortgage Association (Fannie Mae), which would have been a $350-$400 million investment. We had owned the stock some years earlier and understood the company’s business. Furthermore, it was clear to us that David Maxwell, Fannie Mae’s CEO, had dealt superbly with some problems that he had inherited and had established the company as a financial powerhouse—with the best yet to come. I visited David in Washington and confirmed that he would not be uncomfortable if we were to take a large position.</p>
+<p>After we bought about 7 million shares, the price began to climb. In frustration, I stopped buying (a mistake that, thankfully, I did not repeat when Coca-Cola stock rose similarly during our purchase program). In an even sillier move, I surrendered to my distaste for holding small positions and sold the 7 million shares we owned.</p>
+<p>I wish I could give you a halfway rational explanation for my amateurish behavior vis-a-vis Fannie Mae. But there isn’t one. What I can give you is an estimate as of yearend 1991 of the approximate gain that Berkshire didn’t make because of your Chairman’s mistake: about $1.4 billion.</p>
+<p><strong>Fixed-Income Securities</strong></p>
+<p>We made several significant changes in our fixed-income portfolio during 1991. As I noted earlier, our Gillette preferred was called for redemption, which forced us to convert to common stock; we eliminated our holdings of an RJR Nabisco issue that was subject to an exchange offer and subsequent call; and we purchased fixed-income securities of American Express and First Empire State Corp., a Buffalo-based bank holding company. We also added to a small position in ACF Industries that we had established in late 1990. Our largest holdings at yearend were:</p>
+<p>(1)     Fair value as determined by Charlie and me(2)     Carrying value in our financial statements</p>
+<p>Our $40 million of First Empire State preferred carries a 9% coupon, is non-callable until 1996 and is convertible at $78.91 per share. Normally I would think a purchase of this size too small for Berkshire, but I have enormous respect for Bob Wilmers, CEO of First Empire, and like being his partner on any scale.</p>
+<p>Our American Express preferred is not a normal fixed-income security. Rather it is a “Perc,” which carries a fixed dividend of 8.85% on our $300 million cost. Absent one exception mentioned later, our preferred must be converted three years after issuance, into a maximum of 12,244,898 shares. If necessary, a downward adjustment in the conversion ratio will be made in order to limit to $414 million the total value of the common we receive. Though there is thus a ceiling on the value of the common stock that we will receive upon conversion, there is no floor. The terms of the preferred, however, include a provision allowing us to extend the conversion date by one year if the common stock is below $24.50 on the third anniversary of our purchase.</p>
+<p>Overall, our fixed-income investments have treated us well, both over the long term and recently. We have realized large capital gains from these holdings, including about $152 million in 1991. Additionally, our after-tax yields have considerably exceeded those earned by most fixed-income portfolios.</p>
+<p>Nevertheless, we have had some surprises, none greater than the need for me to involve myself personally and intensely in the Salomon situation. As I write this letter, I am also writing a letter for inclusion in Salomon’s annual report and I refer you to that report for an update on the company. (Write to: Corporate Secretary, Salomon Inc, Seven World Trade Center, New York, NY 10048) Despite the company’s travails, Charlie and I believe our Salomon preferred stock increased slightly in value during 1991. Lower interest rates and a higher price for Salomon’s common produced this result.</p>
+<p>Last year I told you that our USAir investment “should work out all right unless the industry is decimated during the next few years.” Unfortunately 1991 was a decimating period for the industry, as Midway, Pan Am and America West all entered bankruptcy. (Stretch the period to 14 months and you can add Continental and TWA.)</p>
+<p>The low valuation that we have given USAir in our table reflects the risk that the industry will remain unprofitable for virtually all participants in it, a risk that is far from negligible. The risk is heightened by the fact that the courts have been encouraging bankrupt carriers to continue operating. These carriers can temporarily charge fares that are below the industry’s costs because the bankrupts don’t incur the capital costs faced by their solvent brethren and because they can fund their losses—and thereby stave off shutdown—by selling off assets. This burn-the-furniture-to-provide-firewood approach to fare-setting by bankrupt carriers contributes to the toppling of previously-marginal carriers, creating a domino effect that is perfectly designed to bring the industry to its knees.</p>
+<p>Seth Schofield, who became CEO of USAir in 1991, is making major adjustments in the airline’s operations in order to improve its chances of being one of the few industry survivors. There is no tougher job in corporate America than running an airline: Despite the huge amounts of equity capital that have been injected into it, the industry, in aggregate, has posted a net loss since its birth after Kitty Hawk. Airline managers need brains, guts, and experience—and Seth possesses all three of these attributes.</p>
+<p><strong>Miscellaneous</strong></p>
+<p>About 97.7% of all eligible shares participated in Berkshire’s 1991 shareholder-designated contributions program. Contributions made through the program were $6.8 million, and 2,630 charities were recipients.</p>
+<p>We suggest that new shareholders read the description of our shareholder-designated contributions program that appears on pages 48-49. To participate in future programs, you must make sure your shares are registered in the name of the actual owner, not in the nominee name of a broker, bank or depository. Shares not so registered on August 31, 1992 will be ineligible for the 1992 program.</p>
+<p>In addition to the shareholder-designated contributions that Berkshire distributes, managers of our operating businesses make contributions, including merchandise, averaging about $1.5 million annually. These contributions support local charities, such as The United Way, and produce roughly commensurate benefits for our businesses.</p>
+<p>However, neither our operating managers nor officers of the parent company use Berkshire funds to make contributions to broad national programs or charitable activities of special personal interest to them, except to the extent they do so as shareholders. If your employees, including your CEO, wish to give to their alma maters or other institutions to which they feel a personal attachment, we believe they should use their own money, not yours.</p>
+<p>* * * * * * * * * * * *</p>
+<p>The faithful will notice that, for the first time in some years, Charlie’s annual letter to Wesco shareholders is not reprinted in this report. Since his letter is relatively barebones this year, Charlie said he saw no point in including it in these pages; my own recommendation, however, is that you get a copy of the Wesco report. Simply write: Corporate Secretary, Wesco Financial Corporation, 315 East Colorado Boulevard, Pasadena, CA 91101.</p>
+<p>* * * * * * * * * * * *</p>
+<p>Malcolm G. Chace, Jr., now 88, has decided not to stand for election as a director this year. But the association of the Chace family with Berkshire will not end: Malcolm III (Kim), Malcolm’s son, will be nominated to replace him.</p>
+<p>In 1931, Malcolm went to work for Berkshire Fine Spinning Associates, which merged with Hathaway Manufacturing Co. in 1955 to form our present company. Two years later, Malcolm became Berkshire Hathaway’s Chairman, a position he held as well in early 1965 when he made it possible for Buffett Partnership, Ltd. to buy a key block of Berkshire stock owned by some of his relatives. This purchase gave our partnership effective control of the company. Malcolm’s immediate family meanwhile kept its Berkshire stock and for the last 27 years has had the second-largest holding in the company, trailing only the Buffett family. Malcolm has been a joy to work with and we are delighted that the long-running relationship between the Chace family and Berkshire is continuing to a new generation.</p>
+<p>* * * * * * * * * * * *</p>
+<p>The annual meeting this year will be held at the Orpheum Theater in downtown Omaha at 9:30 a.m. on Monday, April 27, 1992. Attendance last year grew to a record 1,550, but that still leaves plenty of room at the Orpheum.</p>
+<p>We recommend that you get your hotel reservations early at one of these hotels: (1) The Radisson-Redick Tower, a small (88 rooms) but nice hotel across the street from the Orpheum; (2) the much larger Red Lion Hotel, located about a five-minute walk from the Orpheum; or (3) the Marriott, located in West Omaha about 100 yards from Borsheim’s and a twenty minute drive from downtown. We will have buses at the Marriott that will leave at 8:30 and 8:45 for the meeting and return after it ends.</p>
+<p>Charlie and I always enjoy the meeting, and we hope you can make it. The quality of our shareholders is reflected in the quality of the questions we get: We have never attended an annual meeting anywhere that features such a consistently high level of intelligent, owner-related questions.</p>
+<p>An attachment to our proxy material explains how you can obtain the card you will need for admission to the meeting. With the admission card, we will enclose information about parking facilities located near the Orpheum. If you are driving, come a little early. Nearby lots fill up quickly and you may have to walk a few blocks.</p>
+<p>As usual, we will have buses to take you to Nebraska Furniture Mart and Borsheim’s after the meeting and to take you from there to downtown hotels or the airport later. I hope that you will allow plenty of time to fully explore the attractions of both stores. Those of you arriving early can visit the Furniture Mart any day of the week; it is open from 10 a.m. to 5:30 p.m. on Saturdays and from noon to 5:30 p.m. on Sundays. While there, stop at the See’s Candy Cart and find out for yourself why Americans ate 26 million pounds of See’s products last year.</p>
+<p>Borsheim’s normally is closed on Sunday, but we will be open for shareholders and their guests from noon to 6 p.m. on Sunday, April 26. Borsheim’s will also have a special party the previous evening at which shareholders are welcome. (You must, however, write Mrs. Gladys Kaiser at our office for an invitation.) On display that evening will be a 150-year retrospective of the most exceptional timepieces made by Patek Philippe, including watches once owned by Queen Victoria, Pope Pius IX, Rudyard Kipling, Madame Curie and Albert Einstein. The centerpiece of the exhibition will be a $5 million watch whose design and manufacture required nine years of labor by Patek Philippe craftsmen. Along with the rest of the collection, this watch will be on display at the store on Sunday—unless Charlie has by then impulsively bought it.</p>
+<p>Nicholas Kenner nailed me—again—at last year’s meeting, pointing out that I had said in the 1990 annual report that he was 11 in May 1990, when actually he was 9. So, asked Nicholas rather caustically: “If you can’t get that straight, how do I know the numbers in the back [the financials] are correct?” I’m still searching for a snappy response. Nicholas will be at this year’s meeting—he spurned my offer of a trip to Disney World on that day—so join us to watch a continuation of this lop-sided battle of wits.</p>
+<p>February 28, 1992</p>
+<p>Warren E. BuffettChairman of the Board</p>
+<p>&nbsp;</p>
+<table class="letter-table" style="width:100%;border-collapse:collapse;margin:1.5em 0">
+<tr><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;"></th><th style="border:1px solid #ccc;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;">(000s omitted)</th></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">Issuer</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">Cost of Preferreds and Amortized Value of Bonds</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">Market</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">ACF Industries</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">$  93,918 (2)</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">$118,683</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">American Express</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">300,000</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">263,265</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">(1)(2)</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">Champion International</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">300,000 (2)</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">300,000</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">(1)</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">First Empire State</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">40,000</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">50,000</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">(1)(2)</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">RJR Nabisco</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">222,148 (2)</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">285,683</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">Salomon</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">700,000 (2)</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">714,000</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">(1)</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">USAir</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">358,000 (2)</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">232,700</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">(1)</td></tr>
+<tr><td style="border:1px solid #ccc;padding:8px;text-align:left;">Washington Public Power Systems</td><td style="border:1px solid #ccc;padding:8px;text-align:left;">158,553 (2)</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td><td style="border:1px solid #ccc;padding:8px;text-align:left;">203,071</td><td style="border:1px solid #ccc;padding:8px;text-align:left;"></td></tr>
+</table>`,
 
     concepts: ['intrinsic-value', 'moat', 'compounding', 'owner-earnings'],
     companies: ['berkshire-hathaway'],
