@@ -19,7 +19,7 @@ import {
   Home,
   ClipboardList,
 } from 'lucide-react'
-import { stats as letterStats } from '@/data/letters'
+import { stats as letterStats, allLetters } from '@/data/letters'
 import { concepts } from '@/data/concepts'
 import { companies } from '@/data/companies'
 import { people } from '@/data/people'
@@ -39,6 +39,23 @@ interface PrimaryLink {
   subLinks?: SubLink[]
 }
 
+function getLetterNavLabel(slug: string, type: string): string {
+  if (type === 'berkshire') return 'Shareholder Letter'
+  if (type === 'special') return 'Special Letter'
+  if (slug.includes('midyear') || slug.includes('mid-year')) return 'Mid-Year Letter'
+  if (slug.includes('controlled')) return 'Controlled Companies'
+  if (slug.includes('dissolution')) return 'Dissolution Follow-up'
+  if (slug.includes('commitment')) return 'Commitment Letter'
+  return 'Partnership Letter'
+}
+
+const letterSubLinks: SubLink[] = [...allLetters]
+  .sort((a, b) => a.year - b.year || a.slug.localeCompare(b.slug))
+  .map((letter) => ({
+    href: `/letters/${letter.slug}`,
+    label: `${letter.year} ${getLetterNavLabel(letter.slug, letter.type)}`,
+  }))
+
 const primaryLinks: PrimaryLink[] = [
   { href: '/', label: 'Home', icon: Home },
   {
@@ -46,11 +63,7 @@ const primaryLinks: PrimaryLink[] = [
     label: 'Letters',
     icon: BookOpen,
     count: letterStats.totalLetters,
-    subLinks: [
-      { href: '/letters#partnership', label: 'Partnership Letters' },
-      { href: '/letters#berkshire', label: 'Berkshire Letters' },
-      { href: '/letters#special', label: 'Special Letters' },
-    ],
+    subLinks: letterSubLinks,
   },
   { href: '/concepts',  label: 'Concepts',  icon: Lightbulb, count: concepts.length },
   { href: '/companies', label: 'Companies', icon: Building2, count: companies.length },
@@ -174,7 +187,7 @@ function CollapsibleNavItem({
         )}
       </button>
       {expanded && link.subLinks && (
-        <div className="ml-4 mt-0.5 space-y-0.5 border-l border-[#2D3A52] pl-3">
+        <div className="ml-4 mt-0.5 space-y-0.5 border-l border-[#2D3A52] pl-3 max-h-96 overflow-y-auto">
           {link.subLinks.map((sub) => {
             const subActive = pathname === sub.href || pathname.startsWith(sub.href.split('#')[0])
             return (
