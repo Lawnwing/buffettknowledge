@@ -11372,6 +11372,25 @@ export const berkshireLetters: Letter[] = [
     readingTimeMinutes: 8,
   },
   {
+    slug: '2012-berkshire-letter',
+    year: 2012,
+    type: 'berkshire',
+    title: 'Annual Letter - 2012',
+    date: '2012-02-01',
+    summary:
+      "2012 was a year of solid performance. Berkshire continued to grow through acquisitions and operating excellence.",
+    fullText: `[[PLACEHOLDER]]`,
+
+    concepts: ['intrinsic-value', 'moat', 'compounding', 'owner-earnings'],
+    companies: ['berkshire-hathaway'],
+    people: ['charlie-munger'],
+    crossReferences: [],
+    keyQuotes: [],
+    featured: false,
+    sourceUrl: 'https://www.berkshirehathaway.com/letters/2013.html',
+    readingTimeMinutes: 8,
+  },
+  {
     slug: '2013-berkshire-letter',
     year: 2013,
     type: 'berkshire',
