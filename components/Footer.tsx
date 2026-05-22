@@ -42,10 +42,11 @@ export function Footer() {
 
         {/* Disclaimer */}
         <div className="mt-6 pt-6" style={{ borderTop: '1px solid #E6E2D9' }}>
-          <p className="text-xs" style={{ color: '#A1A1AA' }}>
+          <p className="text-xs leading-relaxed" style={{ color: '#A1A1AA' }}>
             BuffettKnowledge is not affiliated with, endorsed by, or connected to Berkshire Hathaway Inc.,
             Warren Buffett, or Charlie Munger. All trademarks belong to their respective owners.
-            Letter texts are sourced from open-source archives and provided for educational purposes.
+            Letter texts are reproduced for educational and research purposes under fair use.
+            All original letter content © Warren E. Buffett / Berkshire Hathaway Inc.
           </p>
         </div>
       </div>

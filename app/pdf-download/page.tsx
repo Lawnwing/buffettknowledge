@@ -19,9 +19,7 @@ import {
   GraduationCap,
   Briefcase,
   DollarSign,
-  Shield,
   Clock,
-  CreditCard,
   HelpCircle,
   Sparkles,
   FileCheck,
@@ -75,16 +73,14 @@ export default function DownloadPage() {
   // JSON-LD
   const jsonLd: any = {
     '@context': 'https://schema.org',
-    '@type': 'Product',
-    name: 'Warren Buffett Letters - Complete Edited PDF Archive',
-    description: 'Professionally edited and formatted complete archive of Warren Buffett\'s partnership and Berkshire Hathaway shareholder letters, 1956-2025.',
+    '@type': 'WebPage',
+    name: 'Warren Buffett Letters - Complete Archive Download',
+    description: 'Download Warren Buffett\'s shareholder letters. Free individual letters. Complete edited archive available via voluntary donation.',
     url: 'https://buffettknowledge.com/pdf-download',
-    brand: { '@type': 'Brand', name: 'BuffettKnowledge' },
-    offers: {
-      '@type': 'Offer',
-      price: '29.00',
-      priceCurrency: 'USD',
-      availability: 'https://schema.org/InStock',
+    mainEntity: {
+      '@type': 'Dataset',
+      name: 'Warren Buffett Letters Archive',
+      description: 'Complete archive of Warren Buffett\'s partnership and Berkshire Hathaway letters, 1956-2025.',
     },
   }
 
@@ -93,7 +89,7 @@ export default function DownloadPage() {
       <JsonLd value={jsonLd} />
 
       {/* ════════════════════════════════════════════════════════
-          HERO SECTION — Paid product + free option
+          HERO SECTION — Donation model + free option
           ════════════════════════════════════════════════════════ */}
       <section className="relative overflow-hidden" style={{ backgroundColor: '#F9F7F3' }}>
         {/* Decorative background */}
@@ -118,7 +114,7 @@ export default function DownloadPage() {
 
               <h1 className="font-display text-3xl sm:text-4xl lg:text-5xl font-bold leading-tight mb-5" style={{ color: '#18181B' }}>
                 The Complete Warren Buffett Letters Archive
-                <span className="block" style={{ color: '#2D6A4F' }}>Professionally Edited PDF</span>
+                <span className="block" style={{ color: '#2D6A4F' }}>Get via Donation</span>
               </h1>
 
               <p className="text-base sm:text-lg leading-relaxed mb-4" style={{ color: '#52525B' }}>
@@ -127,22 +123,21 @@ export default function DownloadPage() {
                 assembled into a single, searchable PDF.
               </p>
               <p className="text-sm leading-relaxed mb-8" style={{ color: '#71717A' }}>
-                Free single-year downloads also available below.
+                Free single-year downloads also available below. The complete edited archive is available
+                to supporters who make a voluntary donation.
               </p>
 
-              {/* price + CTA */}
+              {/* donation CTA */}
               <div className="flex flex-wrap items-center gap-4 mb-8">
-                <div className="flex items-baseline gap-2">
-                  <span className="text-3xl font-display font-bold" style={{ color: '#2D6A4F' }}>$29</span>
-                  <span className="text-sm" style={{ color: '#71717A' }}>one-time</span>
-                </div>
                 <a
-                  href="#pricing"
+                  href="https://buymeacoffee.com/your-username"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 text-sm font-semibold px-6 py-3 rounded-xl text-white transition-all hover:shadow-lg hover:-translate-y-0.5"
                   style={{ backgroundColor: '#2D6A4F' }}
                 >
-                  <CreditCard className="w-4 h-4" />
-                  Buy Complete PDF
+                  <DollarSign className="w-4 h-4" />
+                  Donate to Get Complete PDF
                 </a>
                 <a
                   href="#free-downloads"
@@ -156,8 +151,8 @@ export default function DownloadPage() {
 
               {/* trust badges */}
               <div className="flex flex-wrap items-center gap-4 text-xs" style={{ color: '#71717A' }}>
-                <span className="flex items-center gap-1"><Check className="w-3.5 h-3.5" style={{ color: '#2D6A4F' }} /> Instant download</span>
-                <span className="flex items-center gap-1"><Check className="w-3.5 h-3.5" style={{ color: '#2D6A4F' }} /> PDF + EPUB included</span>
+                <span className="flex items-center gap-1"><Check className="w-3.5 h-3.5" style={{ color: '#2D6A4F' }} /> Complete edited PDF + EPUB</span>
+                <span className="flex items-center gap-1"><Check className="w-3.5 h-3.5" style={{ color: '#2D6A4F' }} /> Voluntary donation</span>
                 <span className="flex items-center gap-1"><Check className="w-3.5 h-3.5" style={{ color: '#2D6A4F' }} /> Free updates forever</span>
               </div>
             </div>
@@ -200,7 +195,7 @@ export default function DownloadPage() {
       </section>
 
       {/* ════════════════════════════════════════════════════════
-          WHAT'S INCLUDED (paid product features)
+          WHAT'S INCLUDED (supporter edition features)
           ════════════════════════════════════════════════════════ */}
       <section className="py-14 sm:py-16" style={{ backgroundColor: '#FFFFFF' }}>
         <div className="max-w-7xl mx-auto px-6 sm:px-10">
@@ -209,7 +204,7 @@ export default function DownloadPage() {
               What&apos;s Included
             </h2>
             <p className="text-base max-w-2xl mx-auto" style={{ color: '#52525B' }}>
-              One purchase gives you the complete, professionally edited archive — formatted
+              Supporting the project gives you the complete, professionally edited archive — formatted
               for serious study, printing, and offline reading.
             </p>
           </div>
@@ -254,7 +249,7 @@ export default function DownloadPage() {
               {
                 icon: Clock,
                 title: 'Free Lifetime Updates',
-                desc: 'When new letters are released each year, you get the updated file free. One purchase, lifetime access to the growing archive.',
+                desc: 'When new letters are released each year, you get the updated file free. One donation, lifetime access to the growing archive.',
                 color: '#DC2626',
                 bg: '#FEE2E2',
               },
@@ -369,7 +364,7 @@ export default function DownloadPage() {
       </section>
 
       {/* ════════════════════════════════════════════════════════
-          PRICING / PAID EXPLANATION
+          DONATION / GET COMPLETE PDF
           ════════════════════════════════════════════════════════ */}
       <section id="pricing" className="py-14 sm:py-16" style={{ backgroundColor: '#FFFFFF' }}>
         <div className="max-w-7xl mx-auto px-6 sm:px-10">
@@ -378,44 +373,46 @@ export default function DownloadPage() {
             {/* section header */}
             <div className="text-center mb-10">
               <h2 className="font-display text-2xl sm:text-3xl font-bold mb-3" style={{ color: '#18181B' }}>
-                Simple, One-Time Purchase
+                Get the Complete PDF — Donation-Based
               </h2>
               <p className="text-base" style={{ color: '#52525B' }}>
-                No subscription. No recurring fees. One payment, lifetime access.
+                This site is sustained by voluntary donations. Supporters receive the complete,
+                professionally edited PDF + EPUB archive. Any amount is appreciated.
               </p>
             </div>
 
-            {/* pricing card */}
+            {/* donation card */}
             <div
               className="rounded-2xl p-8 sm:p-10 border-2 relative overflow-hidden"
               style={{ borderColor: '#2D6A4F', backgroundColor: '#F9F7F3' }}
             >
-              {/* popular badge */}
+              {/* supporter badge */}
               <div className="absolute top-5 right-5">
                 <div
                   className="text-[11px] font-bold px-3 py-1 rounded-full"
                   style={{ backgroundColor: '#2D6A4F', color: '#FFFFFF' }}
                 >
-                  MOST POPULAR
+                  SUPPORTER SPECIAL
                 </div>
               </div>
 
               <div className="flex flex-col sm:flex-row sm:items-end gap-4 mb-6">
                 <div>
                   <div className="font-display text-4xl sm:text-5xl font-bold" style={{ color: '#2D6A4F' }}>$29</div>
-                  <div className="text-sm" style={{ color: '#71717A' }}>one-time payment</div>
+                  <div className="text-sm" style={{ color: '#71717A' }}>suggested donation</div>
                 </div>
                 <div className="text-sm" style={{ color: '#52525B' }}>
                   <span className="line-through" style={{ color: '#A1A1AA' }}>$49</span>
-                  <span className="ml-2 font-semibold" style={{ color: '#2D6A4F' }}>Launch Price</span>
+                  <span className="ml-2 font-semibold" style={{ color: '#2D6A4F' }}>Launch Special</span>
                 </div>
               </div>
 
               <h3 className="font-display text-xl font-semibold mb-1" style={{ color: '#18181B' }}>
-                Complete Edited PDF Archive
+                Complete Edited PDF + EPUB Archive
               </h3>
               <p className="text-sm mb-6" style={{ color: '#71717A' }}>
-                All {stats.totalLetters} letters, professionally edited, PDF + EPUB formats
+                All {stats.totalLetters} letters, professionally edited, both formats.
+                Any donation amount grants access — suggested: $29.
               </p>
 
               {/* feature list */}
@@ -427,8 +424,7 @@ export default function DownloadPage() {
                   'Print-ready formatting (perfect for home printing)',
                   'EPUB version included (Kindle, iPad, e-reader)',
                   'Free updates when new letters are released',
-                  'Instant download after purchase',
-                  '30-day money-back guarantee',
+                  'Access after donation — no account required',
                 ].map((feature) => (
                   <div key={feature} className="flex items-start gap-3">
                     <Check className="w-5 h-5 flex-shrink-0 mt-0.5" style={{ color: '#2D6A4F' }} />
@@ -437,35 +433,34 @@ export default function DownloadPage() {
                 ))}
               </div>
 
-              {/* CTA button — links to payment processor */}
+              {/* CTA button — links to donation platform */}
               <a
-                href="https://checkout.stripe.com/your-link-here"
+                href="https://buymeacoffee.com/your-username"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full text-center text-base font-semibold px-8 py-4 rounded-xl text-white transition-all hover:shadow-xl hover:-translate-y-0.5"
                 style={{ backgroundColor: '#2D6A4F' }}
               >
                 <span className="inline-flex items-center gap-2">
-                  <CreditCard className="w-5 h-5" />
-                  Buy Now — $29
+                  <DollarSign className="w-5 h-5" />
+                  Donate to Get Access
                 </span>
               </a>
 
-              {/* payment badges */}
+              {/* donation badges */}
               <div className="flex items-center justify-center gap-3 mt-4 text-xs" style={{ color: '#A1A1AA' }}>
-                <Shield className="w-3.5 h-3.5" />
-                Secure payment via Stripe
+                Secure donation via Buy Me a Coffee
                 <span className="mx-1">·</span>
-                30-day refund guarantee
+                No account required
               </div>
             </div>
 
-            {/* alternative: free option reminder */}
+            {/* free alternative reminder */}
             <div className="mt-8 text-center">
               <p className="text-sm" style={{ color: '#71717A' }}>
-                Want to try before you buy?{' '}
+                Prefer to just download individual letters? They&apos;re 100% free — no donation required.{' '}
                 <a href="#free-downloads" className="font-medium underline" style={{ color: '#2D6A4F' }}>
-                  Download any single letter for free
+                  Browse free downloads below
                 </a>.
               </p>
             </div>
@@ -497,7 +492,7 @@ export default function DownloadPage() {
               Every letter is free to download individually. No sign-up required.
               Want the complete edited archive?{' '}
               <a href="#pricing" className="font-medium underline" style={{ color: '#2D6A4F' }}>
-                Upgrade to the paid version
+                Support us via donation
               </a>.
             </p>
           </div>
@@ -657,32 +652,32 @@ export default function DownloadPage() {
             <div className="space-y-3">
               {[
                 {
-                  q: 'What is the difference between the free and paid versions?',
-                  a: 'Free downloads are generated on-demand from our archive and are functional but unedited. The paid Complete PDF ($29) is a professionally edited, cleaned, and formatted file with proper headings, corrected spelling, print-ready formatting, and both PDF + EPUB formats. It represents hundreds of hours of careful editing work.',
+                  q: 'What is the difference between free and donation-based access?',
+                  a: 'Free downloads are generated on-demand from our archive and are functional but unedited. Supporters who make a voluntary donation receive the complete, professionally edited PDF + EPUB archive — hundreds of hours of careful editing in one file.',
                 },
                 {
-                  q: 'How do I receive the paid PDF after purchase?',
-                  a: 'After your payment is processed, you will receive an email with download links immediately. The links remain active for 30 days, and you can re-download the files as we release updates.',
-                },
-                {
-                  q: 'Is there a money-back guarantee?',
-                  a: 'Yes. If you are not satisfied with the quality of the edited PDF, contact us within 30 days of purchase for a full refund. No questions asked.',
+                  q: 'How do I get the complete PDF after donating?',
+                  a: 'After your donation is processed via Buy Me a Coffee, you will receive an email with download links immediately. The links remain active for 30 days, and you can re-download the files as we release updates.',
                 },
                 {
                   q: 'Are the free downloads really free?',
-                  a: 'Yes. Single letters and era bundles are free to download. Warren Buffett\'s shareholder letters are in the public domain. We provide the free downloads as a service to the investment community.',
+                  a: 'Yes. Single letters and era bundles are 100% free to download. No donation required. Warren Buffett\'s shareholder letters are in the public domain — we provide free downloads as a service to the investment community.',
                 },
                 {
                   q: 'What format are the files?',
-                  a: 'The paid product includes both PDF (best for printing and desktop reading) and EPUB (best for Kindle, iPad, and e-readers). Free downloads are available in both formats as well.',
+                  a: 'The supporter edition includes both PDF (best for printing and desktop reading) and EPUB (best for Kindle, iPad, and e-readers). Free individual downloads are also available in both formats.',
                 },
                 {
                   q: 'How are the files generated?',
-                  a: 'Free downloads are generated directly in your browser using the letter content from our archive. The paid PDF is a pre-edited, professionally formatted file that you download after purchase.',
+                  a: 'Free downloads are generated directly in your browser using letter content from our archive. The supporter edition is a pre-edited, professionally formatted file delivered after donation.',
                 },
                 {
                   q: 'Do you offer updates when new letters are released?',
-                  a: 'Yes. Berkshire Hathaway publishes a new letter each year (usually in February). If you purchased the Complete PDF, you will receive the updated file free of charge. Just email us with your order number.',
+                  a: 'Yes. Berkshire Hathaway publishes a new letter each year (usually in February). If you donated for the Complete PDF, you will receive the updated file free of charge — just email us with your donation receipt.',
+                },
+                {
+                  q: 'Is my donation tax-deductible?',
+                  a: 'No. This is a voluntary contribution to support the project, not a registered charity. You receive the edited PDF + EPUB as a token of appreciation, not as a purchased product.',
                 },
               ].map((faq, i) => (
                 <div
@@ -706,16 +701,16 @@ export default function DownloadPage() {
         <aside className="hidden lg:block">
           <div className="sticky top-24 space-y-6">
 
-            {/* Upgrade CTA */}
+            {/* Support CTA */}
             <div
               className="rounded-xl p-5 border"
               style={{ backgroundColor: '#ECFDF5', borderColor: '#6EE7B7' }}
             >
               <h3 className="font-display text-sm font-semibold mb-2" style={{ color: '#065F46' }}>
-                Upgrade to Complete PDF
+                Support Us / Get Complete PDF
               </h3>
               <p className="text-xs leading-relaxed mb-3" style={{ color: '#065F46' }}>
-                Get the professionally edited, print-ready archive. $29 one-time.
+                Make a voluntary donation and receive the complete, professionally edited archive.
               </p>
               <a
                 href="#pricing"
