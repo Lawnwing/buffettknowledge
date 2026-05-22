@@ -11163,6 +11163,25 @@ export const berkshireLetters: Letter[] = [
     readingTimeMinutes: 8,
   },
   {
+    slug: '1999-berkshire-letter',
+    year: 1999,
+    type: 'berkshire',
+    title: 'Acquisition Excellence - 1999',
+    date: '1999-02-01',
+    summary:
+      "1999 was a year of continued growth and discipline. Berkshire's operating businesses performed well, and acquisition strategy remained focused on quality.",
+    fullText: `[[PLACEHOLDER]]`,
+
+    concepts: ['intrinsic-value', 'moat', 'compounding', 'owner-earnings'],
+    companies: ['berkshire-hathaway'],
+    people: ['charlie-munger'],
+    crossReferences: [],
+    keyQuotes: [],
+    featured: false,
+    sourceUrl: 'https://www.berkshirehathaway.com/letters/1999.html',
+    readingTimeMinutes: 8,
+  },
+  {
     slug: '2000-berkshire-letter',
     year: 2000,
     type: 'berkshire',
