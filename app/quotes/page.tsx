@@ -26,7 +26,7 @@ export default function QuotesPage() {
 
       {/* Hero */}
       <div className="px-6 sm:px-10 py-12" style={{ backgroundColor: '#F0FFF4', borderBottom: '1px solid #E6E2D9' }}>
-        <div className="max-w-4xl mx-auto">
+        <div >
           <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-medium mb-4"
             style={{ backgroundColor: '#E9F5EF', color: '#2D6A4F' }}>
             <Quote className="w-3 h-3" />
@@ -35,7 +35,7 @@ export default function QuotesPage() {
           <h1 className="font-display text-3xl sm:text-4xl font-bold mb-4" style={{ color: '#18181B' }}>
             Warren Buffett <span style={{ color: '#2D6A4F' }}>Quotes</span>
           </h1>
-          <p className="text-base leading-relaxed text-justify max-w-2xl" style={{ color: '#3F3F46', hyphens: 'auto' }}>
+          <p className="text-base leading-relaxed text-justify " style={{ color: '#3F3F46', hyphens: 'auto' }}>
             The most famous, insightful, and witty things Warren Buffett has ever said.
             Categorized by topic: investing, business, and life wisdom.
           </p>
@@ -45,7 +45,7 @@ export default function QuotesPage() {
       {/* Featured Quotes */}
       {featured.length > 0 && (
         <div className="px-6 sm:px-10 py-10" style={{ backgroundColor: '#fff' }}>
-          <div className="max-w-4xl mx-auto">
+          <div >
             <h2 className="font-display text-xl font-bold mb-6" style={{ color: '#18181B' }}>
               Featured Quotes
             </h2>
@@ -77,7 +77,7 @@ export default function QuotesPage() {
 
       {/* Quotes by Topic */}
       <div className="px-6 sm:px-10 py-10" style={{ backgroundColor: '#F9F7F3' }}>
-        <div className="max-w-4xl mx-auto">
+        <div >
           <h2 className="font-display text-xl font-bold mb-6" style={{ color: '#18181B' }}>
             Browse by Topic
           </h2>
@@ -112,7 +112,7 @@ export default function QuotesPage() {
 
       {/* AdSense */}
       <div className="px-6 sm:px-10 py-8" style={{ backgroundColor: '#fff' }}>
-        <div className="max-w-4xl mx-auto">
+        <div >
           <AdUnit variant="horizontal" />
         </div>
       </div>

@@ -12,8 +12,8 @@ export function Footer() {
               BuffettKnowledge
             </div>
             <p className="text-sm" style={{ color: '#71717A' }}>
-              The definitive English archive of Warren Buffett&apos;s shareholder letters (1956–2025).
-              Built for serious value investors.
+              The definitive English archive of Warren Buffett&apos;s wisdom — letters, meetings, speeches, books, and quotes.
+              Build for serious value investors.
             </p>
           </div>
 

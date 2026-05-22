@@ -495,7 +495,7 @@ function SidebarContent({
               <span className="text-white">Knowledge</span>
             </div>
             <div className="text-xs mt-0.5" style={{ color: '#8B9BB4' }}>
-              Built for value investors.
+              Build for value investors.
             </div>
           </div>
         </div>

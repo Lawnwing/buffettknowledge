@@ -10,6 +10,10 @@ import { ChatWidget } from '@/components/ChatWidget'
 import { stats } from '@/data/letters'
 import { concepts } from '@/data/concepts'
 import { companies } from '@/data/companies'
+import { meetings } from '@/data/meetings'
+import { speeches } from '@/data/speeches'
+import { books } from '@/data/books'
+import { quotes } from '@/data/quotes'
 
 const playfairDisplay = Playfair_Display({
   subsets: ['latin'],
@@ -37,7 +41,7 @@ const jsonLdWebSite = {
   "@type": "WebSite",
   name: "BuffettKnowledge",
   url: "https://buffettknowledge.com",
-  description: `The most comprehensive English archive of Warren Buffett's shareholder letters (1956–2025). Explore ${stats.totalLetters} letters, ${concepts.length} investment concepts, ${companies.length} companies, and cross-references across ${stats.yearsCovered} years.`,
+  description: `The most comprehensive English archive of Warren Buffett's wisdom (1956–2025). Explore ${stats.totalLetters} shareholder letters, ${meetings.length} annual meetings, ${speeches.length} speeches, ${books.length} recommended books, and ${quotes.length} quotes — all cross-referenced and searchable.`,
   inLanguage: "en",
   publisher: {
     "@type": "Organization",
@@ -58,15 +62,19 @@ const jsonLdOrganization = {
 export const metadata: Metadata = {
   metadataBase: new URL('https://buffettknowledge.com'),
   title: {
-    default: 'BuffettKnowledge — Warren Buffett Shareholder Letters Archive',
+    default: 'BuffettKnowledge — Warren Buffett Wisdom Archive',
     template: '%s | BuffettKnowledge',
   },
   description:
-    `The most comprehensive English archive of Warren Buffett's shareholder letters (1956–2025). Explore ${stats.totalLetters} letters, ${concepts.length} investment concepts, ${companies.length} companies, and cross-references across ${stats.yearsCovered} years.`,
+    `The most comprehensive English archive of Warren Buffett's wisdom (1956–2025). Explore ${stats.totalLetters} shareholder letters, ${meetings.length} annual meetings, ${speeches.length} speeches, ${books.length} recommended books, and ${quotes.length} quotes — all cross-referenced and searchable.`,
   keywords: [
     'Warren Buffett shareholder letters',
     'Berkshire Hathaway letters',
     'Buffett partnership letters',
+    'Buffett annual meetings',
+    'Warren Buffett speeches',
+    'Buffett recommended books',
+    'Warren Buffett quotes',
     'value investing',
     'Buffett letters archive',
     'Buffett concepts',
@@ -79,15 +87,15 @@ export const metadata: Metadata = {
     locale: 'en_US',
     url: 'https://buffettknowledge.com',
     siteName: 'BuffettKnowledge',
-    title: 'BuffettKnowledge — Warren Buffett Shareholder Letters Archive',
+    title: 'BuffettKnowledge — Warren Buffett Wisdom Archive',
     description:
-      "70 years of investment wisdom. 90+ letters. 3,939+ cross-references. The definitive English archive of Buffett's shareholder letters.",
+      `70 years of investment wisdom. ${stats.totalLetters}+ letters. ${meetings.length}+ annual meetings. ${speeches.length}+ speeches. The definitive English archive of Buffett's wisdom.`,
     images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'BuffettKnowledge' }],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'BuffettKnowledge — Warren Buffett Shareholder Letters Archive',
-    description: "The most comprehensive English archive of Warren Buffett's shareholder letters (1956–2025).",
+    title: 'BuffettKnowledge — Warren Buffett Wisdom Archive',
+    description: "The most comprehensive English archive of Warren Buffett's wisdom (1956–2025). Letters, meetings, speeches, books, and quotes.",
     images: ['/og-image.png'],
   },
   robots: {

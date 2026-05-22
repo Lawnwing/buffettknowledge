@@ -1,21 +1,28 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
-import { ExternalLink, Github, BookOpen, Network, Search, Lightbulb, ArrowRight, Mail, MessageCircle, FileText, Building2, Users, Zap } from 'lucide-react'
+import { ExternalLink, Github, BookOpen, Network, Search, Lightbulb, ArrowRight, Mail, MessageCircle, FileText, Building2, Users, Zap, Calendar, Megaphone, Quote } from 'lucide-react'
 import { JsonLd } from '@/components/JsonLd'
 import { AdUnit } from '@/components/AdUnit'
 import { stats } from '@/data/letters'
 import { concepts } from '@/data/concepts'
 import { companies } from '@/data/companies'
 import { people } from '@/data/people'
+import { meetings, stats as meetingStats } from '@/data/meetings'
+import { speeches, stats as speechStats } from '@/data/speeches'
+import { books, stats as bookStats } from '@/data/books'
+import { quotes, stats as quoteStats } from '@/data/quotes'
 
 export const metadata: Metadata = {
   title: 'About',
   description:
-    'About BuffettKnowledge — the most comprehensive English archive of Warren Buffett shareholder letters (1956–2025), built for serious value investors. Explore 90+ letters, 150+ concepts, and AI-powered Q&A.',
+    'About BuffettKnowledge — the most comprehensive English archive of Warren Buffett wisdom (1956–2025). Explore shareholder letters, annual meetings, speeches, recommended books, and quotes.',
   keywords: [
     'Warren Buffett letters archive',
     'Berkshire Hathaway shareholder letters',
     'Buffett partnership letters',
+    'Buffett annual meetings',
+    'Warren Buffett speeches',
+    'Buffett recommended books',
     'value investing resources',
     'Buffett knowledge base',
     'Warren Buffett educational archive',
@@ -28,6 +35,16 @@ const features = [
     icon: BookOpen,
     title: '70 Years of Letters',
     desc: 'Every partnership letter (1956–1970), Berkshire shareholder letter (1971–2025), and key special letter — fully indexed and searchable.',
+  },
+  {
+    icon: Calendar,
+    title: 'Annual Meetings',
+    desc: 'Full transcripts and key Q&A highlights from Berkshire Hathaway annual meetings (2015–2025). Buffett\'s most candid moments.',
+  },
+  {
+    icon: Megaphone,
+    title: 'Famous Speeches',
+    desc: 'Buffett\'s most influential talks — from the Florida MBA lecture to the Superinvestors of Graham-and-Doddsville.',
   },
   {
     icon: Network,
@@ -48,11 +65,13 @@ const features = [
 
 const included = [
   `${stats.totalLetters} partnership & Berkshire shareholder letters (1956–2025)`,
+  `${meetingStats.totalMeetings} annual meeting transcripts with Q&A highlights`,
+  `${speechStats.totalSpeeches} famous speeches with background & impact analysis`,
+  `${bookStats.totalBooks} books recommended by Buffett with original commentary`,
+  `${quoteStats.totalQuotes} quotes categorized by topic`,
   `${concepts.length} investment concepts with cross-reference tags`,
   `${companies.length} company profiles with mention timelines`,
   `${people.length} key people — from Graham to Munger to Abel`,
-  '3,900+ cross-references between letters, concepts, and companies',
-  'Key quotes extracted from every letter',
   'Interactive knowledge graph — explore concept relationships visually',
   'AI Q&A — ask questions in plain English',
 ]
@@ -70,6 +89,10 @@ const sources = [
 
 const quickLinks = [
   { href: '/letters', label: 'Browse Letters', icon: BookOpen, count: stats.totalLetters },
+  { href: '/meetings', label: 'Annual Meetings', icon: Calendar, count: meetingStats.totalMeetings },
+  { href: '/speeches', label: 'Speeches', icon: Megaphone, count: speechStats.totalSpeeches },
+  { href: '/books', label: 'Recommended Books', icon: BookOpen, count: bookStats.totalBooks },
+  { href: '/quotes', label: 'Quotes', icon: Quote, count: quoteStats.totalQuotes },
   { href: '/concepts', label: 'Explore Concepts', icon: Lightbulb, count: concepts.length },
   { href: '/companies', label: 'View Companies', icon: Building2, count: companies.length },
   { href: '/people', label: 'Meet the People', icon: Users, count: people.length },
@@ -79,7 +102,7 @@ const quickLinks = [
 const faqs = [
   {
     question: 'What is BuffettKnowledge?',
-    answer: 'BuffettKnowledge is the most comprehensive English-language archive of Warren Buffett\'s shareholder letters, spanning from his first Partnership letter in 1956 to the 2025 farewell. Every letter is tagged with investment concepts, companies, and people mentioned, creating a fully cross-referenced knowledge base for value investors.',
+    answer: 'BuffettKnowledge is the most comprehensive English-language archive of Warren Buffett\'s wisdom, spanning from his first Partnership letter in 1956 to the 2025 farewell. The archive includes shareholder letters, annual meeting transcripts, famous speeches, recommended books, and quotes — all tagged with investment concepts, companies, and people mentioned, creating a fully cross-referenced knowledge base for value investors.',
   },
   {
     question: 'Is this archive free to use?',
@@ -148,7 +171,7 @@ export default function AboutPage() {
             About BuffettKnowledge
           </h1>
           <p className="text-base mb-8" style={{ color: '#71717A' }}>
-            Built for investors who want more than quotes.
+            Build for investors who want more than quotes.
           </p>
 
           {/* Hero Quote */}
@@ -158,9 +181,9 @@ export default function AboutPage() {
           >
             <p className="text-white/85 text-lg leading-relaxed text-justify">
               The most comprehensive English-language archive of Warren Buffett&apos;s
-              shareholder letters — from the first Partnership letter in 1956 to the
-              2025 farewell. Every concept, company, and person is tagged, linked, and
-              explorable.
+              wisdom — from the first Partnership letter in 1956 to the 2025 farewell.
+              Letters, annual meetings, speeches, books, and quotes — all tagged,
+              linked, and explorable.
             </p>
           </div>
 
@@ -243,12 +266,24 @@ export default function AboutPage() {
                 desc: 'See every Berkshire position and major holding. Each page shows all letters mentioning that company.',
               },
               {
+                label: 'Meetings',
+                desc: 'Explore annual meeting transcripts with key Q&A highlights from Omaha (2015–2025).',
+              },
+              {
+                label: 'Speeches',
+                desc: 'Read Buffett\'s most influential talks with background context and impact analysis.',
+              },
+              {
+                label: 'Books',
+                desc: 'Discover the books Buffett has publicly recommended, with his own commentary on why they matter.',
+              },
+              {
                 label: 'Graph',
                 desc: 'Visualize connections between concepts. Zoom, pan, and click any node to dive into that concept.',
               },
               {
                 label: 'Ask AI',
-                desc: 'Type any question about Buffett\'s letters. The AI retrieves relevant passages and answers in its own words.',
+                desc: 'Type any question about Buffett\'s letters, meetings, or speeches. The AI retrieves relevant passages and answers in its own words.',
               },
             ].map((item) => (
               <div key={item.label}>
@@ -399,9 +434,9 @@ export default function AboutPage() {
             <div className="grid grid-cols-2 gap-3">
               {[
                 { label: 'Letters', value: stats.totalLetters },
-                { label: 'Concepts', value: concepts.length },
-                { label: 'Companies', value: companies.length },
-                { label: 'People', value: people.length },
+                { label: 'Meetings', value: meetingStats.totalMeetings },
+                { label: 'Books', value: bookStats.totalBooks },
+                { label: 'Quotes', value: quoteStats.totalQuotes },
               ].map((stat) => (
                 <div
                   key={stat.label}

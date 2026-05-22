@@ -22,7 +22,7 @@ export default function BooksPage() {
 
       {/* Hero */}
       <div className="px-6 sm:px-10 py-12" style={{ backgroundColor: '#F0FFF4', borderBottom: '1px solid #E6E2D9' }}>
-        <div className="max-w-4xl mx-auto">
+        <div >
           <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-medium mb-4"
             style={{ backgroundColor: '#E9F5EF', color: '#2D6A4F' }}>
             <BookOpen className="w-3 h-3" />
@@ -31,7 +31,7 @@ export default function BooksPage() {
           <h1 className="font-display text-3xl sm:text-4xl font-bold mb-4" style={{ color: '#18181B' }}>
             Books <span style={{ color: '#2D6A4F' }}>Buffett Recommends</span>
           </h1>
-          <p className="text-base leading-relaxed text-justify max-w-2xl" style={{ color: '#3F3F46', hyphens: 'auto' }}>
+          <p className="text-base leading-relaxed text-justify " style={{ color: '#3F3F46', hyphens: 'auto' }}>
             Warren Buffett is a voracious reader — he claims to spend 80% of his working day reading.
             Here are the books he has publicly recommended, with his own commentary on why they matter.
           </p>
@@ -41,7 +41,7 @@ export default function BooksPage() {
       {/* Featured */}
       {featured.length > 0 && (
         <div className="px-6 sm:px-10 py-10" style={{ backgroundColor: '#fff' }}>
-          <div className="max-w-4xl mx-auto">
+          <div >
             <h2 className="font-display text-xl font-bold mb-6" style={{ color: '#18181B' }}>
               Featured Books
             </h2>
@@ -70,7 +70,7 @@ export default function BooksPage() {
 
       {/* All Books Grid */}
       <div className="px-6 sm:px-10 py-10" style={{ backgroundColor: '#F9F7F3' }}>
-        <div className="max-w-4xl mx-auto">
+        <div >
           <h2 className="font-display text-xl font-bold mb-6" style={{ color: '#18181B' }}>
             All Books
           </h2>
@@ -95,7 +95,7 @@ export default function BooksPage() {
 
       {/* AdSense */}
       <div className="px-6 sm:px-10 py-8" style={{ backgroundColor: '#fff' }}>
-        <div className="max-w-4xl mx-auto">
+        <div >
           <AdUnit variant="horizontal" />
         </div>
       </div>

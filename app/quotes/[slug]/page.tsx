@@ -42,7 +42,7 @@ export default function QuoteDetailPage({ params }: PageProps) {
 
       {/* Hero */}
       <div className="px-6 sm:px-10 py-10" style={{ backgroundColor: '#F0FFF4', borderBottom: '1px solid #E6E2D9' }}>
-        <div className="max-w-4xl mx-auto">
+        <div >
           <Link href="/quotes" className="inline-flex items-center gap-1 text-sm mb-4 hover:underline"
             style={{ color: '#2D6A4F' }}>
             <ArrowLeft className="w-3.5 h-3.5" /> Back to All Quotes
@@ -66,7 +66,7 @@ export default function QuoteDetailPage({ params }: PageProps) {
       {/* Context */}
       {quote.context && (
         <div className="px-6 sm:px-10 py-10" style={{ backgroundColor: '#fff' }}>
-          <div className="max-w-4xl mx-auto">
+          <div >
             <h2 className="font-display text-2xl font-bold mb-6" style={{ color: '#18181B' }}>
               Context
             </h2>
@@ -81,7 +81,7 @@ export default function QuoteDetailPage({ params }: PageProps) {
 
       {/* Topics */}
       <div className="px-6 sm:px-10 py-10" style={{ backgroundColor: '#F9F7F3' }}>
-        <div className="max-w-4xl mx-auto">
+        <div >
           <h2 className="font-display text-2xl font-bold mb-6" style={{ color: '#18181B' }}>
             Topics
           </h2>
@@ -98,14 +98,14 @@ export default function QuoteDetailPage({ params }: PageProps) {
 
       {/* AdSense */}
       <div className="px-6 sm:px-10 py-8" style={{ backgroundColor: '#fff' }}>
-        <div className="max-w-4xl mx-auto">
+        <div >
           <AdUnit variant="horizontal" />
         </div>
       </div>
 
       {/* Related Content */}
       <div className="px-6 sm:px-10 py-10" style={{ backgroundColor: '#F9F7F3' }}>
-        <div className="max-w-4xl mx-auto">
+        <div >
           <h2 className="font-display text-2xl font-bold mb-6" style={{ color: '#18181B' }}>
             Related Content
           </h2>

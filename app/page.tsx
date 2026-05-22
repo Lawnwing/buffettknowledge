@@ -20,8 +20,8 @@ import { quotes } from '@/data/quotes'
 const jsonLdHome = {
   '@context': 'https://schema.org',
   '@type': 'CollectionPage',
-  name: 'BuffettKnowledge — Warren Buffett Shareholder Letters Archive',
-  description: `Explore ${stats.totalLetters} Warren Buffett shareholder letters (${partnershipLetters[0]?.year}–${berkshireLetters[berkshireLetters.length - 1]?.year}), ${concepts.length} investment concepts, ${companies.length} companies, and ${people.length} key people.`,
+  name: 'BuffettKnowledge — Warren Buffett Wisdom Archive',
+  description: `Explore ${stats.totalLetters} shareholder letters, ${meetings.length} annual meetings, ${speeches.length} speeches, ${books.length} recommended books, and ${quotes.length} quotes from Warren Buffett (${partnershipLetters[0]?.year}–${berkshireLetters[berkshireLetters.length - 1]?.year}).`,
   url: 'https://buffettknowledge.com',
   isPartOf: { '@type': 'WebSite', url: 'https://buffettknowledge.com' },
 }
@@ -59,24 +59,24 @@ export default function HomePage() {
 
               <h1 className="font-display text-3xl sm:text-4xl lg:text-[2.6rem] font-bold mb-4 leading-tight"
                 style={{ color: '#18181B' }}>
-                The Definitive <span style={{ color: '#2D6A4F' }}>Buffett Letters Archive</span>
+                The Definitive <span style={{ color: '#2D6A4F' }}>Buffett Knowledge Archive</span>
               </h1>
 
               <p className="text-base leading-relaxed mb-8 text-justify"
                 style={{ color: '#3F3F46', hyphens: 'auto' }}>
-                The most comprehensive English archive of Buffett&apos;s shareholder letters.
-                Explore {stats.totalLetters} letters spanning {stats.yearsCovered} years,
-                {concepts.length} investment concepts, {companies.length} companies,
-                and {people.length} key people — all cross-referenced and searchable.
+                The most comprehensive English archive of Warren Buffett&apos;s wisdom.
+                Explore {stats.totalLetters} shareholder letters, {meetings.length} annual meetings,
+                {speeches.length} speeches, {books.length} recommended books, and {quotes.length} quotes
+                — spanning {stats.yearsCovered} years of investment insight.
               </p>
 
               {/* Stats row — unique metrics, not duplicated in feature cards */}
               <div className="flex flex-wrap gap-0 mb-10">
                 {[
                   { value: stats.yearsCovered + '', label: 'Years of Wisdom' },
-                  { value: '3,900+', label: 'Cross-References' },
-                  { value: partnershipLetters.length + '', label: 'Partnership Letters' },
-                  { value: berkshireLetters.length + '', label: 'Berkshire Letters' },
+                  { value: stats.totalLetters + '', label: 'Shareholder Letters' },
+                  { value: meetings.length + '', label: 'Annual Meetings' },
+                  { value: books.length + '', label: 'Recommended Books' },
                 ].map((s, i) => (
                   <div key={s.label}
                     className="flex-1 min-w-[100px] text-center py-3 px-2"
@@ -204,9 +204,45 @@ export default function HomePage() {
         </div>
       </div>
 
-      {/* ═══════════════════════════════════════════════
-          FEATURED LETTERS
-          ═══════════════════════════════════════════════ */}
+      {/* EXPANDED CONTENT CARDS */}
+      <div className="px-6 sm:px-10 py-10 w-full">
+        <div className="mb-6">
+          <h2 className="font-display text-2xl font-bold mb-1" style={{ color: '#18181B' }}>
+            More Wisdom
+          </h2>
+          <p className="text-sm" style={{ color: '#71717A' }}>
+            Explore Buffett&apos;s insights beyond the letters
+          </p>
+        </div>
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          {[
+            { icon: Calendar, label: 'Annual Meetings', count: meetings.length, desc: 'Q&A transcripts', href: '/meetings', color: '#2D6A4F', bg: '#E9F5EF' },
+            { icon: Megaphone, label: 'Speeches', count: speeches.length, desc: 'Famous talks', href: '/speeches', color: '#7C3AED', bg: '#EDE9FE' },
+            { icon: BookOpen, label: 'Books', count: books.length, desc: 'Buffett recommends', href: '/books', color: '#1D4ED8', bg: '#DBEAFE' },
+            { icon: Quote, label: 'Quotes', count: quotes.length, desc: 'Famous sayings', href: '/quotes', color: '#D97706', bg: '#FEF3C7' },
+          ].map((item) => (
+            <Link
+              key={item.label}
+              href={item.href}
+              className="group rounded-xl border p-5 transition-all hover:shadow-md hover:-translate-y-0.5"
+              style={{ borderColor: '#E6E2D9', backgroundColor: '#fff' }}
+            >
+              <div className="flex items-center justify-between mb-3">
+                <div className="inline-flex items-center justify-center w-10 h-10 rounded-lg"
+                  style={{ backgroundColor: item.bg }}>
+                  <item.icon className="w-5 h-5" style={{ color: item.color }} />
+                </div>
+                <ArrowRight className="w-4 h-4 transition-transform group-hover:translate-x-0.5" style={{ color: '#A1A1AA' }} />
+              </div>
+              <div className="font-display text-xl font-bold" style={{ color: '#18181B' }}>{item.count}</div>
+              <div className="text-sm font-medium" style={{ color: '#18181B' }}>{item.label}</div>
+              <div className="text-xs mt-0.5" style={{ color: '#71717A' }}>{item.desc}</div>
+            </Link>
+          ))}
+        </div>
+      </div>
+
+      {/* FEATURED LETTERS */}
       <div className="px-6 sm:px-10 py-12 w-full">
         <div className="flex items-center justify-between mb-8">
           <div>
