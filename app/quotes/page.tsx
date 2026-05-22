@@ -78,12 +78,11 @@ export default function QuotesPage() {
   const byTopic = (topic: string) => quotes.filter((q) => q.topicTags.includes(topic) && !q.featured)
 
   return (
-    <div>
+    <div className="max-w-7xl mx-auto">
       <JsonLd value={jsonLd} />
 
       {/* Hero */}
       <div className="px-6 sm:px-10 py-12" style={{ backgroundColor: '#F0FFF4', borderBottom: '1px solid #E6E2D9' }}>
-        <div className="max-w-7xl mx-auto">
           <div className="grid grid-cols-1 lg:grid-cols-[1fr_380px] gap-8 items-center">
             <div>
               <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-medium mb-4"
@@ -103,13 +102,11 @@ export default function QuotesPage() {
               <QuotesIllustration />
             </div>
           </div>
-        </div>
       </div>
 
       {/* Featured Quotes */}
       {featured.length > 0 && (
         <div className="px-6 sm:px-10 py-10" style={{ backgroundColor: '#fff' }}>
-          <div className="max-w-7xl mx-auto">
             <h2 className="font-display text-xl font-bold mb-6" style={{ color: '#18181B' }}>
               Featured Quotes
             </h2>
@@ -135,13 +132,11 @@ export default function QuotesPage() {
                 </Link>
               ))}
             </div>
-          </div>
         </div>
       )}
 
       {/* Quotes by Topic */}
       <div className="px-6 sm:px-10 py-10" style={{ backgroundColor: '#F9F7F3' }}>
-        <div className="max-w-7xl mx-auto">
           <h2 className="font-display text-xl font-bold mb-6" style={{ color: '#18181B' }}>
             Browse by Topic
           </h2>
@@ -171,14 +166,11 @@ export default function QuotesPage() {
               </div>
             )
           })}
-        </div>
       </div>
 
       {/* AdSense */}
       <div className="px-6 sm:px-10 py-8" style={{ backgroundColor: '#fff' }}>
-        <div className="max-w-7xl mx-auto">
           <AdUnit variant="horizontal" />
-        </div>
       </div>
     </div>
   )

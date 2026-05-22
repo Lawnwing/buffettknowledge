@@ -74,12 +74,11 @@ export default function BooksPage() {
   const featured = books.filter((b) => b.featured)
 
   return (
-    <div>
+    <div className="max-w-7xl mx-auto">
       <JsonLd value={jsonLd} />
 
       {/* Hero */}
       <div className="px-6 sm:px-10 py-12" style={{ backgroundColor: '#F0FFF4', borderBottom: '1px solid #E6E2D9' }}>
-        <div className="max-w-7xl mx-auto">
           <div className="grid grid-cols-1 lg:grid-cols-[1fr_380px] gap-8 items-center">
             <div>
               <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-medium mb-4"
@@ -99,13 +98,11 @@ export default function BooksPage() {
               <BooksIllustration />
             </div>
           </div>
-        </div>
       </div>
 
       {/* Featured */}
       {featured.length > 0 && (
         <div className="px-6 sm:px-10 py-10" style={{ backgroundColor: '#fff' }}>
-          <div className="max-w-7xl mx-auto">
             <h2 className="font-display text-xl font-bold mb-6" style={{ color: '#18181B' }}>
               Featured Books
             </h2>
@@ -128,13 +125,11 @@ export default function BooksPage() {
                 </Link>
               ))}
             </div>
-          </div>
         </div>
       )}
 
       {/* All Books Grid */}
       <div className="px-6 sm:px-10 py-10" style={{ backgroundColor: '#F9F7F3' }}>
-        <div className="max-w-7xl mx-auto">
           <h2 className="font-display text-xl font-bold mb-6" style={{ color: '#18181B' }}>
             All Books
           </h2>
@@ -154,14 +149,11 @@ export default function BooksPage() {
               </Link>
             ))}
           </div>
-        </div>
       </div>
 
       {/* AdSense */}
       <div className="px-6 sm:px-10 py-8" style={{ backgroundColor: '#fff' }}>
-        <div className="max-w-7xl mx-auto">
           <AdUnit variant="horizontal" />
-        </div>
       </div>
     </div>
   )
