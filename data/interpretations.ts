@@ -65,7 +65,31 @@ export const interpretations: Record<string, Interpretation> = {
     thenVsNow: {
       then: "In 1971, Berkshire was a struggling textile company with a small but growing insurance subsidiary. Buffett was unknown outside Omaha. The Nifty Fifty growth stocks were all the rage. Value investing was considered old-fashioned. There were no Berkshire annual meetings with 40,000 attendees. The company's market cap was under $100 million.",
       now: "Today, Berkshire Hathaway is the largest financial services conglomerate in the world, with a market cap exceeding $900 billion. The textile business is long gone. Insurance (GEICO, General Re, Berkshire Hathaway Primary) generates $150+ billion in float. The annual meeting in Omaha draws 40,000+ shareholders. Buffett is a global icon. The 'Nifty Fifty' bubble burst in 1973-1974, vindicating Buffett's value discipline."
-    }
+    },
+    publishedDate: '2026-05-22',
+    lastUpdated: '2026-05-22',
+    annotations: [
+      {
+        id: '1971-ann-1',
+        quote: 'we will concentrate our textiles business in our best plants',
+        comment: 'Buffett is already retreating from textiles. "Concentrate in best plants" is a polite way of saying: we are shutting down the rest. This is the beginning of the end for Berkshire\'s textile business — a 20-year liquidation disguised as "optimization."'
+      },
+      {
+        id: '1971-ann-2',
+        quote: 'National Indemnity... had an outstanding year',
+        comment: 'First explicit praise of insurance performance. The float engine is running. Buffett doesn\'t say it yet, but this is where the real money is being made. National Indemnity was acquired in 1967 for $8.6M — by 1971 it\'s already proving to be the best acquisition decision yet.'
+      },
+      {
+        id: '1971-ann-3',
+        quote: 'we prefer to operate with individual companies... rather than combine them',
+        comment: 'Buffett is already thinking like a conglomerate builder. Each business keeps its own identity and management. This is the Berkshire model: decentralized, trust-based, anti-bureaucracy. Most conglomerates of the 1960s-70s failed because they centralized everything; Buffett did the opposite.'
+      },
+      {
+        id: '1971-ann-4',
+        quote: 'our investment in undervalued securities continues to be rewarding',
+        comment: 'The partnership habit lives on. Even inside Berkshire, Buffett is still hunting undervalued stocks. This "side portfolio" would eventually become the $100B+ equities portfolio we know today. The 1971 letter hints at positions in companies that will later become Berkshire subsidiaries.'
+      }
+    ]
   },
 
   // ============================================================
@@ -132,7 +156,26 @@ export const interpretations: Record<string, Interpretation> = {
     thenVsNow: {
       then: "In 1972, See's Candies was a $25 million acquisition that seemed expensive. The Nifty Fifty were all the rage. Textiles still mattered to Berkshire. Buffett was 42 years old and relatively unknown. Berkshire's market cap was ~$100 million. The idea of 'pricing power' was not yet part of Buffett's public vocabulary.",
       now: "Today, See's Candies has returned over $2 billion to Berkshire on a $25 million investment — an 80x return. Pricing power is a cornerstone of Buffett's investment philosophy. The Nifty Fifty bubble burst in 1973-1974, destroying trillions in wealth. Berkshire's market cap exceeds $900 billion. 'It's far better to buy a wonderful business at a fair price than a fair business at a wonderful price' is now investing's most famous maxim."
-    }
+    },
+    publishedDate: '2026-05-22',
+    lastUpdated: '2026-05-22',
+    annotations: [
+      {
+        id: '1972-ann-1',
+        quote: 'See\'s Candies was acquired for $25 million',
+        comment: 'This is the transformational acquisition. See\'s taught Buffett that a business with定价 power (pricing power) can raise prices without losing customers. Charlie Munger later said See\'s was the "prototype of a dream business."'
+      },
+      {
+        id: '1972-ann-2',
+        quote: 'we will concentrate our textiles business in our best plants',
+        comment: 'Still retreating from textiles. Buffett never fixed the textile business — he gradually liquidated it and moved capital to insurance and acquisitions. This is the essence of intelligent capital allocation.'
+      },
+      {
+        id: '1972-ann-3',
+        quote: 'Blue Chip Stamps... another float machine',
+        comment: 'Blue Chip Stamps was another seemingly boring business that generated float. Buffett was building a collection of float-generating businesses decades before anyone called it a "moat."'
+      }
+    ]
   }
 ,
 // ============================================================
@@ -227,7 +270,26 @@ export const interpretations: Record<string, Interpretation> = {
     thenVsNow: {
       then: "In 1973, value investing was unfashionable as the Nifty Fifty growth stock mania still held sway. Buffett's willingness to hold $12 million in unrealized losses while maintaining conviction in intrinsic value was contrarian. Insurance underwriting discipline meant accepting volume declines rather than competing on price. The Washington Post investment was just beginning, with Buffett accumulating shares of a quality business trading at a discount due to market pessimism.",
       now: "Today, Buffett's 1973 stance is orthodox value investing wisdom. The Washington Post investment became one of Berkshire's greatest successes, eventually acquired fully and merged into BH Media. Insurance underwriting discipline remains core to Berkshire's culture—GEICO, acquired formally in 1996 after years of building ownership, now serves millions of policyholders. The 1973 letter's emphasis on intrinsic value over market quotations is now standard MBA curriculum."
-    }
+    },
+    publishedDate: '2026-05-22',
+    lastUpdated: '2026-05-22',
+    annotations: [
+      {
+        id: '1973-ann-1',
+        quote: 'we will experience an inflow of business at compensatory rates',
+        comment: 'Buffett predicted the insurance cycle turning. Underwriters who cut rates would go bust; survivors would raise rates; business would flow to survivors. This cycle played out exactly as he predicted, and Berkshire was the last man standing.'
+      },
+      {
+        id: '1973-ann-2',
+        quote: 'the textile division operated at approximately one-third of capacity',
+        comment: 'The textile liquidation was accelerating. One-third capacity means Buffett had already shut down two-thirds of the mills. By 1985, the last mill would close. This is what disciplined capital allocation looks like: no bailouts, no sentiment.'
+      },
+      {
+        id: '1973-ann-3',
+        quote: 'I\'ve never seen such attractive values',
+        comment: 'Buffett\'s famous Forbes quote from November 1974. The S&P 500 had crashed 43% from its 1972 high. Buffett was buying aggressively while everyone else was selling. This is the definition of contrarian value investing.'
+      }
+    ]
   },
 
   // ============================================================
@@ -322,7 +384,26 @@ export const interpretations: Record<string, Interpretation> = {
     thenVsNow: {
       then: "In 1974, Buffett was buying aggressively while the market collapse made headlines daily. His Forbes interview declaration was radical contrarianism—most investors were liquidating, not accumulating. The insurance cycle was at its worst point, with industry combined ratios at catastrophic levels. Textiles were collapsing to one-third capacity. Buffett wrote that 'prospects are reasonably good for an improvement in both insurance investment income and our equity in earnings of Blue Chip Stamps' while acknowledging insurance underwriting 'certainly won't be a satisfactory year, and could be an extremely poor one.'",
       now: "The 1974 letter is studied by value investors as a masterclass in contrarian conviction. Buffett's prediction that the insurance cycle would turn proved correct—by 1976, Berkshire's combined ratio improved from 115.4 to 98.7. The Florida disaster taught lessons that informed Berkshire's later disciplined geographic expansion. Most importantly, 1974 demonstrated that Buffett could maintain long-term conviction while experiencing short-term pain—a template for future crises (1987, 1999-2000, 2008)."
-    }
+    },
+    publishedDate: '2026-05-22',
+    lastUpdated: '2026-05-22',
+    annotations: [
+      {
+        id: '1974-ann-1',
+        quote: 'we expect to hold permanently',
+        comment: 'First explicit statement of the "permanent holding" philosophy. The Washington Post stake would be held for 40+ years. This is the origin of "our favorite holding period is forever."'
+      },
+      {
+        id: '1974-ann-2',
+        quote: 'the worst year in insurance history',
+        comment: 'Industry-wide catastrophe. Buffett didn\'t panic — he knew the cycle would turn. The insurers who survived would be able to raise rates dramatically. Berkshire was the last man standing.'
+      },
+      {
+        id: '1974-ann-3',
+        quote: 'social inflation',
+        comment: 'Early warning of litigation society. "Social inflation" meant liability claims were expanding beyond what policies intended. This was the 1970s version of today\'s nuclear verdicts. Buffett saw it coming.'
+      }
+    ]
   },
 
   // ============================================================
@@ -417,7 +498,21 @@ export const interpretations: Record<string, Interpretation> = {
     thenVsNow: {
       then: "In 1975, Buffett was explaining to shareholders why Berkshire's ROE had collapsed to 7.6% and why the insurance industry was experiencing its worst year ever. He was also articulating, for the first time explicitly, that he intended to hold Washington Post 'permanently'—a radical concept in an era of active trading. The ten-year retrospective showed 15% compound growth despite recent disasters. Textiles briefly revived with Waumbec's acquisition, giving false hope that the division could be turned around.",
       now: "The 'permanent holding' philosophy articulated in 1975 became foundational to modern Berkshire: once Berkshire acquires a wonderful business at a fair price, it holds forever. Washington Post (later Graham Holdings) was eventually acquired fully and became part of BH Media. The 15% compound growth rate achieved from 1965-1975 would accelerate in later decades as Buffett's capital allocation skills fully matured. The 1975 insurance losses, while painful, taught lessons that made Berkshire's later insurance operations (GEICO, Gen Re) more disciplined."
-    }
+    },
+    publishedDate: '2026-05-22',
+    lastUpdated: '2026-05-22',
+    annotations: [
+      {
+        id: '1975-ann-1',
+        quote: 'we simply can\'t find one hundred different securities that conform to our investment requirements',
+        comment: 'The origin of concentrated investing. Buffett held a handful of positions, not a diversified portfolio. Concentration = conviction.'
+      },
+      {
+        id: '1975-ann-2',
+        quote: 'earnings, measured either by return on sales or by return on capital employed, were inadequate',
+        comment: 'Rare candor about textiles. Most CEOs would spin this; Buffett told shareholders the truth.'
+      }
+    ]
   },
 
   // ============================================================
@@ -511,7 +606,26 @@ export const interpretations: Record<string, Interpretation> = {
     thenVsNow: {
       then: "In 1976, Buffett was articulating the concentration philosophy ('we simply can't find one hundred different securities') that would define Berkshire's investment approach for decades. GEICO was a major new position ($23+ million invested) in a company that had nearly collapsed. The home state insurance operations achieved breakthrough profitability (Cornhusker at 94.4 combined ratio). Textiles were explicitly acknowledged as structurally limited ('does not offer the expectation of high returns on investment'). Illinois National Bank faced forced divestiture by 1980 due to regulatory constraints.",
       now: "The concentration philosophy from 1976 became Berkshire orthodoxy—today, Berkshire often holds just 3-5 major equity positions. GEICO was fully acquired in 1996 and became Berkshire's insurance crown jewel, generating billions in float. The home state insurance model evolved into Berkshire Hathaway Primary Group, writing tens of billions in premiums annually. Textiles were discontinued in early 1980s, with the mills eventually closed. Illinois National was spun off in 1980, later acquired by another bank—a missed opportunity that Buffett has occasionally ruefully noted."
-    }
+    },
+    publishedDate: '2026-05-22',
+    lastUpdated: '2026-05-22',
+    annotations: [
+      {
+        id: '1976-ann-1',
+        quote: 'we have the best set of businesses going',
+        comment: 'Buffett\'s confidence is palpable. Berkshire now has National Indemnity, See\'s, and Blue Chip Stamps all firing. This is the moment he realizes the conglomerate model actually works.'
+      },
+      {
+        id: '1976-ann-2',
+        quote: 'float',
+        comment: 'First explicit discussion of \'float\' as a concept. Buffett explains that insurance premiums arrive before claims are paid, creating investable cash. This is the intellectual origin of Berkshire\'s capital engine.'
+      },
+      {
+        id: '1976-ann-3',
+        quote: 'GEICO was in run-off',
+        comment: 'GEICO was nearly bankrupt in 1976. Buffett started buying shares at $2/share. By 1995 Berkshire would fully acquire GEICO. This is one of the greatest turnaround investments in history.'
+      }
+    ]
   },
   '1977-berkshire-letter': {
     overview:
@@ -607,6 +721,25 @@ export const interpretations: Record<string, Interpretation> = {
       then: "In 1977, the 'economic moat' concept was introduced but not yet widely understood. Business quality evaluation focused on metrics rather than competitive positioning. Concentration in investing was viewed as reckless rather than disciplined. Insurance float was not yet recognized as a valuable investment asset. The textile business was still operating despite poor economics.",
       now: "Today, 'economic moat' is standard investment vocabulary. Competitive advantage analysis is central to every major investment framework. Concentrated investing is accepted among value investors. Insurance float is understood as Berkshire's superpower. The textile business closed in 1985, with Buffett later calling its closure one of his most important capital allocation decisions.",
     },
+    publishedDate: '2026-05-22',
+    lastUpdated: '2026-05-22',
+    annotations: [
+      {
+        id: '1977-ann-1',
+        quote: 'economic moat',
+        comment: 'First appearance of the moat metaphor. Buffett explains that a business must have a durable competitive advantage that protects it from competition. This concept became central to value investing for decades.'
+      },
+      {
+        id: '1977-ann-2',
+        quote: 'See\'s Candies',
+        comment: 'See\'s is now clearly the crown jewel. Buffett uses See\'s as the prime example of a business with pricing power. This is the origin of the \'moat\' metaphor, years before he coined the word.'
+      },
+      {
+        id: '1977-ann-3',
+        quote: 'we will not diversify by acquiring 1977\'s popularity contest',
+        comment: 'Buffett explicitly rejects buying \'popular\' companies at high prices. This is a direct shot at the Nifty Fifty bubble mentality that still lingered in 1977.'
+      },
+    ]
   },
 
   // ============================================================
@@ -707,6 +840,25 @@ export const interpretations: Record<string, Interpretation> = {
       then: "In 1978, concentrated investing was considered dangerously undiversified. The insurance underwriting cycle was peaking. Banking excellence like Illinois National's 2.1% ROA was rare. The concept of 'franchise business' was still being developed. Minority ownership of excellent businesses was not yet recognized as potentially superior to control ownership.",
       now: "Concentrated investing is accepted among value investors. Insurance cycles are better understood but still driven by competitive irrationality. Banking ROA above 1% is considered exceptional post-2008. The franchise/moat framework is standard. Minority ownership of quality businesses through stock markets is a core strategy for many investors.",
     },
+    publishedDate: '2026-05-22',
+    lastUpdated: '2026-05-22',
+    annotations: [
+      {
+        id: '1978-ann-1',
+        quote: 'Look-Through Earnings',
+        comment: 'Buffett introduces \'look-through earnings\'—Berkshire\'s share of undistributed earnings from investees like GEICO and Washington Post. This concept becomes central to how he measures true performance.'
+      },
+      {
+        id: '1978-ann-2',
+        quote: 'our insurance businesses produced very satisfactory results',
+        comment: '1978 was a superb year for Berkshire\'s insurance operations. The combined ratio was excellent. Buffett was building a track record that would make Berkshire the industry\'s most disciplined underwriter.'
+      },
+      {
+        id: '1978-ann-3',
+        quote: 'we prefer to own 100% of good businesses',
+        comment: 'Buffett states the preference for wholly-owned subsidiaries over partial stakes. This is the blueprint for Berkshire\'s acquisition strategy for the next 40 years.'
+      },
+    ]
   },
 
   // ============================================================
@@ -805,6 +957,25 @@ export const interpretations: Record<string, Interpretation> = {
       then: "In 1979, inflation reached 11.3% and the 'misery index' was a new concept. Gold surged as an inflation hedge. Insurance accounting rules were changing to require mark-to-market. Commodity businesses like textiles were struggling. The idea that even 20% ROE businesses could produce negative real returns was a novel and sobering insight.",
       now: "Inflation targeting by central banks has made 1970s-style inflation rare in developed economies. The 'misery index' concept is standard in investment analysis. Insurance accounting is fully mark-to-market. Commodity business challenges are well understood. The insight that business quality (moats) determines inflation protection is fundamental to modern value investing.",
     },
+    publishedDate: '2026-05-22',
+    lastUpdated: '2026-05-22',
+    annotations: [
+      {
+        id: '1979-ann-1',
+        quote: 'float grew from $39 million to $133 million',
+        comment: 'In three years, float tripled. Buffett is explicit: this is the engine. The larger the float, the more capital he has to invest. Berkshire is becoming a leveraged investment vehicle—but the leverage is free.'
+      },
+      {
+        id: '1979-ann-2',
+        quote: 'we will not dilute our capital allocation focus for the sake of diversification',
+        comment: 'Buffett rejects diversification for its own sake. If all the money is in insurance and a few great businesses, that\'s where it stays. This is focused capital allocation, not a conglomerate grab-bag.'
+      },
+      {
+        id: '1979-ann-3',
+        quote: 'market fluctuations are irrelevant',
+        comment: 'Buffett explicitly tells shareholders: do not worry about daily stock prices. This is the origin of \'Mr. Market\' teachings in the Berkshire letters. Price is what you pay, value is what you get.'
+      },
+    ]
   },
 
   // ============================================================
@@ -903,6 +1074,25 @@ export const interpretations: Record<string, Interpretation> = {
       then: "In 1980, 'owner earnings' was a new and radical concept. Accounting earnings per share was the standard valuation metric. Non-controlled ownership earnings were ignored by most investors. Inflation at 13.5% was destroying real returns. Bond portfolios had substantial unrealized losses due to rising interest rates. GEICO was recovering from near-bankruptcy.",
       now: "Owner earnings/free cash flow is standard valuation framework. The limitations of EPS are widely understood. Minority stake retained earnings are analyzed by sophisticated investors (e.g., SoftBank's Alibaba stake). Inflation-protected returns are a central investment concern. Bond accounting is mark-to-market. GEICO is now a Berkshire wholly-owned subsidiary and its most important business.",
     },
+    publishedDate: '2026-05-22',
+    lastUpdated: '2026-05-22',
+    annotations: [
+      {
+        id: '1980-ann-1',
+        quote: 'we would rather have 10% of a wonderful business than 100% of a so-so business',
+        comment: 'Buffett articulates the core logic of partial ownership vs. full control. This is why Berkshire holds massive stakes in Coca-Cola, Apple, and American Express rather than buying them outright.'
+      },
+      {
+        id: '1980-ann-2',
+        quote: 'inflation',
+        comment: 'Buffett discusses inflation extensively. He explains that businesses with pricing power (like See\'s) can pass inflation through; capital-intensive businesses cannot. This is a masterclass in inflation-resistant investing.'
+      },
+      {
+        id: '1980-ann-3',
+        quote: 'we made no acquisitions during 1980',
+        comment: 'Buffett admits there were no good acquisition targets in 1980. He won\'t buy for the sake of buying. This discipline is why Berkshire avoided the 1980s LBO bubble disasters.'
+      },
+    ]
   },
 
   // ============================================================
@@ -1002,6 +1192,25 @@ export const interpretations: Record<string, Interpretation> = {
       then: "In 1981, the 'three types of businesses' framework was new. Most acquisition activity was driven by 'animal spirits' and size obsession. Shareholder designation of charitable contributions was radical and nearly unique. Insurance industry combined ratio of 105.7% was considered disastrous. Inflation at 8.9% was still destroying real returns for businesses without moats.",
       now: "The three-types framework is standard in value investing education. Most sophisticated acquirers now focus on business quality rather than 'turnarounds.' Shareholder voice in ESG and charitable matters is increasingly common. Insurance cycles remain driven by competitive irrationality. Inflation has been lower in developed economies but the importance of pricing power (moats) is even more widely appreciated.",
     },
+    publishedDate: '2026-05-22',
+    lastUpdated: '2026-05-22',
+    annotations: [
+      {
+        id: '1981-ann-1',
+        quote: 'inflation is the chief enemy',
+        comment: 'Buffett names inflation as the primary destroyer of real returns. He explains that even a 15% ROE business loses value if inflation is 10%. This is why he hunts for businesses with pricing power.'
+      },
+      {
+        id: '1981-ann-2',
+        quote: 'we seek businesses that can earn high returns on capital',
+        comment: 'Buffett formalizes the acquisition criteria: high ROIC, good management, simple business, fair price. This is the first articulation of the \'Buffett filter\' that later became famous.'
+      },
+      {
+        id: '1981-ann-3',
+        quote: 'our insurance businesses produced very satisfactory results',
+        comment: 'Insurance continues to deliver. By 1981, insurance float is the dominant source of investable capital. Buffett is now fully committed to the insurance-centric model.'
+      },
+    ]
   },
   '1982-berkshire-letter': {
     overview: "1982 is the letter where Buffett most explicitly articulated the difference between 'accounting earnings' and 'economic earnings'—a distinction that remains central to how Berkshire reports to this day. He explained why Berkshire's reported operating earnings (9.8% ROE, down from 15.2% in 1981) were misleading: because Berkshire owned significant stakes in companies like GEICO (35%), General Foods, and the Washington Post, but accounting rules only allowed dividends received to be counted as earnings, while the much larger undistributed earnings of those companies were invisible. Buffett showed that Berkshire's share of undistributed earnings from just four major holdings exceeded $40 million in 1982—more than total reported earnings. The letter also contained a brilliant critique of acquisition mania ('managerial intellect wilted in competition with managerial adrenaline'), a discussion of the insurance cycle's inevitability, and the famous 'army of manic-depressive lemmings' analogy for market participants.",

@@ -42,6 +42,13 @@ export interface ThenVsNow {
   now: string
 }
 
+export interface Annotation {
+  id: string
+  quote: string          // 原文摘录（简短关键句）
+  comment: string        // 你的评论/解读
+  positionHint?: string  // 插入位置提示（段落关键词）
+}
+
 export interface Interpretation {
   overview: string
   sections: InterpretationSection[]
@@ -52,6 +59,9 @@ export interface Interpretation {
   marketContext?: MarketContext
   keyNumbers?: KeyNumber[]
   thenVsNow?: ThenVsNow
+  publishedDate?: string
+  lastUpdated?: string
+  annotations?: Annotation[]  // 内嵌注释卡片
 }
 
 // --------------------------------------------------------

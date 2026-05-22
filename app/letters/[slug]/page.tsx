@@ -41,12 +41,23 @@ export default function LetterPage({ params }: PageProps) {
   const letter = getLetterBySlug(params.slug)
   if (!letter) notFound()
 
+  const currentIndex = allLetters.findIndex((l) => l.slug === letter.slug)
+  const prevLetter = currentIndex > 0 ? allLetters[currentIndex - 1] : null
+  const nextLetter = currentIndex < allLetters.length - 1 ? allLetters[currentIndex + 1] : null
+
+  const letterConcepts = letter.concepts.map((s) => getConceptBySlug(s)).filter(Boolean)
+  const letterCompanies = letter.companies.map((s) => getCompanyBySlug(s)).filter(Boolean)
+  const letterPeople = letter.people.map((s) => getPersonBySlug(s)).filter(Boolean)
+
+  const interpretation = letter.interpretation || interpretations[letter.slug]
+
+  // JSON-LD must be declared AFTER `interpretation` (line 78)
   const jsonLdArticle = {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: letter.title,
-    datePublished: letter.date,
-    dateModified: letter.date,
+    datePublished: interpretation?.publishedDate || letter.date,
+    dateModified: interpretation?.lastUpdated || letter.date,
     author: { '@type': 'Person', name: 'Warren Buffett' },
     publisher: {
       '@type': 'Organization',
@@ -59,17 +70,13 @@ export default function LetterPage({ params }: PageProps) {
       '@id': `https://buffettknowledge.com/letters/${letter.slug}`,
     },
     isPartOf: { '@type': 'WebSite', url: 'https://buffettknowledge.com' },
+    ...(letter.sourceUrl && {
+      isBasedOn: {
+        '@type': 'WebPage',
+        url: letter.sourceUrl,
+      },
+    }),
   }
-
-  const currentIndex = allLetters.findIndex((l) => l.slug === letter.slug)
-  const prevLetter = currentIndex > 0 ? allLetters[currentIndex - 1] : null
-  const nextLetter = currentIndex < allLetters.length - 1 ? allLetters[currentIndex + 1] : null
-
-  const letterConcepts = letter.concepts.map((s) => getConceptBySlug(s)).filter(Boolean)
-  const letterCompanies = letter.companies.map((s) => getCompanyBySlug(s)).filter(Boolean)
-  const letterPeople = letter.people.map((s) => getPersonBySlug(s)).filter(Boolean)
-
-  const interpretation = letter.interpretation || interpretations[letter.slug]
 
   const relatedLetters = allLetters
     .filter((l) => l.slug !== letter.slug && l.year >= letter.year - 2 && l.year <= letter.year + 2)
@@ -229,6 +236,19 @@ export default function LetterPage({ params }: PageProps) {
                 </div>
               )}
             </div>
+
+            {/* Editor's Annotations */}
+            {interpretation?.annotations && interpretation.annotations.length > 0 && (
+              <div className="mt-8 space-y-4">
+                <h2 className="text-lg font-semibold mb-4" style={{ color: '#18181B' }}>Editor&apos;s Annotations</h2>
+                {interpretation.annotations.map((ann) => (
+                  <div key={ann.id} className="p-5 rounded-xl" style={{ backgroundColor: 'rgba(249, 247, 243, 0.8)', border: '1px solid #E6E2D9' }}>
+                    <blockquote className="text-sm italic mb-3" style={{ color: '#B45309' }}>&ldquo;{ann.quote}&rdquo;</blockquote>
+                    <p className="text-sm leading-relaxed" style={{ color: '#18181B' }}>{ann.comment}</p>
+                  </div>
+                ))}
+              </div>
+            )}
 
             {/* Letter Interpretation */}
             {interpretation && (
