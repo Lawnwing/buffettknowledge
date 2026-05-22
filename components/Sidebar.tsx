@@ -187,7 +187,7 @@ function CollapsibleNavItem({
         )}
       </button>
       {expanded && link.subLinks && (
-        <div className="ml-4 mt-0.5 space-y-0.5 border-l border-[#2D3A52] pl-3 max-h-96 overflow-y-auto">
+        <div className="ml-4 mt-0.5 space-y-0.5 border-l border-[#2D3A52] pl-3 max-h-96 overflow-y-auto sidebar-scroll">
           {link.subLinks.map((sub) => {
             const subActive = pathname === sub.href || pathname.startsWith(sub.href.split('#')[0])
             return (
@@ -198,7 +198,7 @@ function CollapsibleNavItem({
                 className={`flex items-center gap-2 px-3 py-1.5 rounded-md text-sm transition-colors ${
                   subActive
                     ? 'text-white bg-[#2D6A4F]'
-                    : 'text-[#8B9BB4] hover:text-white hover:bg-[#2D3A52]'
+                    : 'text-[#8B9BB4] hover:text-[#2D6A4F] hover:bg-[#F5F3EF]'
                 }`}
               >
                 <span>{sub.label}</span>

@@ -46,6 +46,12 @@
   ::-webkit-scrollbar-thumb { background: #C8B89A; border-radius: 9999px; }
   ::-webkit-scrollbar-thumb:hover { background: #A89A7E; }
 
+  /* Sidebar sub-menu scroll — theme color */
+  .sidebar-scroll::-webkit-scrollbar { width: 5px; }
+  .sidebar-scroll::-webkit-scrollbar-track { background: transparent; }
+  .sidebar-scroll::-webkit-scrollbar-thumb { background: #2D6A4F; border-radius: 3px; }
+  .sidebar-scroll::-webkit-scrollbar-thumb:hover { background: #1B4332; }
+
   :focus-visible {
     outline: 2px solid var(--sage);
     outline-offset: 2px;
