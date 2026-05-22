@@ -1,7 +1,8 @@
 import Link from 'next/link'
 import {
   ArrowRight, BookOpen, Building2, Users, FileText, Sparkles,
-  MessageCircle, Network, Download, Lightbulb, BrainCircuit
+  MessageCircle, Network, Download, Lightbulb, BrainCircuit,
+  Calendar, Megaphone, Quote
 } from 'lucide-react'
 import { LetterCard } from '@/components/LetterCard'
 import { NewsletterBanner } from '@/components/NewsletterBanner'
@@ -11,6 +12,10 @@ import { allLetters, berkshireLetters, partnershipLetters, stats } from '@/data/
 import { concepts } from '@/data/concepts'
 import { companies } from '@/data/companies'
 import { people } from '@/data/people'
+import { meetings } from '@/data/meetings'
+import { speeches } from '@/data/speeches'
+import { books } from '@/data/books'
+import { quotes } from '@/data/quotes'
 
 const jsonLdHome = {
   '@context': 'https://schema.org',

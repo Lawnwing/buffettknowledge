@@ -18,11 +18,18 @@ import {
   MessageCircle,
   Home,
   ClipboardList,
+  Calendar,
+  Megaphone,
+  Quote,
 } from 'lucide-react'
 import { stats as letterStats, allLetters } from '@/data/letters'
 import { concepts } from '@/data/concepts'
 import { companies } from '@/data/companies'
 import { people } from '@/data/people'
+import { meetings, stats as meetingStats } from '@/data/meetings'
+import { speeches, stats as speechStats } from '@/data/speeches'
+import { books, stats as bookStats } from '@/data/books'
+import { quotes, stats as quoteStats } from '@/data/quotes'
 
 // ── Navigation sections ─────────────────────────────────────────────
 
@@ -64,6 +71,30 @@ const primaryLinks: PrimaryLink[] = [
     icon: BookOpen,
     count: letterStats.totalLetters,
     subLinks: letterSubLinks,
+  },
+  {
+    href: '/meetings',
+    label: 'Meetings',
+    icon: Calendar,
+    count: meetingStats.totalMeetings,
+  },
+  {
+    href: '/speeches',
+    label: 'Speeches',
+    icon: Megaphone,
+    count: speechStats.totalSpeeches,
+  },
+  {
+    href: '/books',
+    label: 'Books',
+    icon: BookOpen,
+    count: bookStats.totalBooks,
+  },
+  {
+    href: '/quotes',
+    label: 'Quotes',
+    icon: Quote,
+    count: quoteStats.totalQuotes,
   },
   { href: '/concepts',  label: 'Concepts',  icon: Lightbulb, count: concepts.length },
   { href: '/companies', label: 'Companies', icon: Building2, count: companies.length },

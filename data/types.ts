@@ -144,7 +144,7 @@ export interface Person {
 // --------------------------------------------------------
 // Search
 // --------------------------------------------------------
-export type SearchResultType = 'letter' | 'concept' | 'company' | 'person'
+export type SearchResultType = 'letter' | 'concept' | 'company' | 'person' | 'meeting' | 'speech' | 'book' | 'quote'
 
 export interface SearchResult {
   type: SearchResultType
@@ -153,4 +153,83 @@ export interface SearchResult {
   subtitle: string
   snippet?: string
   year?: number
+}
+
+// ============================================================
+// Annual Meeting Q&A
+// ============================================================
+export interface MeetingQA {
+  question: string
+  answer: string
+  topicTags: string[]
+  timestamp?: string
+}
+
+export interface Meeting {
+  slug: string
+  year: number
+  date: string
+  location: string
+  fullText: string
+  qaList: MeetingQA[]
+  concepts: string[]
+  companies: string[]
+  people: string[]
+  duration?: string
+  videoUrl?: string
+  summary: string
+  keyTakeaways: string[]
+  featured: boolean
+}
+
+// ============================================================
+// Speeches
+// ============================================================
+export interface Speech {
+  slug: string
+  title: string
+  date: string
+  location: string
+  occasion: string
+  fullText: string
+  summary: string
+  concepts: string[]
+  companies: string[]
+  people: string[]
+  keyQuotes: string[]
+  readingTimeMinutes: number
+  sourceUrl: string
+  background?: string
+  impact?: string
+  featured: boolean
+}
+
+// ============================================================
+// Books
+// ============================================================
+export interface Book {
+  slug: string
+  title: string
+  author: string
+  year: number
+  coverImage?: string
+  buffettComment: string
+  keyTakeaway: string
+  relatedConcepts: string[]
+  amazonUrl?: string
+  featured: boolean
+}
+
+// ============================================================
+// Quotes
+// ============================================================
+export interface Quote {
+  slug: string
+  text: string
+  year?: number
+  source: string
+  sourceSlug?: string
+  topicTags: string[]
+  context?: string
+  featured: boolean
 }

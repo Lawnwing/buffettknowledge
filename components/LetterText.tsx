@@ -10,7 +10,7 @@ interface LinkEntity {
 
 interface LetterTextProps {
   html: string
-  entities: LinkEntity[]
+  entities?: LinkEntity[]
   className?: string
 }
 
@@ -28,7 +28,7 @@ export default function LetterText({ html, entities, className }: LetterTextProp
   // First render: inject raw HTML (matches SSR output exactly — no hydration mismatch)
   // After mount: walk text nodes and inject links via DOM manipulation
   useEffect(() => {
-    if (!ref.current || entities.length === 0) return
+    if (!ref.current || !entities || entities.length === 0) return
 
     const sorted = [...entities].sort((a, b) => b.name.length - a.name.length)
 

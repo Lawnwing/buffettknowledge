@@ -11,7 +11,7 @@ interface AdUnitProps {
   /** Ad format */
   format?: 'horizontal' | 'rectangle' | 'vertical' | 'auto'
   /** Display variant */
-  variant?: 'header' | 'sidebar' | 'inline' | 'footer'
+  variant?: 'header' | 'sidebar' | 'inline' | 'footer' | 'horizontal'
   className?: string
 }
 
@@ -35,6 +35,12 @@ const VARIANT_STYLES: Record<string, React.CSSProperties> = {
     display: 'block',
     minHeight: '90px',
     textAlign: 'center',
+  },
+  horizontal: {
+    display: 'block',
+    minHeight: '100px',
+    textAlign: 'center',
+    width: '100%',
   },
 }
 
