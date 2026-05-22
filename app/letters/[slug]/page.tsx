@@ -17,6 +17,7 @@ import { interpretations } from '@/data/interpretations'
 import { concepts } from '@/data/concepts'
 import { companies } from '@/data/companies'
 import { people } from '@/data/people'
+import { fullTexts } from '@/data/fulltexts'
 
 interface PageProps {
   params: { slug: string }
@@ -210,11 +211,11 @@ export default function LetterPage({ params }: PageProps) {
               </div>
             )}
 
-            {/* Letter Text Placeholder */}
+            {/* Letter Text: use fullTexts if available, else letter.fullText */}
             <div className="letter-text">
-              {letter.fullText ? (
+              {(fullTexts[letter.slug] || letter.fullText) ? (
                 <LetterText
-                  html={letter.fullText}
+                  html={(fullTexts[letter.slug] || letter.fullText)!}
                   entities={linkEntities}
                   className="letter-text"
                 />
