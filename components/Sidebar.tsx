@@ -20,8 +20,8 @@ import {
   ClipboardList,
   Calendar,
   Megaphone,
-  Quote,
 } from 'lucide-react'
+import { QuoteLeftIcon } from '@/components/QuoteLeftIcon'
 import { stats as letterStats, allLetters } from '@/data/letters'
 import { concepts } from '@/data/concepts'
 import { companies } from '@/data/companies'
@@ -93,7 +93,7 @@ const primaryLinks: PrimaryLink[] = [
   {
     href: '/quotes',
     label: 'Quotes',
-    icon: Quote,
+    icon: QuoteLeftIcon,
     count: quoteStats.totalQuotes,
   },
   { href: '/concepts',  label: 'Concepts',  icon: Lightbulb, count: concepts.length },

@@ -1,9 +1,13 @@
 /* eslint-disable react/no-unescaped-entities */
+'use client'
+
 import Link from 'next/link'
-import { Quote, Tag, Star } from 'lucide-react'
+import { Tag, Star } from 'lucide-react'
 import { quotes, stats } from '@/data/quotes'
 import { JsonLd } from '@/components/JsonLd'
 import { AdUnit } from '@/components/AdUnit'
+import { QuoteLeftIcon } from '@/components/QuoteLeftIcon'
+import { QuoteActionButtons } from '@/components/QuoteActionButtons'
 
 // Group quotes by topic
 const topics = [...new Set(quotes.flatMap((q) => q.topicTags))].sort()
@@ -27,8 +31,8 @@ function QuotesIllustration() {
         <circle cx="170" cy="110" r="65" fill="#E9F5EF" opacity={0.4} />
 
         {/* Large decorative quote marks */}
-        <text x="90" y="105" fontSize="72" fill="#2D6A4F" opacity={0.1} fontFamily="serif" fontWeight="bold">"</text>
-        <text x="230" y="165" fontSize="72" fill="#2D6A4F" opacity={0.1} fontFamily="serif" fontWeight="bold">"</text>
+        <text x="90" y="105" fontSize="72" fill="#2D6A4F" opacity={0.1} fontFamily="serif" fontWeight="bold">&#x201C;</text>
+        <text x="230" y="165" fontSize="72" fill="#2D6A4F" opacity={0.1} fontFamily="serif" fontWeight="bold">&#x201D;</text>
 
         {/* Central quote bubble */}
         <rect x="115" y="75" width="110" height="70" rx="12" fill="#2D6A4F" opacity={0.85} />
@@ -56,15 +60,65 @@ function QuotesIllustration() {
         <line x1="208" y1="148" x2="226" y2="148" stroke="#2D6A4F" strokeWidth="1.5" opacity={0.2} strokeLinecap="round" />
 
         {/* Decorative stars */}
-        <text x="70" y="145" fontSize="12" fill="#F59E0B" opacity={0.3}>★</text>
-        <text x="265" y="125" fontSize="14" fill="#F59E0B" opacity={0.35}>★</text>
+        <text x="70" y="145" fontSize="12" fill="#F59E0B" opacity={0.3}>&#x2605;</text>
+        <text x="265" y="125" fontSize="14" fill="#F59E0B" opacity={0.35}>&#x2605;</text>
       </svg>
       <div className="text-center mt-1">
         <div className="font-display text-sm font-semibold" style={{ color: '#18181B' }}>
           Timeless Wisdom
         </div>
         <div className="text-[11px]" style={{ color: '#71717A' }}>
-          {stats.totalQuotes} quotes • Investing, business & life
+          {stats.totalQuotes} quotes &bull; Investing, business & life
+        </div>
+      </div>
+    </div>
+  )
+}
+
+/* ── Quote Card (shared) ─────────────────────────────────────────── */
+
+function QuoteCard({ quote, featured = false }: { quote: typeof quotes[0]; featured?: boolean }) {
+  return (
+    <div
+      className={`group relative rounded-xl border transition hover:shadow-lg ${featured ? 'p-6' : 'p-4'}`}
+      style={{
+        borderColor: featured ? '#A9D7BD' : '#E6E2D9',
+        backgroundColor: featured ? '#F7FFF9' : '#fff',
+      }}
+    >
+      {/* Quote text */}
+      <Link href={`/quotes/${quote.slug}`} className="block">
+        <div
+          className={`font-medium leading-relaxed mb-3 ${featured ? 'text-lg' : 'text-sm'}`}
+          style={{ color: '#18181B' }}
+        >
+          <span className="font-serif text-[#2D6A4F] opacity-40 mr-1">&#x201C;</span>
+          {quote.text}
+          <span className="font-serif text-[#2D6A4F] opacity-40 ml-1">&#x201D;</span>
+        </div>
+      </Link>
+
+      {/* Tags */}
+      <div className="flex flex-wrap gap-2 mb-3">
+        {quote.topicTags.map((tag) => (
+          <span
+            key={tag}
+            className="inline-flex items-center gap-1 text-xs px-2 py-0.5 rounded-full"
+            style={{ backgroundColor: '#E9F5EF', color: '#2D6A4F' }}
+          >
+            <Tag className="w-2.5 h-2.5" /> {tag.replace(/-/g, ' ')}
+          </span>
+        ))}
+      </div>
+
+      {/* Footer: source + actions */}
+      <div className="flex items-center justify-between">
+        <div className="text-xs" style={{ color: '#71717A' }}>
+          {quote.year && <span>{quote.year} &bull; </span>}
+          <span>{quote.source}</span>
+        </div>
+        <div className="opacity-0 group-hover:opacity-100 transition-opacity">
+          <QuoteActionButtons text={quote.text} slug={quote.slug} />
         </div>
       </div>
     </div>
@@ -83,94 +137,83 @@ export default function QuotesPage() {
 
       {/* Hero */}
       <div className="px-6 sm:px-10 py-12" style={{ backgroundColor: '#F0FFF4', borderBottom: '1px solid #E6E2D9' }}>
-          <div className="grid grid-cols-1 lg:grid-cols-[1fr_380px] gap-8 items-center">
-            <div>
-              <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-medium mb-4"
-                style={{ backgroundColor: '#E9F5EF', color: '#2D6A4F' }}>
-                <Quote className="w-3 h-3" />
-                {stats.totalQuotes} Quotes
-              </div>
-              <h1 className="font-display text-3xl sm:text-4xl font-bold mb-4" style={{ color: '#18181B' }}>
-                Warren Buffett <span style={{ color: '#2D6A4F' }}>Quotes</span>
-              </h1>
-              <p className="text-base leading-relaxed text-justify" style={{ color: '#3F3F46', hyphens: 'auto' }}>
-                The most famous, insightful, and witty things Warren Buffett has ever said.
-                Categorized by topic: investing, business, and life wisdom.
-              </p>
+        <div className="grid grid-cols-1 lg:grid-cols-[1fr_380px] gap-8 items-center">
+          <div>
+            <div
+              className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-medium mb-4"
+              style={{ backgroundColor: '#E9F5EF', color: '#2D6A4F' }}
+            >
+              <QuoteLeftIcon className="w-3 h-3" />
+              {stats.totalQuotes} Quotes
             </div>
-            <div className="hidden lg:flex justify-end">
-              <QuotesIllustration />
-            </div>
+            <h1 className="font-display text-3xl sm:text-4xl font-bold mb-4" style={{ color: '#18181B' }}>
+              Warren Buffett <span style={{ color: '#2D6A4F' }}>Quotes</span>
+            </h1>
+            <p className="text-base leading-relaxed text-justify" style={{ color: '#3F3F46', hyphens: 'auto' }}>
+              The most famous, insightful, and witty things Warren Buffett has ever said.
+              Categorized by topic: investing, business, and life wisdom.
+            </p>
           </div>
+          <div className="hidden lg:flex justify-end">
+            <QuotesIllustration />
+          </div>
+        </div>
       </div>
 
       {/* Featured Quotes */}
       {featured.length > 0 && (
         <div className="px-6 sm:px-10 py-10" style={{ backgroundColor: '#fff' }}>
-            <h2 className="font-display text-xl font-bold mb-6" style={{ color: '#18181B' }}>
+          <div className="flex items-center gap-2 mb-6">
+            <Star className="w-5 h-5" style={{ color: '#F59E0B' }} />
+            <h2 className="font-display text-xl font-bold" style={{ color: '#18181B' }}>
               Featured Quotes
             </h2>
-            <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
-              {featured.map((quote) => (
-                <Link key={quote.slug} href={`/quotes/${quote.slug}`}
-                  className="block p-5 rounded-xl border hover:shadow-lg transition"
-                  style={{ borderColor: '#A9D7BD', backgroundColor: '#F7FFF9' }}>
-                  <div className="text-lg font-medium mb-3 leading-relaxed" style={{ color: '#18181B' }}>
-                    "{quote.text}"
-                  </div>
-                  <div className="flex flex-wrap gap-2">
-                    {quote.topicTags.map((tag) => (
-                      <span key={tag} className="inline-flex items-center gap-1 text-xs px-2 py-0.5 rounded-full"
-                        style={{ backgroundColor: '#E9F5EF', color: '#2D6A4F' }}>
-                        <Tag className="w-2.5 h-2.5" /> {tag.replace(/-/g, ' ')}
-                      </span>
-                    ))}
-                  </div>
-                  {quote.year && (
-                    <div className="text-xs mt-2" style={{ color: '#71717A' }}>{quote.year}</div>
-                  )}
-                </Link>
-              ))}
-            </div>
+            <span className="text-xs px-2 py-0.5 rounded-full font-medium" style={{ backgroundColor: '#FEF3C7', color: '#92400E' }}>
+              {featured.length}
+            </span>
+          </div>
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
+            {featured.map((quote) => (
+              <QuoteCard key={quote.slug} quote={quote} featured />
+            ))}
+          </div>
         </div>
       )}
 
       {/* Quotes by Topic */}
       <div className="px-6 sm:px-10 py-10" style={{ backgroundColor: '#F9F7F3' }}>
-          <h2 className="font-display text-xl font-bold mb-6" style={{ color: '#18181B' }}>
-            Browse by Topic
-          </h2>
-          {topics.map((topic) => {
-            const topicQuotes = byTopic(topic)
-            if (topicQuotes.length === 0) return null
-            return (
-              <div key={topic} className="mb-6">
-                <h3 className="font-display text-lg font-semibold mb-3 capitalize" style={{ color: '#2D6A4F' }}>
+        <h2 className="font-display text-xl font-bold mb-6" style={{ color: '#18181B' }}>
+          Browse by Topic
+        </h2>
+        {topics.map((topic) => {
+          const topicQuotes = byTopic(topic)
+          if (topicQuotes.length === 0) return null
+          return (
+            <div key={topic} className="mb-8">
+              <div className="flex items-center gap-2 mb-3">
+                <h3 className="font-display text-lg font-semibold capitalize" style={{ color: '#2D6A4F' }}>
                   {topic.replace(/-/g, ' ')}
                 </h3>
-                <div className="space-y-2">
-                  {topicQuotes.map((quote) => (
-                    <Link key={quote.slug} href={`/quotes/${quote.slug}`}
-                      className="block p-3 rounded-lg border hover:shadow-md transition"
-                      style={{ borderColor: '#E6E2D9', backgroundColor: '#fff' }}>
-                      <p className="text-sm leading-relaxed mb-1" style={{ color: '#18181B' }}>
-                        "{quote.text}"
-                      </p>
-                      <div className="text-xs" style={{ color: '#71717A' }}>
-                        {quote.year && <span>{quote.year} &bull; </span>}
-                        <span>{quote.source}</span>
-                      </div>
-                    </Link>
-                  ))}
-                </div>
+                <span
+                  className="text-[11px] px-1.5 py-0.5 rounded-full font-medium"
+                  style={{ backgroundColor: '#E9F5EF', color: '#2D6A4F' }}
+                >
+                  {topicQuotes.length}
+                </span>
               </div>
-            )
-          })}
+              <div className="grid grid-cols-1 lg:grid-cols-2 gap-3">
+                {topicQuotes.map((quote) => (
+                  <QuoteCard key={quote.slug} quote={quote} />
+                ))}
+              </div>
+            </div>
+          )
+        })}
       </div>
 
       {/* AdSense */}
       <div className="px-6 sm:px-10 py-8" style={{ backgroundColor: '#fff' }}>
-          <AdUnit variant="horizontal" />
+        <AdUnit variant="horizontal" />
       </div>
     </div>
   )

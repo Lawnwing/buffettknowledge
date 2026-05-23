@@ -232,4 +232,7 @@ export interface Quote {
   topicTags: string[]
   context?: string
   featured: boolean
+  analysis?: string        // Original deep-dive analysis
+  whyItMatters?: string    // Why this quote is still relevant today
+  howToApply?: string      // Practical application guidance
 }
