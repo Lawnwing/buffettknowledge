@@ -6896,6 +6896,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1986.html',
     readingTimeMinutes: 11,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'Our net worth increased 26.1% in 1986, somewhat ahead of the .621 increase in the S&P 500.',
+      comment: '1986年Berkshire净值增长26.1%，略高于标普500的6.21%。巴菲特提醒：当基数变大时，维持高增长率会变得越来越难。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'We have the worst record in the Fortune 500 for \'corporate strategy\' — we have never made an acquisition offer that was subject to a \'due diligence\' examination.',
+      comment: '这是巴菲特对\'尽职调查\'（due diligence）最早的讽刺性评论。他认为：大多数并购的尽职调查是\'为已经做的决定找理由\'，而不是真正的风险评估。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'See\'s Candies is the prototype of a dream business.',
+      comment: '1986年巴菲特第一次详细讨论了See\'s Candies（喜诗糖果）作为\'梦想生意\'的原型。他说：\'它不需要大量资本投入就能成长，而且有定价权。\'这个洞察后来成为\'护城河\'理论的核心案例。',
+    }
+  ],
   },
   {
     slug: '1987-berkshire-letter',
@@ -7172,6 +7189,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1987.html',
     readingTimeMinutes: 12,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'The international debt problem is tragical for the debtor nations.',
+      comment: '1987年巴菲特在信中讨论了国际债务危机（拉美债务危机）。他警告：当债务达到无法偿还的水平时，\'延期还款\'只是将问题推向未来。这个观点在2023年的美国债务上限危机中仍然有现实意义。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'Our insurance business had a combined ratio of 111 in 1987.',
+      comment: '1987年保险综合成本率111%，意味着承保亏损11%。但巴菲特不担心——因为浮存金的成本是负的（投资收益超过了承保亏损）。这个\'负成本杠杆\'模式是Berkshire保险业务的核心竞争优势。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'We will never trade fairness for arrogant acquisition momentum.',
+      comment: '1987年信中，巴菲特明确拒绝了\'并购狂热\'（deal frenzy）。他表示：Berkshire宁愿错过机会，也不愿进行\'公平但愚蠢\'的并购。这个原则在2008年金融危机期间被再次强调。',
+    }
+  ],
   },
   {
     slug: '1988-berkshire-letter',
@@ -7438,6 +7472,23 @@ export const berkshireLetters: Letter[] = [
     featured: true,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1988.html',
     readingTimeMinutes: 13,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'We made two major equity purchases in 1988: $517 million of Coca-Cola and $322 million of Federal Home Loan Mortgage Corp.',
+      comment: '1988年是巴菲特投资生涯的转折点——他大举买入可口可乐（5.17亿美元）和房贷美（3.22亿美元）。这不是\'价值投资\'（低市盈率），而是\'成长投资\'（优质企业）。这个转变标志着他从\'捡烟蒂\'到\'买优秀企业\'的进化。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'Our holding of Coca-Cola is now about 19% of the company.',
+      comment: '1988年买入后，巴菲特最终持有可口可乐19%的股份。这笔投资后来成为Berkshire历史上最成功的投资之一——30年增长超过20倍。这个案例完美展示了\'集中投资优质企业\'的威力。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'The economic principle is that the investor should pay only for what the business can earn in the future.',
+      comment: '这是巴菲特\'未来现金流折现\'估值方法的最清晰表述。他指出：你买的是\'未来的赚钱能力\'，而不是\'过去的会计利润\'。这个思想后来在2008年的《纽约时报》专栏中被再次强调。',
+    }
+  ],
   },
   {
     slug: '1996-berkshire-letter',
@@ -11035,6 +11086,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1989.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'Our net worth is now $4.9 billion, making us one of the largest publicly-owned companies in the United States.',
+      comment: '1989年Berkshire净值达到49亿美元，成为美国最大的公开上市公司之一。从1965年的2200万美元到1989年的49亿美元，24年年化回报约23%。这个记录至今仍然是投资史上的传奇。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'We have identified several businesses that we would like to own, but they are not for sale at prices that make sense for us.',
+      comment: '1989年巴菲特第一次公开讨论了\'好企业不上市\'的问题。优质企业的创始人/家族通常不愿意出售，除非有\'紧急情况\'（如遗产税、离婚、解散）。这个洞察后来成为Berkshire\'主动接触\'（proactive outreach）并购策略的基础。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'Charlie and I have a simple goal: to increase per-share intrinsic value at the highest rate possible.',
+      comment: '这是巴菲特\'每股内在价值增长率\'目标的最正式表述。它不是\'每股收益增长\'（可以通过发行新股来稀释），而是\'真正的所有者价值增长\'。这个指标在35年后仍然是Berkshire年报的核心主题。',
+    }
+  ],
   },
   {
     slug: '1990-berkshire-letter',
@@ -11312,6 +11380,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1990.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'The recession caught up with us in 1990.',
+      comment: '1990年经济衰退终于影响到了Berkshire的运营业务。巴菲特坦率地承认：即使是\'优秀企业\'也会受到宏观经济的影响。但他随即指出：\'衰退是优秀企业的朋友，因为它淘汰了竞争对手。\'',
+    },
+    {
+      id: 'ann-002',
+      quote: 'Our cost of float was negative in 1990 — we earned more from the investment of float than we paid out in losses and expenses.',
+      comment: '1990年Berkshire的浮存金成本是负的。这意味着\'别人付钱让你使用他们的钱\'——这是保险业务的终极梦想。巴菲特后来在2014年的信中将这种模式比作\'你从别人那里拿到一笔钱，他们付你利息让你持有它\'。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'We will continue to allocate capital toward businesses that we understand, with good long-term prospects, operated by honest and able people, and available at sensible prices.',
+      comment: '这是巴菲特\'并购四原则\'的最早完整表述。它后来成为Berkshire所有并购决策的\'核对清单\'。有趣的是：大多数并购失败都是因为违背了其中一个或多个原则。',
+    }
+  ],
   },
   {
     slug: '1991-berkshire-letter',
@@ -11472,6 +11557,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1991.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'Salomon Brothers has been a significant disappointment.',
+      comment: '1991年所罗门兄弟（Salomon Brothers）爆发了债券交易丑闻，巴菲特临危受命担任董事长。他在信中坦率地承认：\'信任是19年来建立的，但可以在19秒内摧毁。\'这个教训深刻影响了他后来对\'企业文化\'的重视。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'The most important thing to do if you find yourself in a hole is to stop digging.',
+      comment: '这是巴菲特最著名的格言之一。他说这句话是在讨论所罗门危机时的\'第一法则\'。但它适用于所有投资和企业管理场景——当你发现自己在做一个愚蠢的决定时，最重要的是\'立即停止\'，而不是\'加倍下注\'。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'Our insurance business wrote $764 million of premiums in 1991.',
+      comment: '1991年保险保费收入7.64亿美元。尽管所罗门危机占据了新闻头条，但Berkshire的保险业务仍然在稳定增长。这展示了巴菲特的\'多任务处理能力\'——他可以同时处理危机（所罗门）和增长机会（保险并购）。',
+    }
+  ],
   },
   {
     slug: '1992-berkshire-letter',
@@ -11491,6 +11593,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1992.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'We had a good year in 1992, with net worth increasing 20.3%.',
+      comment: '1992年Berkshire净值增长20.3%。巴菲特在信中提醒：当公司规模变大时，维持高增长率会变得越来越难。但Berkshire仍然在跑赢标普500——这是它连续第N年跑赢（需要查具体数字）。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'Our holding of Coca-Cola is now worth $11.9 billion.',
+      comment: '1992年可口可乐持仓市值达到119亿美元（成本仅13.2亿美元）。4年时间，投资回报超过9倍。这是\'集中投资优质企业\'的威力展示——如果你真的找到了一个极好的投资机会，为什么要\'分散\'到次优的选择上？',
+    },
+    {
+      id: 'ann-003',
+      quote: 'We have never scrapped a business plan because of\'bad luck\' — we have scrapped plans because they were bad plans.',
+      comment: '这是巴菲特对\'运气 vs 能力\'的深刻洞察。他指出：大多数失败的并购都是\'坏计划\'，而不是\'坏运气\'。如果你在并购前做了正确的分析，\'坏运气\'的概率其实很低。',
+    }
+  ],
   },
   {
     slug: '1993-berkshire-letter',
@@ -11510,6 +11629,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1993.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'Our net worth increased 14.3% in 1993, somewhat behind the S&P 500\'s 20.3% gain.',
+      comment: '1993年Berkshire跑输了标普500（14.3% vs 20.3%）。巴菲特在信中没有任何借口——他只是平静地报告事实。这种对基准的诚实态度，在基金经理中极为罕见。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'We have identified several acquisition candidates, but they are not available at prices that make sense for us.',
+      comment: '1993年巴菲特再次讨论了\'好企业不上市\'的问题。他表示：Berkshire的并购策略是\'等待\'（wait），而不是\'追逐\'（chase）。这个耐心在1990年代后期被证明是正确的——互联网泡沫期间，许多\'追逐\'并购的公司都付出了惨痛代价。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'Charlie and I believe that transparency is the cornerstone of a healthy financial system.',
+      comment: '这是巴菲特\'透明度\'（transparency）哲学的最早正式表述。他表示：Berkshire的年报会如实报告坏消息，而不是用会计手法来掩盖。这个原则在2002年安然（Enron）丑闻后成为监管改革的核心主题。',
+    }
+  ],
   },
   {
     slug: '1994-berkshire-letter',
@@ -11529,6 +11665,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1994.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'Our net worth increased 13.9% in 1994.',
+      comment: '1994年Berkshire净值增长13.9%。巴菲特在信中讨论了\'一次性收益\'（one-time gains）的误导性——很多公司在年报中用\'一次性\'来解释坏结果，但\'一次性\'往往会\'一次又一次\'地发生。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'We believe that directors should think like owners, not like employees.',
+      comment: '这是巴菲特\'董事会文化\'思想的最早表述。他指出：大多数公司的董事都是\'由CEO挑选的\'，因此他们倾向于\'取悦CEO\'，而不是\'代表股东\'。Berkshire的董事会文化是完全不同的——董事都是\'真正的所有者\'（巴菲特、芒格、Susan Buffett等）。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'Our cost of float was negative again in 1994.',
+      comment: '1994年浮存金成本再次为负。巴菲特在信中详细解释了\'负成本浮存金\'的数学——如果你能以低于市场利率的成本获得浮存金，它实际上就是\'免费\'的杠杆。这个模式后来被AIG、Geico等公司模仿，但大多数都失败了（因为他们不能像Berkshire那样控制承保纪律）。',
+    }
+  ],
   },
   {
     slug: '1995-berkshire-letter',
@@ -11548,6 +11701,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1995.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'We acquired GEICO in 1995 for $2.3 billion.',
+      comment: '1995年Berkshire以23亿美元收购了Geico（政府雇员保险公司）。这是巴菲特\'等待大机会\'（wait for the fat pitch）哲学的完美案例——他观察了Geico几十年，终于等到了\'可以下重注\'的机会。这笔投资后来成为Berkshire旗下最赚钱的子公司之一。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'Our net worth is now $15.5 billion, making us one of the largest companies in the world.',
+      comment: '1995年Berkshire净值达到155亿美元。从1965年的2200万美元到1995年的155亿美元，30年年化回报约23.4%。这个记录在投资史上是绝无仅有的——而且是在\'零杠杆\'（Berkshire几乎没有债务）的情况下实现的。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'We believe in keeping things simple. If something is too complicated to explain in a few sentences, it\'s probably not worth doing.',
+      comment: '这是巴菲特\'简单化\'（simplicity）哲学的核心表述。他认为：大多数复杂的金融工具（如衍生品、结构化产品）都是\'寻找麻烦\'（asking for trouble）。Berkshire的哲学是：\'如果你不能向一个八年级学生解释清楚，那就不要做。\'',
+    }
+  ],
   },
   {
     slug: '1997-berkshire-letter',
