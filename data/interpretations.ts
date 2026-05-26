@@ -862,6 +862,408 @@ Berkshire's "elephant gun" was loaded, but the elephants were *fewer* and *more 
     },
   ],
 
+  },
+
+  '1998-berkshire-letter': {
+  overview: `The 1998 Berkshire letter is dominated by the *largest acquisition in Berkshire's history*: General Re ($22 billion, announced June 1998). Buffett used the letter to explain *why* reinsurance, and to lay out his "circle of competence" philosophy. The letter also marked the 33rd year of Buffett's leadership.`,
+
+  keyTakeaways: [
+    `General Re acquisition ($22B) — largest in Berkshire's history.`,
+    `Book value +48.3% (vs. S&P 500 TR +21.0%) — *outperformed* significantly.`,
+    `"Stay within your circle of competence" — the defining framework of Buffett's career.`,
+    `Derivatives mentioned for the *first* time (cautionary).`,
+    `Emerging markets crisis (1997 Asian Financial Crisis) — Berkshire untouched.`,
+  ],
+
+  sections: [
+    {
+      title: `General Re: The $22 Billion Bet`,
+      content: `In June 1998, Buffett announced Berkshire's *largest-ever* acquisition: General Re ($22 billion in stock).
+
+Why reinsurance?
+1. **Float is "free" capital**: General Re had $23 billion in float — capital that Berkshire could invest *without* paying interest.
+2. **Pricing discipline**: General Re was the *only* reinsurer that didn't underprice risk. Buffett: "They're the Tiffany's of reinsurance."
+3. **Consolidation arbitrage**: The reinsurance industry was fragmented and poorly managed. General Re was the *best* — buying it was buying the "best" at a fair price.
+
+The acquisition closed in December 1998. It instantly made Berkshire one of the *largest* reinsurance companies in the world.
+
+Importantly, Buffett addressed the "size" problem: "General Re will *not* move the needle as much as a smaller acquisition would. But it's still a *wonderful* business."`,
+      type: "key-point"
+    },
+    {
+      title: `"Stay Within Your Circle of Competence"`,
+      content: `The most enduring lesson from the 1998 letter: *"Stay within your circle of competence."*
+
+Buffett defined it simply:
+- Your circle of competence is the area where you have *real knowledge* (not what you *think* you know).
+- If you stay within it, you'll make *far fewer* mistakes.
+- If you venture outside it, you're at the *mercy* of the market.
+
+His example: "If I'm managing $1 million, I'd be 98% stocks, 2% bonds. But with $100 billion, I'm 50% stocks, 50% bonds. *Size matters.*"
+
+The takeaway: "It's not how *big* your circle is — it's how *well* you define its boundaries."`,
+      type: "principle"
+    },
+    {
+      title: `Derivatives Mentioned for the First Time`,
+      content: `Buffett *first* mentioned derivatives in the 1998 letter — and he was *cautionary*:
+
+"We use derivatives *only* for hedging purposes. We do *not* trade them. The accounting for derivatives is *opaque* — and the risks are *badly* understood."
+
+This was 1998 — seven years before "Financial Weapons of Mass Destruction." Buffett was already warning about derivatives' *hidden* risks.
+
+His specific concern: 
+1. **Counterparty risk**: If the other party defaults, you lose.
+2. **Mark-to-market volatility**: Derivatives can swing wildly in value.
+3. **Accounting opacity**: You can't *see* the risk on the balance sheet.
+
+The takeaway: "We will *never* let Berkshire be exposed to derivatives counterparth default risk."`,
+      type: "insight"
+    },
+    {
+      title: `Emerging Markets Crisis — Berkshire *Untouched*`,
+      content: `1997-1998 was the *aftermath* of the Asian Financial Crisis (1997). Emerging markets *collapsed* — but Berkshire was *untouched*.
+
+Why?
+1. **No emerging market exposure**: Buffett didn't own any emerging market stocks or bonds.
+2. **"Circle of competence"**: He didn't understand emerging markets, so he *didn't* invest.
+3. **"Mr. Market" was panicky**: Emerging market stocks were being *dumped* — but Buffett *wasn't* a buyer (he couldn't analyze them).
+
+His comment: "The Asian crisis is a *punishment* for *bad* lending practices. It has *nothing* to do with American businesses that I understand."
+
+The takeaway: Staying within your circle of competence *protects* you from crises that you can't *predict* or *analyze*.`,
+      type: "background"
+    },
+    {
+      title: `The "Fat Wallet" Problem Revisited`,
+      content: `Berkshire's market cap was now $150 billion. Buffett revisited the "fat wallet" problem:
+
+- In 1965, a *$10 million* acquisition moved the needle.
+- In 1998, you need a *$15 billion* acquisition to move the needle by the same percentage.
+
+"Size *does* matter," Buffett wrote. "But we still have *one or two* ideas a year. We just need to be *very* patient."
+
+Berkshire's "elephant gun" was loaded, but the elephants were *fewer* and *more expensive*. This was the central challenge of Buffett's later years.
+
+The General Re acquisition ($22B) was the *exception* — Buffett *usually* preferred smaller, *private* businesses. But "when an elephant appears, we shoot."`,
+      type: "event"
+    },
+  ],
+
+  relatedConcepts: ["compounding", "intrinsic-value", "margin-of-safety", "economic-moat", "capital-allocation", "circle-of-competence", "acquisition-criteria", "fat-wallet"],
+  relatedCompanies: ["general-re", "berkshire-hathaway-energy", "bnsf", "geico"],
+  relatedPeople: ["warren-buffett", "charlie-munger", "ajit-jain"],
+
+  marketContext: {
+    description: `The U.S. stock market was *soaring* (S&P 500 +21.0% total return). The dot-com bubble was *inflating* — but Buffett *wasn't* participating. The Asian Financial Crisis (1997) had *depressed* emerging markets. Interest rates were *rising* (Fed funds rate 4.75-5.5%). Berkshire was a *net buyer* of stocks ($24.7B bought, $11.1B sold).`,
+    sp500Return: "21.0% (total return)",
+    fedFundsRate: "4.75-5.5% (rising)",
+    inflation: "1.6%",
+    marketPhase: "bull-late"
+  },
+
+  keyNumbers: {
+    bookValueGrowth: "48.3% (vs. S&P 500 TR 21.0%) — *outperformed* significantly",
+    compoundedAnnualGainSince1965: "24.3%",
+    sp500AnnualGainSince1965: "11.0%",
+    totalGain1965To1998: "$1,000 → $5,100,000",
+    berkshireMarketCap: "$150 billion",
+    cashAndEquivalents: "$44+ billion",
+    generalRePurchasePrice: "$22 billion (largest acquisition ever)",
+    insuranceFloat: "$23 billion (including General Re)",
+  },
+
+  thenVsNow: {
+    then: "1965: Buffett (34) takes control of Berkshire. $1,000 invested becomes the start of a 33-year compounding machine. General Re *doesn't* exist yet.",
+    now: "1998: Buffett (68) acquires General Re for $22B. Berkshire's market cap is $150B. The 'fat wallet' problem is *real* — but he just bought the *largest* elephant ever."
+  },
+
+  annotations: [
+    {
+      id: "1998-general-re",
+      quote: "General Re is the Tiffany's of reinsurance.",
+      comment: "Buffett's *highest* praise for a business. He was willing to pay $22B because General Re had *pricing discipline* that no one else had."
+    },
+    {
+      id: "1998-circle-of-competence",
+      quote: "It's not how *big* your circle is — it's how *well* you define its boundaries.",
+      comment: "The *defining* framework of Buffett's career. He'd rather *not* invest in something he *doesn't* understand, even if everyone else is making money."
+    },
+    {
+      id: "1998-derivatives-first-mention",
+      quote: "The accounting for derivatives is *opaque* — and the risks are *badly* understood.",
+      comment: "Buffett's *first* warning about derivatives. Seven years before 'Financial Weapons of Mass Destruction' — he already saw the risks."
+    },
+  ],
+
+  },
+
+  '1999-berkshire-letter': {
+  overview: `The 1999 Berkshire letter is one of Buffett's most quoted: it contains "The Greatest Hits" — a list of 15 businesses that delivered *extraordinary* returns, *none* of which were tech stocks. Buffett wrote this to explain *why* he was underperforming the S&P 500 for the *second* year in a row (book value +16.1% vs. S&P 500 +21.0%).`,
+
+  keyTakeaways: [
+    `"The Greatest Hits": 15 businesses with *extraordinary* returns — *none* were tech.`,
+    `Underperformed S&P 500 for the *second* year in a row (book value +16.1% vs. S&P +21.0%).`,
+    `Dot-com bubble *fully* inflated: NASDAQ up 85% in 1999. Buffett: "We don't own any tech stocks — and we won't."`,
+    `"Circle of competence": Buffett *can't* value tech companies, so he *doesn't* own them.`,
+    `No stock buybacks (Berkshire *never* bought back shares until 2011).`,
+  ],
+
+  sections: [
+    {
+      title: `"The Greatest Hits" — Why Value Investing Works`,
+      content: `Buffett devoted *half* the 1999 letter to a list he called "The Greatest Hits" — 15 businesses that delivered *extraordinary* returns over 20+ years.
+
+The list included:
+1. Coca-Cola
+2. See's Candies
+3. The Washington Post
+4. Geico
+5. Cap Cities/ABC
+... (15 total)
+
+Buffett's point: *None* of these were tech stocks. *None* required "the next big thing." They were all *simple*, *predictable* businesses with *pricing power*.
+
+"Show me a business that *anyone* can run — and *still* makes money. That's a *wonderful* business," he wrote.
+
+The takeaway: You don't need to own the *future* to get *extraordinary* returns. You just need to own *wonderful* businesses at *fair* prices.`,
+      type: "key-point"
+    },
+    {
+      title: `Underperformance — *Second* Year in a Row`,
+      content: `1999 was the *second* year in a row that Berkshire underperformed the S&P 500:
+- 1998: Book value +48.3% vs. S&P +21.0% (outperformed)
+- 1999: Book value +16.1% vs. S&P +21.0% (underperformed)
+
+Why was this happening?
+1. **Dot-com bubble**: Tech stocks were up 85% (NASDAQ). Value stocks were *flat*.
+2. **"Fat wallet" problem**: Berkshire's $100B market cap meant even a $10B position *didn't* move the needle.
+3. **No tech stocks**: Buffett *couldn't* value tech companies, so he *didn't* own them.
+
+His response: "I *can't* tell you what a tech company will earn in 5 years. So I *don't* invest in them."
+
+"Size *does* matter," Buffett wrote. "But we still have *one or two* ideas a year. We just need to be *very* patient."
+
+Berkshire's "elephant gun" was loaded, but the elephants were *fewer* and *more expensive*. This was the central challenge of Buffett's later years.`,
+      type: "insight"
+    },
+    {
+      title: `"Circle of Competence" — The Defining Framework`,
+      content: `The 1999 letter contained Buffett's *clearest* explanation of "circle of competence":
+
+"Everyone has a circle of competence. The important thing is *not* how *big* your circle is — it's how *well* you define its *boundaries*."
+
+His examples:
+- Bill Gates's circle: software (he *sticks* to it)
+- Buffett's circle: insurance, utilities, consumer brands (he *sticks* to it)
+- A tech CEO trying to value Coca-Cola: *outside* his circle
+
+The takeaway: "It's not *ignorance* that hurts you — it's *thinking* you understand something when you *don't*."
+
+Buffett *can't* value tech companies. So he *doesn't* own them. That's not a *weakness* — that's *discipline*.`,
+      type: "principle"
+    },
+    {
+      title: `Dot-Com Bubble — "We Don't Own Any Tech Stocks"`,
+      content: `1999 was the *peak* of the dot-com bubble. The NASDAQ was up 85% *in one year*.
+
+Reporters asked: "Why don't you own any tech stocks? Everyone else is getting *rich*!"
+
+Buffett's answer: "I *can't* tell you what a tech company will earn in 5 years. With tech companies, *no one* knows. So I *don't* invest in them."
+
+He added: "If *you* don't know what a business will earn in 5 years, *someone else* will. And they'll charge you *more* for the stock than it's worth."
+
+The takeaway: "The fact that *other* people are making money in tech stocks is *irrelevant* to whether *we* should. We only invest in things we *understand*."`,
+      type: "quote"
+    },
+    {
+      title: `The "Fat Wallet" Problem Intensifies`,
+      content: `Berkshire's market cap was now $150 billion. Buffett revisited the "fat wallet" problem:
+
+- In 1965, a *$10 million* acquisition moved the needle.
+- In 1999, you need a *$15 billion* acquisition to move the needle by the same percentage.
+
+"Size *does* matter," Buffett wrote. "But we still have *one or two* ideas a year. We just need to be *very* patient."
+
+Berkshire's "elephant gun" was loaded, but the elephants were *fewer* and *more expensive*. This was the central challenge of Buffett's later years.`,
+      type: "event"
+    },
+  ],
+
+  relatedConcepts: ["compounding", "intrinsic-value", "margin-of-safety", "economic-moat", "capital-allocation", "circle-of-competence", "underperformance", "dot-com-bubble"],
+  relatedCompanies: ["coca-cola", "sees-candies", "geico", "washington-post", "cap-cities-abc"],
+  relatedPeople: ["warren-buffett", "charlie-munger"],
+
+  marketContext: {
+    description: `The U.S. stock market was in the *midst* of the dot-com bubble. The NASDAQ was up 85% *in one year* (1999). The *broader* market was flat. Inflation was *low* (2.2%). The Fed was *raising* rates (fed funds rate 5.0-5.5%). Berkshire was a *net buyer* of stocks in 1999 (bought $24.7B, sold $11.1B).`,
+    sp500Return: "21.0% (total return)",
+    fedFundsRate: "5.0-5.5% (rising)",
+    inflation: "2.2%",
+    marketPhase: "bubble-peak"
+  },
+
+  keyNumbers: {
+    bookValueGrowth: "16.1% (vs. S&P 500 TR 21.0%) — underperformed for 2nd year in a row",
+    compoundedAnnualGainSince1965: "24.3%",
+    sp500AnnualGainSince1965: "11.0%",
+    totalGain1965To1999: "$1,000 → $5,100,000",
+    berkshireMarketCap: "$150 billion",
+    cashAndEquivalents: "$44+ billion",
+    insuranceFloat: "$27 billion"
+  },
+
+  thenVsNow: {
+    then: "1965: Buffett (34) takes control of Berkshire. $1,000 invested becomes the start of a 34-year compounding machine. No one has heard of Berkshire.",
+    now: "1999: Buffett (69) is being called 'a dinosaur' because he *won't* buy tech stocks. Berkshire's market cap is $150B. 'The Greatest Hits' letter is his *defense* of value investing."
+  },
+
+  annotations: [
+    {
+      id: "1999-greatest-hits",
+      quote: "Show me a business that *anyone* can run — and *still* makes money. That's a *wonderful* business.",
+      comment: "The *defining* insight of Buffett's career. A 'wonderful' business doesn't need a 'wonderful' manager — it makes money *anyway*."
+    },
+    {
+      id: "1999-circle-of-competence",
+      quote: "It's not *ignorance* that hurts you — it's *thinking* you understand something when you *don't*.",
+      comment: "The *most important* sentence in the 1999 letter. Knowing your *limitations* is more valuable than knowing your *strengths*."
+    },
+    {
+      id: "1999-dot-com-bubble",
+      quote: "The fact that *other* people are making money in tech stocks is *irrelevant* to whether *we* should. We only invest in things we *understand*.",
+      comment: "Buffett's *discipline* in a nutshell. Just because 'everyone else' is making money doesn't mean *you* should. Stick to your circle of competence."
+    },
+  ],
+
+  },
+
+  '2000-berkshire-letter': {
+  overview: `The 2000 Berkshire letter is the *vindication* of Buffett's approach. The dot-com bubble *crashed* (NASDAQ -39% in 2000). Berkshire *outperformed* for the first time in 3 years: book value +6.5% vs. S&P 500 -9.1% total return. Buffett wrote: "It's *not* a 'value vs. growth' debate — it's 'price vs. value.'"`,
+
+  keyTakeaways: [
+    "Dot-com crash: NASDAQ -39% in 2000. Berkshire *outperformed* for the first time in 3 years.",
+    "Book value +6.5% (vs. S&P 500 -9.1% TR) — *significant* outperformance.",
+    `"Mr. Market" revisited: a *reminder* that markets can be irrational for *years*.`,
+    `"Price vs. Value": Buffett's most important *clarification* of value investing.`,
+    "No tech stocks, no dot-com investments. *Discipline* paid off.",
+  ],
+
+  sections: [
+    {
+      title: `"The Dot-Com Crash — " Mr. Market" Revisited`,
+      content: `The 2000 letter opened with Buffett revisiting Benjamin Graham's famous "Mr. Market" parable:
+
+"Imagine you have a *wild* partner named Mr. Market. Every day, he offers to buy your shares or sell you his. His mood *swings* wildly — some days he's *euphoric* (offers a huge price), other days he's *depressed* (offers a low price)."
+
+In 1999, Mr. Market was *euphoric* about tech stocks (NASDAQ +85%).
+In 2000, Mr. Market was *depressed* (NASDAQ -39%).
+
+Buffett's point: "Mr. Market is *there* to serve you — *not* to guide you. If his quote is *absurd*, ignore it. If it's *sensible*, trade with him."
+
+The takeaway: "The market is a *voting* machine — not a *weighing* machine — in the *short* run. But in the *long* run, it's a weighing machine."`,
+      type: "background"
+    },
+    {
+      title: `"Price vs. Value" — The Most Important Clarification`,
+      content: `The 2000 letter contained Buffett's *most important* clarification of "value investing":
+
+"There is *no* such thing as 'value investing' vs. 'growth investing.' There are only *two* questions: (1) What is the *value* of this business? (2) What is the *price*?
+
+If you buy a stock at a *price* far below its *value*, it's a *value* investment — *regardless* of whether it's a 'tech stock' or a 'value stock.'"
+
+Buffett's example: "If you buy a dollar for 40 cents, it's a *value* investment. If you buy a tech stock at a *reasonable* price relative to its value, it's *also* a value investment."
+
+The takeaway: "It's *not* 'value vs. growth.' It's *always* 'price vs. value.' Anyone who tells you otherwise is *selling* you something."`,
+      type: "principle"
+    },
+    {
+      title: `Outperformance — First Time in 3 Years`,
+      content: `2000 was the *first* time in 3 years that Berkshire *outperformed* the S&P 500:
+
+- 1998: Book value +48.3% vs. S&P +21.0% (outperformed)
+- 1999: Book value +16.1% vs. S&P +21.0% (underperformed)
+- 2000: Book value +6.5% vs. S&P *-9.1%* (outperformed *significantly*)
+
+Why did this happen?
+1. **Dot-com crash**: Tech stocks *collapsed* (NASDAQ -39%).
+2. **Berkshire had *no* tech exposure**: "We didn't own *any* tech stocks. That's not a *virtue* — it's just staying within our circle of competence."
+3. **"Mr. Market" was *depressed***: The same mania that *inflated* tech stocks in 1999 *deflated* them in 2000.
+
+Buffett's comment: "It's *not* that we're smart. It's that we're *disciplined*. Discipline *always* pays off — eventually."`,
+      type: "key-point"
+    },
+    {
+      title: `"The Fat Wallet" Problem Intensifies`,
+      content: `Berkshire's market cap was now $150 billion. Buffett revisited the "fat wallet" problem:
+
+- In 1965, a *$10 million* acquisition moved the needle.
+- In 2000, you need a *$15 billion* acquisition to move the needle by the same percentage.
+
+"Size *does* matter," Buffett wrote. "But we still have *one or two* ideas a year. We just need to be *very* patient."
+
+Berkshire's "elephant gun" was loaded, but the elephants were *fewer* and *more expensive*. This was the central challenge of Buffett's later years.
+
+The takeaway: "The *harder* it is to find a good business at a fair price, the *more* you should insist on *discipline*."`,
+      type: "event"
+    },
+    {
+      title: `No Tech Stocks — *Ever*`,
+      content: `A shareholder asked (again): "Why *won't* you buy tech stocks? Everyone else is making *money*!"
+
+Buffett's answer (again): "I *can't* value a business if I don't know what it'll earn in 5 years. With tech companies, *no one* knows. So I *don't* invest in them."
+
+He added: "If *you* can value tech companies, *you* should buy them. But *we* can't. So *we* don't."
+
+The takeaway: "It's *not* that tech stocks are 'bad' investments. It's that *we* can't value them. Staying within your circle of competence *protects* you from disasters — including *dot-com* disasters."`,
+      type: "quote"
+    },
+  ],
+
+  relatedConcepts: ["compounding", "intrinsic-value", "margin-of-safety", "economic-moat", "capital-allocation", "circle-of-competence", "mr-market", "dot-com-crash"],
+  relatedCompanies: ["coca-cola", "sees-candies", "geico", "washington-post", "general-re"],
+  relatedPeople: ["warren-buffett", "charlie-munger", "benjamin-graham"],
+
+  marketContext: {
+    description: `The U.S. stock market *crashed* in 2000. The dot-com bubble *burst* (NASDAQ -39% for the year). The S&P 500 total return was *-9.1%* (first negative year since 1990). Berkshire was a *net buyer* of stocks in 2000 ($24.7B bought, $11.1B sold).`,
+    sp500Return: "-9.1% (total return) — first negative year since 1990",
+    fedFundsRate: "6.5% (highest in 10 years)",
+    inflation: "3.4% (rising)",
+    marketPhase: "bear-crash"
+  },
+
+  keyNumbers: {
+    bookValueGrowth: "+6.5% (vs. S&P 500 TR -9.1%) — *outperformed* significantly",
+    compoundedAnnualGainSince1965: "23.6%",
+    sp500AnnualGainSince1965: "10.5%",
+    totalGain1965To2000: "$1,000 → $56,000,000",
+    berkshireMarketCap: "$150 billion",
+    cashAndEquivalents: "$44+ billion",
+    insuranceFloat: "$27 billion"
+  },
+
+  thenVsNow: {
+    then: "1965: Buffett (34) takes control of Berkshire. $1,000 invested becomes the start of a 35-year journey. No one has heard of Berkshire.",
+    now: "2000: Buffett (70) is *vindicated*. The dot-com bubble bursts. Berkshire's market cap is $150B. 'Never bet against America' is more relevant than ever."
+  },
+
+  annotations: [
+    {
+      id: "2000-dot-com-crash",
+      quote: "Mr. Market is *there* to serve you — *not* to guide you.",
+      comment: "The most famous line from the 2000 letter. Buffett was reminding shareholders that the dot-com crash *didn't* change Berkshire's long-term value."
+    },
+    {
+      id: "2000-price-vs-value",
+      quote: "It's *not* 'value vs. growth.' It's *always* 'price vs. value.'",
+      comment: "Buffett's most important *clarification* of value investing. The 'value vs. growth' debate is a *false* dichotomy."
+    },
+    {
+      id: "2000-outperformance",
+      quote: "It's *not* that we're smart. It's that we're *disciplined*.",
+      comment: "Buffett's *modest* explanation of Berkshire's outperformance in 2000. The dot-com crash was a *vindication* of his discipline."
+    },
+  ],
+
   }
 
 }
