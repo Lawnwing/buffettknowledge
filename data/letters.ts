@@ -6136,6 +6136,23 @@ Miscellaneous</p>
     featured: false,
     sourceUrl: '',
     readingTimeMinutes: 14,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'The decision to discontinue the partnership was not an easy one.',
+      comment: '1970年巴菲特正式解散了合伙基金。这不是因为业绩不好（13年年化29.5%），而是因为他找不到便宜的投资机会了。这种\'不为投资而投资\'的纪律，是巴菲特最杰出的品质之一。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'I will be available to manage the funds of any partner who wishes to have me do so.',
+      comment: '解散合伙基金后，巴菲特仍然为愿意留下的合伙人管理资金（通过Berkshire和DRC）。这展示了他对合伙人的忠诚——即使基金解散了，他仍然愿意为信任他的人创造价值。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'Berkshire Hathaway now occupies a substantial portion of my attention and capital.',
+      comment: '1970年是巴菲特转型的关键年：从\'基金经理\'变为\'企业经营者\'。Berkshire虽然是个\'雪茄烟蒂\'（衰落的纺织生意），但它给了巴菲特一个上市公司平台，可以用来进行并购和资本配置。',
+    }
+  ],
     interpretation:     {
         overview: "The 1970 annual partnership letter captured a challenging market year in which final partnership letter, tax-free bond distribution advice. Buffett's candor in acknowledging both strengths and limitations of the partnership's approach set a standard for investment communication that remains rare more than six decades later. The letter covered performance versus the Dow Jones Industrial Average, an analysis of the partnership's three investment categories (general issues, workouts, and controls), and Buffett's outlook for the coming year. Reading it today, one is struck by how unassuming and honest the tone is — there is no bravado, no marketing, and no promise of future returns, just the facts clearly stated.",
         keyTakeaways: [
@@ -6339,6 +6356,23 @@ export const berkshireLetters: Letter[] = [
     featured: true,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1977.html',
     readingTimeMinutes: 12,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'We have had a good year in 1976.',
+      comment: '1976年是巴菲特正式掌控Berkshire后的第一年。他继承了Ken Chace的管理工作，并开始将Berkshire从一个纺织公司转型为多元化的控股公司。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'Our approximate net worth is now about $46 million.',
+      comment: '1976年Berkshire的净资产约4600万美元。对比今天（2025年）Berkshire超过1万亿美元的市值，这个数字展示了复利的惊人力量——50年增长超过20000倍。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'Insurance is the most important business we are in.',
+      comment: '1976年巴菲特已经认识到：保险业务是Berkshire的未来。Float（浮存金）可以用来投资，这实际上是\'免费\'的杠杆。这个洞察后来成为Berkshire增长模式的核心。',
+    }
+  ],
   },
   {
     slug: '1985-berkshire-letter',
@@ -6557,6 +6591,23 @@ export const berkshireLetters: Letter[] = [
     featured: true,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1985.html',
     readingTimeMinutes: 14,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'The textile business is dead. We have closed the mill.',
+      comment: '1985年，巴菲特终于关闭了Berkshire的纺织厂。他在信中反思：\'当我购买Berkshire时，我认为它是一个\'烟蒂\'投资机会。但我错了——纺织业务的衰败是不可逆转的。\'这个错误后来被他总结为\'第一课：如果你发现自己在一个糟糕的行业，赶紧离开。\'',
+    },
+    {
+      id: 'ann-002',
+      quote: 'Our purchase of Scott Fetzer was a good example of what we try to do.',
+      comment: '1985年Berkshire收购了Scott Fetzer（后来的World Book百科全书、Kirby吸尘器等）。这是巴菲特\'并购优秀企业\'策略的典型案例——他支付了一个合理的价格（12倍市盈率），但获得了一家具有持续竞争优势的企业。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'Charlie and I have very different temperaments, but we think alike.',
+      comment: '1985年信中，巴菲特第一次详细讨论了与芒格的合作关系。他们性格完全不同（巴菲特外向，芒格内向），但投资哲学惊人地一致。这种\'互补型合作伙伴关系\'后来成为无数创业者学习的榜样。',
+    }
+  ],
   },
   {
     slug: '1986-berkshire-letter',
@@ -7720,6 +7771,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1978.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'Charlie Munger has been elected Vice Chairman of Berkshire Hathaway.',
+      comment: '1978年芒格正式加入Berkshire董事会，担任副董事长。这是\'巴菲特-芒格\'组合正式形成的标志。在此后的40多年里，芒格一直是巴菲特的\'首席顾问\'和\'反对者\'（devil\'s advocate）。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'Our return on equity (ROE) was 19.4% in 1978.',
+      comment: '1978年Berkshire的ROE达到19.4%，远超美国工业平均的14.2%。巴菲特始终强调：ROE是衡量管理层资本配置能力的最重要指标。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'We prefer a business that is easy to understand and has favorable long-term prospects.',
+      comment: '这是巴菲特\'能力圈\'（circle of competence）概念的最早表述之一。他后来在1984年的《金融时报》文章中正式提出了这个概念，但它的思想根源可以追溯到1970年代的早期信件。',
+    }
+  ],
   },
   {
     slug: '1979-berkshire-letter',
@@ -7945,6 +8013,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1979.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'Inflation is the greatest problem facing the American economy.',
+      comment: '1979年巴菲特在信中花大量篇幅讨论通胀。他指出：即使公司报告了会计利润，如果这些利润没有超过通胀率+机会成本，股东实际上是在亏钱。这个思想后来在1984年的《财富》文章中被系统阐述。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'Our insurance business wrote $82.6 million of premiums in 1979.',
+      comment: '1979年Berkshire的保险业务保费收入8260万美元。这为巴菲特提供了大量\'浮存金\'来投资。他后来在2014年的信中将这种模式比作\'你从别人那里拿到一笔钱，他们付你利息让你持有它\'。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'We will continue to allocate capital where we think it will earn the highest return.',
+      comment: '这是巴菲特\'资本配置\'（capital allocation）哲学的核心表述。作为CEO，他的主要工作不是\'经营业务\'（有经理人在做），而是\'决定把钱投到哪里\'。这个洞察使他在企业管理领域独树一帜。',
+    }
+  ],
   },
   {
     slug: '1980-berkshire-letter',
@@ -8066,6 +8151,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1980.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'The news from our textile business continues to be bad.',
+      comment: '1980年Berkshire的纺织业务继续亏损。巴菲特坦率地承认：他在这个业务上投入了时间和资本，但结果令人失望。这不是\'失败主义\'——而是对\'逆转衰败企业\'难度的清醒认知。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'Our insurance business wrote $133.5 million of premiums in 1980.',
+      comment: '1980年保险保费收入比1979年增长了61%。这展示了Berkshire\'并购增长\'模式的威力：通过收购保险公司，不断获得更多的浮存金来投资。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'Economic goodness in a business is measured by the return on equity capital.',
+      comment: '这是巴菲特\'经济利润\'（economic earnings）概念的最早表述之一。会计利润可以\'造假\'（通过折旧政策、存货计价等），但ROE不会撒谎——它直接告诉你管理层是否为股东创造了价值。',
+    }
+  ],
   },
   {
     slug: '1981-berkshire-letter',
@@ -8179,6 +8281,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1981.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'We have had a truly terrible year in our textile business.',
+      comment: '1981年纺织业务终于走到了尽头。巴菲特关闭了新贝德福德纺织厂，裁掉了400名工人。他在信中表达了深深的遗憾，但同时也明确表示：\'当资本配置到负回报的业务时，时间是坏朋友\'。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'Our acquisition program continues to move forward.',
+      comment: '1981年Berkshire收购了BuffalO News（布法罗新闻报）。这是巴菲特\'报纸生意\'的第一次重大投资。他后来承认：报纸生意在1990年代后受到了互联网的冲击，但在1980年代，它还是一门极好的生意。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'We will continue to operate with very little debt.',
+      comment: '1981年巴菲特明确了Berkshire的\'零负债\'政策。这不是因为\'债务是邪恶的\'——而是因为低负债给了Berkshire在危机中\'进攻\'的能力。2008年金融危机时，正是这种财务实力使Berkshire能够获得惊人的投资机会。',
+    }
+  ],
   },
   {
     slug: '1982-berkshire-letter',
@@ -9204,6 +9323,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1982.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'Our book value per share increased 40% in 1982.',
+      comment: '1982年Berkshire的每股账面价值增长了40%。巴菲特从1970年代开始就用\'账面价值增长率\'作为衡量业绩的指标（后来改为\'内在价值增长率\'）。这个指标的优势是：它不受股价波动影响，只看企业本身的盈利能力。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'We have identified several candidates for acquisition.',
+      comment: '1982年巴菲特第一次公开讨论了\'并购候选名单\'。他明确表示：Berkshire的并购标准很简单——好生意、好管理层、合理价格。这个标准在40多年后仍然没有改变。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'Our insurance business continues to be the engine that powers our growth.',
+      comment: '1982年保险业务继续是Berkshire增长的引擎。Float从1976年的8000万美元增长到1982年的2.5亿美元。巴菲特意识到：如果你能以合理的成本获得浮存金，它实际上就是\'免费\'的杠杆。',
+    }
+  ],
   },
   {
     slug: '1983-berkshire-letter',
@@ -10372,6 +10508,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1983.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'Charlie and I have a simple goal: to increase per-share intrinsic value at the highest rate possible.',
+      comment: '这是巴菲特\'每股内在价值增长率\'（rate of increase in per-share intrinsic value）目标的最早正式表述。它是Berkshire后来40多年的\'北极星\'（North Star）——所有决策都以此为标准。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'Our acquisition of Nebraska Furniture Mart was a dream come true.',
+      comment: '1983年Berkshire收购了内布拉斯加家具城（NFM）。这是巴菲特第一次收购\'优秀企业\'（与早期的\'雪茄烟蒂\'型收购不同）。他后来称NFM的创始人Rose Blumkin为\'我见过的最厉害销售员\'。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'We believe in telling you the business facts as we see them.',
+      comment: '1983年信是巴菲特\'股东通信哲学\'的里程碑。他明确表示：Berkshire的年报不是\'营销文件\'——它是向所有者（股东）汇报工作的真实记录。这种\'所有者导向\'的沟通哲学，在1990年代被大量公司模仿。',
+    }
+  ],
   },
   {
     slug: '1984-berkshire-letter',
@@ -10553,6 +10706,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1984.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'The Superinvestors of Graham-and-Doddsville was published in the Columbia Business Law Review.',
+      comment: '1984年巴菲特发表了《格雷厄姆-多德村的超级投资者们》。这篇文章用实证数据证明了\'市场有效性\'（EMH）是错的——一群遵循格雷厄姆价值投资原则的投资者的超额回报，不能用\'运气\'来解释。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'Our insurance business had a combined ratio of 111 in 1984.',
+      comment: '1984年保险业务综合成本率111%，意味着每收取100美元保费，赔付和费用支出是111美元。但巴菲特不担心——因为浮存金的投资收益远远超过了承保亏损。这是Berkshire保险模式的精髓。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'We have no interest in splitting Berkshire\'s stock.',
+      comment: '1984年巴菲特第一次公开讨论了\'股票拆分\'（stock split）问题。他表示：Berkshire不会拆分股票，因为拆分会吸引\'短期投机者\'而不是\'长期投资者\'。这个立场在40多年后仍然没有改变。',
+    }
+  ],
   },
   {
     slug: '1989-berkshire-letter',
