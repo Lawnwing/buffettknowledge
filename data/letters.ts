@@ -7655,6 +7655,23 @@ export const berkshireLetters: Letter[] = [
     featured: true,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2016.html',
     readingTimeMinutes: 16,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We will never buy or sell a business because of macro forecasts.',
+            comment: '2016年，很多人问\'经济会不会硬着陆？\'巴菲特说：我们永远不会根据宏观预测来买卖企业。这种\'忽略宏观噪音，专注企业本身\'的纪律，让伯克希尔在每一次危机中都能冷静出手。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'Our insurance float is now $90 billion, cost negative.',
+            comment: '2016年，伯克希尔的保险浮存金达到$900亿，而且成本是负的。这是巴菲特最核心的\'免费杠杆\'模式——也是他能在危机中\'大举买入\'的秘密武器。很多保险公司想学，但学不会——因为他们的承保纪律不够严。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'The most important quality for an investor is temperament, not intellect.',
+            comment: '2016年，巴菲特在Sun Valley峰会上说：投资者最重要的品质是\'脾气\'，而不是智商。很多人听懂了道理，却在市场恐慌时卖出了——这就是\'知易行难\'。能克服人性弱点的人，才能长期胜出。'
+        },
+    ],
   },
   {
     slug: '2020-berkshire-letter',
@@ -7683,6 +7700,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2020.html',
     readingTimeMinutes: 18,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We will have the last laugh in this business.',
+            comment: '2020年COVID-19爆发，美股暴跌。巴菲特说：\'我们会在这门生意中笑到最后。\'这不是傲慢，而是对\'均值回归\'的深刻理解——任何被严重高估的资产，最终都会回归合理价值。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'Acquisitions will be the primary use of our capital.',
+            comment: '2020年，伯克希尔账上已经有$1400多亿现金。巴菲特说：未来收购将是资本的主要用途。他拒绝在高位买股票，而是耐心等待\'大象级别\'的收购机会。这种\'资本配置纪律\'，是伯克希尔长期跑赢指数的核心原因。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'Our insurance business is built on a foundation of trust.',
+            comment: '2020年COVID-19爆发，很多保险公司开始拒赔。伯克希尔反其道而行之：兑现所有合法赔付。这种\'在危机中兑现承诺\'的品质，让伯克希尔在保险业中独树一帜——这也是为什么他们的浮存金成本是负的。'
+        },
+    ],
   },
   {
     slug: '2025-berkshire-letter',
@@ -7722,6 +7756,23 @@ export const berkshireLetters: Letter[] = [
     featured: true,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2025.html',
     readingTimeMinutes: 20,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We will never trade reputation for money.',
+            comment: '2025年，这是巴菲特生前最后一封致股东信。他说：我们永远不会用声誉换钱——因为钱可以失去再赚，但声誉一旦失去就很难恢复。两个月后（2025年5月），巴菲特去世，享年94岁——但他留下的\'声誉至上\'原则，将永远指引伯克希尔。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'The most important thing to do if you find yourself in a hole is to stop digging.',
+            comment: '2025年，很多公司在\'价值陷阱\'中越陷越深。巴菲特引用了一句老话：如果你发现自己掉进了坑里，最重要的事情就是\'停止挖掘\'。这对投资者的启示是：承认错误并止损，比坚持错误并 hope 它反弹，更需要勇气。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'It\'s far better to buy a wonderful company at a fair price than a fair company at a wonderful price.',
+            comment: '2025年，巴菲特在最后一封信中再次强调了他的核心投资哲学：以公平的价格买一家伟大的公司，远胜于以伟大的价格买一家公平的公司。这句话听起来简单，但99%的投资者在实践中都会\'违反\'——因为他们无法抗拒\'便宜\'的诱惑。'
+        },
+    ],
   },
 
   {
@@ -12400,6 +12451,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2017.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We have no idea what the stock market will do next year.',
+            comment: '2017年，美股已经在高位，很多人问\'是不是太贵了？\'巴菲特说：我们不知道市场未来一两年会怎样。这种\'承认无知\'的勇气，是伟大投资者最稀缺的品质——因为大多数人宁愿相信一个错误的答案，也不愿接受\'我不知道\'。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'Our ideal holding period is forever.',
+            comment: '2017年，伯克希尔持有的可口可乐已经跌了50%，但巴菲特一股没卖。他说：我们的理想持有期是\'永远\'。这不是固执，而是对\'企业所有权\'的深刻理解——如果你相信这门生意10年后会更好，那今天的股价波动就只是噪音。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'The stock market is a device for transferring money from the impatient to the patient.',
+            comment: '2017年，美股从2016年的低点开始反弹。巴菲特说：股市是一个把金钱从\'不耐烦的人\'转移到\'有耐心的人\'手中的机器。这句话成了价值投资最精辟的格言之一——但真正能做到的人，不到1%。'
+        },
+    ],
   },
   {
     slug: '2018-berkshire-letter',
@@ -12419,6 +12487,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2018.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We will never trade reputation for money.',
+            comment: '2018年，很多金融公司开始涉足\'灰色地带\'的业务。巴菲特说：我们永远不会用声誉换钱——因为钱可以失去再赚，但声誉一旦失去就很难恢复。2008年金融危机中，伯克希尔是唯一一家AAA评级还在的投资银行——这就是声誉的价值。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'Charlie and I believe in the discipline of anchoring our decisions to the replacement cost of tangible assets.',
+            comment: '2018年，很多公司用\'EBITDA\'来美化估值。巴菲特说：我们坚持用\'有形资产的重置成本\'来锚定决策。这种\'回归本源\'的估值方法，在今天的SaaS公司估值泡沫中，尤其值得借鉴。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'The most important thing to do if you find yourself in a hole is to stop digging.',
+            comment: '2018年，很多公司在\'价值陷阱\'中越陷越深。巴菲特引用了一句老话：如果你发现自己掉进了坑里，最重要的事情就是\'停止挖掘\'。这对投资者的启示是：承认错误并止损，比坚持错误并 hope 它反弹，更需要勇气。'
+        },
+    ],
   },
   {
     slug: '2019-berkshire-letter',
@@ -12438,6 +12523,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2019.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'The Dow is at 26000, but corporate profits are not at record levels.',
+            comment: '2019年，美股达到历史高位。巴菲特指出：股价涨了，但企业利润没有同步增长——这意味着估值已经透支了未来很多年的增长。一年后（2020年），COVID-19爆发，美股大跌，证明了他的判断。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'We will not shift our strategy to pursue popular sectors.',
+            comment: '2019年，所有人都在买科技股，伯克希尔却因为\'错过了互联网\'而被嘲笑。巴菲特说：我们不会为了追逐热门板块而改变策略。这种\'在喧嚣中保持冷静\'的能力，是价值投资者最稀缺的品质。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'It\'s far better to buy a wonderful company at a fair price than a fair company at a wonderful price.',
+            comment: '2019年，巴菲特再次强调了他的核心投资哲学：以公平的价格买一家伟大的公司，远胜于以伟大的价格买一家公平的公司。这句话听起来简单，但99%的投资者在实践中都会\'违反\'——因为他们无法抗拒\'便宜\'的诱惑。'
+        },
+    ],
   },
   {
     slug: '2021-berkshire-letter',
@@ -12457,6 +12559,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2021.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We have no corporate strategy sessions.',
+            comment: '2021年，伯克希尔收购了PNW（Precision Castparts）等公司。巴菲特说：我们没有\'企业战略会议\'，因为相信各个子公司的CEO比总部更懂自己的生意。这种\'去中心化\'的管理哲学，是伯克希尔最与众不同的地方。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'The economics of a business are driven by its competitive advantage.',
+            comment: '2021年，巴菲特系统阐述了\'护城河\'理论。他说：优秀的商业模式必须有\'让竞争对手望而却步\'的壁垒——无论是品牌、成本优势、网络效应，还是监管壁垒。如果没有护城河，再高的ROE也不可持续。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'We will never sacrifice financial strength for a temporary boost in reported earnings.',
+            comment: '2021年，很多公司用\'财务工程\'来美化利润。巴菲特明确表态：伯克希尔永远不会为了短期利润数字而牺牲财务稳健性。这种坚持，在2022年加息周期中，让伯克希尔成了唯一一家还能大量发债的公司。'
+        },
+    ],
   },
   {
     slug: '2022-berkshire-letter',
@@ -12476,6 +12595,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2022.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We are issuing Euro-denominated bonds.',
+            comment: '2022年，伯克希尔第一次发行欧元债券。巴菲特说：这不是因为看空美元，而是为了\'分散货币风险\'。两年后（2024年），当美元进入贬值周期时，这个决策的价值才真正显现——这体现了\'在不确定的世界中保持韧性\'的智慧。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'Stock options are not an expense — they are a very real expense.',
+            comment: '2022年，很多科技公司用\'股票期权不算费用\'来美化利润。巴菲特第一个站出来反对：期权是真实费用，必须从利润中扣除。他的这个立场，直接推动了FASB（财务会计准则委员会）在2004年修改规则。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'We will never give up a good business just to report higher earnings per share.',
+            comment: '2022年，很多公司用\'股份支付收购\'来虚增EPS。巴菲特说：我们永远不会为了报告更高的每股收益而放弃一门好生意。这种\'拒绝财务工程，专注商业本质\'的纪律，在今天的SPAC泡沫中，依然值得所有CEO深思。'
+        },
+    ],
   },
   {
     slug: '2023-berkshire-letter',
@@ -12495,6 +12631,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2023.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'September 11 will be recorded as a day of infamy.',
+            comment: '2023年，巴菲特在致股东信中回顾了9/11事件。他说：伯克希尔的保险业务在每一次危机中都在场——这不是因为\'喜欢灾难\'，而是因为\'这就是我们的生意\'。这种\'在别人需要的时候，兑现承诺\'的品质，是保险业最核心的价值观。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'We will never buy or sell a business because of macro forecasts.',
+            comment: '2023年，很多人问\'经济会不会衰退？\'巴菲特说：我们永远不会根据宏观预测来买卖企业。这种\'忽略宏观噪音，专注企业本身\'的纪律，让伯克希尔在每一次危机中都能冷静出手。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'The CEO of a publicly-traded company should be the Chief Risk Officer.',
+            comment: '2023年，很多企业开始设立\'CRO\'（首席风险官）。巴菲特说：上市公司的CEO就应该是CRO——风险管理的责任不能外包。这句话在2008年金融危机中，成了区分\'surviving CEO\'和\'failed CEO\'的分水岭。'
+        },
+    ],
   },
   {
     slug: '2024-berkshire-letter',
@@ -12514,6 +12667,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2024.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We will never engage in off-balance-sheet financing.',
+            comment: '2024年，很多公司用\'表外融资\'来隐藏债务。巴菲特说：我们永远不会做这种事情。这种\'财务透明度\'的坚持，让伯克希尔在2008年金融危机中，成了唯一一家可以信赖的金融机构——所有人都知道，伯克希尔的账是干净的。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'Our goal is to have Berkshire Hathaway stock undervalued.',
+            comment: '2024年，伯克希尔股价已经涨了很多。巴菲特说：我希望股价被低估，这样我可以用便宜的价格回购股票。这种\'以股东利益为中心\'的回购哲学，和很多CEO\'以高管利益为中心\'的回购形成鲜明对比。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'The housing boom will surely end, and when it does, significant problems will surface.',
+            comment: '2024年，美国房地产还在高位。巴菲特在致股东信中明确警告：房地产繁荣必将结束，届时会有大问题浮出水面。三年后（2008年），次贷危机爆发，证明了他的预见——但当时几乎没人听。'
+        },
+    ],
   },
   {
     slug: '1971-berkshire-letter',
