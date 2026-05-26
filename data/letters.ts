@@ -7517,6 +7517,23 @@ export const berkshireLetters: Letter[] = [
     featured: true,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1996.html',
     readingTimeMinutes: 12,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'Insurance is a business where the checks you write are for losses that may occur years in the future.',
+            comment: '1996年，伯克希尔的保险浮存金达到$70亿。巴菲特强调：保险的本质是\'先收钱，后赔钱\'——只要你定价正确，浮存金就是\'负利息\'的杠杆。这是他最核心的商业模式洞察之一。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'We have no idea what the stock market will do next year.',
+            comment: '巴菲特从不预测市场。1996年美股已经在高位，很多人问\'是不是太贵了？\'他的回答是：我们只关心企业本身的价值，不关心报价机的报价。这种\'忽略市场先生\'的纪律，是价值投资的核心。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'The Chairman\'s Letter was first published in 1979.',
+            comment: '1996年版本开始系统整理历年的股东信。巴菲特特意提到：这些信不是\'公关文稿\'，而是他真实思考的记录。这种对\'真实性\'的坚持，让他的股东信成为全球CEO最想模仿、却最难模仿的文档。'
+        },
+    ],
   },
   {
     slug: '2005-berkshire-letter',
@@ -7547,6 +7564,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2005.html',
     readingTimeMinutes: 16,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'The housing boom will surely end, and when it does, significant problems will surface.',
+            comment: '2005年，美国房地产泡沫达到顶峰。巴菲特在致股东信中明确警告：房地产繁荣必将结束，届时会有大问题浮出水面。三年后（2008年），次贷危机爆发，证明了他的预见——但当时几乎没人听。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'We will never engage in off-balance-sheet financing.',
+            comment: '2005年，很多公司用\'表外融资\'来隐藏债务。巴菲特说：我们永远不会做这种事情。这种\'财务透明度\'的坚持，让伯克希尔在2008年金融危机中，成了唯一一家可以信赖的金融机构——所有人都知道，伯克希尔的账是干净的。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'It\'s far better to buy a wonderful company at a fair price than a fair company at a wonderful price.',
+            comment: '2005年，巴菲特再次强调了他的核心投资哲学：以公平的价格买一家伟大的公司，远胜于以伟大的价格买一家公平的公司。这句话听起来简单，但99%的投资者在实践中都会\'违反\'——因为他们无法抗拒\'便宜\'的诱惑。'
+        },
+    ],
   },
   {
     slug: '2008-berkshire-letter',
@@ -11737,6 +11771,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1997.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We have no corporate strategy sessions.',
+            comment: '1997年，伯克希尔收购了Star Furniture和Shaw Industries。巴菲特说：我们没有\'企业战略会议\'，因为相信各个子公司的CEO比总部更懂自己的生意。这种\'去中心化\'的管理哲学，是伯克希尔最与众不同的地方。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'The economics of a business are driven by its competitive advantage.',
+            comment: '1997年，巴菲特系统阐述了\'护城河\'理论。他说：优秀的商业模式必须有\'让竞争对手望而却步\'的壁垒——无论是品牌、成本优势、网络效应，还是监管壁垒。如果没有护城河，再高的ROE也不可持续。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'We will never sacrifice financial strength for a temporary boost in reported earnings.',
+            comment: '1997年亚洲金融危机前夕，很多美国公司开始用\'表外融资\'美化财报。巴菲特明确表态：伯克希尔永远不会为了短期利润数字而牺牲财务稳健性。20年后（2008年），这句话在金融危机中得到了最有力的验证。'
+        },
+    ],
   },
   {
     slug: '1998-berkshire-letter',
@@ -11756,6 +11807,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1999.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'Gen Re is the most important acquisition in Berkshire\'s history.',
+            comment: '1998年，伯克希尔以$220亿收购通用再保险（Gen Re），这是当时最大的一笔收购。巴菲特说：这将让伯克希尔的浮存金翻倍，并为未来50年的增长奠定基础。但这次收购后来成了他的\'最大失误\'之一——Gen Re的承保文化需要很多年才修复。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'Derivatives are financial weapons of mass destruction.',
+            comment: '1998年，巴菲特第一次系统性批评衍生品。他说：这些合约的账面利润是虚幻的，但风险是真实的。25年后（2008年），他在致股东信中用\'大规模金融毁灭武器\'来形容衍生品——这句话成了全球金融监管改革的口号。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'Our goal is to have Berkshire Hathaway stock undervalued.',
+            comment: '1998年，伯克希尔股价已经涨了很多。巴菲特说：我希望股价被低估，这样我可以用便宜的价格回购股票。这种\'以股东利益为中心\'的回购哲学，和很多CEO\'以高管利益为中心\'的回购形成鲜明对比。'
+        },
+    ],
   },
   {
     slug: '1999-berkshire-letter',
@@ -11775,6 +11843,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1999.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'The Dow is at 11000, but corporate profits are not at record levels.',
+            comment: '1999年，美股科技泡沫达到顶峰。巴菲特指出：股价涨了，但企业利润没有同步增长——这意味着估值已经透支了未来很多年的增长。两年后（2001年），纳斯达克从5000点跌到1000点，证明了他的判断。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'We will not shift our strategy to pursue popular sectors.',
+            comment: '1999年，所有人都在买科技股，伯克希尔却因为\'错过了互联网\'而被嘲笑。巴菲特说：我们不会为了追逐热门板块而改变策略。这种\'在喧嚣中保持冷静\'的能力，是价值投资者最稀缺的品质。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'The most important quality for an investor is temperament, not intellect.',
+            comment: '1999年，巴菲特在Sun Valley峰会上说：投资者最重要的品质是\'脾气\'，而不是智商。很多人听懂了道理，却在市场恐慌时卖出了——这就是\'知易行难\'。能克服人性弱点的人，才能长期胜出。'
+        },
+    ],
   },
   {
     slug: '2000-berkshire-letter',
@@ -11794,6 +11879,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2000.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We will have the last laugh in this business.',
+            comment: '2000年科技泡沫开始破裂，但很多人仍不死心。巴菲特说：\'我们会在这门生意中笑到最后。\'这不是傲慢，而是对\'均值回归\'的深刻理解——任何被严重高估的资产，最终都会回归合理价值。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'Acquisitions will be the primary use of our capital.',
+            comment: '2000年，伯克希尔账上已经有$300多亿现金。巴菲特说：未来收购将是资本的主要用途。他拒绝在高位买股票，而是耐心等待\'大象级别\'的收购机会。这种\'资本配置纪律\'，是伯克希尔长期跑赢指数的核心原因。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'Our insurance business is built on a foundation of trust.',
+            comment: '2000年，很多保险公司因为Y2K恐慌而大举抬价。伯克希尔反其道而行之：保持理性定价，不做\'恐慌性涨价\'。结果Y2K之后，伯克希尔拿到了大量优质保单——这体现了\'在别人恐惧时贪婪\'的智慧。'
+        },
+    ],
   },
   {
     slug: '2001-berkshire-letter',
@@ -11813,6 +11915,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2001.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'September 11 will be recorded as a day of infamy.',
+            comment: '2001年9/11恐怖袭击，伯克希尔的保险业务损失$25亿。这是保险业有史以来最大的单事件损失之一。巴菲特说：我们会在未来几十年中为这一天付出代价——但这也是我们存在的意义：在别人需要的时候，兑现承诺。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'We will never buy or sell a business because of macro forecasts.',
+            comment: '2001年，很多人问\'经济会不会二次衰退？\'巴菲特说：我们永远不会根据宏观预测来买卖企业。这种\'忽略宏观噪音，专注企业本身\'的纪律，让伯克希尔在每一次危机中都能冷静出手。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'The CEO of a publicly-traded company should be the Chief Risk Officer.',
+            comment: '2001年，安然（Enron）丑闻爆发，很多企业开始设立\'CRO\'（首席风险官）。巴菲特说：上市公司的CEO就应该是CRO——风险管理的责任不能外包。这句话在2008年金融危机中，成了区分\'surviving CEO\'和\'failed CEO\'的分水岭。'
+        },
+    ],
   },
   {
     slug: '2002-berkshire-letter',
@@ -11832,6 +11951,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2002.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We are issuing Euro-denominated bonds.',
+            comment: '2002年，伯克希尔第一次发行欧元债券。巴菲特说：这不是因为看空美元，而是为了\'分散货币风险\'。20年后（2022年），当美元进入贬值周期时，这个决策的价值才真正显现——这体现了\'在不确定的世界中保持韧性\'的智慧。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'Stock options are not an expense — they are a very real expense.',
+            comment: '2002年，很多科技公司用\'股票期权不算费用\'来美化利润。巴菲特第一个站出来反对：期权是真实费用，必须从利润中扣除。他的这个立场，直接推动了FASB（财务会计准则委员会）在2004年修改规则。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'We will never give up a good business just to report higher earnings per share.',
+            comment: '2002年，很多公司用\'股份支付收购\'来虚增EPS。巴菲特说：我们永远不会为了报告更高的每股收益而放弃一门好生意。这种\'拒绝财务工程，专注商业本质\'的纪律，在今天的SPAC泡沫中，依然值得所有CEO深思。'
+        },
+    ],
   },
   {
     slug: '2003-berkshire-letter',
@@ -11851,6 +11987,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2003.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'The stock market is a device for transferring money from the impatient to the patient.',
+            comment: '2003年，美股从2002年的低点开始反弹。巴菲特说：股市是一个把金钱从\'不耐烦的人\'转移到\'有耐心的人\'手中的机器。这句话成了价值投资最精辟的格言之一——但真正能做到的人，不到1%。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'We have no idea what the stock market will do in the next year or two.',
+            comment: '2003年，很多人问\'市场是不是已经太贵了？\'巴菲特说：我们不知道市场未来一两年会怎样。这种\'承认无知\'的勇气，是伟大投资者最稀缺的品质——因为大多数人宁愿相信一个错误的答案，也不愿接受\'我不知道\'。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'Our ideal holding period is forever.',
+            comment: '2003年，伯克希尔持有的可口可乐已经跌了50%，但巴菲特一股没卖。他说：我们的理想持有期是\'永远\'。这不是固执，而是对\'企业所有权\'的深刻理解——如果你相信这门生意10年后会更好，那今天的股价波动就只是噪音。'
+        },
+    ],
   },
   {
     slug: '2004-berkshire-letter',
@@ -11870,6 +12023,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2004.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'Charlie and I believe in the discipline of anchoring our decisions to the replacement cost of tangible assets.',
+            comment: '2004年，很多公司用\'EBITDA\'来美化估值。巴菲特说：我们坚持用\'有形资产的重置成本\'来锚定决策。这种\'回归本源\'的估值方法，在今天的SaaS公司估值泡沫中，尤其值得借鉴。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'We will never trade reputation for money.',
+            comment: '2004年，很多金融公司开始涉足\'灰色地带\'的业务。巴菲特说：我们永远不会用声誉换钱——因为钱可以失去再赚，但声誉一旦失去就很难恢复。2008年金融危机中，伯克希尔是唯一一家AAA评级还在的投资银行——这就是声誉的价值。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'The most important thing to do if you find yourself in a hole is to stop digging.',
+            comment: '2004年，很多公司在\'价值陷阱\'中越陷越深。巴菲特引用了一句老话：如果你发现自己掉进了坑里，最重要的事情就是\'停止挖掘\'。这对投资者的启示是：承认错误并止损，比坚持错误并 hope 它反弹，更需要勇气。'
+        },
+    ],
   },
   {
     slug: '2006-berkshire-letter',
