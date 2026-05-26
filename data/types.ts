@@ -57,7 +57,7 @@ export interface Interpretation {
   relatedCompanies: string[]
   relatedPeople: string[]
   marketContext?: MarketContext
-  keyNumbers?: KeyNumber[]
+  keyNumbers?: KeyNumber[] | Record<string, string>
   thenVsNow?: ThenVsNow
   publishedDate?: string
   lastUpdated?: string

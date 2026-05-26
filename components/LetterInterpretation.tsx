@@ -31,6 +31,18 @@ const marketPhaseLabels: Record<string, string> = {
 export default function LetterInterpretation({
   interpretation,
 }: LetterInterpretationProps) {
+  // Normalize keyNumbers to always be KeyNumber[] for rendering
+  const keyNumbersArray = interpretation.keyNumbers
+    ? Array.isArray(interpretation.keyNumbers)
+      ? interpretation.keyNumbers
+      : Object.entries(interpretation.keyNumbers).map(([label, value]) => ({
+          label,
+          value,
+          unit: undefined,
+          context: undefined,
+        }))
+    : [];
+
   return (
     <div className="letter-interpretation" style={{
       marginTop: '3rem',
@@ -216,7 +228,7 @@ export default function LetterInterpretation({
       )}
 
       {/* ── Key Numbers ────────────────────────────────── */}
-      {interpretation.keyNumbers && interpretation.keyNumbers.length > 0 && (
+      {keyNumbersArray.length > 0 && (
         <div style={{ marginBottom: '2rem' }}>
           <h3 style={{
             fontFamily: 'var(--font-playfair), Georgia, serif',
@@ -235,7 +247,7 @@ export default function LetterInterpretation({
             gridTemplateColumns: 'repeat(auto-fit, minmax(160px, 1fr))',
             gap: '0.75rem',
           }}>
-            {interpretation.keyNumbers.map((num, index) => (
+            {keyNumbersArray.map((num, index) => (
               <div
                 key={index}
                 style={{
