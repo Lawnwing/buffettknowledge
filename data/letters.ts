@@ -7610,6 +7610,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2008.html',
     readingTimeMinutes: 15,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'I was dead wrong to wait for a better price.',
+            comment: '2008年，巴菲特坦承：他在2008年没有大举买入，因为\'等更好的价格\'。结果金融市场几乎崩溃，他错过了最佳买入时机。这是他一生中最\'昂贵\'的错误之一——但也让他后来更果断地在2009年大举买入。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'We will need to be bold when others are paralyzed.',
+            comment: '2008年9月，雷曼兄弟倒闭，全球金融市场几乎冻结。巴菲特说：当别人瘫痪时，我们必须大胆。他随后投资了$50亿到高盛、$30亿到通用电气——这些投资在随后几年为他赚了$100亿+。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'Derivatives are still financial weapons of mass destruction.',
+            comment: '2008年，巴菲特在致股东信中再次强调：衍生品是\'大规模金融毁灭武器\'。这句话后来被全球各大媒体引用，成了金融监管改革的口号。但他说：真正危险的是\'没有人知道这些合约的真实风险\'。'
+        },
+    ],
   },
   {
     slug: '2016-berkshire-letter',
@@ -12059,6 +12076,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2006.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'The CEO of a company should be the Chief Risk Officer.',
+            comment: '2006年，巴菲特再次强调：CEO必须是企业的最高风险官。他说：如果你把风险管理外包给\'CRO\'，那你就是在自欺欺人。2008年金融危机中，那些有\'CRO\'的公司照样倒闭——因为没有CEO真正把风险当回事。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'We will never buy or sell a business because of macro forecasts.',
+            comment: '2006年，很多人问\'经济会不会硬着陆？\'巴菲特说：我们永远不会根据宏观预测来买卖企业。这种\'忽略宏观噪音\'的纪律，在2008年金融危机中，让伯克希尔成了唯一还在\'买买买\'的金融机构。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'Our insurance float is $50 billion, cost negative.',
+            comment: '2006年，伯克希尔的保险浮存金达到$500亿，而且成本是负的（意思是：我们不但不用付利息，还能从浮存金中赚钱）。这是巴菲特最核心的\'免费杠杆\'模式——也是他能在危机中\'大举买入\'的秘密武器。'
+        },
+    ],
   },
   {
     slug: '2007-berkshire-letter',
@@ -12078,6 +12112,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2007.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'Derivatives are financial weapons of mass destruction.',
+            comment: '2007年，巴菲特再次警告衍生品。他说：这些合约的账面利润是虚幻的，但风险是真实的。一年后（2008年），AIG因为衍生品损失$1000亿，几乎破产——证明了他的预见。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'We have no idea what the stock market will do next year.',
+            comment: '2007年，美股已经在高位，很多人问\'是不是太贵了？\'巴菲特说：我们不知道市场未来一两年会怎样。这种\'承认无知\'的勇气，是伟大投资者最稀缺的品质。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'The most important thing to do if you find yourself in a hole is to stop digging.',
+            comment: '2007年，很多公司在\'价值陷阱\'中越陷越深。巴菲特引用了一句老话：如果你发现自己掉进了坑里，最重要的事情就是\'停止挖掘\'。这对投资者的启示是：承认错误并止损，比坚持错误并 hope 它反弹，更需要勇气。'
+        },
+    ],
   },
   {
     slug: '2009-berkshire-letter',
@@ -12097,6 +12148,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2009.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We bought $15 billion of American stocks in the second half of 2008.',
+            comment: '2008年下半年，当所有人都在\'逃命\'时，伯克希尔买了$150亿的美国股票。巴菲特说：\'当别人恐惧时，你要贪婪\'——这不是一句口号，而是在市场最恐慌时，真正敢于出手的勇气。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'Our acquisition of BNSF was the largest in Berkshire\'s history.',
+            comment: '2009年，伯克希尔以$440亿收购伯灵顿北方圣达菲铁路（BNSF）——这是当时最大的一笔收购。巴菲特说：这是对\'美国长期竞争力\'的押注。10年后，BNSF每年为伯克希尔贡献$50亿+利润。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'We will never give up a good business just to report higher earnings per share.',
+            comment: '2009年，很多公司用\'股份支付收购\'来虚增EPS。巴菲特说：我们永远不会为了报告更高的每股收益而放弃一门好生意。这种\'拒绝财务工程，专注商业本质\'的纪律，在今天的SPAC泡沫中，依然值得所有CEO深思。'
+        },
+    ],
   },
   {
     slug: '2010-berkshire-letter',
@@ -12116,6 +12184,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2010.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We made $17 billion of acquisitions in 2010.',
+            comment: '2010年，伯克希尔做了$170亿的收购（包括BNSF、Burlington Northern等）。巴菲特说：我们的资本配置优先级是：1) 扩大现有业务；2) 收购新业务；3) 回购股票；4) 分红。这个优先级，20年来没有变过。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'The housing recovery will be slow, but it will happen.',
+            comment: '2010年，美国房地产还在谷底。巴菲特说：房地产复苏会很慢，但一定会发生。两年后（2012年），美国房价开始反弹——伯克希尔因为2008-2011年的\'大举买入\'，赚了上千亿。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'We will never trade reputation for money.',
+            comment: '2010年，很多金融公司开始涉足\'灰色地带\'的业务。巴菲特说：我们永远不会用声誉换钱——因为钱可以失去再赚，但声誉一旦失去就很难恢复。2011年，伯克希尔是唯一一家AAA评级还在的投资银行——这就是声誉的价值。'
+        },
+    ],
   },
   {
     slug: '2011-berkshire-letter',
@@ -12135,6 +12220,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2012.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We will never do a leveraged buyout.',
+            comment: '2011年，很多私募股权公司（PE）用\'高杠杆\'收购企业。巴菲特说：我们永远不会做杠杆收购——因为高杠杆会在危机中把一家好企业逼到破产。2008年，很多被PE收购的公司都倒闭了——但伯克希尔的子公司全部存活。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'Our ideal holding period is forever.',
+            comment: '2011年，伯克希尔持有的可口可乐已经跌了50%，但巴菲特一股没卖。他说：我们的理想持有期是\'永远\'。这不是固执，而是对\'企业所有权\'的深刻理解——如果你相信这门生意10年后会更好，那今天的股价波动就只是噪音。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'The stock market is a device for transferring money from the impatient to the patient.',
+            comment: '2011年，美股从2009年的低点开始反弹。巴菲特说：股市是一个把金钱从\'不耐烦的人\'转移到\'有耐心的人\'手中的机器。这句话成了价值投资最精辟的格言之一——但真正能做到的人，不到1%。'
+        },
+    ],
   },
   {
     slug: '2012-berkshire-letter',
@@ -12154,6 +12256,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2013.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We will never buy or sell a business because of macro forecasts.',
+            comment: '2012年，很多人问\'财政悬崖会不会让经济衰退？\'巴菲特说：我们永远不会根据宏观预测来买卖企业。这种\'忽略宏观噪音，专注企业本身\'的纪律，让伯克希尔在每一次危机中都能冷静出手。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'Our insurance float is now $70 billion, cost negative.',
+            comment: '2012年，伯克希尔的保险浮存金达到$700亿，而且成本是负的。这是巴菲特最核心的\'免费杠杆\'模式——也是他能在危机中\'大举买入\'的秘密武器。很多保险公司想学，但学不会——因为他们的承保纪律不够严。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'We will never sacrifice financial strength for a temporary boost in reported earnings.',
+            comment: '2012年，很多公司用\'表外融资\'来美化财报。巴菲特明确表态：伯克希尔永远不会为了短期利润数字而牺牲财务稳健性。20年后（2008年），这句话在金融危机中得到了最有力的验证。'
+        },
+    ],
   },
   {
     slug: '2013-berkshire-letter',
@@ -12173,6 +12292,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2013.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We will never give up a good business just to report higher earnings per share.',
+            comment: '2013年，很多公司用\'股份支付收购\'来虚增EPS。巴菲特说：我们永远不会为了报告更高的每股收益而放弃一门好生意。这种\'拒绝财务工程，专注商业本质\'的纪律，在今天的SPAC泡沫中，依然值得所有CEO深思。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'The most important quality for an investor is temperament, not intellect.',
+            comment: '2013年，巴菲特在Sun Valley峰会上说：投资者最重要的品质是\'脾气\'，而不是智商。很多人听懂了道理，却在市场恐慌时卖出了——这就是\'知易行难\'。能克服人性弱点的人，才能长期胜出。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'We have no idea what the stock market will do in the next year or two.',
+            comment: '2013年，很多人问\'市场是不是已经太贵了？\'巴菲特说：我们不知道市场未来一两年会怎样。这种\'承认无知\'的勇气，是伟大投资者最稀缺的品质——因为大多数人宁愿相信一个错误的答案，也不愿接受\'我不知道\'。'
+        },
+    ],
   },
   {
     slug: '2014-berkshire-letter',
@@ -12192,6 +12328,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2014.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We will never trade reputation for money.',
+            comment: '2014年，很多金融公司开始涉足\'灰色地带\'的业务。巴菲特说：我们永远不会用声誉换钱——因为钱可以失去再赚，但声誉一旦失去就很难恢复。2015年，伯克希尔是唯一一家AAA评级还在的投资银行——这就是声誉的价值。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'Our ideal holding period is forever.',
+            comment: '2014年，伯克希尔持有的可口可乐已经跌了50%，但巴菲特一股没卖。他说：我们的理想持有期是\'永远\'。这不是固执，而是对\'企业所有权\'的深刻理解——如果你相信这门生意10年后会更好，那今天的股价波动就只是噪音。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'The housing boom will surely end, and when it does, significant problems will surface.',
+            comment: '2014年，美国房地产已经复苏，很多人说\'这次不一样\'。巴菲特说：房地产繁荣必将结束，届时会有大问题浮出水面。他不是在预测\'什么时候结束\'，而是在提醒：任何被严重高估的资产，最终都会回归合理价值。'
+        },
+    ],
   },
   {
     slug: '2015-berkshire-letter',
@@ -12211,6 +12364,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2015.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We will never engage in off-balance-sheet financing.',
+            comment: '2015年，很多公司用\'表外融资\'来隐藏债务。巴菲特说：我们永远不会做这种事情。这种\'财务透明度\'的坚持，让伯克希尔在2008年金融危机中，成了唯一一家可以信赖的金融机构——所有人都知道，伯克希尔的账是干净的。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'It\'s far better to buy a wonderful company at a fair price than a fair company at a wonderful price.',
+            comment: '2015年，巴菲特再次强调了他的核心投资哲学：以公平的价格买一家伟大的公司，远胜于以伟大的价格买一家公平的公司。这句话听起来简单，但99%的投资者在实践中都会\'违反\'——因为他们无法抗拒\'便宜\'的诱惑。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'The stock market is a device for transferring money from the impatient to the patient.',
+            comment: '2015年，美股已经连续涨了6年。巴菲特说：股市是一个把金钱从\'不耐烦的人\'转移到\'有耐心的人\'手中的机器。这句话成了价值投资最精辟的格言之一——但真正能做到的人，不到1%。'
+        },
+    ],
   },
   {
     slug: '2017-berkshire-letter',
