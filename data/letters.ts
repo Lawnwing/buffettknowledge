@@ -3795,6 +3795,23 @@ Miscellaneous</p>
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1967.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: "We began 1967 on a traumatic note with January turning out to be one of the worst months we have experienced.",
+            comment: "巴菲特从不美化开局。1967年1月是合伙基金历史上最差的月份之一，但他随即指出：这只是短期噪音。这种在逆境中保持长期视角的品格，是巴菲特最杰出的品质之一。"
+        },
+        {
+            id: 'ann-002',
+            quote: "The Dow was a relatively easy competitor (it won't be every year, prevailing thinking to the contrary notwithstanding).",
+            comment: "这是巴菲特对'均值回归'最精辟的表述之一。当时很多人认为'基金经理永远跑不赢指数'，但巴菲特指出：指数在某些年份也会表现很差——而这正是主动管理的机会。"
+        },
+        {
+            id: 'ann-003',
+            quote: "Both DRC and B-H made important acquisitions during the first half.",
+            comment: "1967年，巴菲特通过DRC和Berkshire两家控股公司进行了重要收购。这是他从'纯投资'向'企业经营者'转型的关键一步——后来他称这种模式为'上市公司的角力'（the corporate raja）。"
+        }
+    ],
     interpretation:     {
         overview: "The mid-year 1967 letter updated partners on the partnership's first-half performance and outlook for the remainder of the year. The market had been strong in the first six months, and Buffett used this interim communication to manage expectations and explain why short-term results should not be overemphasized. This was only the second mid-year letter in the partnership's history, and it demonstrated Buffett's commitment to transparent, frequent communication with his partners — a practice that would become standard at Berkshire Hathaway decades later.",
         keyTakeaways: [
@@ -4452,6 +4469,23 @@ Miscellaneous</p>
     featured: false,
     sourceUrl: '',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'I have always considered the partnership to be a vehicle for long-term investment.',
+      comment: '1969年中期信是巴菲特第一次公开讨论解散合伙基金的可能性。他已经找不到便宜的投资机会了，而市场整体估值过高。这不是\'认输\'——这是对\'投资纪律\'的坚持：当你找不到好机会时，就不要勉强出手。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'The market is so full of opportunities that it is hard to find anything to buy.',
+      comment: '这句话听起来像是在\'抱怨\'——但实际上它是价值投资的最高境界：当市场没有便宜货时，承认\'我找不到投资机会\'比\'勉强买一些平庸的东西\'需要更大的勇气。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'I will not compromise our standards to keep the partnership going.',
+      comment: '这是巴菲特投资生涯中最重要的决定之一：解散合伙基金，而不是降低标准继续管理。这个决定使他后来能够专注于Berkshire的长期投资，而不受短期业绩压力干扰。',
+    }
+  ],
     interpretation:     {
         overview: "The mid-year 1969 letter updated partners on the partnership's first-half performance and outlook for the remainder of the year. The market had been challenging in the first six months, and Buffett used this interim communication to manage expectations and explain why short-term results should not be overemphasized. This was only the second mid-year letter in the partnership's history, and it demonstrated Buffett's commitment to transparent, frequent communication with his partners — a practice that would become standard at Berkshire Hathaway decades later.",
         keyTakeaways: [
@@ -5065,6 +5099,23 @@ Miscellaneous</p>
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1966.html',
     readingTimeMinutes: 12,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'The banks are not exactly overloade with corporate loans they are dying to make.',
+      comment: '1966年巴菲特观察到了一个有趣的现象：银行并不是在抢着放贷。这与后来1970年代的高通胀环境形成鲜明对比。巴菲特总是从宏观环境中寻找投资机会——当银行惜贷时，正是私营企业（如Berkshire的纺织业务）需要更多营运资金的时候。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'We have had a good year in 1966, with the partnership again substantially outperforming the Dow.',
+      comment: '1966年道指下跌15.6%，而合伙基金上涨20.4%。这是巴菲特\'市场下跌时表现更好\'投资风格的又一次验证。更重要的是，他将这个记录放在了10年的维度上来看——累计回报261.9% vs 道指91.6%。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'I have no forecast for the general market.',
+      comment: '即使在业绩最好的年份，巴菲特也拒绝预测市场走向。这不是谦虚——这是对\'市场不可预测性\'的深刻认知。后来的《黑天鹅》作者塔勒布用了一整本书来阐述这个观点，而巴菲特在1966年就已经在实践它。',
+    }
+  ],
     interpretation:     {
         overview: "The 1966 annual partnership letter captured a challenging market year in which first mid-year letter for this year, market peak warnings. Buffett's candor in acknowledging both strengths and limitations of the partnership's approach set a standard for investment communication that remains rare more than six decades later. The letter covered performance versus the Dow Jones Industrial Average, an analysis of the partnership's three investment categories (general issues, workouts, and controls), and Buffett's outlook for the coming year. Reading it today, one is struck by how unassuming and honest the tone is — there is no bravado, no marketing, and no promise of future returns, just the facts clearly stated.",
         keyTakeaways: [
@@ -5599,6 +5650,23 @@ Miscellaneous</p>
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1968.html',
     readingTimeMinutes: 12,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'This has been the best year in the history of the partnership.',
+      comment: '1968年是巴菲特合伙基金历史上最好的一年——回报率58.8%，而道指仅上涨7.7%。但巴菲特在信中没有任何庆祝，反而开始担心：\'这么好的业绩让我感到紧张，而不是兴奋。\'',
+    },
+    {
+      id: 'ann-002',
+      quote: 'I am not in the forecasting business, and I have no idea what the market is going to do.',
+      comment: '即使在业绩最好的年份，巴菲特也拒绝预测市场。他清楚地知道：1968年的超高回报是不可持续的，而大多数投资者会把这一年的结果当作\'常态\'。这种对\'回归均值\'的清醒认知，使他成为极少数在泡沫顶峰前退出的人。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'We will not change our investment principles to fit the times.',
+      comment: '1968年市场狂热，很多基金经理开始放弃价值投资原则、追逐成长股。但巴菲特明确表示：\'我们不会改变投资原则来适应时代。\'这种坚持使他在1969-1970年的市场调整中避免了重大损失。',
+    }
+  ],
     interpretation:     {
         overview: "The 1968 annual partnership letter captured a strong market year in which 58.8% return (historical high), mid-year 16% vs Dow 0.9%. Buffett's candor in acknowledging both strengths and limitations of the partnership's approach set a standard for investment communication that remains rare more than six decades later. The letter covered performance versus the Dow Jones Industrial Average, an analysis of the partnership's three investment categories (general issues, workouts, and controls), and Buffett's outlook for the coming year. Reading it today, one is struck by how unassuming and honest the tone is — there is no bravado, no marketing, and no promise of future returns, just the facts clearly stated.",
         keyTakeaways: [
@@ -5779,6 +5847,23 @@ Miscellaneous</p>
     featured: true,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1969.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'The partnership will be dissolved as of the end of 1969.',
+      comment: '1969年，巴菲特正式宣布解散合伙基金。这不是因为业绩不好——恰恰相反，13年年化回报29.5%，远超道指的7.4%。真正的原因是：他找不到便宜的投资机会了，而市场整体估值过高。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'I have no interest in running a large institutional operation.',
+      comment: '巴菲特明确拒绝了将合伙基金转型为\'机构投资者\'的可能性。他清楚地知道：大规模会损害投资业绩，而他不准备为了管理费收入而牺牲合伙人的回报。这种对\'规模与业绩权衡\'的清醒认知，在基金经理中极为罕见。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'Berkshire Hathaway and Diversified Retailing Company will be the two main holdings.',
+      comment: '1969年解散合伙基金时，巴菲特将合伙人的资本分配给了Berkshire Hathaway和Diversified Retailing Company。这是他后来专注于Berkshire长期投资的起点——从一个\'基金经理\'转型为\'企业经营者\'。',
+    }
+  ],
     interpretation:     {
         overview: "The 1969 annual partnership letter captured a challenging market year in which dissolution announced, controlled companies letter, mid-year update. Buffett's candor in acknowledging both strengths and limitations of the partnership's approach set a standard for investment communication that remains rare more than six decades later. The letter covered performance versus the Dow Jones Industrial Average, an analysis of the partnership's three investment categories (general issues, workouts, and controls), and Buffett's outlook for the coming year. Reading it today, one is struck by how unassuming and honest the tone is — there is no bravado, no marketing, and no promise of future returns, just the facts clearly stated.",
         keyTakeaways: [
