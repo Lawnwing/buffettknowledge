@@ -19,7 +19,7 @@ export interface CrossReference {
 export interface InterpretationSection {
   title: string
   content: string
-  type?: 'key-point' | 'background' | 'principle' | 'insight' | 'quote'
+  type?: 'key-point' | 'background' | 'principle' | 'insight' | 'quote' | 'event'
 }
 
 export interface MarketContext {
@@ -27,7 +27,7 @@ export interface MarketContext {
   sp500Return?: string
   fedFundsRate?: string
   inflation?: string
-  marketPhase?: 'bull' | 'bear' | 'recession' | 'stagflation' | 'recovery'
+  marketPhase?: 'bull' | 'bear' | 'recession' | 'stagflation' | 'recovery' | 'bull-late' | 'bubble-peak' | 'bubble-burst' | 'bear-crash'
 }
 
 export interface KeyNumber {
