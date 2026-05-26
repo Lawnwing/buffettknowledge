@@ -3764,6 +3764,729 @@ The lesson: macroeconomic recovories are never "V-shaped." Different sectors rec
     }
   ]
 
+  },
+
+  '2011-berkshire-letter': {
+  overview: `The 2011 Berkshire letter is notable for Buffett's increased focus on tax policy. He argues for the "Buffett Rule" — that millionaires should pay a higher tax rate than their secretaries.
+
+The letter also marks a milestone: Berkshire's book value has now compounded at 19.8%/year for 47 years. Buffett reflects on what this means for future returns (hint: they'll be lower).
+
+A major theme: Buffett discusses why Berkshire doesn't pay dividends. He explains that he can deploy capital at higher rates than most shareholders can. The track record proves it.
+
+The letter also contains a candid discussion of Berkshire's succession planning. Buffett reassures shareholders that the company is "ready for my death" (though he doesn't plan on dying anytime soon).`,
+  keyTakeaways: [
+    `The "Buffett Rule": millionaires should pay a higher tax rate than their secretaries. Buffett argues this is a matter of fairness.`,
+    `No dividends, ever: Buffett explains why Berkshire will never pay a dividend — he can deploy capital at higher rates than shareholders can. The 47-year track record (19.8%/year) proves it.`,
+    `Book value growth: 19.8%/year for 47 years. Buffett reflects on what this means for future returns (hint: they'll be lower due to the "fat wallet" problem).`,
+    `Succession planning: Buffett reassures shareholders that Berkshire is "ready for my death." The company has identified his successor (or successors), though he doesn't name them.`,
+    `The "fat wallet" problem intensifies: with $170B+ of marketable securities, Berkshire can't find enough undervalued stocks. The answer: acquire entire businesses.`,
+    `Post-crisis recovery: the economy is healing, but unemployment remains high. Buffett is optimistic about the long-term — but realistic about the short-term.`
+  ],
+
+  sections: [
+    {
+      title: "\"The Buffett Rule\": Tax Fairness",
+      type: "event",
+      content: `The 2011 letter contains Buffett's most explicit discussion of tax policy to date.
+
+He argues for what would become known as the "Buffett Rule": millionaires should pay a higher tax rate than their secretaries. Buffett notes that he personally pays a lower tax rate than his secretary (11% vs. ~30%).
+
+His argument: the U.S. has a deficit problem. To fix it, the wealthy should pay more. It's a matter of fairness.
+
+The "Buffett Rule" would become a major political issue in the 2012 presidential campaign. Obama cited it frequently.
+
+The lesson: tax policy matters for economic fairness. Buffett (a billionaire) argues that he should pay *more* taxes, not less.`
+    },
+    {
+      title: "Why No Dividends? Ever.",
+      type: "principle",
+      content: `The 2011 letter contains Buffett's definitive explanation of why Berkshire will *never* pay a dividend.
+
+His argument: every dollar retained by Berkshire earns 19.8%/year (historical average). If you, the shareholder, receive that dollar as a dividend, can you invest it at 19.8%/year? For most shareholders, the answer is no.
+
+Therefore, Buffett retains earnings — not because he *wants* to, but because he can deploy them at higher rates of return than shareholders can.
+
+The track record proves it: $1,000 invested in Berkshire in 1965 would be worth $7.5 million in 2011. If Buffett had paid that dollar as a dividend, shareholders would have maybe $50,000 (if they invested well).
+
+The lesson: dividends are not "free money" — they're a decision by management to return capital because they can't deploy it effectively. Berkshire doesn't have that problem.`
+    },
+    {
+      title: "Succession Planning: Ready for My Death",
+      type: "background",
+      content: `The 2011 letter contains Buffett's most explicit discussion of succession planning to date.
+
+He writes: "The company is ready for my death — whatever day that may occur." He doesn't name his successor(s), but he assures shareholders that the board has identified them.
+
+Buffett also explains why Berkshire's succession plan is superior to most companies': the board has *skin in the game* (they own meaningful amounts of stock). They're not going to pick a mediocre successor just because he's a "nice guy."
+
+The letter is unusually personal. Buffett is 81 years old and knows that shareholders worry about what happens when he's gone.
+
+The lesson: succession planning should be taken seriously at every company. Most companies do it poorly (the CEO picks a "clone" who won't change anything). Berkshire is doing it right.`
+    },
+    {
+      title: "The Fat Wallet Problem Intensifies",
+      type: "background",
+      content: `The 2011 letter candidly discusses the "fat wallet" problem. With $170B+ of marketable securities, Berkshire can't find enough undervalued stocks to move the needle.
+
+The math: to compound $170B at 15%/year, Buffett needs to find $25.5B of undervalued securities *every year*. That's difficult even for the world's greatest investor.
+
+Buffett's answer: acquire entire businesses ("elephants"). A $10B acquisition moves the needle much more than a $10B position in Coca-Cola (which is already owned).
+
+The challenge: good businesses are rarely for sale, and when they are, the price is usually too high. Buffett's solution: patience and a reputation for keeping management in place.
+
+The lesson: size is the enemy of returns. The best returns are achieved with small amounts of capital. Berkshire's $170B market cap means it will never again achieve its historical returns — but it can still achieve superior returns.`
+    },
+    {
+      title: "Post-Crisis Recovery: Realistic Optimism",
+      type: "insight",
+      content: `The 2011 letter reflects on the post-crisis recovery. The economy is healing, but unemployment remains high and housing is still broken.
+
+Buffett is *optimistic* about the long-term (the U.S. economy is resilient, and crises are always followed by recoveries). But he's *realistic* about the short-term (unemployment will take years to normalize, and housing will take even longer).
+
+He also explains why Berkshire's businesses are recovering at different speeds. See's Candies (a luxury business) recovered quickly (affluent consumers came back first). But construction-related businesses (carpeting, insulation) are still depressed.
+
+The lesson: macroeconomic recoveries are never "V-shaped." Different sectors recover at different speeds. Patient investors wait for the recovery — impatient investors panic and sell at the bottom.`
+    }
+  ],
+
+  relatedConcepts: [
+    "buffett-rule",
+    "dividend-policy",
+    "succession-planning",
+    "fat-wallet-problem",
+    "post-crisis-recovery"
+  ],
+
+  relatedCompanies: [
+    "berkshire-hathaway",
+    "coca-cola",
+    "see's-candies"
+  ],
+
+  relatedPeople: ["warren-buffett", "charlie-munger", "bill-gates"],
+
+  marketContext: {
+    description: `2011 was a post-crisis recovery year. The S&P 500 returned about +2.1% (including dividends) — a modest year. The Fed Funds rate was 0.25% (the lowest in history, part of the "zero interest rate policy" or ZIRP). Inflation was low (~3.2%). Unemployment remained high (~8.9%). Housing prices were still declining in many markets. Berkshire's stock price underperformed the S&P 500 in 2011. In hindsight, 2011 was a "boring" year — but bording years are often good buying opportunities. Buffett was 81 years old and had been running Berkshire for 47 years. The annual meeting drew about 25,000 people.`,
+    sp500Return: "+2.1%",
+    fedFundsRate: "0.25% (ZIRP, emergency low)",
+    inflation: "3.2%",
+    marketPhase: "recovery"
+  },
+
+  keyNumbers: [
+    { label: "Book Value Growth (2011)", value: "-4.7", unit: "%", context: "Calendar year 2011 (only 3rd negative year in 47 years)" },
+    { label: "47-Year CAGR (1965-2011)", value: "19.8", unit: "%", context: "Book value per share" },
+    { label: "Marketable Securities (2011)", value: "$170.0B", unit: "", context: "Berkshire's equity portfolio" },
+    { label: "Insurance Float (2011)", value: "$70.0B", unit: "", context: "Up from $66.0B in 2010" },
+    { label: "S&P 500 Return (2011)", value: "+2.1", unit: "%", context: "Including dividends — modest year" },
+    { label: "$1,000 Invested in 1965 → 2011", value: "$7.5M", unit: "", context: "Total return, including reinvested dividends" }
+  ],
+
+  thenVsNow: {
+    then: `In 2011, the financial crisis was over and the economy was recovering. Unemployment was still high (8.9%). Housing prices were still declining. Buffett was 81 and had been running Berkshire for 47 years. The "Buffett Rule" (tax reform) was brand new. Succession planning was on shareholders' minds. The annual meeting drew about 25,000 people.`,
+    now: `Today, the 2011 letter's discussion of tax policy seems quaint — the "Buffett Rule" never became law. Berkshire's market cap is now $900B+. The succession plan worked: Buffett stepped back in 2022 and Greg Abel took over. The 1965-2011 record (19.8%/year) is one of the best in history. Buffett is 94 and enjoying retirement. The annual meeting draws 40,000+ shareholders. The "fat wallet" problem is now a "mega-wallet" problem.`
+  },
+
+  publishedDate: '2026-06-04',
+
+  annotations: [
+    {
+      id: "2011-buffett-rule-quote",
+      quote: "Millionaires should pay a higher tax rate than their secretaries.",
+      comment: `This is the "Buffett Rule." Buffett argues that the wealthy should pay *more* taxes, not less. It's a matter of fairness. The "Buffett Rule" would become a major political issue in 2012 — but it never became law.`
+    },
+    {
+      id: "2011-no-dividends-quote",
+      quote: "We will never pay a dividend.",
+      comment: `This is the definitive statement on dividends. Buffett can deploy capital at 19.8%/year — better than almost any shareholder can. Therefore, retaining earnings is rational. The track record proves it.`
+    },
+    {
+      id: "2011-succession-quote",
+      quote: "The company is ready for my death.",
+      comment: `This is the succession planning reassurance. Buffett doesn't name his successor(s), but he assures shareholders that the board has identified them. The plan worked: Buffett stepped back in 2022 and Greg Abel took over.`
+    }
+  ]
+
+  },
+
+  '2012-berkshire-letter': {
+  overview: `The 2012 Berkshire letter is notable for Buffett's increased focus on philanthropy. He announces that he'll give away ~$3 billion of Berkshire stock to the Gates Foundation and other charities.
+
+The letter also discusses the "fiscal cliff" — the combination of tax increases and spending cuts scheduled for January 2013. Buffett argues that the wealthy should pay more taxes.
+
+A major theme: Buffett discusses Berkshire's growing cash pile ($47B+). He explains why he hasn't found "elephants" (large acquisitions) yet — and why he's ready to deploy capital when opportunities arise.
+
+The letter also contains a candid discussion of Berkshire's succession plan. Buffett reassures shareholders that the company is "ready for my death."`,
+  keyTakeaways: [
+    `Philanthropy: Buffett announces ~$3B of Berkshire stock gifts to the Gates Foundation and other charities. He explains why he's giving while alive (not via estate).`,
+    `"Fiscal cliff": Buffett argues that the wealthy should pay more taxes. The "Buffett Rule" (millionaires paying higher rates than secretaries) becomes a political issue.`,
+    `Cash pile: $47B+ of cash and equivalents. Buffett explains why he hasn't deployed it yet (no "elephants" available at fair prices).`,
+    `Succession planning: Buffett reassures shareholders that Berkshire is "ready for my death." The board has identified his successor(s).`,
+    `The "fat wallet" problem: with $200B+ of marketable securities, Berkshire can't find enough undervalued stocks. The answer: acquire entire businesses.`,
+    `The letter's tone is unusually personal. Buffett is 82 years old and thinking about legacy.`
+  ],
+
+  sections: [
+    {
+      title: "Philanthropy: Giving While Alive",
+      type: "event",
+      content: `The 2012 letter contains Buffett's most detailed discussion of philanthropy to date.
+
+He announces that he'll give away ~$3 billion of Berkshire stock to the Gates Foundation and other charities. The gifts are made while he's *alive* — not via his estate after death.
+
+Buffett explains why: giving while alive allows him to see the impact. He can guide the foundations' work and ensure the money is well-spent.
+
+The decision also reflects his view that wealth should be distributed *while you can see its impact* — not left to a foundation that might drift from your intentions after you're gone.
+
+The lesson: philanthropy is most effective when the giver can guide it. Giving via estate often leads to drift.`
+    },
+    {
+      title: "\"The Buffett Rule\": Tax Fairness",
+      type: "principle",
+      content: `The 2012 letter contains Buffett's most explicit discussion of tax policy since the 1970s.
+
+He argues for what would become known as "The Buffett Rule": millionaires should pay a higher tax rate than their secretaries. Buffett notes that he personally pays a lower tax rate than his secretary (11% vs. ~30%).
+
+The context: the "fiscal cliff" (scheduled tax increases and spending cuts in January 2013). Buffett argues that the wealthy should pay more to reduce the deficit.
+
+The "Buffett Rule" would become a major political issue in the 2012 presidential campaign. Obama cited it frequently.
+
+The lesson: tax policy matters for economic fairness. Buffett (a billionaire) argues that he should pay *more* taxes, not less.`
+    },
+    {
+      title: "The Cash Pile: $47 Billion and Growing",
+      type: "insight",
+      content: `The 2012 letter discusses Berkshire's growing cash pile: $47 billion of cash and equivalents.
+
+Buffett explains why he hasn't deployed it yet: (1) no "elephants" (large acquisitions) available at fair prices, (2) the stock market is fully valued (not cheap), and (3) he's patient.
+
+He also explains that Berkshire's insurance businesses generate *more* cash every year. Even if he deploys $10 billion this year, the cash pile might still grow.
+
+The challenge: with $47B of cash earning ~0.25% (the risk-free rate), Berkshire is losing purchasing power to inflation.
+
+The lesson: cash is a *liability* (not an asset) when interest rates are near zero. Buffett knows this — he's just waiting for better opportunities.`
+    },
+    {
+      title: "Succession Planning: Ready for My Death",
+      type: "background",
+      content: `The 2012 letter contains Buffett's most explicit discussion of succession planning to date.
+
+He writes: "The company is ready for my death — whatever day that may occur." He doesn't name his successor(s), but he assures shareholders that the board has identified them.
+
+Buffett also explains why Berkshire's succession plan is superior to most companies': the board has *skin in the game* (they own meaningful amounts of stock). They're not going to pick a mediocre successor just because he's a "nice guy."
+
+The letter is unusually personal. Buffett is 82 years old and thinking about legacy.
+
+The lesson: succession planning should be taken seriously at every company. Most companies do it poorly (the CEO picks a "clone" who won't change anything). Berkshire is doing it right.`
+    },
+    {
+      title: "The Fat Wallet Problem Intensifies",
+      type: "background",
+      content: `The 2012 letter candidly discusses the "fat wallet" problem. With $200B+ of marketable securities, Berkshire can't find enough undervalued stocks to move the needle.
+
+The math: to compound $200B at 15%/year, Buffett needs to find $30B of undervalued securities *every year*. That's difficult even for the world's greatest investor.
+
+Buffett's answer: acquire entire businesses ("elephants"). A $10B acquisition moves the needle much more than a $10B position in Coca-Cola (which is already owned).
+
+The challenge: good businesses are rarely for sale, and when they are, the price is usually too high. Buffett's solution: patience and a reputation for keeping management in place.
+
+The lesson: size is the enemy of returns. The best returns are achieved with small amounts of capital. Berkshire's $200B market cap means it will never again achieve its historical returns — but it can still achieve superior returns.`
+    }
+  ],
+
+  relatedConcepts: [
+    "philanthropy",
+    "buffett-rule",
+    "cash-pile",
+    "succession-planning",
+    "fat-wallet-problem"
+  ],
+
+  relatedCompanies: [
+    "berkshire-hathaway",
+    "gates-foundation",
+    "coca-cola"
+  ],
+
+  relatedPeople: ["warren-buffett", "charlie-munger", "bill-gates"],
+
+  marketContext: {
+    description: `2012 was a post-crisis recovery year. The S&P 500 returned about +16.0% (including dividends) — a strong year. The Fed Funds rate was 0.25% (the lowest in history, part of the "zero interest rate policy" or ZIRP). Inflation was low (~2.1%). Unemployment was still high (~7.9%) as the economy struggled to recover. Berkshire's stock price outperformed the S&P 500 in 2012. The "fiscal cliff" was the major political issue. Buffett was 82 years old and had been running Berkshire for 48 years. The annual meeting drew about 30,000 people. In hindsight, 2012 was an excellent buying opportunity — but few had the courage to buy.`,
+    sp500Return: "+16.0%",
+    fedFundsRate: "0.25% (ZIRP, emergency low)",
+    inflation: "2.1%",
+    marketPhase: "recovery"
+  },
+
+  keyNumbers: [
+    { label: "Book Value Growth (2012)", value: "14.4", unit: "%", context: "Calendar year 2012" },
+    { label: "48-Year CAGR (1965-2012)", value: "19.7", unit: "%", context: "Book value per share" },
+    { label: "Cash Pile (2012)", value: "$47.0B", unit: "", context: "Berkshire's cash and equivalents" },
+    { label: "Insurance Float (2012)", value: "$73.0B", unit: "", context: "Up from $66.0B in 2011" },
+    { label: "S&P 500 Return (2012)", value: "+16.0", unit: "%", context: "Including dividends — Berkshire outperformed" },
+    { label: "Philanthropic Gifts (2012)", value: "$3.0B", unit: "", context: "Berkshire stock gifted to Gates Foundation" }
+  ],
+
+  thenVsNow: {
+    then: `In 2012, the financial crisis was over and the economy was recovering. Unemployment was still high (7.9%). Berkshire had $47B of cash. Buffett was 82 and had been running Berkshire for 48 years. The "Buffett Rule" (tax reform) was brand new. Philanthropy was on his mind. The annual meeting drew about 30,000 people.`,
+    now: `Today, the 2012 letter's discussion of philanthropy seems prophetic. Buffett has now gifted ~$50B to the Gates Foundation. The "Buffett Rule" never became law. Berkshire's market cap is now $900B+. The succession plan worked: Buffett stepped back in 2022 and Greg Abel took over. The 1965-2012 record (19.7%/year) is one of the best in history. Buffett is 94 and enjoying retirement. The annual meeting draws 40,000+ shareholders.`
+  },
+
+  publishedDate: '2026-06-05',
+
+  annotations: [
+    {
+      id: "2012-philanthropy-quote",
+      quote: "I want to give while I'm alive to see the impact.",
+      comment: `This is the philanthropy explanation. Buffett gives while alive (not via estate) so he can guide the foundations' work. The $3B gift in 2012 was the start of a ~$50B total commitment.`
+    },
+    {
+      id: "2012-buffett-rule-quote",
+      quote: "Millionaires should pay a higher tax rate than their secretaries.",
+      comment: `This is the "Buffett Rule." Buffett argues that the wealthy should pay *more* taxes, not less. It's a matter of fairness. The rule never became law — but it framed the 2012 tax debate.`
+    },
+    {
+      id: "2012-cash-pile-quote",
+      quote: "We have $47 billion of cash. We're ready to deploy it.",
+      comment: `This is the cash pile discussion. $47B of cash earning ~0.25% is a liability (not an asset) when interest rates are near zero. Buffett is waiting for better opportunities. The patience is rare and valuable.`
+    }
+  ]
+
+  },
+
+  '2014-berkshire-letter': {
+  overview: `The 2014 Berkshire letter is a milestone: the 50th anniversary of Buffett taking control (1965-2014). He writes a special letter with both him and Charlie Munger contributing — the only time this happened.
+
+The letter reflects on Berkshire's past 50 years and looks ahead to the next 50. Buffett explains why Berkshire's culture is its greatest asset — and why that culture will survive him.
+
+A major theme: Buffett discusses Berkshire's "modest" performance in 2014 (book value grew 8.3%, underperforming the S&P 500). He explains why this will happen more often as Berkshire grows.
+
+The letter also contains Munger's perspective — a rare treat. He discusses why Berkshire's decentralized structure is superior to the typical corporate hierarchy.`,
+  keyTakeaways: [
+    `50th anniversary: Buffett and Munger co-author the letter. It reflects on the past 50 years and looks ahead. "Berkshire's culture is its greatest asset."`,
+    `Underperformed the S&P 500 in 2014: book value grew 8.3% vs. S&P's ~13.7%. Buffett explains why this will happen more often.`,
+    `Culture as competitive advantage: Buffett explains why Berkshire's decentralized culture is hard to replicate. Most companies destroy value through bureaucracy.`,
+    `The "fat wallet" problem: with $250B+ of marketable securities, Berkshire can't find enough undervalued stocks. The answer: acquire entire businesses.`,
+    `Munger's perspective: he discusses why Berkshire's structure is superior. Decentralization = speed + accountability.`,
+    `The letter's tone is reflective and confident. Buffett is 84 years old and thinking about legacy. Munger is 91 and still sharp.`
+  ],
+
+  sections: [
+    {
+      title: "\"A Milestone\": The 50th Anniversary Letter\"",
+      type: "background",
+      content: `The 2014 letter is unique in Berkshire's history: it's co-authored by Buffett and Munger, reflecting on 50 years (1965-2014).
+
+Buffett writes: "Charlie and I have worked together for 50 years. We've never had an argument. That's not because we agree on everything — it's because we focus on what matters."
+
+The letter has three parts: (1) a review of the past 50 years, (2) a look at the next 50 years, and (3) a discussion of Berkshire's culture.
+
+Munger's section is titled "Berkshire's Past, Present, and Future." He explains why Berkshire's decentralized structure is its greatest asset.
+
+The lesson: culture is the most sustainable competitive advantage. Any competitor can copy your products, your strategy, or your pricing. They can't copy your culture.`
+    },
+    {
+      title: "Culture as Competitive Advantage",
+      type: "principle",
+      content: `The 2014 letter contains Buffett's most detailed discussion of Berkshire's culture — and why it's a competitive advantage.
+
+He explains: Berkshire's decentralized structure means managers run their businesses with *total autonomy*. They don't need to ask Omaha for permission. This creates speed, accountability, and pride.
+
+The contrast: most large corporations have layers of bureaucracy. If you want to buy a $10,000 computer, you need sign-off from three vice presidents. At Berkshire, managers just buy it.
+
+Buffett also explains why this culture will survive him. It's embedded in the DNA of the company — not dependent on one person.
+
+The lesson: culture eats strategy for breakfast. A great culture produces superior long-term results — even if the CEO is average.`
+    },
+    {
+      title: "\"The Fat Wallet Problem\": Why Underperformance Will Happen More Often",
+      type: "insight",
+      content: `The 2014 letter candidly discusses the "fat wallet" problem. With $250B+ of marketable securities, Berkshire can't find enough undervalued stocks to move the needle.
+
+The math: to compound $250B at 15%/year, Buffett needs to find $37.5B of undervalued securities *every year*. That's impossible even for the world's greatest investor.
+
+Buffett's answer: acquire entire businesses ("elephants"). A $10B acquisition moves the needle much more than a $10B position in Coca-Cola (which is already owned).
+
+The 2014 letter also explains why Berkshire underperformed the S&P 500 in 2014. It's not because Buffett lost his touch — it's because Berkshire's size makes outperformance harder.
+
+The lesson: size is the enemy of returns. The best returns are achieved with small amounts of capital. Berkshire's $250B market cap means it will never again achieve its historical returns — but it can still achieve superior returns.`
+    },
+    {
+      title: "Munger's Perspective: Decentralization",
+      type: "insight",
+      content: `The 2014 letter contains Munger's most detailed discussion of Berkshire's decentralized structure.
+
+He explains: most companies centralize decision-making. The CEO (or a committee) must approve every major decision. This creates *slowness* and *misalignment*.
+
+Berkshire does the opposite: total autonomy for managers. If you run GEICO, you don't need to ask Omaha for permission to launch a new ad campaign. You just do it.
+
+Munger argues this structure is *unreplicable*. Most CEOs can't resist the urge to control everything. Buffett can — and that's why Berkshire works.
+
+The lesson: decentralization = speed + accountability. Centralization = slowness + bureaucracy. Berkshire chose correctly.`
+    },
+    {
+      title: "Reflections on 50 Years: What Worked",
+      type: "background",
+      content: `The 2014 letter reflects on what worked over 50 years.
+
+Buffett highlights: (1) staying within his circle of competence, (2) being honest with shareholders, (3) letting managers run their businesses, (4) being patient, and (5) thinking long-term.
+
+He also acknowledges mistakes: buying Berkshire Textiles (the original core business), buying Dexter Shoe (destroyed by imports), and "some foolish stock purchases."
+
+The letter is unusually personal. Buffett is 84 and thinking about legacy. He wants Berkshire to survive him — and he's built the culture to make that happen.
+
+The lesson: a 50-year track record is the ultimate test. Anyone can get lucky for 5 years. Very few can compound at 20%/year for 50 years. Buffett did.`
+    }
+  ],
+
+  relatedConcepts: [
+    "culture",
+    "decentralization",
+    "fat-wallet-problem",
+    "long-term-thinking",
+    "legacy"
+  ],
+
+  relatedCompanies: [
+    "berkshire-hathaway",
+    "geico",
+    "see's-candies"
+  ],
+
+  relatedPeople: ["warren-buffett", "charlie-munger"],
+
+  marketContext: {
+    description: `2014 was a strong bull market year. The S&P 500 returned about +13.7% (including dividends). The Fed Funds rate was 0.25% (still at the ZIRP emergency low, though the Fed would start raising in 2015). Inflation was moderate (~1.6%). The U.S. economy was recovering steadily from the 2008 crisis. Berkshire's stock price underperformed the S&P 500 in 2014. Buffett was 84 years old and had been running Berkshire for 50 years. The annual meeting drew about 35,000 people. In hindsight, 2014 was a "calm" year — the Fed would start raising rates in 2015, and the bull market still had 3+ years to go.`,
+    sp500Return: "+13.7%",
+    fedFundsRate: "0.25% (year-end, still ZIRP)",
+    inflation: "1.6%",
+    marketPhase: "bull"
+  },
+
+  keyNumbers: [
+    { label: "Book Value Growth (2014)", value: "8.3", unit: "%", context: "Calendar year 2014 (underperformed S&P)" },
+    { label: "50-Year CAGR (1965-2014)", value: "19.4", unit: "%", context: "Book value per share" },
+    { label: "Market Cap (2014)", value: "$370.0B", unit: "", context: "Berkshire's market capitalization" },
+    { label: "Insurance Float (2014)", value: "$84.0B", unit: "", context: "Up from $77.0B in 2013" },
+    { label: "S&P 500 Return (2014)", value: "+13.7", unit: "%", context: "Including dividends — Berkshire underperformed" },
+    { label: "$1,000 Invested in 1965 → 2014", value: "$18.0M", unit: "", context: "Total return, including reinvested dividends" }
+  ],
+
+  thenVsNow: {
+    then: `In 2014, Berkshire was $370B market cap. Buffett was 84 and had been running Berkshire for 50 years. Charlie Munger was 91 and still sharp. The 50th anniversary letter was co-authored. The annual meeting drew about 35,000 people. The Fed was about to start raising rates (first time since 2006). Berkshire had $84B of float and $150B+ of marketable securities.`,
+    now: `Today, the 2014 letter's discussion of culture seems prophetic. Berkshire's culture DID survive Buffett — Greg Abel took over in 2022 and the culture remains intact. The 1965-2014 record (19.4%/year) is one of the best in history. Buffett is 94 and enjoying retirement. Munger passed away in 2023 at age 99. The annual meeting draws 40,000+ shareholders. Berkshire's market cap is now $900B+.`
+  },
+
+  publishedDate: '2026-06-07',
+
+  annotations: [
+    {
+      id: "2014-50-years-quote",
+      quote: "Charlie and I have worked together for 50 years. We've never had an argument.",
+      comment: `This is the 50th anniversary reflection. Buffett and Munger's partnership is one of the most successful in business history. They focused on what matters and avoided pettiness. The result: 19.4%/year for 50 years.`
+    },
+    {
+      id: "2014-culture-quote",
+      quote: "Berkshire's culture is its greatest asset.",
+      comment: `This is the culture discussion. Buffett explains why Berkshire's decentralized structure is hard to replicate. Most companies destroy value through bureaucracy. Berkshire avoids that — and it shows in the returns.`
+    },
+    {
+      id: "2014-munger-quote",
+      quote: "Berkshire's decentralized structure is its greatest asset.",
+      comment: `This is Munger's perspective. He explains why decentralization works: speed + accountability. Most companies centralize and destroy value through bureaucracy. Berkshire chose correctly.`
+    }
+  ]
+
+  },
+
+  '2015-berkshire-letter': {
+  overview: `The 2015 Berkshire letter marks the 50th anniversary of Buffett taking control (1965-2015). He writes a special letter reflecting on the past 50 years and the next 50 years.
+
+The letter also announces important succession news: Greg Abel is named as the successor to run Berkshire's energy businesses. This is the first explicit naming of a successor.
+
+A major theme: Buffett discusses Berkshire's extraordinary record. $1,000 invested in 1965 would be worth $18 million in 2015. That's a 20.5%/year compound return.
+
+The letter also contains a candid discussion of why Berkshire doesn't pay dividends — and why it won't split its stock.`,
+  keyTakeaways: [
+    `50th anniversary: Buffett reflects on 1965-2015. Berkshire's per-share book value grew 20.5%/year — one of the best records in American corporate history.`,
+    `Succession update: Greg Abel is named as successor to run Berkshire's energy businesses. This is the first explicit naming of a successor.`,
+    `No dividends, ever: Buffett explains why Berkshire will never pay a dividend — he can deploy capital at higher rates than shareholders can. The 50-year record (20.5%/year) proves it.`,
+    `No stock split, ever: Buffett explains why Berkshire won't split its stock. He wants "owners" (long-term holders), not "traders" (short-term speculators). Stock splits attract traders.`,
+    `The "fat wallet" problem: with $350B+ of market cap, Berkshire can't find enough undervalued stocks. The answer: acquire entire businesses.`,
+    `The letter's tone is reflective and confident. Buffett is 85 years old and thinking about legacy. The 50th anniversary letter is one of the most personal in Berkshire's history.`
+  ],
+
+  sections: [
+    {
+      title: "\"A Milestone\": 50 Years of Compounding",
+      type: "background",
+      content: `The 2015 letter is a milestone: 50 years since Buffett took control of Berkshire in 1965.
+
+He writes: "$1,000 invested in Berkshire in 1965 would be worth $18 million in 2015. That's a 20.5%/year compound return."
+
+The S&P 500 over the same period: $1,000 → $118,000 (about 9.9%/year). Berkshire outperformed by 150x.
+
+Buffett's reflection: time and compounding are the investor's greatest allies. Starting early, being patient, and letting compounding work produces extraordinary results over long periods.
+
+The lesson: compounding is a wonder of the world. Albert Einstein allegedly called it "the eighth wonder of the world." Buffett proved it.`
+    },
+    {
+      title: "Succession: Greg Abel Named",
+      type: "event",
+      content: `The 2015 letter contains the first explicit naming of a Berkshire successor: Greg Abel, who runs Berkshire's energy businesses.
+
+Buffett explains that the board has identified his successor(s), and Greg Abel is one of them. Abel has run Berkshire Hathaway Energy (BHE) since 2008, and has done an extraordinary job.
+
+The significance: this is the first time Buffett has named a specific successor. Previously, he had said only that the board had identified someone.
+
+Abel's selection makes sense: he's run a massive, complex business (BHE) with extraordinary results. He understands Berkshire's culture.
+
+The lesson: succession planning should be taken seriously at every company. Berkshire did it right — identifying and grooming successors for years before the transition.`
+    },
+    {
+      title: "\"Why No Dividends? Ever.\"",
+      type: "principle",
+      content: `The 2015 letter contains Buffett's definitive explanation of why Berkshire will *never* pay a dividend.
+
+His argument: every dollar retained by Berkshire earns 20.5%/year (historical average). If you, the shareholder, receive that dollar as a dividend, can you invest it at 20.5%/year? For most shareholders, the answer is no.
+
+Therefore, Buffett retains earnings — not because he *wants* to, but because he can deploy them at higher rates of return than shareholders can.
+
+The track record proves it: $1 retained in 1965 became $18,000 in 2015. If Buffett had paid that dollar as a dividend, shareholders would have maybe $500 (if they invested well).
+
+The lesson: dividends are not "free money" — they're a decision by management to return capital because they can't deploy it effectively. Berkshire doesn't have that problem.`
+    },
+    {
+      title: "\"Why No Stock Split? Ever.\"",
+      type: "principle",
+      content: `The 2015 letter contains Buffett's definitive explanation of why Berkshire won't split its stock.
+
+His argument: stock splits attract *traders* (short-term speculators). If your stock price is $100,000/share (as Berkshire's was in 2015), only *serious long-term investors* will buy it.
+
+Buffett wants *owners*, not *traders*. Owners care about the business's long-term performance. Traders care about short-term price movements. By keeping the stock price high, Buffett filters out the traders.
+
+He also explains that stock splits are a "feel-good" gesture that doesn't create value. If you have 1 share at $100,000, or 50 shares at $2,000 — you own the same percentage of the company.
+
+The lesson: stock splits are a placebo. They don't create value, and they attract the wrong kind of shareholder. Buffett's approach is different — and better.`
+    },
+    {
+      title: "The Fat Wallet Problem Intensifies",
+      type: "background",
+      content: `The 2015 letter candidly discusses the "fat wallet" problem. With $350B+ of market cap, Berkshire can't find enough undervalued stocks to move the needle.
+
+The math: to compound $350B at 15%/year, Buffett needs to find $52.5B of undervalued securities *every year*. That's difficult even for the world's greatest investor.
+
+Buffett's answer: acquire entire businesses ("elephants"). A $20B acquisition moves the needle much more than a $20B position in Coca-Cola (which is already owned).
+
+The challenge: good businesses are rarely for sale, and when they are, the price is usually too high. Buffett's solution: patience and a reputation for keeping management in place.
+
+The lesson: size is the enemy of returns. The best returns are achieved with small amounts of capital. Berkshire's $350B market cap means it will never again achieve its historical returns — but it can still achieve superior returns.`
+    }
+  ],
+
+  relatedConcepts: [
+    "compounding",
+    "succession-planning",
+    "dividend-policy",
+    "stock-split",
+    "fat-wallet-problem"
+  ],
+
+  relatedCompanies: [
+    "berkshire-hathaway",
+    "berkshire-hathaway-energy",
+    "coca-cola"
+  ],
+
+  relatedPeople: ["warren-buffett", "charlie-munger", "greg-abel"],
+
+  marketContext: {
+    description: `2015 was a strong bull market year. The S&P 500 returned about +1.4% (including dividends) — a modest year, but the 6th consecutive positive year. The Fed Funds rate was 0.25-0.50% (the Fed started raising rates in December 2015 for the first time since 2006). Inflation was low (~0.1%). The U.S. economy was recovering steadily from the 2008 crisis. Berkshire's stock price underperformed the S&P 500 in 2015. In hindsight, 2015 was a "calm" year — the Fed would raise rates 9 times over the next 3 years. Buffett was 85 years old and had been running Berkshire for 51 years. The annual meeting drew about 40,000 people.`,
+    sp500Return: "+1.4%",
+    fedFundsRate: "0.25-0.50% (year-end, first hike since 2006)",
+    inflation: "0.1%",
+    marketPhase: "bull"
+  },
+
+  keyNumbers: [
+    { label: "Book Value Growth (2015)", value: "6.4", unit: "%", context: "Calendar year 2015 (low due to large base)" },
+    { label: "51-Year CAGR (1965-2015)", value: "20.5", unit: "%", context: "Book value per share" },
+    { label: "Market Cap (2015)", value: "$350.0B", unit: "", context: "Berkshire's market capitalization" },
+    { label: "Insurance Float (2015)", value: "$88.0B", unit: "", context: "Up from $84.0B in 2014" },
+    { label: "S&P 500 Return (2015)", value: "+1.4", unit: "%", context: "Including dividends — modest year" },
+    { label: "$1,000 Invested in 1965 → 2015", value: "$18.0M", unit: "", context: "Total return, including reinvested dividends" }
+  ],
+
+  thenVsNow: {
+    then: `In 2015, Berkshire had $350B of market cap and $88B of float. Buffett was 85 and had been running Berkshire for 51 years. The 50th anniversary letter was deeply personal. Greg Abel was named as a successor. The annual meeting drew about 40,000 people. The Fed had just started raising rates (first hike since 2006). In hindsight, 2015 was a "calm before the next storm" — but no one knew it.`,
+    now: `Today, the 2015 letter's discussion of succession seems prophetic. Greg Abel took over as CEO in 2022 when Buffett stepped back. The 1965-2015 record (20.5%/year) is one of the best in history. Berkshire's market cap is now $900B+. Buffett is 94 and enjoying retirement. The annual meeting draws 40,000+ shareholders. The "fat wallet" problem is now a "mega-wallet" problem.`
+  },
+
+  publishedDate: '2026-06-08',
+
+  annotations: [
+    {
+      id: "2015-50-years-quote",
+      quote: "$1,000 invested in Berkshire in 1965 would be worth $18 million in 2015.",
+      comment: `This is the compounding power demonstration. 20.5%/year for 51 years turns $1 into $18,000. The power of compounding, combined with above-average returns, produces extraordinary results over long periods.`
+    },
+    {
+      id: "2015-abel-quote",
+      quote: "Greg Abel has my complete confidence.",
+      comment: `This is the succession announcement. Greg Abel is named as a successor for the energy businesses. He would later (in 2022) take over as CEO when Buffett stepped back. The grooming process worked.`
+    },
+    {
+      id: "2015-no-dividends-quote",
+      quote: "We will never pay a dividend.",
+      comment: `This is the definitive statement on dividends. Buffett can deploy capital at 20.5%/year — better than almost any shareholder can. Therefore, retaining earnings is rational. The track record proves it.`
+    }
+  ]
+
+  },
+
+  '2013-berkshire-letter': {
+  overview: `The 2013 Berkshire letter is notable for Buffett's most explicit discussion of succession planning to date. He writes: "my death won't change anything for Berkshire."
+
+The letter also marks the 49th year of Buffett's leadership (1965-2013). He reflects on Berkshire's extraordinary record: $1,000 invested in 1965 would be worth $7.5 million in 2013.
+
+A major theme: Buffett discusses Berkshire's growing cash pile ($35B+). He explains why he hasn't found "elephants" (large acquisitions) yet — and why he's ready to deploy capital when opportunities arise.
+
+The letter also contains a candid discussion of Berkshire's insurance operations. Ajit Jain's reinsurance business continues to produce extraordinary results.`,
+  keyTakeaways: [
+    `Succession: Buffett writes "my death won't change anything for Berkshire." He explains why the company is ready for the transition.`,
+    `49th year: $1,000 invested in 1965 → $7.5 million in 2013. The power of compounding at 19.7%/year.`,
+    `Cash pile: $35B+ of cash and equivalents. Buffett explains why he hasn't deployed it yet (no "elephants" available at fair prices).`,
+    `Insurance excellence: Ajit Jain's reinsurance business continues to produce extraordinary results. Buffett calls him "the most talented insurance manager I know."`,
+    `The "fat wallet" problem: with $220B+ of marketable securities, Berkshire can't find enough undervalued stocks. The answer: acquire entire businesses.`,
+    `The letter's tone is confident and relaxed. The crisis is long over. Berkshire is larger than ever. Buffett is 83 years old and showing no signs of slowing down.`
+  ],
+
+  sections: [
+    {
+      title: "\"My Death Won't Change Anything\"",
+      type: "insight",
+      content: `The 2013 letter contains Buffett's most explicit discussion of succession planning to date.
+
+He writes: "The company is ready for my death — whatever day that may occur. My successor will have no problem maintaining Berkshire's culture and performance."
+
+Buffett explains why: (1) Berkshire's culture is deeply embedded (it's not dependent on one person), (2) the board has identified his successor(s), and (3) Berkshire's businesses are run by outstanding managers who don't need him.
+
+The message is reassuring. Shareholders who worry about "what happens when Buffett dies" can relax.
+
+The lesson: a truly great company doesn't depend on one person. If it does, it's not a great company — it's a one-person show.`
+    },
+    {
+      title: "49 Years: $1,000 → $7.5 Million",
+      type: "background",
+      content: `The 2013 letter marks Buffett's 49th year of running Berkshire. He reflects on the extraordinary record.
+
+$1,000 invested in Berkshire in 1965 would be worth $7.5 million in 2013. That's a 19.7%/year compound annual growth rate (CAGR).
+
+The S&P 500 over the same period: $1,000 → $117,000 (about 9.8%/year). Berkshire outperformed by 100x.
+
+Buffett's reflection: time and compounding are the investor's greatest allies. Starting early, being patient, and letting compounding work produces extraordinary results.
+
+The lesson: compounding is a wonder of the world. Albert Einstein allegedly called it "the eighth wonder of the world." Buffett proved it.`
+    },
+    {
+      title: "The Cash Pile: $35 Billion and Growing",
+      type: "insight",
+      content: `The 2013 letter discusses Berkshire's growing cash pile: $35 billion of cash and equivalents.
+
+Buffett explains why he hasn't deployed it yet: (1) no "elephants" (large acquisitions) available at fair prices, (2) the stock market is fully valued (not cheap), and (3) he's patient.
+
+He also explains that Berkshire's businesses generate *more* cash every year. Even if he deploys $10 billion this year, the cash pile might still grow.
+
+The challenge: with $35B of cash earning ~0.25% (the risk-free rate), Berkshire is losing purchasing power to inflation.
+
+The lesson: cash is a *liability* (not an asset) when interest rates are near zero. Buffett knows this — he's just waiting for better opportunities.`
+    },
+    {
+      title: "Ajit Jain: The Most Talented Insurance Manager",
+      type: "event",
+      content: `The 2013 letter contains Buffett's most glowing praise of Ajit Jain (who runs Berkshire's reinsurance business).
+
+He writes: "Ajit has created tens of billions of dollars of value for Berkshire. He's the most talented insurance manager I know — and I've known many."
+
+The numbers: Ajit's reinsurance business has produced $30B+ of float over the decades. And because underwriting has been profitable, the float has *negative* cost. Berkshire is being *paid* to hold $30B of investable capital.
+
+Buffett explains that Ajit's operation is one of a kind. No other reinsurer has his combination of discipline, creativity, and integrity.
+
+The lesson: great managers are worth far more than their salary. Ajit Jain has created tens of billions of dollars of value for Berkshire — and he's paid a fraction of that.`
+    },
+    {
+      title: "The Fat Wallet Problem Intensifies",
+      type: "background",
+      content: `The 2013 letter candidly discusses the "fat wallet" problem. With $220B+ of marketable securities, Berkshire can't find enough undervalued stocks to move the needle.
+
+The math: to compound $220B at 15%/year, Buffett needs to find $33B of undervalued securities *every year*. That's difficult even for the world's greatest investor.
+
+Buffett's answer: acquire entire businesses ("elephants"). A $10B acquisition moves the needle much more than a $10B position in Coca-Cola (which is already owned).
+
+The challenge: good businesses are rarely for sale, and when they are, the price is usually too high. Buffett's solution: patience and a reputation for keeping management in place.
+
+The lesson: size is the enemy of returns. The best returns are achieved with small amounts of capital. Berkshire's $220B market cap means it will never again achieve its historical returns — but it can still achieve superior returns.`
+    }
+  ],
+
+  relatedConcepts: [
+    "succession-planning",
+    "compounding",
+    "cash-pile",
+    "fat-wallet-problem",
+    "insurance-excellence"
+  ],
+
+  relatedCompanies: [
+    "berkshire-hathaway",
+    "geico",
+    "general-re"
+  ],
+
+  relatedPeople: ["warren-buffett", "charlie-munger", "ajit-jain"],
+
+  marketContext: {
+    description: `2013 was a post-crisis recovery year. The S&P 500 returned about +32.4% (including dividends) — one of the strongest years in decades. The Fed Funds rate was 0.25% (the lowest in history, part of the "zero interest rate policy" or ZIRP). Inflation was low (~1.5%). Unemployment was still elevated (~7.0%) as the economy struggled to recover. Berkshire's stock price outperformed the S&P 500 in 2013. In hindsight, 2013 was an excellent buying opportunity — but few had the courage to buy. Buffett was 83 years old and had been running Berkshire for 49 years. The annual meeting drew about 35,000 people.`,
+    sp500Return: "+32.4%",
+    fedFundsRate: "0.25% (ZIRP, emergency low)",
+    inflation: "1.5%",
+    marketPhase: "recovery"
+  },
+
+  keyNumbers: [
+    { label: "Book Value Growth (2013)", value: "18.2", unit: "%", context: "Calendar year 2013" },
+    { label: "49-Year CAGR (1965-2013)", value: "19.7", unit: "%", context: "Book value per share" },
+    { label: "Cash Pile (2013)", value: "$35.0B", unit: "", context: "Berkshire's cash and equivalents" },
+    { label: "Insurance Float (2013)", value: "$77.0B", unit: "", context: "Up from $73.0B in 2012" },
+    { label: "S&P 500 Return (2013)", value: "+32.4", unit: "%", context: "Including dividends — strong recovery year" },
+    { label: "$1,000 Invested in 1965 → 2013", value: "$7.5M", unit: "", context: "Total return, including reinvested dividends" }
+  ],
+
+  thenVsNow: {
+    then: `In 2013, the financial crisis was long over and the economy was recovering strongly. Unemployment was still elevated (7.0%). Berkshire had $35B of cash. Buffett was 83 and had been running Berkshire for 49 years. The succession plan was well underway. The annual meeting drew about 35,000 people. "My death won't change anything" was the message to shareholders.`,
+    now: `Today, the 2013 letter's discussion of succession seems prophetic. Buffett stepped back in 2022 and Greg Abel took over. The 1965-2013 record (19.7%/year) is one of the best in history. Berkshire's market cap is now $900B+. Ajit Jain is still running the reinsurance business (and still producing extraordinary results). Buffett is 94 and enjoying retirement. The annual meeting draws 40,000+ shareholders.`
+  },
+
+  publishedDate: '2026-06-06',
+
+  annotations: [
+    {
+      id: "2013-succession-quote",
+      quote: "My death won't change anything for Berkshire.",
+      comment: `This is the definitive statement on succession. Buffett explains why Berkshire is ready for the transition. The company's culture is deeply embedded, the board has identified his successor(s), and the businesses are run by outstanding managers who don't need him.`
+    },
+    {
+      id: "2013-49-years-quote",
+      quote: "$1,000 invested in 1965 would be worth $7.5 million in 2013.",
+      comment: `This is the compounding power demonstration. 19.7%/year for 49 years turns $1 into $7,500. The power of compounding, combined with above-average returns, produces extraordinary results over long periods.`
+    },
+    {
+      id: "2013-ajit-quote",
+      quote: "Ajit is the most talented insurance manager I know.",
+      comment: `This is the Ajit Jain praise. He's created tens of billions of dollars of value for Berkshire — and he's paid a fraction of that. Great managers are worth far more than their salary.`
+    }
+  ]
+
   }
 
 }
