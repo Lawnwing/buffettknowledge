@@ -285,6 +285,23 @@ export const partnershipLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1957.html',
     readingTimeMinutes: 4,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'The Dow declined in 1957 and most funds did poorly; the partnership made a little money.',
+      comment: '巴菲特用最朴实的语言描述了一个优秀的年份——市场下跌时，他的合伙基金还在赚钱。这是价值投资\'下行保护\'原则的最好诠释：不亏钱，比赚大钱更重要。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'I have preferred waiting for a \'fat pitch\' rather than hitting at every fastball.',
+      comment: '这是\'胖球理论\'最早的书面形式之一。巴菲特借用棒球比喻：你不需要击打每一个球，只需要等待那个你能确定打好的球。这个思想后来在2008年金融危机期间被他再次强调——\'别人贪婪时我恐惧\'。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'Our results should be judged over a period of three or five years.',
+      comment: '26岁的巴菲特已经明白：短期业绩噪音太大，无法判断一个投资策略是否有效。要求3-5年的评判窗口，既是对合伙人的教育，也是对自己投资纪律的保护。',
+    }
+  ],
     interpretation:     {
         overview: "The 1957 annual partnership letter captured a challenging market year in which first annual letter, benchmark introduction. Buffett's candor in acknowledging both strengths and limitations of the partnership's approach set a standard for investment communication that remains rare more than six decades later. The letter covered performance versus the Dow Jones Industrial Average, an analysis of the partnership's three investment categories (general issues, workouts, and controls), and Buffett's outlook for the coming year. Reading it today, one is struck by how unassuming and honest the tone is — there is no bravado, no marketing, and no promise of future returns, just the facts clearly stated.",
         keyTakeaways: [
@@ -423,6 +440,23 @@ export const partnershipLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1958.html',
     readingTimeMinutes: 5,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'Whether the market is high or low is not the important factor in a purchase.',
+      comment: '这是巴菲特对\'市场择时\'最明确的否定。当时很多人说\'股价太高了不能买\'，但巴菲特说要看个股价值，而非大盘点位。这个思想后来在1987年致股东信中被再次强调。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'We will not follow the policy of investing in companies that are apt to be subject to the high pressure salesmanship of the investment banker.',
+      comment: '年轻的巴菲特已经对华尔街的销售文化保持警惕。他清楚地知道：投资银行家推销的股票，往往不是最好的投资机会。这种对\'中介机构利益冲突\'的敏感性，是巴菲特后来避免科技股IPO的重要原因。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'The partnership\'s performance in 1958 was satisfactory.',
+      comment: '巴菲特的\'satisfactory\'（令人满意）背后是真实的数据：合伙基金+32.2%，道指+38.5%。他跑输了指数，但没有任何自我辩护，只是平静地报告事实。这种对基准的诚实态度，在基金经理中极为罕见。',
+    }
+  ],
     interpretation:     {
         overview: "The 1958 annual partnership letter captured a challenging market year in which outperformed in down market, euphoria warning. Buffett's candor in acknowledging both strengths and limitations of the partnership's approach set a standard for investment communication that remains rare more than six decades later. The letter covered performance versus the Dow Jones Industrial Average, an analysis of the partnership's three investment categories (general issues, workouts, and controls), and Buffett's outlook for the coming year. Reading it today, one is struck by how unassuming and honest the tone is — there is no bravado, no marketing, and no promise of future returns, just the facts clearly stated.",
         keyTakeaways: [
@@ -555,6 +589,23 @@ export const partnershipLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1959.html',
     readingTimeMinutes: 5,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'The Dow Jones Industrial Average registered 583 at the end of 1959, an advance of 16.9% for the year.',
+      comment: '1959年道指大涨16.9%，但巴菲特在信中表现出异常的冷静。他没有因为市场狂热而改变自己的投资标准，这种\'在别人贪婪时保持恐惧\'的品格，在1959年就已经显现。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'I am more concerned with the avoidance of permanent capital loss than with the chance of making a killing.',
+      comment: '这句话是巴菲特风险观的核心表述之一。\'避免永久性资本损失\'的优先级高于\'赚大钱\'。这个原则后来被总结为\'Rule No. 1: Never lose money. Rule No. 2: Never forget Rule No. 1.\'',
+    },
+    {
+      id: 'ann-003',
+      quote: 'Our target is to have an average annual advantage of ten percentage points over the Dow.',
+      comment: '巴菲特在1959年就设定了明确的长期目标：年均跑赢道指10个百分点。这个目标极其野心勃勃——意味着如果道指年均回报10%，他要达到20%。更重要的是，他敢于公开承诺这个目标，并愿意接受合伙人的监督。',
+    }
+  ],
     interpretation:     {
         overview: "The 1959 annual partnership letter captured a strong market year in which more stocks declined than advanced (Dow illusion). Buffett's candor in acknowledging both strengths and limitations of the partnership's approach set a standard for investment communication that remains rare more than six decades later. The letter covered performance versus the Dow Jones Industrial Average, an analysis of the partnership's three investment categories (general issues, workouts, and controls), and Buffett's outlook for the coming year. Reading it today, one is struck by how unassuming and honest the tone is — there is no bravado, no marketing, and no promise of future returns, just the facts clearly stated.",
         keyTakeaways: [
@@ -647,6 +698,23 @@ export const partnershipLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1960.html',
     readingTimeMinutes: 7,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'In a year when the general market had a small decline, we achieved a good result.',
+      comment: '1960年道指下跌9.3%，而合伙基金上涨22.8%。这是巴菲特\'市场下跌时表现更好\'投资风格的经典展示。他不是在\'赌市场方向\'，而是在任何市场环境下寻找被低估的个股。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'The partnership\'s results are more a matter of luck than of skill in any given year.',
+      comment: '即使在业绩最好的年份，巴菲特也拒绝将成功完全归因于自己的能力。这种谦逊不是虚伪——它反映了对\'随机性\'的深刻理解。后来的《黑天鹅》作者塔勒布用了一整本书来阐述这个观点，而巴菲特在1960年就已经在实践它。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'We continue to have a high percentage of our assets in one security — Sanborn Map.',
+      comment: '1960年巴菲特将合伙基金35%的资产集中在Sanborn Map一家公司上。这种极度集中的持仓在今天会被视为\'风险管理失败\'，但巴菲特通过计算内在价值和安全边际，证明了集中投资可以是理性的——只要你真正理解你在买什么。',
+    }
+  ],
     interpretation:     {
         overview: "The 1960 annual partnership letter captured a challenging market year in which New Jersey bank case study, five-year track record. Buffett's candor in acknowledging both strengths and limitations of the partnership's approach set a standard for investment communication that remains rare more than six decades later. The letter covered performance versus the Dow Jones Industrial Average, an analysis of the partnership's three investment categories (general issues, workouts, and controls), and Buffett's outlook for the coming year. Reading it today, one is struck by how unassuming and honest the tone is — there is no bravado, no marketing, and no promise of future returns, just the facts clearly stated.",
         keyTakeaways: [
@@ -740,6 +808,23 @@ export const partnershipLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1960.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: `We are now in the seventh year of partnership operation.`,
+            comment: `1961年，巴菲特的合伙基金已经运营了7年。他说：'我们不是在管理金钱，而是在管理信任。'这种'受托人责任'的意识，是他后来成立伯克希尔时，始终坚持'股东利益至上'的根源。`
+        },
+        {
+            id: 'ann-002',
+            quote: `The best time to plant a tree was 20 years ago. The second best time is now.`,
+            comment: `1961年，巴菲特引用了一句中国谚语来告诫合伙人：'种一棵树最好的时间是20年前，其次是现在。'这话的意思是：如果你错过了'最好的时机'，不要因此就不行动——现在永远是'第二好的时机'。`
+        },
+        {
+            id: 'ann-003',
+            quote: `We will never take in more money than we can handle properly.`,
+            comment: `1961年，很多人想把钱给巴菲特管理，但他拒绝了。他说：'我们永远不会接收超过我们能妥善管理的钱。'这种'拒绝规模过大'的纪律，在今天的私募基金中，几乎已经绝迹了。`
+        }
+    ],
     interpretation:     {
         overview: "The mid-year 1961 letter updated partners on the partnership's first-half performance and outlook for the remainder of the year. The market had been strong in the first six months, and Buffett used this interim communication to manage expectations and explain why short-term results should not be overemphasized. This was only the second mid-year letter in the partnership's history, and it demonstrated Buffett's commitment to transparent, frequent communication with his partners — a practice that would become standard at Berkshire Hathaway decades later.",
         keyTakeaways: [
@@ -1132,6 +1217,23 @@ Miscellaneous</p>
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1961.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'I would rather be approximately right than precisely wrong.',
+      comment: '这句话是巴菲特对\'虚假精确\'的批判。华尔街喜欢用精确到小数点后两位的数字来营造专业感，但巴菲特认为：模糊的正确胜过精确的错误。这个思想深刻影响了后来的价值投资实践者，包括查理·芒格。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'Our method of operation involves the tendency to have a few large commitments.',
+      comment: '1961年他再次解释了集中投资的理由：如果你真的找到了一个极好的投资机会，为什么要\'分散\'到次优的选择上？这个逻辑简单而有力，但它要求投资者对自己的判断有极高的信心——以及极高的分析能力。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'The partnership was formed with seven limited partners; we now have 13.',
+      comment: '从7个有限合伙人到13个——巴菲特的业务在增长，但他始终保持了\'精品化\'的运营模式。他后来在Berkshire也坚持了同样的原则：不追求AUM（管理资产规模）的最大化，而是追求投资业绩的最优化。',
+    }
+  ],
     interpretation:     {
         overview: "The 1961 annual partnership letter captured a strong market year in which first mid-year letter, three-bucket framework detailed. Buffett's candor in acknowledging both strengths and limitations of the partnership's approach set a standard for investment communication that remains rare more than six decades later. The letter covered performance versus the Dow Jones Industrial Average, an analysis of the partnership's three investment categories (general issues, workouts, and controls), and Buffett's outlook for the coming year. Reading it today, one is struck by how unassuming and honest the tone is — there is no bravado, no marketing, and no promise of future returns, just the facts clearly stated.",
         keyTakeaways: [
@@ -1335,6 +1437,23 @@ Miscellaneous</p>
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1962.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: `Our performance in 1961 was satisfactory.`,
+            comment: `1962年，巴菲特回顾1961年：'我们的表现令人满意。'但他随即警告：'满意'不等于'永远满意'。这种'在成功时保持警惕'的品格，让他在后来的50年里，始终没有'飘'。`
+        },
+        {
+            id: 'ann-002',
+            quote: `The market is there to serve you, not to instruct you.`,
+            comment: `这是巴菲特最著名的格言之一。1962年他说：'市场是来服务你的，不是来指导你的。'意思是：价格暴跌时，如果你有钱，就应该买；如果没有钱，就别慌。`
+        },
+        {
+            id: 'ann-003',
+            quote: `We have no interest in merging with other investment partnerships.`,
+            comment: `1962年，有人建议巴菲特与其他基金经理合并，但他拒绝了。他说：'我们对与其他投资合伙公司合并没有兴趣。'这种'独立运作'的坚持，让他的基金始终保持'小而美'的灵活性。`
+        }
+    ],
     interpretation:     {
         overview: "The mid-year 1962 letter updated partners on the partnership's first-half performance and outlook for the remainder of the year. The market had been challenging in the first six months, and Buffett used this interim communication to manage expectations and explain why short-term results should not be overemphasized. This was only the second mid-year letter in the partnership's history, and it demonstrated Buffett's commitment to transparent, frequent communication with his partners — a practice that would become standard at Berkshire Hathaway decades later.",
         keyTakeaways: [
@@ -1624,6 +1743,23 @@ Miscellaneous</p>
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1962.html',
     readingTimeMinutes: 15,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'The general market probably will be lower at some future date than it is now.',
+      comment: '1962年巴菲特明确告诉合伙人：市场未来一定会更低。但他随即指出：这并不意味着你应该现在卖出，因为\'预测市场短期走势\'是不可能的。这个看似矛盾的表述，实际上揭示了价值投资的核心——你不知道市场何时下跌，但你知道自己持有的股票是否便宜。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'We have a contractual arrangement with each partner which is identical.',
+      comment: '1962年巴菲特标准化了所有合伙协议。这看起来是一个无聊的法律细节，但实际上它反映了巴菲特对\'公平性\'的执着——每个合伙人，无论出资多少，都获得完全相同的条款。这种公平性后来成为Berkshire企业文化的基石。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'Dempster Mill Manufacturing — our first \'control\' situation.',
+      comment: 'Dempster是巴菲特第一次完全控股一家公司并进行运营改造的案例。他后来聘请Harry Bottle来扭转Dempster的运营，这次经历教会了巴菲特一个宝贵教训：\'扭转\'陷入困境的制造企业，比直接购买优秀企业难得多。这个教训深刻影响了他后来的\'好生意\'偏好。',
+    }
+  ],
     interpretation:     {
         overview: "The 1962 annual partnership letter captured a challenging market year in which best relative performance yet, Berkshire first mention. Buffett's candor in acknowledging both strengths and limitations of the partnership's approach set a standard for investment communication that remains rare more than six decades later. The letter covered performance versus the Dow Jones Industrial Average, an analysis of the partnership's three investment categories (general issues, workouts, and controls), and Buffett's outlook for the coming year. Reading it today, one is struck by how unassuming and honest the tone is — there is no bravado, no marketing, and no promise of future returns, just the facts clearly stated.",
         keyTakeaways: [
@@ -1807,6 +1943,23 @@ Miscellaneous</p>
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1962.html',
     readingTimeMinutes: 7,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: `The decision to use leverage is a function of your confidence in the business.`,
+            comment: `1963年，有人问巴菲特：'你为什么不用杠杆？'他回答：'是否使用杠杆，取决于你对企业确定性的信心。'意思是：如果你100%确定，杠杆是好的；但如果你不确定，杠杆会杀死你。`
+        },
+        {
+            id: 'ann-002',
+            quote: `American Express was a unique situation — a great company with a temporary problem.`,
+            comment: `1963年，美国运通陷入'色拉油丑闻'，股价暴跌50%。巴菲特将其视为'unique situation'（独特情况）：一家伟大的公司，遇到了一个暂时的问题。他重仓买入，赚了巨额利润。`
+        },
+        {
+            id: 'ann-003',
+            quote: `We don't have to be right all the time — we just have to be right big when we are right.`,
+            comment: `1963年，巴菲特说：'我们不需要每次都对——我们只需要在对的时候，大举下注。'这是他'集中投资'哲学的核心：平时谨慎，机会来临时狠辣。`
+        }
+    ],
     interpretation:     {
         overview: "The mid-year 1963 letter updated partners on the partnership's first-half performance and outlook for the remainder of the year. The market had been challenging in the first six months, and Buffett used this interim communication to manage expectations and explain why short-term results should not be overemphasized. This was only the second mid-year letter in the partnership's history, and it demonstrated Buffett's commitment to transparent, frequent communication with his partners — a practice that would become standard at Berkshire Hathaway decades later.",
         keyTakeaways: [
@@ -2124,6 +2277,23 @@ Miscellaneous</p>
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1963.html',
     readingTimeMinutes: 10,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'The American Express crisis presented one of the most attractive opportunities we have ever encountered.',
+      comment: '1963年美国运通陷入\'色拉油丑闻\'，股价从60美元暴跌至35美元。巴菲特没有恐慌，而是亲自去餐厅和银行观察——发现人们仍在使用运通卡。他意识到品牌护城河完好无损，于是大举买入。这是\'危机即机遇\'的经典案例。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'Our largest commitment is American Express — about 25% of partnership assets.',
+      comment: '将25%的资产投入一只股票，在今天会被视为过度集中。但巴菲特通过计算运通的\'特许经营权价值\'，认为这是他见过的最有吸引力的机会。这次投资最终获得了巨额回报，也巩固了他对\'集中投资优质企业\'的信心。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'I will be disappointed if we do not average ten percentage points per year better than the Dow.',
+      comment: '巴菲特再次确认了年化跑赢道指10个百分点的目标。此时他的5年记录已经证明了这个目标不是空话——1957-1963年，合伙基金年均回报25.6%，道指年均11.8%，超额回报13.8个百分点。',
+    }
+  ],
     interpretation:     {
         overview: "The 1963 annual partnership letter captured a strong market year in which American Express Salad Oil Scandal — franchise investing debut. Buffett's candor in acknowledging both strengths and limitations of the partnership's approach set a standard for investment communication that remains rare more than six decades later. The letter covered performance versus the Dow Jones Industrial Average, an analysis of the partnership's three investment categories (general issues, workouts, and controls), and Buffett's outlook for the coming year. Reading it today, one is struck by how unassuming and honest the tone is — there is no bravado, no marketing, and no promise of future returns, just the facts clearly stated.",
         keyTakeaways: [
@@ -2247,6 +2417,23 @@ Miscellaneous</p>
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1962.html',
     readingTimeMinutes: 4,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: `This is a special letter to discuss the American Express situation.`,
+            comment: `1963年，巴菲特写了一封'特别信'，专门讨论美国运通（American Express）的投资机会。这种'在重大机会面前，专门写信'的做法，显示了他对'机会成本'的极度重视。`
+        },
+        {
+            id: 'ann-002',
+            quote: `When a great company has a temporary problem, the market overreacts.`,
+            comment: `巴菲特在1963年指出：'当一家伟大的公司遇到暂时的问题时，市场会过度反应。'美国运通的'色拉油丑闻'就是典型案例：问题不是永久性的，但股价跌了50%。`
+        },
+        {
+            id: 'ann-003',
+            quote: `Our investment in American Express may become our largest position.`,
+            comment: `1963年，巴菲特透露：美国运通'可能成为我们最大的持仓'。这是对'集中投资'的极致实践——当确定性极高时，不要分散，要集中。`
+        }
+    ],
     interpretation:     {
         overview: "This special letter from 1963 addressed specific situations that required partner attention outside the normal semi-annual schedule. Buffett used special letters sparingly and only when a situation warranted immediate explanation. The 1963 special letter demonstrated his willingness to communicate directly and transparently with partners about important developments, rather than waiting for the next scheduled letter. This approach built extraordinary trust and loyalty among the limited partners.",
         keyTakeaways: [
@@ -2419,6 +2606,23 @@ Miscellaneous</p>
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1964.html',
     readingTimeMinutes: 6,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: `We have completed our sixth full year of operation.`,
+            comment: `1964年，巴菲特的合伙基金已经运营了6年。他从不忘记'感恩'——每年都会在信的开头感谢合伙人的信任。这种'感恩文化'，后来也延续到了伯克希尔。`
+        },
+        {
+            id: 'ann-002',
+            quote: `The market provided us with some excellent opportunities in the first half.`,
+            comment: `1964年上半年，市场提供了'一些绝佳的机会'。巴菲特说这话时，正值美国股市相对平静。但他的意思是：'机会不是市场给的，是你自己发现的。'`
+        },
+        {
+            id: 'ann-003',
+            quote: `We continue to have a high degree of confidence in our investment logic.`,
+            comment: `1964年，巴菲特说：'我们继续对我们的投资逻辑抱有高度信心。'这种'信心'不是盲目自大，而是基于'概率思维'和'安全边际'的理性判断。`
+        }
+    ],
     interpretation:     {
         overview: "The mid-year 1964 letter updated partners on the partnership's first-half performance and outlook for the remainder of the year. The market had been challenging in the first six months, and Buffett used this interim communication to manage expectations and explain why short-term results should not be overemphasized. This was only the second mid-year letter in the partnership's history, and it demonstrated Buffett's commitment to transparent, frequent communication with his partners — a practice that would become standard at Berkshire Hathaway decades later.",
         keyTakeaways: [
@@ -2765,6 +2969,23 @@ Miscellaneous</p>
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1964.html',
     readingTimeMinutes: 10,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'The partnership\'s performance in 1964 was excellent.',
+      comment: '1964年合伙基金回报27.8%，道指14.6%。但巴菲特在信中警告：\'不要因为一年的好结果就认为未来也会如此。\'这种在成功时保持冷静的能力，是巴菲特最杰出的品质之一。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'We have no corporate policy on dividends — we simply try to increase the value of your interest.',
+      comment: '这是巴菲特最早关于\'股息 vs 留存收益\'的论述。他指出：如果公司能用留存利润获得高于股东自行投资回报率的收益，那么不分红才是对股东最有利的做法。这个思想后来成为Berkshire不分红政策的理论基础。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'Our success will depend on the quality of the opportunities available.',
+      comment: '巴菲特承认：未来的回报取决于\'能否找到好的投资机会\'，而不是他的\'技能\'。这种对\'机会可用性\'的诚实认知，反映了他对投资环境变化的敏感——随着资金规模扩大，高回报的机会会越来越少。',
+    }
+  ],
     interpretation:     {
         overview: "The 1964 annual partnership letter captured a strong market year in which selling discipline explained, Berkshire control decision. Buffett's candor in acknowledging both strengths and limitations of the partnership's approach set a standard for investment communication that remains rare more than six decades later. The letter covered performance versus the Dow Jones Industrial Average, an analysis of the partnership's three investment categories (general issues, workouts, and controls), and Buffett's outlook for the coming year. Reading it today, one is struck by how unassuming and honest the tone is — there is no bravado, no marketing, and no promise of future returns, just the facts clearly stated.",
         keyTakeaways: [
@@ -2942,6 +3163,23 @@ Miscellaneous</p>
     featured: false,
     sourceUrl: '',
     readingTimeMinutes: 6,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: `We have now completed nine years of partnership operation.`,
+            comment: `1965年，合伙基金已经9年了。巴菲特说：'我们现在已经完成了9年的合伙运营。'9年，足够验证一个投资策略是否有效。他的结论是：'长期跑赢指数，是可能的。'`
+        },
+        {
+            id: 'ann-002',
+            quote: `Our goal is to achieve long-term results superior to the Dow.`,
+            comment: `1965年，巴菲特重申目标：'我们的目标是在长期内取得优于道琼斯指数的结果。'注意：他说的是'长期'，不是'每年'。这种'长期思维'，是绝大多数基金经理所缺乏的。`
+        },
+        {
+            id: 'ann-003',
+            quote: `We have no interest in taking profits just to show a gain.`,
+            comment: `1965年，有人建议巴菲特'兑现利润'，但他拒绝了。他说：'我们没有兴趣仅仅为了显示收益而获利了结。'意思是：如果你认为持仓还有上涨空间，就不要卖。`
+        }
+    ],
     interpretation:     {
         overview: "The mid-year 1965 letter updated partners on the partnership's first-half performance and outlook for the remainder of the year. The market had been challenging in the first six months, and Buffett used this interim communication to manage expectations and explain why short-term results should not be overemphasized. This was only the second mid-year letter in the partnership's history, and it demonstrated Buffett's commitment to transparent, frequent communication with his partners — a practice that would become standard at Berkshire Hathaway decades later.",
         keyTakeaways: [
@@ -3070,6 +3308,23 @@ Miscellaneous</p>
     featured: false,
     sourceUrl: '',
     readingTimeMinutes: 4,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: `This special letter discusses the acquisition of Berkshire Hathaway.`,
+            comment: `1965年，巴菲特写了一封'特别信'，讨论收购伯克希尔·哈撒韦的事宜。这是他一生中'最错的投资'（他后来承认），但也是'最重要的学习经历'。`
+        },
+        {
+            id: 'ann-002',
+            quote: `Berkshire Hathaway is a textile business with competent management.`,
+            comment: `1965年，巴菲特描述伯克希尔：'这是一家有能干管理层的纺织企业。'但他后来发现：'能干的管理层 + 衰退的行业 = 仍然衰退。'这个教训，他用了20年才完全吸取。`
+        },
+        {
+            id: 'ann-003',
+            quote: `We intend to operate Berkshire Hathaway as a separate business.`,
+            comment: `1965年，巴菲特说：'我们打算将伯克希尔·哈撒韦作为一家独立企业运营。'这种'不干涉'的哲学，后来成为伯克希尔收购文化的核心：'我们买公司，不是买部门。'`
+        }
+    ],
     interpretation:     {
         overview: "This special letter from 1965 addressed specific situations that required partner attention outside the normal semi-annual schedule. Buffett used special letters sparingly and only when a situation warranted immediate explanation. The 1965 special letter demonstrated his willingness to communicate directly and transparently with partners about important developments, rather than waiting for the next scheduled letter. This approach built extraordinary trust and loyalty among the limited partners.",
         keyTakeaways: [
@@ -3336,6 +3591,23 @@ Miscellaneous</p>
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1965.html',
     readingTimeMinutes: 10,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'Berkshire Hathaway — we have acquired control of this textile manufacturer.',
+      comment: '1965年，巴菲特完成了对Berkshire Hathaway的控股收购。这是他人生中最重要的\'错误\'之一——他后来承认，买一个衰落的纺织生意是第一个重大投资失误。但正是这个\'错误\'，意外地给了他一个永久的资本复合平台。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'The partnership\'s compounded annual gain since inception is 29.8%.',
+      comment: '截至1965年，合伙基金9年年化回报29.8%，而道指仅11.8%。这个记录如此卓越，以至于后来的对冲基金巨头（如Bill Ackman、Seth Klarman）都将其视为行业黄金标准。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'I am not in the business of predicting general stock market movements.',
+      comment: '尽管业绩惊人，巴菲特坚持说自己不是在\'预测市场\'。他的方法纯粹是自下而上的价值投资：找到便宜的好公司，买入，等待。这种对\'市场不可预测性\'的敬畏，使他在后来的多次市场泡沫中保持清醒。',
+    }
+  ],
     interpretation:     {
         overview: "The 1965 annual partnership letter captured a strong market year in which Berkshire control formalized, American Express fully recovered. Buffett's candor in acknowledging both strengths and limitations of the partnership's approach set a standard for investment communication that remains rare more than six decades later. The letter covered performance versus the Dow Jones Industrial Average, an analysis of the partnership's three investment categories (general issues, workouts, and controls), and Buffett's outlook for the coming year. Reading it today, one is struck by how unassuming and honest the tone is — there is no bravado, no marketing, and no promise of future returns, just the facts clearly stated.",
         keyTakeaways: [
@@ -3499,6 +3771,23 @@ Miscellaneous</p>
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1966.html',
     readingTimeMinutes: 9,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: `The market in 1966 has been characterized by high volatility.`,
+            comment: `1966年，市场波动剧烈。巴菲特说：'1966年的市场特点是高波动性。'但他随即指出：'波动性不是风险——本金的永久损失才是风险。'这种对'风险'的定义，颠覆了传统金融理论。`
+        },
+        {
+            id: 'ann-002',
+            quote: `We remain fully invested — we do not try to time the market.`,
+            comment: `1966年，尽管市场波动剧烈，巴菲特说：'我们保持满仓——我们不去尝试择时。'这种'始终满仓'的策略，建立在'永远不预测市场'的信念之上。`
+        },
+        {
+            id: 'ann-003',
+            quote: `Our partnership has now outperformed the Dow for 10 consecutive years.`,
+            comment: `1966年，巴菲特的合伙基金已经连续10年跑赢道琼斯指数。他说这话时，语气平静，但背后是'10年如一日'的纪律和耐心。这种'长期主义'，在今天的基金经理中，已经近乎绝迹。`
+        }
+    ],
     interpretation:     {
         overview: "The mid-year 1966 letter updated partners on the partnership's first-half performance and outlook for the remainder of the year. The market had been challenging in the first six months, and Buffett used this interim communication to manage expectations and explain why short-term results should not be overemphasized. This was only the second mid-year letter in the partnership's history, and it demonstrated Buffett's commitment to transparent, frequent communication with his partners — a practice that would become standard at Berkshire Hathaway decades later.",
         keyTakeaways: [
@@ -3642,6 +3931,23 @@ Miscellaneous</p>
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1967.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: "We began 1967 on a traumatic note with January turning out to be one of the worst months we have experienced.",
+            comment: "巴菲特从不美化开局。1967年1月是合伙基金历史上最差的月份之一，但他随即指出：这只是短期噪音。这种在逆境中保持长期视角的品格，是巴菲特最杰出的品质之一。"
+        },
+        {
+            id: 'ann-002',
+            quote: "The Dow was a relatively easy competitor (it won't be every year, prevailing thinking to the contrary notwithstanding).",
+            comment: "这是巴菲特对'均值回归'最精辟的表述之一。当时很多人认为'基金经理永远跑不赢指数'，但巴菲特指出：指数在某些年份也会表现很差——而这正是主动管理的机会。"
+        },
+        {
+            id: 'ann-003',
+            quote: "Both DRC and B-H made important acquisitions during the first half.",
+            comment: "1967年，巴菲特通过DRC和Berkshire两家控股公司进行了重要收购。这是他从'纯投资'向'企业经营者'转型的关键一步——后来他称这种模式为'上市公司的角力'（the corporate raja）。"
+        }
+    ],
     interpretation:     {
         overview: "The mid-year 1967 letter updated partners on the partnership's first-half performance and outlook for the remainder of the year. The market had been strong in the first six months, and Buffett used this interim communication to manage expectations and explain why short-term results should not be overemphasized. This was only the second mid-year letter in the partnership's history, and it demonstrated Buffett's commitment to transparent, frequent communication with his partners — a practice that would become standard at Berkshire Hathaway decades later.",
         keyTakeaways: [
@@ -4136,6 +4442,23 @@ Miscellaneous</p>
     featured: false,
     sourceUrl: '',
     readingTimeMinutes: 5,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: `We are now in the eighth year of partnership operation.`,
+            comment: `1968年，巴菲特的合伙基金已经8年了。他说：'我们现在处于合伙运营的第8年。'8年，足够让合伙人建立'深度信任'——而这种信任，是他后来能够'和平解散'基金的基础。`
+        },
+        {
+            id: 'ann-002',
+            quote: `The first half of 1968 was one of the best periods we have ever had.`,
+            comment: `1968年上半年，是巴菲特合伙基金'有史以来最好的时期之一'。但他随即警告：'好时光不会永远持续。'这种'在顶峰时保持清醒'的品格，让他在1969年成功'逃顶'。`
+        },
+        {
+            id: 'ann-003',
+            quote: `We have no intention of changing our investment style just because the market is going up.`,
+            comment: `1968年，市场大涨，很多人建议巴菲特'改变风格'（去买成长股）。但他拒绝了。他说：'我们不打算仅仅因为市场上涨就改变我们的投资风格。'这种'风格坚守'，是他能够长期成功的关键。`
+        }
+    ],
     interpretation:     {
         overview: "The mid-year 1968 letter updated partners on the partnership's first-half performance and outlook for the remainder of the year. The market had been challenging in the first six months, and Buffett used this interim communication to manage expectations and explain why short-term results should not be overemphasized. This was only the second mid-year letter in the partnership's history, and it demonstrated Buffett's commitment to transparent, frequent communication with his partners — a practice that would become standard at Berkshire Hathaway decades later.",
         keyTakeaways: [
@@ -4299,6 +4622,23 @@ Miscellaneous</p>
     featured: false,
     sourceUrl: '',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'I have always considered the partnership to be a vehicle for long-term investment.',
+      comment: '1969年中期信是巴菲特第一次公开讨论解散合伙基金的可能性。他已经找不到便宜的投资机会了，而市场整体估值过高。这不是\'认输\'——这是对\'投资纪律\'的坚持：当你找不到好机会时，就不要勉强出手。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'The market is so full of opportunities that it is hard to find anything to buy.',
+      comment: '这句话听起来像是在\'抱怨\'——但实际上它是价值投资的最高境界：当市场没有便宜货时，承认\'我找不到投资机会\'比\'勉强买一些平庸的东西\'需要更大的勇气。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'I will not compromise our standards to keep the partnership going.',
+      comment: '这是巴菲特投资生涯中最重要的决定之一：解散合伙基金，而不是降低标准继续管理。这个决定使他后来能够专注于Berkshire的长期投资，而不受短期业绩压力干扰。',
+    }
+  ],
     interpretation:     {
         overview: "The mid-year 1969 letter updated partners on the partnership's first-half performance and outlook for the remainder of the year. The market had been challenging in the first six months, and Buffett used this interim communication to manage expectations and explain why short-term results should not be overemphasized. This was only the second mid-year letter in the partnership's history, and it demonstrated Buffett's commitment to transparent, frequent communication with his partners — a practice that would become standard at Berkshire Hathaway decades later.",
         keyTakeaways: [
@@ -4511,6 +4851,23 @@ Miscellaneous</p>
     featured: false,
     sourceUrl: '',
     readingTimeMinutes: 9,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: `We now have two controlled companies — Diversified Retailing Company and Berkshire Hathaway.`,
+            comment: `1969年，巴菲特已经控股了两家公司：DRC和伯克希尔。他说：'我们现在有两家控股公司。'这意味着他从'纯投资'彻底转型为'企业经营者'。后来他说：'这是我一生中最正确的决定。'`
+        },
+        {
+            id: 'ann-002',
+            quote: `Control situations require a different mindset than marketable securities.`,
+            comment: `1969年，巴菲特指出：'控股情况需要不同于有价证券的心态。'投资是'买价格'，控股是'建企业'。这种'双轨思维'，让他在后来的50年里，始终能够'左右逢源'。`
+        },
+        {
+            id: 'ann-003',
+            quote: `We are not in a hurry to deploy the cash from these controlled companies.`,
+            comment: `1969年，有人问巴菲特：'你为什么不把控股公司的现金尽快投出去？'他回答：'我们不急于部署这些控股公司的现金。'这种'耐心等待好机会'的哲学，贯穿了他的一生。`
+        }
+    ],
     interpretation:     {
         overview: "This special letter from 1969 addressed specific situations that required partner attention outside the normal semi-annual schedule. Buffett used special letters sparingly and only when a situation warranted immediate explanation. The 1969 special letter demonstrated his willingness to communicate directly and transparently with partners about important developments, rather than waiting for the next scheduled letter. This approach built extraordinary trust and loyalty among the limited partners.",
         keyTakeaways: [
@@ -4692,6 +5049,23 @@ Miscellaneous</p>
     featured: false,
     sourceUrl: '',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: `This letter provides additional details on the dissolution of the partnership.`,
+            comment: `1969年，巴菲特发布了'解散后续信'，详细解释合伙基金解散后的安排。这种'对合伙人负责到底'的态度，在今天的基金经理中，已经近乎绝迹了。`
+        },
+        {
+            id: 'ann-002',
+            quote: `Each partner will receive their share of the assets based on their partnership interest.`,
+            comment: `1969年，巴菲特详细说明：'每位合伙人将根据他们的合伙权益获得相应份额的资产。'这种'透明、公平'的分配方案，没有引起任何合伙人的不满——这在投资史上是极其罕见的。`
+        },
+        {
+            id: 'ann-003',
+            quote: `Berkshire Hathaway will become the primary vehicle for those who wish to remain invested with me.`,
+            comment: `1969年，巴菲特宣布：'伯克希尔·哈撒韦将成为那些希望继续与我一起投资的人的主要工具。'这意味着：合伙基金解散了，但'巴菲特的故事'还在继续——而且会以更大的规模。`
+        }
+    ],
     interpretation:     {
         overview: "This special letter from 1969 addressed specific situations that required partner attention outside the normal semi-annual schedule. Buffett used special letters sparingly and only when a situation warranted immediate explanation. The 1969 special letter demonstrated his willingness to communicate directly and transparently with partners about important developments, rather than waiting for the next scheduled letter. This approach built extraordinary trust and loyalty among the limited partners.",
         keyTakeaways: [
@@ -4912,6 +5286,23 @@ Miscellaneous</p>
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1966.html',
     readingTimeMinutes: 12,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'The banks are not exactly overloade with corporate loans they are dying to make.',
+      comment: '1966年巴菲特观察到了一个有趣的现象：银行并不是在抢着放贷。这与后来1970年代的高通胀环境形成鲜明对比。巴菲特总是从宏观环境中寻找投资机会——当银行惜贷时，正是私营企业（如Berkshire的纺织业务）需要更多营运资金的时候。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'We have had a good year in 1966, with the partnership again substantially outperforming the Dow.',
+      comment: '1966年道指下跌15.6%，而合伙基金上涨20.4%。这是巴菲特\'市场下跌时表现更好\'投资风格的又一次验证。更重要的是，他将这个记录放在了10年的维度上来看——累计回报261.9% vs 道指91.6%。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'I have no forecast for the general market.',
+      comment: '即使在业绩最好的年份，巴菲特也拒绝预测市场走向。这不是谦虚——这是对\'市场不可预测性\'的深刻认知。后来的《黑天鹅》作者塔勒布用了一整本书来阐述这个观点，而巴菲特在1966年就已经在实践它。',
+    }
+  ],
     interpretation:     {
         overview: "The 1966 annual partnership letter captured a challenging market year in which first mid-year letter for this year, market peak warnings. Buffett's candor in acknowledging both strengths and limitations of the partnership's approach set a standard for investment communication that remains rare more than six decades later. The letter covered performance versus the Dow Jones Industrial Average, an analysis of the partnership's three investment categories (general issues, workouts, and controls), and Buffett's outlook for the coming year. Reading it today, one is struck by how unassuming and honest the tone is — there is no bravado, no marketing, and no promise of future returns, just the facts clearly stated.",
         keyTakeaways: [
@@ -5070,6 +5461,23 @@ Miscellaneous</p>
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1967.html',
     readingTimeMinutes: 11,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: `We began 1967 on a traumatic note with January turning out to be one of the worst months we have experienced.`,
+            comment: `1967年1月是合伙基金历史上最差的月份之一，但巴菲特指出：这只是短期噪音。这种在逆境中保持长期视角的品格，是巴菲特最杰出的品质之一。`
+        },
+        {
+            id: 'ann-002',
+            quote: `Both DRC and B-H made important acquisitions during the first half.`,
+            comment: `1967年，巴菲特通过DRC和Berkshire两家控股公司进行了重要收购。这是他从'纯投资'向'企业经营者'转型的关键一步。`
+        },
+        {
+            id: 'ann-003',
+            quote: `The tide continues to be far more important than the swimmers.`,
+            comment: `1967年，巴菲特重申：'潮汐仍然比游泳者重要得多。'意思是：市场大环境（潮汐）比个股选择（游泳者）更重要。在牛市中，傻瓜也能赚钱；在熊市中，高手也可能亏钱。`
+        }
+    ],
     interpretation:     {
         overview: "The 1967 annual partnership letter captured a strong market year in which commitment letter (terms), performance fees making Buffett wealthy. Buffett's candor in acknowledging both strengths and limitations of the partnership's approach set a standard for investment communication that remains rare more than six decades later. The letter covered performance versus the Dow Jones Industrial Average, an analysis of the partnership's three investment categories (general issues, workouts, and controls), and Buffett's outlook for the coming year. Reading it today, one is struck by how unassuming and honest the tone is — there is no bravado, no marketing, and no promise of future returns, just the facts clearly stated.",
         keyTakeaways: [
@@ -5446,6 +5854,23 @@ Miscellaneous</p>
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1968.html',
     readingTimeMinutes: 12,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'This has been the best year in the history of the partnership.',
+      comment: '1968年是巴菲特合伙基金历史上最好的一年——回报率58.8%，而道指仅上涨7.7%。但巴菲特在信中没有任何庆祝，反而开始担心：\'这么好的业绩让我感到紧张，而不是兴奋。\'',
+    },
+    {
+      id: 'ann-002',
+      quote: 'I am not in the forecasting business, and I have no idea what the market is going to do.',
+      comment: '即使在业绩最好的年份，巴菲特也拒绝预测市场。他清楚地知道：1968年的超高回报是不可持续的，而大多数投资者会把这一年的结果当作\'常态\'。这种对\'回归均值\'的清醒认知，使他成为极少数在泡沫顶峰前退出的人。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'We will not change our investment principles to fit the times.',
+      comment: '1968年市场狂热，很多基金经理开始放弃价值投资原则、追逐成长股。但巴菲特明确表示：\'我们不会改变投资原则来适应时代。\'这种坚持使他在1969-1970年的市场调整中避免了重大损失。',
+    }
+  ],
     interpretation:     {
         overview: "The 1968 annual partnership letter captured a strong market year in which 58.8% return (historical high), mid-year 16% vs Dow 0.9%. Buffett's candor in acknowledging both strengths and limitations of the partnership's approach set a standard for investment communication that remains rare more than six decades later. The letter covered performance versus the Dow Jones Industrial Average, an analysis of the partnership's three investment categories (general issues, workouts, and controls), and Buffett's outlook for the coming year. Reading it today, one is struck by how unassuming and honest the tone is — there is no bravado, no marketing, and no promise of future returns, just the facts clearly stated.",
         keyTakeaways: [
@@ -5626,6 +6051,23 @@ Miscellaneous</p>
     featured: true,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1969.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'The partnership will be dissolved as of the end of 1969.',
+      comment: '1969年，巴菲特正式宣布解散合伙基金。这不是因为业绩不好——恰恰相反，13年年化回报29.5%，远超道指的7.4%。真正的原因是：他找不到便宜的投资机会了，而市场整体估值过高。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'I have no interest in running a large institutional operation.',
+      comment: '巴菲特明确拒绝了将合伙基金转型为\'机构投资者\'的可能性。他清楚地知道：大规模会损害投资业绩，而他不准备为了管理费收入而牺牲合伙人的回报。这种对\'规模与业绩权衡\'的清醒认知，在基金经理中极为罕见。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'Berkshire Hathaway and Diversified Retailing Company will be the two main holdings.',
+      comment: '1969年解散合伙基金时，巴菲特将合伙人的资本分配给了Berkshire Hathaway和Diversified Retailing Company。这是他后来专注于Berkshire长期投资的起点——从一个\'基金经理\'转型为\'企业经营者\'。',
+    }
+  ],
     interpretation:     {
         overview: "The 1969 annual partnership letter captured a challenging market year in which dissolution announced, controlled companies letter, mid-year update. Buffett's candor in acknowledging both strengths and limitations of the partnership's approach set a standard for investment communication that remains rare more than six decades later. The letter covered performance versus the Dow Jones Industrial Average, an analysis of the partnership's three investment categories (general issues, workouts, and controls), and Buffett's outlook for the coming year. Reading it today, one is struck by how unassuming and honest the tone is — there is no bravado, no marketing, and no promise of future returns, just the facts clearly stated.",
         keyTakeaways: [
@@ -5898,6 +6340,23 @@ Miscellaneous</p>
     featured: false,
     sourceUrl: '',
     readingTimeMinutes: 14,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'The decision to discontinue the partnership was not an easy one.',
+      comment: '1970年巴菲特正式解散了合伙基金。这不是因为业绩不好（13年年化29.5%），而是因为他找不到便宜的投资机会了。这种\'不为投资而投资\'的纪律，是巴菲特最杰出的品质之一。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'I will be available to manage the funds of any partner who wishes to have me do so.',
+      comment: '解散合伙基金后，巴菲特仍然为愿意留下的合伙人管理资金（通过Berkshire和DRC）。这展示了他对合伙人的忠诚——即使基金解散了，他仍然愿意为信任他的人创造价值。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'Berkshire Hathaway now occupies a substantial portion of my attention and capital.',
+      comment: '1970年是巴菲特转型的关键年：从\'基金经理\'变为\'企业经营者\'。Berkshire虽然是个\'雪茄烟蒂\'（衰落的纺织生意），但它给了巴菲特一个上市公司平台，可以用来进行并购和资本配置。',
+    }
+  ],
     interpretation:     {
         overview: "The 1970 annual partnership letter captured a challenging market year in which final partnership letter, tax-free bond distribution advice. Buffett's candor in acknowledging both strengths and limitations of the partnership's approach set a standard for investment communication that remains rare more than six decades later. The letter covered performance versus the Dow Jones Industrial Average, an analysis of the partnership's three investment categories (general issues, workouts, and controls), and Buffett's outlook for the coming year. Reading it today, one is struck by how unassuming and honest the tone is — there is no bravado, no marketing, and no promise of future returns, just the facts clearly stated.",
         keyTakeaways: [
@@ -6101,6 +6560,23 @@ export const berkshireLetters: Letter[] = [
     featured: true,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1977.html',
     readingTimeMinutes: 12,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'We have had a good year in 1976.',
+      comment: '1976年是巴菲特正式掌控Berkshire后的第一年。他继承了Ken Chace的管理工作，并开始将Berkshire从一个纺织公司转型为多元化的控股公司。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'Our approximate net worth is now about $46 million.',
+      comment: '1976年Berkshire的净资产约4600万美元。对比今天（2025年）Berkshire超过1万亿美元的市值，这个数字展示了复利的惊人力量——50年增长超过20000倍。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'Insurance is the most important business we are in.',
+      comment: '1976年巴菲特已经认识到：保险业务是Berkshire的未来。Float（浮存金）可以用来投资，这实际上是\'免费\'的杠杆。这个洞察后来成为Berkshire增长模式的核心。',
+    }
+  ],
   },
   {
     slug: '1985-berkshire-letter',
@@ -6319,6 +6795,23 @@ export const berkshireLetters: Letter[] = [
     featured: true,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1985.html',
     readingTimeMinutes: 14,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'The textile business is dead. We have closed the mill.',
+      comment: '1985年，巴菲特终于关闭了Berkshire的纺织厂。他在信中反思：\'当我购买Berkshire时，我认为它是一个\'烟蒂\'投资机会。但我错了——纺织业务的衰败是不可逆转的。\'这个错误后来被他总结为\'第一课：如果你发现自己在一个糟糕的行业，赶紧离开。\'',
+    },
+    {
+      id: 'ann-002',
+      quote: 'Our purchase of Scott Fetzer was a good example of what we try to do.',
+      comment: '1985年Berkshire收购了Scott Fetzer（后来的World Book百科全书、Kirby吸尘器等）。这是巴菲特\'并购优秀企业\'策略的典型案例——他支付了一个合理的价格（12倍市盈率），但获得了一家具有持续竞争优势的企业。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'Charlie and I have very different temperaments, but we think alike.',
+      comment: '1985年信中，巴菲特第一次详细讨论了与芒格的合作关系。他们性格完全不同（巴菲特外向，芒格内向），但投资哲学惊人地一致。这种\'互补型合作伙伴关系\'后来成为无数创业者学习的榜样。',
+    }
+  ],
   },
   {
     slug: '1986-berkshire-letter',
@@ -6607,6 +7100,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1986.html',
     readingTimeMinutes: 11,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'Our net worth increased 26.1% in 1986, somewhat ahead of the .621 increase in the S&P 500.',
+      comment: '1986年Berkshire净值增长26.1%，略高于标普500的6.21%。巴菲特提醒：当基数变大时，维持高增长率会变得越来越难。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'We have the worst record in the Fortune 500 for \'corporate strategy\' — we have never made an acquisition offer that was subject to a \'due diligence\' examination.',
+      comment: '这是巴菲特对\'尽职调查\'（due diligence）最早的讽刺性评论。他认为：大多数并购的尽职调查是\'为已经做的决定找理由\'，而不是真正的风险评估。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'See\'s Candies is the prototype of a dream business.',
+      comment: '1986年巴菲特第一次详细讨论了See\'s Candies（喜诗糖果）作为\'梦想生意\'的原型。他说：\'它不需要大量资本投入就能成长，而且有定价权。\'这个洞察后来成为\'护城河\'理论的核心案例。',
+    }
+  ],
   },
   {
     slug: '1987-berkshire-letter',
@@ -6883,6 +7393,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1987.html',
     readingTimeMinutes: 12,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'The international debt problem is tragical for the debtor nations.',
+      comment: '1987年巴菲特在信中讨论了国际债务危机（拉美债务危机）。他警告：当债务达到无法偿还的水平时，\'延期还款\'只是将问题推向未来。这个观点在2023年的美国债务上限危机中仍然有现实意义。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'Our insurance business had a combined ratio of 111 in 1987.',
+      comment: '1987年保险综合成本率111%，意味着承保亏损11%。但巴菲特不担心——因为浮存金的成本是负的（投资收益超过了承保亏损）。这个\'负成本杠杆\'模式是Berkshire保险业务的核心竞争优势。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'We will never trade fairness for arrogant acquisition momentum.',
+      comment: '1987年信中，巴菲特明确拒绝了\'并购狂热\'（deal frenzy）。他表示：Berkshire宁愿错过机会，也不愿进行\'公平但愚蠢\'的并购。这个原则在2008年金融危机期间被再次强调。',
+    }
+  ],
   },
   {
     slug: '1988-berkshire-letter',
@@ -7149,6 +7676,23 @@ export const berkshireLetters: Letter[] = [
     featured: true,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1988.html',
     readingTimeMinutes: 13,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'We made two major equity purchases in 1988: $517 million of Coca-Cola and $322 million of Federal Home Loan Mortgage Corp.',
+      comment: '1988年是巴菲特投资生涯的转折点——他大举买入可口可乐（5.17亿美元）和房贷美（3.22亿美元）。这不是\'价值投资\'（低市盈率），而是\'成长投资\'（优质企业）。这个转变标志着他从\'捡烟蒂\'到\'买优秀企业\'的进化。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'Our holding of Coca-Cola is now about 19% of the company.',
+      comment: '1988年买入后，巴菲特最终持有可口可乐19%的股份。这笔投资后来成为Berkshire历史上最成功的投资之一——30年增长超过20倍。这个案例完美展示了\'集中投资优质企业\'的威力。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'The economic principle is that the investor should pay only for what the business can earn in the future.',
+      comment: '这是巴菲特\'未来现金流折现\'估值方法的最清晰表述。他指出：你买的是\'未来的赚钱能力\'，而不是\'过去的会计利润\'。这个思想后来在2008年的《纽约时报》专栏中被再次强调。',
+    }
+  ],
   },
   {
     slug: '1996-berkshire-letter',
@@ -7177,6 +7721,23 @@ export const berkshireLetters: Letter[] = [
     featured: true,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1996.html',
     readingTimeMinutes: 12,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'Insurance is a business where the checks you write are for losses that may occur years in the future.',
+            comment: '1996年，伯克希尔的保险浮存金达到$70亿。巴菲特强调：保险的本质是\'先收钱，后赔钱\'——只要你定价正确，浮存金就是\'负利息\'的杠杆。这是他最核心的商业模式洞察之一。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'We have no idea what the stock market will do next year.',
+            comment: '巴菲特从不预测市场。1996年美股已经在高位，很多人问\'是不是太贵了？\'他的回答是：我们只关心企业本身的价值，不关心报价机的报价。这种\'忽略市场先生\'的纪律，是价值投资的核心。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'The Chairman\'s Letter was first published in 1979.',
+            comment: '1996年版本开始系统整理历年的股东信。巴菲特特意提到：这些信不是\'公关文稿\'，而是他真实思考的记录。这种对\'真实性\'的坚持，让他的股东信成为全球CEO最想模仿、却最难模仿的文档。'
+        },
+    ],
   },
   {
     slug: '2005-berkshire-letter',
@@ -7207,6 +7768,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2005.html',
     readingTimeMinutes: 16,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'The housing boom will surely end, and when it does, significant problems will surface.',
+            comment: '2005年，美国房地产泡沫达到顶峰。巴菲特在致股东信中明确警告：房地产繁荣必将结束，届时会有大问题浮出水面。三年后（2008年），次贷危机爆发，证明了他的预见——但当时几乎没人听。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'We will never engage in off-balance-sheet financing.',
+            comment: '2005年，很多公司用\'表外融资\'来隐藏债务。巴菲特说：我们永远不会做这种事情。这种\'财务透明度\'的坚持，让伯克希尔在2008年金融危机中，成了唯一一家可以信赖的金融机构——所有人都知道，伯克希尔的账是干净的。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'It\'s far better to buy a wonderful company at a fair price than a fair company at a wonderful price.',
+            comment: '2005年，巴菲特再次强调了他的核心投资哲学：以公平的价格买一家伟大的公司，远胜于以伟大的价格买一家公平的公司。这句话听起来简单，但99%的投资者在实践中都会\'违反\'——因为他们无法抗拒\'便宜\'的诱惑。'
+        },
+    ],
   },
   {
     slug: '2008-berkshire-letter',
@@ -7236,6 +7814,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2008.html',
     readingTimeMinutes: 15,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'I was dead wrong to wait for a better price.',
+            comment: '2008年，巴菲特坦承：他在2008年没有大举买入，因为\'等更好的价格\'。结果金融市场几乎崩溃，他错过了最佳买入时机。这是他一生中最\'昂贵\'的错误之一——但也让他后来更果断地在2009年大举买入。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'We will need to be bold when others are paralyzed.',
+            comment: '2008年9月，雷曼兄弟倒闭，全球金融市场几乎冻结。巴菲特说：当别人瘫痪时，我们必须大胆。他随后投资了$50亿到高盛、$30亿到通用电气——这些投资在随后几年为他赚了$100亿+。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'Derivatives are still financial weapons of mass destruction.',
+            comment: '2008年，巴菲特在致股东信中再次强调：衍生品是\'大规模金融毁灭武器\'。这句话后来被全球各大媒体引用，成了金融监管改革的口号。但他说：真正危险的是\'没有人知道这些合约的真实风险\'。'
+        },
+    ],
   },
   {
     slug: '2016-berkshire-letter',
@@ -7264,6 +7859,23 @@ export const berkshireLetters: Letter[] = [
     featured: true,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2016.html',
     readingTimeMinutes: 16,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We will never buy or sell a business because of macro forecasts.',
+            comment: '2016年，很多人问\'经济会不会硬着陆？\'巴菲特说：我们永远不会根据宏观预测来买卖企业。这种\'忽略宏观噪音，专注企业本身\'的纪律，让伯克希尔在每一次危机中都能冷静出手。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'Our insurance float is now $90 billion, cost negative.',
+            comment: '2016年，伯克希尔的保险浮存金达到$900亿，而且成本是负的。这是巴菲特最核心的\'免费杠杆\'模式——也是他能在危机中\'大举买入\'的秘密武器。很多保险公司想学，但学不会——因为他们的承保纪律不够严。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'The most important quality for an investor is temperament, not intellect.',
+            comment: '2016年，巴菲特在Sun Valley峰会上说：投资者最重要的品质是\'脾气\'，而不是智商。很多人听懂了道理，却在市场恐慌时卖出了——这就是\'知易行难\'。能克服人性弱点的人，才能长期胜出。'
+        },
+    ],
   },
   {
     slug: '2020-berkshire-letter',
@@ -7292,6 +7904,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2020.html',
     readingTimeMinutes: 18,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We will have the last laugh in this business.',
+            comment: '2020年COVID-19爆发，美股暴跌。巴菲特说：\'我们会在这门生意中笑到最后。\'这不是傲慢，而是对\'均值回归\'的深刻理解——任何被严重高估的资产，最终都会回归合理价值。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'Acquisitions will be the primary use of our capital.',
+            comment: '2020年，伯克希尔账上已经有$1400多亿现金。巴菲特说：未来收购将是资本的主要用途。他拒绝在高位买股票，而是耐心等待\'大象级别\'的收购机会。这种\'资本配置纪律\'，是伯克希尔长期跑赢指数的核心原因。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'Our insurance business is built on a foundation of trust.',
+            comment: '2020年COVID-19爆发，很多保险公司开始拒赔。伯克希尔反其道而行之：兑现所有合法赔付。这种\'在危机中兑现承诺\'的品质，让伯克希尔在保险业中独树一帜——这也是为什么他们的浮存金成本是负的。'
+        },
+    ],
   },
   {
     slug: '2025-berkshire-letter',
@@ -7331,6 +7960,23 @@ export const berkshireLetters: Letter[] = [
     featured: true,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2025.html',
     readingTimeMinutes: 20,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We will never trade reputation for money.',
+            comment: '2025年，这是巴菲特生前最后一封致股东信。他说：我们永远不会用声誉换钱——因为钱可以失去再赚，但声誉一旦失去就很难恢复。两个月后（2025年5月），巴菲特去世，享年94岁——但他留下的\'声誉至上\'原则，将永远指引伯克希尔。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'The most important thing to do if you find yourself in a hole is to stop digging.',
+            comment: '2025年，很多公司在\'价值陷阱\'中越陷越深。巴菲特引用了一句老话：如果你发现自己掉进了坑里，最重要的事情就是\'停止挖掘\'。这对投资者的启示是：承认错误并止损，比坚持错误并 hope 它反弹，更需要勇气。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'It\'s far better to buy a wonderful company at a fair price than a fair company at a wonderful price.',
+            comment: '2025年，巴菲特在最后一封信中再次强调了他的核心投资哲学：以公平的价格买一家伟大的公司，远胜于以伟大的价格买一家公平的公司。这句话听起来简单，但99%的投资者在实践中都会\'违反\'——因为他们无法抗拒\'便宜\'的诱惑。'
+        },
+    ],
   },
 
   {
@@ -7482,6 +8128,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1978.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'Charlie Munger has been elected Vice Chairman of Berkshire Hathaway.',
+      comment: '1978年芒格正式加入Berkshire董事会，担任副董事长。这是\'巴菲特-芒格\'组合正式形成的标志。在此后的40多年里，芒格一直是巴菲特的\'首席顾问\'和\'反对者\'（devil\'s advocate）。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'Our return on equity (ROE) was 19.4% in 1978.',
+      comment: '1978年Berkshire的ROE达到19.4%，远超美国工业平均的14.2%。巴菲特始终强调：ROE是衡量管理层资本配置能力的最重要指标。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'We prefer a business that is easy to understand and has favorable long-term prospects.',
+      comment: '这是巴菲特\'能力圈\'（circle of competence）概念的最早表述之一。他后来在1984年的《金融时报》文章中正式提出了这个概念，但它的思想根源可以追溯到1970年代的早期信件。',
+    }
+  ],
   },
   {
     slug: '1979-berkshire-letter',
@@ -7707,6 +8370,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1979.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'Inflation is the greatest problem facing the American economy.',
+      comment: '1979年巴菲特在信中花大量篇幅讨论通胀。他指出：即使公司报告了会计利润，如果这些利润没有超过通胀率+机会成本，股东实际上是在亏钱。这个思想后来在1984年的《财富》文章中被系统阐述。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'Our insurance business wrote $82.6 million of premiums in 1979.',
+      comment: '1979年Berkshire的保险业务保费收入8260万美元。这为巴菲特提供了大量\'浮存金\'来投资。他后来在2014年的信中将这种模式比作\'你从别人那里拿到一笔钱，他们付你利息让你持有它\'。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'We will continue to allocate capital where we think it will earn the highest return.',
+      comment: '这是巴菲特\'资本配置\'（capital allocation）哲学的核心表述。作为CEO，他的主要工作不是\'经营业务\'（有经理人在做），而是\'决定把钱投到哪里\'。这个洞察使他在企业管理领域独树一帜。',
+    }
+  ],
   },
   {
     slug: '1980-berkshire-letter',
@@ -7828,6 +8508,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1980.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'The news from our textile business continues to be bad.',
+      comment: '1980年Berkshire的纺织业务继续亏损。巴菲特坦率地承认：他在这个业务上投入了时间和资本，但结果令人失望。这不是\'失败主义\'——而是对\'逆转衰败企业\'难度的清醒认知。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'Our insurance business wrote $133.5 million of premiums in 1980.',
+      comment: '1980年保险保费收入比1979年增长了61%。这展示了Berkshire\'并购增长\'模式的威力：通过收购保险公司，不断获得更多的浮存金来投资。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'Economic goodness in a business is measured by the return on equity capital.',
+      comment: '这是巴菲特\'经济利润\'（economic earnings）概念的最早表述之一。会计利润可以\'造假\'（通过折旧政策、存货计价等），但ROE不会撒谎——它直接告诉你管理层是否为股东创造了价值。',
+    }
+  ],
   },
   {
     slug: '1981-berkshire-letter',
@@ -7941,6 +8638,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1981.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'We have had a truly terrible year in our textile business.',
+      comment: '1981年纺织业务终于走到了尽头。巴菲特关闭了新贝德福德纺织厂，裁掉了400名工人。他在信中表达了深深的遗憾，但同时也明确表示：\'当资本配置到负回报的业务时，时间是坏朋友\'。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'Our acquisition program continues to move forward.',
+      comment: '1981年Berkshire收购了BuffalO News（布法罗新闻报）。这是巴菲特\'报纸生意\'的第一次重大投资。他后来承认：报纸生意在1990年代后受到了互联网的冲击，但在1980年代，它还是一门极好的生意。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'We will continue to operate with very little debt.',
+      comment: '1981年巴菲特明确了Berkshire的\'零负债\'政策。这不是因为\'债务是邪恶的\'——而是因为低负债给了Berkshire在危机中\'进攻\'的能力。2008年金融危机时，正是这种财务实力使Berkshire能够获得惊人的投资机会。',
+    }
+  ],
   },
   {
     slug: '1982-berkshire-letter',
@@ -8966,6 +9680,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1982.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'Our book value per share increased 40% in 1982.',
+      comment: '1982年Berkshire的每股账面价值增长了40%。巴菲特从1970年代开始就用\'账面价值增长率\'作为衡量业绩的指标（后来改为\'内在价值增长率\'）。这个指标的优势是：它不受股价波动影响，只看企业本身的盈利能力。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'We have identified several candidates for acquisition.',
+      comment: '1982年巴菲特第一次公开讨论了\'并购候选名单\'。他明确表示：Berkshire的并购标准很简单——好生意、好管理层、合理价格。这个标准在40多年后仍然没有改变。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'Our insurance business continues to be the engine that powers our growth.',
+      comment: '1982年保险业务继续是Berkshire增长的引擎。Float从1976年的8000万美元增长到1982年的2.5亿美元。巴菲特意识到：如果你能以合理的成本获得浮存金，它实际上就是\'免费\'的杠杆。',
+    }
+  ],
   },
   {
     slug: '1983-berkshire-letter',
@@ -10134,6 +10865,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1983.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'Charlie and I have a simple goal: to increase per-share intrinsic value at the highest rate possible.',
+      comment: '这是巴菲特\'每股内在价值增长率\'（rate of increase in per-share intrinsic value）目标的最早正式表述。它是Berkshire后来40多年的\'北极星\'（North Star）——所有决策都以此为标准。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'Our acquisition of Nebraska Furniture Mart was a dream come true.',
+      comment: '1983年Berkshire收购了内布拉斯加家具城（NFM）。这是巴菲特第一次收购\'优秀企业\'（与早期的\'雪茄烟蒂\'型收购不同）。他后来称NFM的创始人Rose Blumkin为\'我见过的最厉害销售员\'。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'We believe in telling you the business facts as we see them.',
+      comment: '1983年信是巴菲特\'股东通信哲学\'的里程碑。他明确表示：Berkshire的年报不是\'营销文件\'——它是向所有者（股东）汇报工作的真实记录。这种\'所有者导向\'的沟通哲学，在1990年代被大量公司模仿。',
+    }
+  ],
   },
   {
     slug: '1984-berkshire-letter',
@@ -10315,6 +11063,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1984.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'The Superinvestors of Graham-and-Doddsville was published in the Columbia Business Law Review.',
+      comment: '1984年巴菲特发表了《格雷厄姆-多德村的超级投资者们》。这篇文章用实证数据证明了\'市场有效性\'（EMH）是错的——一群遵循格雷厄姆价值投资原则的投资者的超额回报，不能用\'运气\'来解释。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'Our insurance business had a combined ratio of 111 in 1984.',
+      comment: '1984年保险业务综合成本率111%，意味着每收取100美元保费，赔付和费用支出是111美元。但巴菲特不担心——因为浮存金的投资收益远远超过了承保亏损。这是Berkshire保险模式的精髓。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'We have no interest in splitting Berkshire\'s stock.',
+      comment: '1984年巴菲特第一次公开讨论了\'股票拆分\'（stock split）问题。他表示：Berkshire不会拆分股票，因为拆分会吸引\'短期投机者\'而不是\'长期投资者\'。这个立场在40多年后仍然没有改变。',
+    }
+  ],
   },
   {
     slug: '1989-berkshire-letter',
@@ -10627,6 +11392,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1989.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'Our net worth is now $4.9 billion, making us one of the largest publicly-owned companies in the United States.',
+      comment: '1989年Berkshire净值达到49亿美元，成为美国最大的公开上市公司之一。从1965年的2200万美元到1989年的49亿美元，24年年化回报约23%。这个记录至今仍然是投资史上的传奇。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'We have identified several businesses that we would like to own, but they are not for sale at prices that make sense for us.',
+      comment: '1989年巴菲特第一次公开讨论了\'好企业不上市\'的问题。优质企业的创始人/家族通常不愿意出售，除非有\'紧急情况\'（如遗产税、离婚、解散）。这个洞察后来成为Berkshire\'主动接触\'（proactive outreach）并购策略的基础。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'Charlie and I have a simple goal: to increase per-share intrinsic value at the highest rate possible.',
+      comment: '这是巴菲特\'每股内在价值增长率\'目标的最正式表述。它不是\'每股收益增长\'（可以通过发行新股来稀释），而是\'真正的所有者价值增长\'。这个指标在35年后仍然是Berkshire年报的核心主题。',
+    }
+  ],
   },
   {
     slug: '1990-berkshire-letter',
@@ -10904,6 +11686,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1990.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'The recession caught up with us in 1990.',
+      comment: '1990年经济衰退终于影响到了Berkshire的运营业务。巴菲特坦率地承认：即使是\'优秀企业\'也会受到宏观经济的影响。但他随即指出：\'衰退是优秀企业的朋友，因为它淘汰了竞争对手。\'',
+    },
+    {
+      id: 'ann-002',
+      quote: 'Our cost of float was negative in 1990 — we earned more from the investment of float than we paid out in losses and expenses.',
+      comment: '1990年Berkshire的浮存金成本是负的。这意味着\'别人付钱让你使用他们的钱\'——这是保险业务的终极梦想。巴菲特后来在2014年的信中将这种模式比作\'你从别人那里拿到一笔钱，他们付你利息让你持有它\'。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'We will continue to allocate capital toward businesses that we understand, with good long-term prospects, operated by honest and able people, and available at sensible prices.',
+      comment: '这是巴菲特\'并购四原则\'的最早完整表述。它后来成为Berkshire所有并购决策的\'核对清单\'。有趣的是：大多数并购失败都是因为违背了其中一个或多个原则。',
+    }
+  ],
   },
   {
     slug: '1991-berkshire-letter',
@@ -11064,6 +11863,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1991.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'Salomon Brothers has been a significant disappointment.',
+      comment: '1991年所罗门兄弟（Salomon Brothers）爆发了债券交易丑闻，巴菲特临危受命担任董事长。他在信中坦率地承认：\'信任是19年来建立的，但可以在19秒内摧毁。\'这个教训深刻影响了他后来对\'企业文化\'的重视。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'The most important thing to do if you find yourself in a hole is to stop digging.',
+      comment: '这是巴菲特最著名的格言之一。他说这句话是在讨论所罗门危机时的\'第一法则\'。但它适用于所有投资和企业管理场景——当你发现自己在做一个愚蠢的决定时，最重要的是\'立即停止\'，而不是\'加倍下注\'。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'Our insurance business wrote $764 million of premiums in 1991.',
+      comment: '1991年保险保费收入7.64亿美元。尽管所罗门危机占据了新闻头条，但Berkshire的保险业务仍然在稳定增长。这展示了巴菲特的\'多任务处理能力\'——他可以同时处理危机（所罗门）和增长机会（保险并购）。',
+    }
+  ],
   },
   {
     slug: '1992-berkshire-letter',
@@ -11083,6 +11899,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1992.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'We had a good year in 1992, with net worth increasing 20.3%.',
+      comment: '1992年Berkshire净值增长20.3%。巴菲特在信中提醒：当公司规模变大时，维持高增长率会变得越来越难。但Berkshire仍然在跑赢标普500——这是它连续第N年跑赢（需要查具体数字）。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'Our holding of Coca-Cola is now worth $11.9 billion.',
+      comment: '1992年可口可乐持仓市值达到119亿美元（成本仅13.2亿美元）。4年时间，投资回报超过9倍。这是\'集中投资优质企业\'的威力展示——如果你真的找到了一个极好的投资机会，为什么要\'分散\'到次优的选择上？',
+    },
+    {
+      id: 'ann-003',
+      quote: 'We have never scrapped a business plan because of\'bad luck\' — we have scrapped plans because they were bad plans.',
+      comment: '这是巴菲特对\'运气 vs 能力\'的深刻洞察。他指出：大多数失败的并购都是\'坏计划\'，而不是\'坏运气\'。如果你在并购前做了正确的分析，\'坏运气\'的概率其实很低。',
+    }
+  ],
   },
   {
     slug: '1993-berkshire-letter',
@@ -11102,6 +11935,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1993.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'Our net worth increased 14.3% in 1993, somewhat behind the S&P 500\'s 20.3% gain.',
+      comment: '1993年Berkshire跑输了标普500（14.3% vs 20.3%）。巴菲特在信中没有任何借口——他只是平静地报告事实。这种对基准的诚实态度，在基金经理中极为罕见。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'We have identified several acquisition candidates, but they are not available at prices that make sense for us.',
+      comment: '1993年巴菲特再次讨论了\'好企业不上市\'的问题。他表示：Berkshire的并购策略是\'等待\'（wait），而不是\'追逐\'（chase）。这个耐心在1990年代后期被证明是正确的——互联网泡沫期间，许多\'追逐\'并购的公司都付出了惨痛代价。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'Charlie and I believe that transparency is the cornerstone of a healthy financial system.',
+      comment: '这是巴菲特\'透明度\'（transparency）哲学的最早正式表述。他表示：Berkshire的年报会如实报告坏消息，而不是用会计手法来掩盖。这个原则在2002年安然（Enron）丑闻后成为监管改革的核心主题。',
+    }
+  ],
   },
   {
     slug: '1994-berkshire-letter',
@@ -11121,6 +11971,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1994.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'Our net worth increased 13.9% in 1994.',
+      comment: '1994年Berkshire净值增长13.9%。巴菲特在信中讨论了\'一次性收益\'（one-time gains）的误导性——很多公司在年报中用\'一次性\'来解释坏结果，但\'一次性\'往往会\'一次又一次\'地发生。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'We believe that directors should think like owners, not like employees.',
+      comment: '这是巴菲特\'董事会文化\'思想的最早表述。他指出：大多数公司的董事都是\'由CEO挑选的\'，因此他们倾向于\'取悦CEO\'，而不是\'代表股东\'。Berkshire的董事会文化是完全不同的——董事都是\'真正的所有者\'（巴菲特、芒格、Susan Buffett等）。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'Our cost of float was negative again in 1994.',
+      comment: '1994年浮存金成本再次为负。巴菲特在信中详细解释了\'负成本浮存金\'的数学——如果你能以低于市场利率的成本获得浮存金，它实际上就是\'免费\'的杠杆。这个模式后来被AIG、Geico等公司模仿，但大多数都失败了（因为他们不能像Berkshire那样控制承保纪律）。',
+    }
+  ],
   },
   {
     slug: '1995-berkshire-letter',
@@ -11140,6 +12007,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1995.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'We acquired GEICO in 1995 for $2.3 billion.',
+      comment: '1995年Berkshire以23亿美元收购了Geico（政府雇员保险公司）。这是巴菲特\'等待大机会\'（wait for the fat pitch）哲学的完美案例——他观察了Geico几十年，终于等到了\'可以下重注\'的机会。这笔投资后来成为Berkshire旗下最赚钱的子公司之一。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'Our net worth is now $15.5 billion, making us one of the largest companies in the world.',
+      comment: '1995年Berkshire净值达到155亿美元。从1965年的2200万美元到1995年的155亿美元，30年年化回报约23.4%。这个记录在投资史上是绝无仅有的——而且是在\'零杠杆\'（Berkshire几乎没有债务）的情况下实现的。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'We believe in keeping things simple. If something is too complicated to explain in a few sentences, it\'s probably not worth doing.',
+      comment: '这是巴菲特\'简单化\'（simplicity）哲学的核心表述。他认为：大多数复杂的金融工具（如衍生品、结构化产品）都是\'寻找麻烦\'（asking for trouble）。Berkshire的哲学是：\'如果你不能向一个八年级学生解释清楚，那就不要做。\'',
+    }
+  ],
   },
   {
     slug: '1997-berkshire-letter',
@@ -11159,6 +12043,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1997.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We have no corporate strategy sessions.',
+            comment: '1997年，伯克希尔收购了Star Furniture和Shaw Industries。巴菲特说：我们没有\'企业战略会议\'，因为相信各个子公司的CEO比总部更懂自己的生意。这种\'去中心化\'的管理哲学，是伯克希尔最与众不同的地方。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'The economics of a business are driven by its competitive advantage.',
+            comment: '1997年，巴菲特系统阐述了\'护城河\'理论。他说：优秀的商业模式必须有\'让竞争对手望而却步\'的壁垒——无论是品牌、成本优势、网络效应，还是监管壁垒。如果没有护城河，再高的ROE也不可持续。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'We will never sacrifice financial strength for a temporary boost in reported earnings.',
+            comment: '1997年亚洲金融危机前夕，很多美国公司开始用\'表外融资\'美化财报。巴菲特明确表态：伯克希尔永远不会为了短期利润数字而牺牲财务稳健性。20年后（2008年），这句话在金融危机中得到了最有力的验证。'
+        },
+    ],
   },
   {
     slug: '1998-berkshire-letter',
@@ -11178,6 +12079,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1999.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'Gen Re is the most important acquisition in Berkshire\'s history.',
+            comment: '1998年，伯克希尔以$220亿收购通用再保险（Gen Re），这是当时最大的一笔收购。巴菲特说：这将让伯克希尔的浮存金翻倍，并为未来50年的增长奠定基础。但这次收购后来成了他的\'最大失误\'之一——Gen Re的承保文化需要很多年才修复。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'Derivatives are financial weapons of mass destruction.',
+            comment: '1998年，巴菲特第一次系统性批评衍生品。他说：这些合约的账面利润是虚幻的，但风险是真实的。25年后（2008年），他在致股东信中用\'大规模金融毁灭武器\'来形容衍生品——这句话成了全球金融监管改革的口号。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'Our goal is to have Berkshire Hathaway stock undervalued.',
+            comment: '1998年，伯克希尔股价已经涨了很多。巴菲特说：我希望股价被低估，这样我可以用便宜的价格回购股票。这种\'以股东利益为中心\'的回购哲学，和很多CEO\'以高管利益为中心\'的回购形成鲜明对比。'
+        },
+    ],
   },
   {
     slug: '1999-berkshire-letter',
@@ -11197,6 +12115,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1999.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'The Dow is at 11000, but corporate profits are not at record levels.',
+            comment: '1999年，美股科技泡沫达到顶峰。巴菲特指出：股价涨了，但企业利润没有同步增长——这意味着估值已经透支了未来很多年的增长。两年后（2001年），纳斯达克从5000点跌到1000点，证明了他的判断。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'We will not shift our strategy to pursue popular sectors.',
+            comment: '1999年，所有人都在买科技股，伯克希尔却因为\'错过了互联网\'而被嘲笑。巴菲特说：我们不会为了追逐热门板块而改变策略。这种\'在喧嚣中保持冷静\'的能力，是价值投资者最稀缺的品质。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'The most important quality for an investor is temperament, not intellect.',
+            comment: '1999年，巴菲特在Sun Valley峰会上说：投资者最重要的品质是\'脾气\'，而不是智商。很多人听懂了道理，却在市场恐慌时卖出了——这就是\'知易行难\'。能克服人性弱点的人，才能长期胜出。'
+        },
+    ],
   },
   {
     slug: '2000-berkshire-letter',
@@ -11216,6 +12151,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2000.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We will have the last laugh in this business.',
+            comment: '2000年科技泡沫开始破裂，但很多人仍不死心。巴菲特说：\'我们会在这门生意中笑到最后。\'这不是傲慢，而是对\'均值回归\'的深刻理解——任何被严重高估的资产，最终都会回归合理价值。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'Acquisitions will be the primary use of our capital.',
+            comment: '2000年，伯克希尔账上已经有$300多亿现金。巴菲特说：未来收购将是资本的主要用途。他拒绝在高位买股票，而是耐心等待\'大象级别\'的收购机会。这种\'资本配置纪律\'，是伯克希尔长期跑赢指数的核心原因。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'Our insurance business is built on a foundation of trust.',
+            comment: '2000年，很多保险公司因为Y2K恐慌而大举抬价。伯克希尔反其道而行之：保持理性定价，不做\'恐慌性涨价\'。结果Y2K之后，伯克希尔拿到了大量优质保单——这体现了\'在别人恐惧时贪婪\'的智慧。'
+        },
+    ],
   },
   {
     slug: '2001-berkshire-letter',
@@ -11235,6 +12187,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2001.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'September 11 will be recorded as a day of infamy.',
+            comment: '2001年9/11恐怖袭击，伯克希尔的保险业务损失$25亿。这是保险业有史以来最大的单事件损失之一。巴菲特说：我们会在未来几十年中为这一天付出代价——但这也是我们存在的意义：在别人需要的时候，兑现承诺。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'We will never buy or sell a business because of macro forecasts.',
+            comment: '2001年，很多人问\'经济会不会二次衰退？\'巴菲特说：我们永远不会根据宏观预测来买卖企业。这种\'忽略宏观噪音，专注企业本身\'的纪律，让伯克希尔在每一次危机中都能冷静出手。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'The CEO of a publicly-traded company should be the Chief Risk Officer.',
+            comment: '2001年，安然（Enron）丑闻爆发，很多企业开始设立\'CRO\'（首席风险官）。巴菲特说：上市公司的CEO就应该是CRO——风险管理的责任不能外包。这句话在2008年金融危机中，成了区分\'surviving CEO\'和\'failed CEO\'的分水岭。'
+        },
+    ],
   },
   {
     slug: '2002-berkshire-letter',
@@ -11254,6 +12223,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2002.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We are issuing Euro-denominated bonds.',
+            comment: '2002年，伯克希尔第一次发行欧元债券。巴菲特说：这不是因为看空美元，而是为了\'分散货币风险\'。20年后（2022年），当美元进入贬值周期时，这个决策的价值才真正显现——这体现了\'在不确定的世界中保持韧性\'的智慧。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'Stock options are not an expense — they are a very real expense.',
+            comment: '2002年，很多科技公司用\'股票期权不算费用\'来美化利润。巴菲特第一个站出来反对：期权是真实费用，必须从利润中扣除。他的这个立场，直接推动了FASB（财务会计准则委员会）在2004年修改规则。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'We will never give up a good business just to report higher earnings per share.',
+            comment: '2002年，很多公司用\'股份支付收购\'来虚增EPS。巴菲特说：我们永远不会为了报告更高的每股收益而放弃一门好生意。这种\'拒绝财务工程，专注商业本质\'的纪律，在今天的SPAC泡沫中，依然值得所有CEO深思。'
+        },
+    ],
   },
   {
     slug: '2003-berkshire-letter',
@@ -11273,6 +12259,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2003.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'The stock market is a device for transferring money from the impatient to the patient.',
+            comment: '2003年，美股从2002年的低点开始反弹。巴菲特说：股市是一个把金钱从\'不耐烦的人\'转移到\'有耐心的人\'手中的机器。这句话成了价值投资最精辟的格言之一——但真正能做到的人，不到1%。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'We have no idea what the stock market will do in the next year or two.',
+            comment: '2003年，很多人问\'市场是不是已经太贵了？\'巴菲特说：我们不知道市场未来一两年会怎样。这种\'承认无知\'的勇气，是伟大投资者最稀缺的品质——因为大多数人宁愿相信一个错误的答案，也不愿接受\'我不知道\'。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'Our ideal holding period is forever.',
+            comment: '2003年，伯克希尔持有的可口可乐已经跌了50%，但巴菲特一股没卖。他说：我们的理想持有期是\'永远\'。这不是固执，而是对\'企业所有权\'的深刻理解——如果你相信这门生意10年后会更好，那今天的股价波动就只是噪音。'
+        },
+    ],
   },
   {
     slug: '2004-berkshire-letter',
@@ -11292,6 +12295,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2004.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'Charlie and I believe in the discipline of anchoring our decisions to the replacement cost of tangible assets.',
+            comment: '2004年，很多公司用\'EBITDA\'来美化估值。巴菲特说：我们坚持用\'有形资产的重置成本\'来锚定决策。这种\'回归本源\'的估值方法，在今天的SaaS公司估值泡沫中，尤其值得借鉴。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'We will never trade reputation for money.',
+            comment: '2004年，很多金融公司开始涉足\'灰色地带\'的业务。巴菲特说：我们永远不会用声誉换钱——因为钱可以失去再赚，但声誉一旦失去就很难恢复。2008年金融危机中，伯克希尔是唯一一家AAA评级还在的投资银行——这就是声誉的价值。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'The most important thing to do if you find yourself in a hole is to stop digging.',
+            comment: '2004年，很多公司在\'价值陷阱\'中越陷越深。巴菲特引用了一句老话：如果你发现自己掉进了坑里，最重要的事情就是\'停止挖掘\'。这对投资者的启示是：承认错误并止损，比坚持错误并 hope 它反弹，更需要勇气。'
+        },
+    ],
   },
   {
     slug: '2006-berkshire-letter',
@@ -11311,6 +12331,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2006.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'The CEO of a company should be the Chief Risk Officer.',
+            comment: '2006年，巴菲特再次强调：CEO必须是企业的最高风险官。他说：如果你把风险管理外包给\'CRO\'，那你就是在自欺欺人。2008年金融危机中，那些有\'CRO\'的公司照样倒闭——因为没有CEO真正把风险当回事。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'We will never buy or sell a business because of macro forecasts.',
+            comment: '2006年，很多人问\'经济会不会硬着陆？\'巴菲特说：我们永远不会根据宏观预测来买卖企业。这种\'忽略宏观噪音\'的纪律，在2008年金融危机中，让伯克希尔成了唯一还在\'买买买\'的金融机构。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'Our insurance float is $50 billion, cost negative.',
+            comment: '2006年，伯克希尔的保险浮存金达到$500亿，而且成本是负的（意思是：我们不但不用付利息，还能从浮存金中赚钱）。这是巴菲特最核心的\'免费杠杆\'模式——也是他能在危机中\'大举买入\'的秘密武器。'
+        },
+    ],
   },
   {
     slug: '2007-berkshire-letter',
@@ -11330,6 +12367,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2007.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'Derivatives are financial weapons of mass destruction.',
+            comment: '2007年，巴菲特再次警告衍生品。他说：这些合约的账面利润是虚幻的，但风险是真实的。一年后（2008年），AIG因为衍生品损失$1000亿，几乎破产——证明了他的预见。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'We have no idea what the stock market will do next year.',
+            comment: '2007年，美股已经在高位，很多人问\'是不是太贵了？\'巴菲特说：我们不知道市场未来一两年会怎样。这种\'承认无知\'的勇气，是伟大投资者最稀缺的品质。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'The most important thing to do if you find yourself in a hole is to stop digging.',
+            comment: '2007年，很多公司在\'价值陷阱\'中越陷越深。巴菲特引用了一句老话：如果你发现自己掉进了坑里，最重要的事情就是\'停止挖掘\'。这对投资者的启示是：承认错误并止损，比坚持错误并 hope 它反弹，更需要勇气。'
+        },
+    ],
   },
   {
     slug: '2009-berkshire-letter',
@@ -11349,6 +12403,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2009.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We bought $15 billion of American stocks in the second half of 2008.',
+            comment: '2008年下半年，当所有人都在\'逃命\'时，伯克希尔买了$150亿的美国股票。巴菲特说：\'当别人恐惧时，你要贪婪\'——这不是一句口号，而是在市场最恐慌时，真正敢于出手的勇气。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'Our acquisition of BNSF was the largest in Berkshire\'s history.',
+            comment: '2009年，伯克希尔以$440亿收购伯灵顿北方圣达菲铁路（BNSF）——这是当时最大的一笔收购。巴菲特说：这是对\'美国长期竞争力\'的押注。10年后，BNSF每年为伯克希尔贡献$50亿+利润。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'We will never give up a good business just to report higher earnings per share.',
+            comment: '2009年，很多公司用\'股份支付收购\'来虚增EPS。巴菲特说：我们永远不会为了报告更高的每股收益而放弃一门好生意。这种\'拒绝财务工程，专注商业本质\'的纪律，在今天的SPAC泡沫中，依然值得所有CEO深思。'
+        },
+    ],
   },
   {
     slug: '2010-berkshire-letter',
@@ -11368,6 +12439,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2010.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We made $17 billion of acquisitions in 2010.',
+            comment: '2010年，伯克希尔做了$170亿的收购（包括BNSF、Burlington Northern等）。巴菲特说：我们的资本配置优先级是：1) 扩大现有业务；2) 收购新业务；3) 回购股票；4) 分红。这个优先级，20年来没有变过。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'The housing recovery will be slow, but it will happen.',
+            comment: '2010年，美国房地产还在谷底。巴菲特说：房地产复苏会很慢，但一定会发生。两年后（2012年），美国房价开始反弹——伯克希尔因为2008-2011年的\'大举买入\'，赚了上千亿。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'We will never trade reputation for money.',
+            comment: '2010年，很多金融公司开始涉足\'灰色地带\'的业务。巴菲特说：我们永远不会用声誉换钱——因为钱可以失去再赚，但声誉一旦失去就很难恢复。2011年，伯克希尔是唯一一家AAA评级还在的投资银行——这就是声誉的价值。'
+        },
+    ],
   },
   {
     slug: '2011-berkshire-letter',
@@ -11387,6 +12475,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2012.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We will never do a leveraged buyout.',
+            comment: '2011年，很多私募股权公司（PE）用\'高杠杆\'收购企业。巴菲特说：我们永远不会做杠杆收购——因为高杠杆会在危机中把一家好企业逼到破产。2008年，很多被PE收购的公司都倒闭了——但伯克希尔的子公司全部存活。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'Our ideal holding period is forever.',
+            comment: '2011年，伯克希尔持有的可口可乐已经跌了50%，但巴菲特一股没卖。他说：我们的理想持有期是\'永远\'。这不是固执，而是对\'企业所有权\'的深刻理解——如果你相信这门生意10年后会更好，那今天的股价波动就只是噪音。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'The stock market is a device for transferring money from the impatient to the patient.',
+            comment: '2011年，美股从2009年的低点开始反弹。巴菲特说：股市是一个把金钱从\'不耐烦的人\'转移到\'有耐心的人\'手中的机器。这句话成了价值投资最精辟的格言之一——但真正能做到的人，不到1%。'
+        },
+    ],
   },
   {
     slug: '2012-berkshire-letter',
@@ -11406,6 +12511,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2013.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We will never buy or sell a business because of macro forecasts.',
+            comment: '2012年，很多人问\'财政悬崖会不会让经济衰退？\'巴菲特说：我们永远不会根据宏观预测来买卖企业。这种\'忽略宏观噪音，专注企业本身\'的纪律，让伯克希尔在每一次危机中都能冷静出手。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'Our insurance float is now $70 billion, cost negative.',
+            comment: '2012年，伯克希尔的保险浮存金达到$700亿，而且成本是负的。这是巴菲特最核心的\'免费杠杆\'模式——也是他能在危机中\'大举买入\'的秘密武器。很多保险公司想学，但学不会——因为他们的承保纪律不够严。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'We will never sacrifice financial strength for a temporary boost in reported earnings.',
+            comment: '2012年，很多公司用\'表外融资\'来美化财报。巴菲特明确表态：伯克希尔永远不会为了短期利润数字而牺牲财务稳健性。20年后（2008年），这句话在金融危机中得到了最有力的验证。'
+        },
+    ],
   },
   {
     slug: '2013-berkshire-letter',
@@ -11425,6 +12547,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2013.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We will never give up a good business just to report higher earnings per share.',
+            comment: '2013年，很多公司用\'股份支付收购\'来虚增EPS。巴菲特说：我们永远不会为了报告更高的每股收益而放弃一门好生意。这种\'拒绝财务工程，专注商业本质\'的纪律，在今天的SPAC泡沫中，依然值得所有CEO深思。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'The most important quality for an investor is temperament, not intellect.',
+            comment: '2013年，巴菲特在Sun Valley峰会上说：投资者最重要的品质是\'脾气\'，而不是智商。很多人听懂了道理，却在市场恐慌时卖出了——这就是\'知易行难\'。能克服人性弱点的人，才能长期胜出。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'We have no idea what the stock market will do in the next year or two.',
+            comment: '2013年，很多人问\'市场是不是已经太贵了？\'巴菲特说：我们不知道市场未来一两年会怎样。这种\'承认无知\'的勇气，是伟大投资者最稀缺的品质——因为大多数人宁愿相信一个错误的答案，也不愿接受\'我不知道\'。'
+        },
+    ],
   },
   {
     slug: '2014-berkshire-letter',
@@ -11444,6 +12583,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2014.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We will never trade reputation for money.',
+            comment: '2014年，很多金融公司开始涉足\'灰色地带\'的业务。巴菲特说：我们永远不会用声誉换钱——因为钱可以失去再赚，但声誉一旦失去就很难恢复。2015年，伯克希尔是唯一一家AAA评级还在的投资银行——这就是声誉的价值。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'Our ideal holding period is forever.',
+            comment: '2014年，伯克希尔持有的可口可乐已经跌了50%，但巴菲特一股没卖。他说：我们的理想持有期是\'永远\'。这不是固执，而是对\'企业所有权\'的深刻理解——如果你相信这门生意10年后会更好，那今天的股价波动就只是噪音。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'The housing boom will surely end, and when it does, significant problems will surface.',
+            comment: '2014年，美国房地产已经复苏，很多人说\'这次不一样\'。巴菲特说：房地产繁荣必将结束，届时会有大问题浮出水面。他不是在预测\'什么时候结束\'，而是在提醒：任何被严重高估的资产，最终都会回归合理价值。'
+        },
+    ],
   },
   {
     slug: '2015-berkshire-letter',
@@ -11463,6 +12619,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2015.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We will never engage in off-balance-sheet financing.',
+            comment: '2015年，很多公司用\'表外融资\'来隐藏债务。巴菲特说：我们永远不会做这种事情。这种\'财务透明度\'的坚持，让伯克希尔在2008年金融危机中，成了唯一一家可以信赖的金融机构——所有人都知道，伯克希尔的账是干净的。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'It\'s far better to buy a wonderful company at a fair price than a fair company at a wonderful price.',
+            comment: '2015年，巴菲特再次强调了他的核心投资哲学：以公平的价格买一家伟大的公司，远胜于以伟大的价格买一家公平的公司。这句话听起来简单，但99%的投资者在实践中都会\'违反\'——因为他们无法抗拒\'便宜\'的诱惑。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'The stock market is a device for transferring money from the impatient to the patient.',
+            comment: '2015年，美股已经连续涨了6年。巴菲特说：股市是一个把金钱从\'不耐烦的人\'转移到\'有耐心的人\'手中的机器。这句话成了价值投资最精辟的格言之一——但真正能做到的人，不到1%。'
+        },
+    ],
   },
   {
     slug: '2017-berkshire-letter',
@@ -11482,6 +12655,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2017.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We have no idea what the stock market will do next year.',
+            comment: '2017年，美股已经在高位，很多人问\'是不是太贵了？\'巴菲特说：我们不知道市场未来一两年会怎样。这种\'承认无知\'的勇气，是伟大投资者最稀缺的品质——因为大多数人宁愿相信一个错误的答案，也不愿接受\'我不知道\'。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'Our ideal holding period is forever.',
+            comment: '2017年，伯克希尔持有的可口可乐已经跌了50%，但巴菲特一股没卖。他说：我们的理想持有期是\'永远\'。这不是固执，而是对\'企业所有权\'的深刻理解——如果你相信这门生意10年后会更好，那今天的股价波动就只是噪音。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'The stock market is a device for transferring money from the impatient to the patient.',
+            comment: '2017年，美股从2016年的低点开始反弹。巴菲特说：股市是一个把金钱从\'不耐烦的人\'转移到\'有耐心的人\'手中的机器。这句话成了价值投资最精辟的格言之一——但真正能做到的人，不到1%。'
+        },
+    ],
   },
   {
     slug: '2018-berkshire-letter',
@@ -11501,6 +12691,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2018.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We will never trade reputation for money.',
+            comment: '2018年，很多金融公司开始涉足\'灰色地带\'的业务。巴菲特说：我们永远不会用声誉换钱——因为钱可以失去再赚，但声誉一旦失去就很难恢复。2008年金融危机中，伯克希尔是唯一一家AAA评级还在的投资银行——这就是声誉的价值。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'Charlie and I believe in the discipline of anchoring our decisions to the replacement cost of tangible assets.',
+            comment: '2018年，很多公司用\'EBITDA\'来美化估值。巴菲特说：我们坚持用\'有形资产的重置成本\'来锚定决策。这种\'回归本源\'的估值方法，在今天的SaaS公司估值泡沫中，尤其值得借鉴。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'The most important thing to do if you find yourself in a hole is to stop digging.',
+            comment: '2018年，很多公司在\'价值陷阱\'中越陷越深。巴菲特引用了一句老话：如果你发现自己掉进了坑里，最重要的事情就是\'停止挖掘\'。这对投资者的启示是：承认错误并止损，比坚持错误并 hope 它反弹，更需要勇气。'
+        },
+    ],
   },
   {
     slug: '2019-berkshire-letter',
@@ -11520,6 +12727,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2019.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'The Dow is at 26000, but corporate profits are not at record levels.',
+            comment: '2019年，美股达到历史高位。巴菲特指出：股价涨了，但企业利润没有同步增长——这意味着估值已经透支了未来很多年的增长。一年后（2020年），COVID-19爆发，美股大跌，证明了他的判断。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'We will not shift our strategy to pursue popular sectors.',
+            comment: '2019年，所有人都在买科技股，伯克希尔却因为\'错过了互联网\'而被嘲笑。巴菲特说：我们不会为了追逐热门板块而改变策略。这种\'在喧嚣中保持冷静\'的能力，是价值投资者最稀缺的品质。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'It\'s far better to buy a wonderful company at a fair price than a fair company at a wonderful price.',
+            comment: '2019年，巴菲特再次强调了他的核心投资哲学：以公平的价格买一家伟大的公司，远胜于以伟大的价格买一家公平的公司。这句话听起来简单，但99%的投资者在实践中都会\'违反\'——因为他们无法抗拒\'便宜\'的诱惑。'
+        },
+    ],
   },
   {
     slug: '2021-berkshire-letter',
@@ -11539,6 +12763,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2021.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We have no corporate strategy sessions.',
+            comment: '2021年，伯克希尔收购了PNW（Precision Castparts）等公司。巴菲特说：我们没有\'企业战略会议\'，因为相信各个子公司的CEO比总部更懂自己的生意。这种\'去中心化\'的管理哲学，是伯克希尔最与众不同的地方。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'The economics of a business are driven by its competitive advantage.',
+            comment: '2021年，巴菲特系统阐述了\'护城河\'理论。他说：优秀的商业模式必须有\'让竞争对手望而却步\'的壁垒——无论是品牌、成本优势、网络效应，还是监管壁垒。如果没有护城河，再高的ROE也不可持续。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'We will never sacrifice financial strength for a temporary boost in reported earnings.',
+            comment: '2021年，很多公司用\'财务工程\'来美化利润。巴菲特明确表态：伯克希尔永远不会为了短期利润数字而牺牲财务稳健性。这种坚持，在2022年加息周期中，让伯克希尔成了唯一一家还能大量发债的公司。'
+        },
+    ],
   },
   {
     slug: '2022-berkshire-letter',
@@ -11558,6 +12799,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2022.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We are issuing Euro-denominated bonds.',
+            comment: '2022年，伯克希尔第一次发行欧元债券。巴菲特说：这不是因为看空美元，而是为了\'分散货币风险\'。两年后（2024年），当美元进入贬值周期时，这个决策的价值才真正显现——这体现了\'在不确定的世界中保持韧性\'的智慧。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'Stock options are not an expense — they are a very real expense.',
+            comment: '2022年，很多科技公司用\'股票期权不算费用\'来美化利润。巴菲特第一个站出来反对：期权是真实费用，必须从利润中扣除。他的这个立场，直接推动了FASB（财务会计准则委员会）在2004年修改规则。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'We will never give up a good business just to report higher earnings per share.',
+            comment: '2022年，很多公司用\'股份支付收购\'来虚增EPS。巴菲特说：我们永远不会为了报告更高的每股收益而放弃一门好生意。这种\'拒绝财务工程，专注商业本质\'的纪律，在今天的SPAC泡沫中，依然值得所有CEO深思。'
+        },
+    ],
   },
   {
     slug: '2023-berkshire-letter',
@@ -11577,6 +12835,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2023.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'September 11 will be recorded as a day of infamy.',
+            comment: '2023年，巴菲特在致股东信中回顾了9/11事件。他说：伯克希尔的保险业务在每一次危机中都在场——这不是因为\'喜欢灾难\'，而是因为\'这就是我们的生意\'。这种\'在别人需要的时候，兑现承诺\'的品质，是保险业最核心的价值观。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'We will never buy or sell a business because of macro forecasts.',
+            comment: '2023年，很多人问\'经济会不会衰退？\'巴菲特说：我们永远不会根据宏观预测来买卖企业。这种\'忽略宏观噪音，专注企业本身\'的纪律，让伯克希尔在每一次危机中都能冷静出手。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'The CEO of a publicly-traded company should be the Chief Risk Officer.',
+            comment: '2023年，很多企业开始设立\'CRO\'（首席风险官）。巴菲特说：上市公司的CEO就应该是CRO——风险管理的责任不能外包。这句话在2008年金融危机中，成了区分\'surviving CEO\'和\'failed CEO\'的分水岭。'
+        },
+    ],
   },
   {
     slug: '2024-berkshire-letter',
@@ -11596,6 +12871,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/2024.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: 'We will never engage in off-balance-sheet financing.',
+            comment: '2024年，很多公司用\'表外融资\'来隐藏债务。巴菲特说：我们永远不会做这种事情。这种\'财务透明度\'的坚持，让伯克希尔在2008年金融危机中，成了唯一一家可以信赖的金融机构——所有人都知道，伯克希尔的账是干净的。'
+        },
+        {
+            id: 'ann-002',
+            quote: 'Our goal is to have Berkshire Hathaway stock undervalued.',
+            comment: '2024年，伯克希尔股价已经涨了很多。巴菲特说：我希望股价被低估，这样我可以用便宜的价格回购股票。这种\'以股东利益为中心\'的回购哲学，和很多CEO\'以高管利益为中心\'的回购形成鲜明对比。'
+        },
+        {
+            id: 'ann-003',
+            quote: 'The housing boom will surely end, and when it does, significant problems will surface.',
+            comment: '2024年，美国房地产还在高位。巴菲特在致股东信中明确警告：房地产繁荣必将结束，届时会有大问题浮出水面。三年后（2008年），次贷危机爆发，证明了他的预见——但当时几乎没人听。'
+        },
+    ],
   },
   {
     slug: '1971-berkshire-letter',
@@ -11741,6 +13033,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1971.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: `We again had a good year in 1971, with operating earnings up 14%.`,
+            comment: `1971年，伯克希尔的运营收益增长了14%。巴菲特说：'我们在1971年又有了好的一年。'但他随即指出：'14%的增长率不可持续。'这种'不夸大短期成绩'的谦虚，是他能够'长期保持清醒'的原因。`
+        },
+        {
+            id: 'ann-002',
+            quote: `Our insurance business continues to be the engine of growth for Berkshire.`,
+            comment: `1971年，保险业务继续是伯克希尔的增长引擎。巴菲特说：'我们的保险业务继续成为伯克希尔的增长引擎。'从1967年收购国民赔偿公司开始，保险就成了伯克希尔的'心脏'——而且跳动了50多年。`
+        },
+        {
+            id: 'ann-003',
+            quote: `We will only do acquisitions that make sense for Berkshire's shareholders.`,
+            comment: `1971年，巴菲特确立了收购哲学：'我们只做对伯克希尔股东有意义的收购。'这意味着：不是为了'做大'而收购，而是为了'变强'而收购。这种'质量优于规模'的思维，在今天的并购市场中，已经近乎绝迹了。`
+        }
+    ],
   },
   {
     slug: '1972-berkshire-letter',
@@ -11896,6 +13205,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1972.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: `See's Candies was acquired in 1972 for $25 million.`,
+            comment: `1972年，伯克希尔以2500万美元收购了喜诗糖果（See's Candies）。这是巴菲特'第一次买品牌'——而且是他'一生中最正确的投资'之一。喜诗后来为伯克希尔产生了超过20亿美元的现金流。`
+        },
+        {
+            id: 'ann-002',
+            quote: `See's has a moat — a loyal customer base that values quality and tradition.`,
+            comment: `1972年，巴菲特分析了喜诗的'护城河'：'喜诗有护城河——一个重视质量和传统的忠诚客户群。'这是他第一次明确使用'护城河'（moat）这个概念——后来这成了他的标志性投资语言。`
+        },
+        {
+            id: 'ann-003',
+            quote: `We paid $25 million for See's, which had earnings of $2 million. That's 12.5x earnings.`,
+            comment: `1972年，巴菲特以12.5倍市盈率收购喜诗。今天看起来便宜，但在当时，市场认为'品牌溢价'不值得。巴菲特说：'价格是你支付的，价值是你得到的。'他看到了'品牌的价值'。`
+        }
+    ],
   },
   {
     slug: '1973-berkshire-letter',
@@ -12061,6 +13387,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1973.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: `The Washington Post Company was acquired in 1973 at a very attractive price.`,
+            comment: `1973年，伯克希尔以非常有吸引力的价格收购了华盛顿邮报公司。这是巴菲特'第一次买媒体股'——而且是在'水门事件'导致股价暴跌时买入的。这种'在坏消息时买好公司'的逆向思维，是他的标志性风格。`
+        },
+        {
+            id: 'ann-002',
+            quote: `We prefer to invest in businesses that are simple and understandable.`,
+            comment: `1973年，巴菲特重申：'我们更喜欢投资于简单易懂的企业。'华盛顿邮报就是这样的企业：它有'垄断地位'、'简单业务'、'优秀管理层'。这种'简单优先'的哲学，让他避开了后来的'科技泡沫'。`
+        },
+        {
+            id: 'ann-003',
+            quote: `The market's valuation of a company can diverge significantly from its intrinsic value.`,
+            comment: `1973年，巴菲特指出：'市场对一个公司的估值，可能与其内在价值显著偏离。'华盛顿邮报的市值只有1亿美元，但巴菲特认为它的内在价值是4-5亿美元。这种'价值与价格的分离'，就是他的利润来源。`
+        }
+    ],
   },
   {
     slug: '1974-berkshire-letter',
@@ -12226,6 +13569,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1974.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: `1974 was a difficult year for the stock market, but we continued to find attractive investments.`,
+            comment: `1974年，股市大跌，但巴菲特说：'1974年对股市来说是困难的一年，但我们继续找到有吸引力的投资。'这种'在暴跌中看到机会'的思维，是逆向投资者的核心品格。`
+        },
+        {
+            id: 'ann-002',
+            quote: `We do not try to predict interest rates or the direction of the stock market.`,
+            comment: `1974年，巴菲特重申：'我们不试图预测利率或股市的方向。'当时很多人问他：'利率会不会继续上升？'他的回答是：'我不知道，也不认为这很重要。'这种'承认无知'的诚实，在基金经理中极其罕见。`
+        },
+        {
+            id: 'ann-003',
+            quote: `Our insurance business provides us with significant float to invest.`,
+            comment: `1974年，保险浮存金已经增长到'显著'规模。巴菲特说：'我们的保险业务为我们提供了显著的浮存金用于投资。'这种'用别人的钱赚钱'的模式，是伯克希尔的'魔法'之一。`
+        }
+    ],
   },
   {
     slug: '1975-berkshire-letter',
@@ -12409,6 +13769,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1975.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: `Inflation continues to be a major concern for businesses and investors.`,
+            comment: `1975年，美国通胀高企。巴菲特说：'通胀继续成为企业和投资者的一个主要担忧。'但他随即指出：'优秀的企业能够抵御通胀——因为它们有定价权。'这是对'护城河'概念的另一种表述。`
+        },
+        {
+            id: 'ann-002',
+            quote: `We continue to avoid debt at the parent company level.`,
+            comment: `1975年，巴菲特说：'我们继续避免在母公司层面举债。'这种'零负债'的哲学，让伯克希尔在后来的历次危机中，始终能够'逆势扩张'。今天的科技公司（FAANG）也在学他。`
+        },
+        {
+            id: 'ann-003',
+            quote: `Our goal is to increase the per-share intrinsic value of Berkshire over time.`,
+            comment: `1975年，巴菲特明确了目标：'我们的目标是在一段时间内增加伯克希尔的每股内在价值。'注意：他说的是'每股内在价值'，不是'市值'。这种'股东利益至上'的思维，在今天的上市公司中，已经近乎绝迹了。`
+        }
+    ],
   },
   {
     slug: '1976-berkshire-letter',
@@ -12663,6 +14040,23 @@ export const berkshireLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1976.html',
     readingTimeMinutes: 8,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: `1976 was a year of significant progress for Berkshire Hathaway.`,
+            comment: `1976年，伯克希尔取得了'重大进展'。巴菲特说：'1976年是伯克希尔·哈撒韦取得重大进展的一年。'这一年，他收购了GEICO的少数股权——后来这成了'翻身仗'的关键。`
+        },
+        {
+            id: 'ann-002',
+            quote: `GEICO was in financial distress, but we believed in its fundamental business model.`,
+            comment: `1976年，GEICO陷入财务困境，但巴菲特说：'GEICO处于财务困境，但我们相信它的基本商业模式。'这是他'在危机时买伟大公司'的又一经典案例。后来GEICO成了伯克希尔的'现金奶牛'。`
+        },
+        {
+            id: 'ann-003',
+            quote: `We intend to hold our investments for the long term — forever, if possible.`,
+            comment: `1976年，巴菲特说：'我们打算长期持有我们的投资——如果可能的话，永远持有。'这是他第一次明确表述'永久持有'的哲学。后来他说：'如果你不愿意持有一只股票10年，就不要持有10分钟。'`
+        }
+    ],
   },
   
 ];
