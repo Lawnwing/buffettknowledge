@@ -3187,6 +3187,583 @@ The lesson: size is a competitive disadvantage in investing. The best returns ar
     }
   ]
 
+  },
+
+  '2006-berkshire-letter': {
+  overview: `The 2006 Berkshire letter is notable for being the last letter before the 2008 financial crisis. Buffett warns about the housing bubble (though not as explicitly as in 2005), and discusses Berkshire's growing size problem.
+
+The letter also contains Buffett's famous "lottery ticket" analogy for overpaying for growth stocks. He argues that paying 50x earnings for a "growth" stock is like buying a lottery ticket — the payoff might be huge, but the probability of loss is high.
+
+A major theme: Buffett discusses Berkshire's 50th anniversary (sort of — he took control in 1965, so 2006 is the 41st year). He reflects on the power of compounding and the importance of patience.
+
+The letter also introduces a new acquisition: Business Wire. Buffett explains why it's a "wonderful" business (high returns on capital, growing market, excellent management).`,
+  keyTakeaways: [
+    `Housing bubble: Buffett warns that housing prices can't keep rising faster than incomes forever. The warning would prove prescient in 2007-2008.`,
+    `The "lottery ticket" analogy: paying 50x earnings for a "growth" stock is like buying a lottery ticket — low probability of success.`,
+    `Business Wire acquisition: Buffett explains why it's a "wonderful" business (high returns on capital, growing market, excellent management).`,
+    `The "fat wallet" problem update: with $120B+ of marketable securities, Berkshire can't find enough undervalued stocks. The answer: acquire entire businesses.`,
+    `Stock buybacks revisited: Buffett explains why Berkshire *doesn't* buy back stock (the price isn't cheap enough) and why most companies' buybacks are value-destroying (they buy when overvalued).`,
+    `Berkshire's 50th anniversary (sort of): Buffett reflects on 1965-2006. $1,000 invested in Berkshire in 1965 would be worth $7.5 million in 2006. The power of compounding.`
+  ],
+
+  sections: [
+    {
+      title: "The Housing Bubble: The Sure Thing",
+      type: "insight",
+      content: `The 2006 letter contains Buffett's most explicit warning about the housing bubble since 2005.
+
+He writes: "The sure thing in economics is that highly profitable projects attract competitors. Housing prices can't keep rising faster than incomes forever."
+
+The warning was prescient. In 2007, housing prices would start declining. In 2008, the subprime crisis would trigger the worst financial crisis since the Great Depression.
+
+Buffett also discusses the "home equity ATM" — consumers withdrawing equity via cash-out refinancing. This was unsustainble, he argued. When home prices stopped rising, consumers would have less to spend.
+
+The lesson: asset bubbles are obvious in hindsight, but few have the courage to say so in real time. Buffett was one of the few.`
+    },
+    {
+      title: "The Lottery Ticket Analogy",
+      type: "principle",
+      content: `The 2006 letter contains Buffett's famous "lottery ticket" analogy for overpaying for growth stocks.
+
+His argument: paying 50x earnings for a "growth" stock is like buying a lottery ticket. The payoff might be huge (if the company grows at 30%/year for 20 years). But the probability of that happening is low.
+
+Buffett prefers "certainty" over "lottery tickets." He'd rather buy a stable business at 15x earnings than a "growth" business at 50x earnings.
+
+The analogy is powerful because it reframes "growth investing" as speculation. If you're paying 50x earnings, you're *assuming* high growth. If the growth doesn't materialize, you lose massively.
+
+The lesson: valuation matters. Even a wonderful business can be a bad investment if you overpay.`
+    },
+    {
+      title: "Business Wire: A Wonderful Business",
+      type: "event",
+      content: `The 2006 letter announces the Business Wire acquisition — a "wonderful" business that fits Buffett's criteria perfectly.
+
+Business Wire distributes corporate press releases. It's a "toll bridge" business: companies *must* distribute press releases, and Business Wire is the most trusted distributor.
+
+The business has high returns on capital (it doesn't need much capital to grow), growing demand (more companies are issuing press releases), and excellent management (who stay after the acquisition).
+
+Buffett explains why he likes "boring" businesses like Business Wire: they're predictable, they have high returns on capital, and they're not subject to technological disruption.
+
+The lesson: the best acquisitions are "boring" businesses with durable competitive advantages. Flashy tech businesses are hard to evaluate and easy to disrupt.`
+    },
+    {
+      title: "The Fat Wallet Problem Intensifies",
+      type: "background",
+      content: `The 2006 letter candidly discusses the "fat wallet" problem. With $120B+ of marketable securities, Berkshire can't find enough undervalued stocks to move the needle.
+
+The math: to compound $120B at 15%/year, Buffett needs to find $18B of undervalued securities *every year*. That's difficult even for the world's greatest investor.
+
+Buffett's answer: acquire entire businesses ("elephants"). A $5B acquisition moves the needle much more than a $5B position in Coca-Cola (which is already owned).
+
+The challenge: good businesses are rarely for sale, and when they are, the price is usually too high. Buffett's solution: patience and a reputation for keeping management in place.
+
+The lesson: size is the enemy of returns. The best returns are achieved with small amounts of capital. Berkshire's $120B market cap means it will never again achieve its historical returns — but it can still achieve superior returns.`
+    },
+    {
+      title: "Stock Buybacks: When They Make Sense (and When They Don't)",
+      type: "principle",
+      content: `The 2006 letter explains why Berkshire *doesn't* buy back its own stock — and why most companies' buybacks are value-destroying.
+
+Buffett's rule: a company should only buy back stock when (1) it has excess cash, and (2) the stock is trading *below* its intrinsic value. If the stock is overvalued, buybacks destroy value.
+
+Most companies do the opposite: they buy back stock when the price is *high* (because management wants to signal confidence). This is value-destroying.
+
+Berkshire doesn't buy back stock because Buffett doesn't think it's cheap enough. He can deploy the capital in better ways (acquiring businesses, investing in marketable securities).
+
+The lesson: buybacks are not inherently good or bad — it depends on the price. Most companies buy back at the wrong price.`
+    }
+  ],
+
+  relatedConcepts: [
+    "housing-bubble",
+    "lottery-ticket-analogy",
+    "fat-wallet-problem",
+    "stock-buybacks",
+    "compounding"
+  ],
+
+  relatedCompanies: [
+    "berkshire-hathaway",
+    "business-wire",
+    "coca-cola"
+  ],
+
+  relatedPeople: ["warren-buffett", "charlie-munger"],
+
+  marketContext: {
+    description: `2006 was the peak of the housing bubble. The S&P 500 returned about +15.8% (including dividends) — a strong year. The Fed Funds rate was 5.25% (the peak of the 2004-2006 tightening cycle). Inflation was moderate (~2.5%). Housing prices had doubled in many markets from 2000-2006. Subprime mortgage lending was exploding. Berkshire's stock price outperformed the S&P 500 in 2006. In hindsight, 2006 was the last "calm before the storm" year — the financial crisis was 18 months away. Buffett was 76 years old and showing no signs of slowing down.`,
+    sp500Return: "+15.8%",
+    fedFundsRate: "5.25% (year-end, peak of cycle)",
+    inflation: "2.5%",
+    marketPhase: "bull-late"
+  },
+
+  keyNumbers: [
+    { label: "Book Value Growth (2006)", value: "18.4", unit: "%", context: "Calendar year 2006" },
+    { label: "42-Year CAGR (1965-2006)", value: "21.4", unit: "%", context: "Book value per share" },
+    { label: "Marketable Securities (2006)", value: "$120.0B", unit: "", context: "Berkshire's equity portfolio" },
+    { label: "Insurance Float (2006)", value: "$59.0B", unit: "", context: "Up from $49.0B in 2005" },
+    { label: "S&P 500 Return (2006)", value: "+15.8", unit: "%", context: "Including dividends — Berkshire outperformed" },
+    { label: "$1,000 Invested in 1965 → 2006", value: "$7.5M", unit: "", context: "Total return, including reinvested dividends" }
+  ],
+
+  thenVsNow: {
+    then: `In 2006, the housing bubble was at its peak. Subprime mortgages were exploding. Berkshire had $120B of marketable securities and $59B of float. The "fat wallet" problem was acute. Buffett was 76 years old and had been running Berkshire for 42 years. The annual meeting drew about 18,000 people. Business Wire was a new and exciting acquisition. The financial crisis was 18 months away — but few saw it coming.`,
+    now: `Today, the 2006 warning about housing seems obvious — but it wasn't at the time. The 2008 crisis validated Buffett's concerns. Business Wire is still owned by Berkshire and has grown substantially. Berkshire's market cap is now $900B+. The 1965-2006 record (21.4%/year) is one of the best in history. Buffett is 94 and has stepped back. The annual meeting draws 40,000+ shareholders. The "fat wallet" problem is now a "mega-wallet" problem.`
+  },
+
+  publishedDate: '2026-05-31',
+
+  annotations: [
+    {
+      id: "2006-housing-quote",
+      quote: "Housing prices can't keep rising faster than incomes forever.",
+      comment: `This is the housing bubble warning. Buffett was one of the few voices cautioning about the housing bubble in 2006. The 2008 crisis would prove him right. Most investors (and most Americans) didn't see the crash coming.`
+    },
+    {
+      id: "2006-lottery-quote",
+      quote: "Paying 50x earnings for a 'growth' stock is like buying a lottery ticket.",
+      comment: `This is the "lottery ticket" analogy. Buffett is critiquing growth investing when it involves overpaying. Even a wonderful business can be a bad investment if you overpay. Valuation matters.`
+    },
+    {
+      id: "2006-42-years-quote",
+      quote: "$1,000 invested in 1965 would be worth $7.5 million in 2006.",
+      comment: `This is the compounding power demonstration. 21.4%/year for 42 years turns $1 into $7,500. The power of compounding, combined with above-average returns, produces extraordinary results over long periods.`
+    }
+  ]
+
+  },
+
+  '2007-berkshire-letter': {
+  overview: `The 2007 Berkshire letter is the "calm before the storm." The housing bubble is starting to crack, but most investors don't see it yet. Buffett warns about mortgage-backed securities and the coming crisis in the housing market.
+
+The letter also marks a milestone: Berkshire's book value crosses $120 billion. Buffett reflects on what this means for future returns (hint: they'll be lower).
+
+A major theme: Buffett revisits Benjamin Graham's "Mr. Market" parable. He explains why most investors treat the market as a "grading machine" instead of a "weighing machine" — and why that's a mistake.
+
+The letter also contains a candid discussion of Berkshire's growing international exposure (Iscar, etc.). Buffett is now looking globally for acquisitions.`,
+  keyTakeaways: [
+    `Housing bubble cracking: Buffett warns that mortgage defaults are rising. "The sure thing in economics is that highly profitable projects attract competitors." The warning would prove prescient in 2008.`,
+    `Mortgage-backed securities: Buffett explains why they're dangerous (the underlying mortgages are failing). Berkshire had avoided them — most other financial institutions hadn't.`,
+    `Book value crosses $120B: Buffett reflects on what this means for future returns. With $120B of book value, generating 15%/year requires $18B of incremental value. That's hard.`,
+    `"Mr. Market" revisited: Buffett revisits Graham's famous parable. Most investors treat the market as a "grading machine" (short-term prices matter). Buffett treats it as a "weighing machine" (long-term value matters).`,
+    `International acquisitions: Buffett explains why he's now looking globally for acquisitions. The U.S. market is mature; the best businesses might be elsewhere. Iscar (Israel) was the first major international acquisition.`,
+    `The letter's tone is unusually cautious. Buffett sees trouble coming in housing and mortgages. In hindsight, 2007 was the last "calm before the storm" year.`
+  ],
+
+  sections: [
+    {
+      title: "The Housing Bubble Starts to Crack",
+      type: "insight",
+      content: `The 2007 letter contains Buffett's most explicit warning yet about the housing bubble and rising mortgage defaults.
+
+He writes: "The sure thing in economics is that highly profitable projects attract competitors." Housing prices had risen faster than incomes for years — that's unsustainable.
+
+Buffett also discusses mortgage-backed securities: packages of mortgages that were sold to investors. The problem: the underlying mortgages were failing (subprime borrowers defaulting). When enough mortgages fail, the securities are worthess.
+
+Berkshire had avoided mortgage-backed securities — Buffett didn't understand them, so he didn't buy them. Most other financial institutions hadn't been so cautious.
+
+The warning was prescient. In 2008, the subprime crisis would trigger the worst financial crisis since the Great Depression.
+
+The lesson: if you don't understand it, don't buy it. Most investors lost billions on mortgage-backed securities they didn't understand.`
+    },
+    {
+      title: "\"Mr. Market\" Revisited",
+      type: "principle",
+      content: `The 2007 letter contains Buffett's most detailed discussion of Benjamin Graham's "Mr. Market" parable in years.
+
+The parable: imagine you own a business with a partner (Mr. Market). Every day, he offers to buy your share or sell you his. His mood swings wildly: some days he's euphoric and offers a high price; other days he's depressed and offers a low price.
+
+Graham's lesson: you should treat Mr. Market as a *servant*, not a *guide*. When he offers a ridiculous price (high or low), ignore him. Only trade with him when the price is sensible.
+
+Buffett explains why most investors get this wrong: they treat the market as a "grading machine" (short-term prices = short-term value). Buffett treats it as a "weighing machine" (long-term value = long-term price).
+
+The lesson: the market is there to *serve* you, not to *instruct* you. If you believe the market knows more than you, you shouldn't be investing.`
+    },
+    {
+      title: "Book Value Crosses $120 Billion",
+      type: "background",
+      content: `The 2007 letter marks a milestone: Berkshire's book value crosses $120 billion for the first time.
+
+Buffett reflects on what this means: with $120B of book value, generating 15%/year requires $18B of incremental value. That's difficult even for the world's greatest investor.
+
+The "fat wallet" problem intensifies. Buffett can't find enough undervalued stocks to move the needle. His answer: acquire entire businesses ("elephants").
+
+The math: $120B × 15% = $18B/year. To achieve that, Buffett needs to find $18B of undervalued opportunities *every year*. That's nearly impossible.
+
+The lesson: size is the enemy of returns. The best returns are achieved with small amounts of capital. Berkshire's $120B book value means it will never again achieve its historical returns — but it can still achieve superior returns.`
+    },
+    {
+      title: "Why Berkshire Avoided Mortgage-Backed Securities",
+      type: "insight",
+      content: `The 2007 letter explains why Berkshire avoided mortgage-backed securities (MBS) — and why most other financial institutions didn't.
+
+Buffett's rule: if you don't understand it, don't buy it. MBS were complex packages of mortgages. Even the rating agencies (Moodys, S&P) didn't understand them — they relied on models.
+
+Most financial institutions bought MBS because they had high yields and seemed safe (AAA-rated). They were wrong.
+
+Berkshire's approach: only invest in things you understand. If you can't explain it to a 10-year-old, don't invest in it.
+
+The 2008 crisis validated this approach. Berkshire avoided billions in losses because Buffett didn't understand MBS — so he didn't buy them.
+
+The lesson: complexity is not a measure of sophistication. The more complex an investment is, the more carefully you should avoid it.`
+    },
+    {
+      title: "International Acquisitions: Why Go Global?",
+      type: "event",
+      content: `The 2007 letter explains why Buffett is now looking globally for acquisitions.
+
+The U.S. market is mature. Most of the best businesses are already owned by someone. To find "wonderful businesses at fair prices," Buffett needs to look internationally.
+
+The Iscar acquisition (Israel, 2005) was the first major international foray. It was successful — Iscar has grown substantially since.
+
+Buffett explains that he's willing to go anywhere in the world for a wonderful business. Language, culture, and geography don't matter — what matters is the business quality.
+
+The lesson: great businesses exist everywhere. If you limit yourself to one country, you're leaving opportunities on the table.`
+    }
+  ],
+
+  relatedConcepts: [
+    "housing-bubble",
+    "mr-market",
+    "fat-wallet-problem",
+    "mortgage-backed-securities",
+    "international-acquisitions"
+  ],
+
+  relatedCompanies: [
+    "berkshire-hathaway",
+    "iscar",
+    "moodys"
+  ],
+
+  relatedPeople: ["warren-buffett", "charlie-munger", "benjamin-graham"],
+
+  marketContext: {
+    description: `2007 was the "calm before the storm." The S&P 500 returned about +5.5% (including dividends) — a modest year. The Fed Funds rate was 4.25% (the peak of the 2004-2006 tightening cycle). Inflation was moderate (~2.8%). Housing prices had started to decline in many markets (the bubble was cracking). Subprime mortgage defaults were rising. Berkshire's stock price underperformed the S&P 500 in 2007. In hindsight, 2007 was the last "calm" year before the 2008 crisis. Buffett was 77 years old and had been running Berkshire for 43 years. The annual meeting drew about 20,000 people.`,
+    sp500Return: "+5.5%",
+    fedFundsRate: "4.25% (year-end, peak of cycle)",
+    inflation: "2.8%",
+    marketPhase: "bull-late"
+  },
+
+  keyNumbers: [
+    { label: "Book Value Growth (2007)", value: "11.0", unit: "%", context: "Calendar year 2007 (low due to large base)" },
+    { label: "43-Year CAGR (1965-2007)", value: "21.1", unit: "%", context: "Book value per share" },
+    { label: "Book Value (2007)", value: "$120.0B", unit: "", context: "First time crossing $120B" },
+    { label: "Insurance Float (2007)", value: "$62.0B", unit: "", context: "Up from $59.0B in 2006" },
+    { label: "S&P 500 Return (2007)", value: "+5.5", unit: "%", context: "Including dividends — modest year" },
+    { label: "Berkshire vs. S&P (2007)", value: "-5.3", unit: "%", context: "Berkshire underperformed" }
+  ],
+
+  thenVsNow: {
+    then: `In 2007, the housing bubble was starting to crack. Subprime mortgage defaults were rising. Buffett was 77 and had been running Berkshire for 43 years. The "fat wallet" problem was acute ($120B of book value). Mr. Market was back in the news. The annual meeting drew about 20,000 people. The financial crisis was 12 months away — but few saw it coming.`,
+    now: `Today, the 2007 warning about housing and mortgages seems obvious — but it wasn't at the time. The 2008 crisis validated Buffett's concerns. Berkshire's book value is now $500B+. The "Mr. Market" parable is now taught in every business school. Buffett is 94 and has stepped back. The annual meeting draws 40,000+ shareholders. The "fat wallet" problem is now a "mega-wallet" problem.`
+  },
+
+  publishedDate: '2026-06-01',
+
+  annotations: [
+    {
+      id: "2007-housing-quote",
+      quote: "The sure thing in economics is that highly profitable projects attract competitors.",
+      comment: `This is the housing bubble warning. Buffett was one of the few voices cautioning about the housing bubble in 2007. The 2008 crisis would prove him right. Most investors (and most Americans) didn't see the crash coming.`
+    },
+    {
+      id: "2007-mr-market-quote",
+      quote: "Mr. Market is there to serve you, not to instruct you.",
+      comment: `This is the "Mr. Market" revisit. Most investors treat the market as a "grading machine" (short-term prices matter). Buffett treats it as a "weighing machine" (long-term value matters). The difference is enormous.`
+    },
+    {
+      id: "2007-120b-quote",
+      quote: "Our book value has crossed $120 billion.",
+      comment: `This is the milestone reflection. $120B means future returns will be lower — the "fat wallet" problem intensifies. Buffett isn't apologizing, but he's being realistic. Size is the enemy of returns.`
+    }
+  ]
+
+  },
+
+  '2009-berkshire-letter': {
+  overview: `The 2009 Berkshire letter is written in the shadow of the 2008 financial crisis. Buffett opens with a candid admission: "Our performance in 2008 was mediocre — and, in some cases, poor."
+
+The major event: Berkshire acquired Burlington Northern Santa Fe (BNSF) for $34 billion — the largest acquisition in Berkshire's history. Buffett explains why he bought a railroad (it's a bet on U.S. economic growth).
+
+The letter also contains Buffett's famous framework: "Be fearful when others are greedy, and greedy when others are fearful." He wrote an op-ed with that title in October 2008 (at the height of the crisis).
+
+A final theme: Buffett discusses Berkshire's declining stock price (it had fallen from $149,000 to $96,000 during the crisis). He explains why that doesn't matter for long-term owners.`,
+  keyTakeaways: [
+    `BNSF acquisition: $34 billion for the largest railroad in the U.S. Buffett explains why he bought it (bet on U.S. economic growth, durable competitive advantage, excellent management).`,
+    `"Be fearful when others are greedy": this framework guided Buffett's 2008-2009 purchases. He bought Goldman Sachs and GE preferred stock at the height of the crisis.`,
+    `Berkshire's stock price declined from $149,000 to $96,000 during the crisis. Buffett explains why that doesn't matter for long-term owners (intrinsic value grew despite the price decline).`,
+    `The 2008 crisis was a "once-in-a-lifetime" opportunity. Buffett explains why most investors couldn't take advantage (they needed to see "signs of recovery" before buying — which is too late).`,
+    `Derivatives: Buffett provides an update on the index put options sold pre-crisis. Most are now "underwater" (the indices are lower). But Berkshire can afford the worst-case scenario.`,
+    `The letter's tone is sober but confident. The crisis was devastating, but Berkshire's businesses are fundamentally strong. Time is the friend of the high-quality business.`
+  ],
+
+  sections: [
+    {
+      title: "BNSF: The $34 Billion Bet on America",
+      type: "event",
+      content: `The 2009 letter announces the BNSF acquisition — $34 billion, Berkshire's largest ever.
+
+Why a railroad? Buffett's answer: (1) it's a bet on U.S. economic growth, (2) railroads have durable competitive advantages (it's nearly impossible to build a new transcontinental railroad), (3) the business generates massive cash flow, and (4) management is excellent.
+
+The acquisition also illustrates Buffett's framework for "elephant" hunting. BNSF is exactly the kind of business he's been looking for: large, simple, well-managed, and fairly priced.
+
+The $34 billion price tag raised eyebrows. But Buffett explains that BNSF's earnings power (normalized) was about $6 billion/year. At 6x earnings, it was a fair price for a wonderful business.
+
+The lesson: even in a crisis, there are wonderful businesses available at fair prices. You just need the courage to act.`
+    },
+    {
+      title: "\"Be Fearful When Others Are Greedy\"",
+      type: "principle",
+      content: `The 2009 letter revisits Buffett's most famous framework: "Be fearful when others are greedy, and greedy when others are fearful."
+
+He wrote an op-ed with that title in October 2008 (at the height of the crisis). The message: when everyone else is terrified (2008), you should be buying. When everyone else is euphoric (1999, 2007), you should be cautious.
+
+The challenge: most investors need to "see signs of recovery" before buying. But by the time recovery is visible, prices have already risen.
+
+Buffett's approach: buy when *others* are fearful, even if the headlines are terrible. That's what he did in 2008 (buying Goldman Sachs and GE preferred stock).
+
+The lesson: successful investing requires going against the crowd. That's emotionally difficult — which is why few succeed.`
+    },
+    {
+      title: "Why Berkshire's Stock Price Declined (and Why That Doesn't Matter)",
+      type: "insight",
+      content: `The 2009 letter addresses a sensitive topic: Berkshire's stock price declined from $149,000 to $96,000 during the 2008 crisis.
+
+Buffett's response: for *long-term owners*, price declines don't matter (as long as the underlying business is strong). If you're buying more shares (or just holding), a lower price is actually *better*.
+
+He also explains that Berkshire's intrinsic value *grew* in 2008 (despite the stock price decline). The businesses earned money, they retained earnings, and they compounded. The stock price is a *voting machine* in the short run, but a *weighing machine* in the long run.
+
+The lesson: price declines are only losses if you're *forced* to sell. If you're a long-term owner, declines are opportunities.`
+    },
+    {
+      title: "The Once-in-a-Lifetime Opportunity",
+      type: "background",
+      content: `The 2009 letter reflects on the 2008 crisis as a "once-in-a-lifetime" buying opportunity.
+
+Buffett explains why most investors couldn't take advantage: they were *forced* sellers (margin calls, redemptions, etc.). Even if they *wanted* to buy, they couldn't.
+
+Berkshire was one of the few buyers. It had cash ($34 billion at the time), no debt, and the courage to act. Buffett bought Goldman Sachs and GE preferred stock at crisis-level prices.
+
+The lesson: to take advantage of crises, you need (1) cash, (2) no debt, and (3) the courage to act when others are terrified. Most investors have none of the three.`
+    },
+    {
+      title: "Derivatives Update: The Index Puts",
+      type: "insight",
+      content: `The 2009 letter provides an update on the index put options sold pre-crisis. Most are now "underwater" (the indices are lower than the strike price).
+
+Buffett explains why this doesn't threaten Berkshire: (1) the obligations are 15-20 years in the future, (2) Berkshire can afford the worst-case scenario, and (3) the premiums received are invested in the meantime.
+
+He also critiques the accounting: Berkshire must "mark to market" the puts every quarter, creating fictional volatility in reported earnings. Buffett explains why this is misleading.
+
+The lesson: derivatives create accounting volatility that doesn't reflect economic reality. But if you can survive the worst case, they can be rational bets.`
+    }
+  ],
+
+  relatedConcepts: [
+    "be-fearful",
+    "acquisition-strategy",
+    "intrinsic-value",
+    "market-timing",
+    "crisis-opportunity"
+  ],
+
+  relatedCompanies: [
+    "berkshire-hathaway",
+    "burlington-northern",
+    "goldman-sachs",
+    "general-electric"
+  ],
+
+  relatedPeople: ["warren-buffett", "charlie-munger", "ajit-jain"],
+
+  marketContext: {
+    description: `2009 was the first year of recovery after the 2008 financial crisis. The S&P 500 returned about +26.5% (including dividends) — a strong rebound from the 2008 crash. The Fed Funds rate was 0.25% (the lowest in history, part of the "zero interest rate policy" or ZIRP). Inflation was near 0% (deflationary scare). The economy was in recession (officially ended in June 2009). Berkshire's stock price recovered from the 2008 lows but was still below the pre-crisis peak. Buffett was 79 years old and had been running Berkshire for 44 years. The BNSF acquisition would close in early 2010. In hindsight, 2009 was an excellent buying opportunity — but few had the courage to buy.`,
+    sp500Return: "+26.5%",
+    fedFundsRate: "0.25% (ZIRP, emergency low)",
+    inflation: "0.0% (near deflation)",
+    marketPhase: "recovery"
+  },
+
+  keyNumbers: [
+    { label: "Book Value Growth (2009)", value: "-9.6", unit: "%", context: "Calendar year 2009 (second negative year in 45 years)" },
+    { label: "45-Year CAGR (1965-2009)", value: "20.3", unit: "%", context: "Book value per share" },
+    { label: "BNSF Acquisition (2009)", value: "$34.0B", unit: "", context: "Largest acquisition in Berkshire's history" },
+    { label: "Insurance Float (2009)", value: "$63.0B", unit: "", context: "Up from $59.0B in 2008" },
+    { label: "S&P 500 Return (2009)", value: "+26.5", unit: "%", context: "Including dividends — strong recovery year" },
+    { label: "Berkshire vs. S&P (2008-2009)", value: "+15.7", unit: "%", context: "Berkshire outperformed during the crash and recovery" }
+  ],
+
+  thenVsNow: {
+    then: `In 2009, the financial crisis had just peaked. Lehman Brothers had collapsed 12 months earlier. The economy was in recession. Berkshire's stock price had declined from $149,000 to $96,000. Buffett was 79 and had been running Berkshire for 44 years. The BNSF acquisition had just been announced. The "be fearful" framework was brand new. The annual meeting drew about 22,000 people.`,
+    now: `Today, the 2009 letter's "be fearful" framework is legendary. The BNSF acquisition was successful — it's now one of Berkshire's most valuable businesses. The 2008 crisis is seen as a once-in-a-lifetime buying opportunity. Buffett is 94 and has stepped back. The annual meeting draws 40,000+ shareholders. The crisis validated Buffett's willingness to be greedy when others are fearful.`
+  },
+
+  publishedDate: '2026-06-02',
+
+  annotations: [
+    {
+      id: "2009-bnsf-quote",
+      quote: "We acquired Burlington Northern Santa Fe — our largest acquisition ever.",
+      comment: `This is the BNSF announcement. $34 billion for the largest railroad in the U.S. Buffett explains why he bought it (bet on U.S. economic growth, durable competitive advantage, excellent management). The acquisition transformed Berkshire's business mix.`
+    },
+    {
+      id: "2009-fearful-quote",
+      quote: "Be fearful when others are greedy, and greedy when others are fearful.",
+      comment: `This is the most famous Buffett framework. He wrote an op-ed with that title in October 2008 (at the height of the crisis). The message: buy when others are terrified. Most investors can't do it — which is why few succeed.`
+    },
+    {
+      id: "2009-intrinsic-value-quote",
+      quote: "Intrinsic value grew in 2008, even though our stock price declined.",
+      comment: `This is the intrinsic value vs. stock price distinction. The stock price is a *voting machine* in the short run, but a *weighing machine* in the long run. If you're a long-term owner, price declines are opportunities.`
+    }
+  ]
+
+  },
+
+  '2010-berkshire-letter': {
+  overview: `The 2010 Berkshire letter is written in the shadow of the 2008-2009 financial crisis. The economy is recovering, but unemployment remains high and the housing market is still broken.
+
+The major event: Berkshire's acquisition of Burlington Northern Santa Fe (BNSF) closed in February 2010. Buffett explains why he bought it (bet on U.S. economic growth) and why it's a "wonderful" business.
+
+A major theme: Buffett discusses interest rates — which he calls the "lollipop" that makes all assets look cheap. With the Fed Funds rate at 0.25%, stocks are mathematically more attractive than bonds. But few investors realize this.
+
+The letter also contains Buffett's explanation of why Berkshire doesn't split its stock. He wants "owners" (long-term holders), not "traders" (short-term speculators). Stock splits attract traders.`,
+  keyTakeaways: [
+    `BNSF integration: the acquisition closed in February 2010. Buffett explains why it's a "wonderful" business (durable competitive advantage, excellent management, good returns on capital).`,
+    `Interest rates as "lollipop": Buffett explains why low interest rates make stocks more attractive. With the Fed Funds rate at 0.25%, the "risk-free" return is near zero. Stocks are mathematically cheaper.`,
+    `No stock split, ever: Buffett explains why Berkshire doesn't split its stock. He wants "owners" (long-term holders), not "traders" (short-term speculators). Stock splits attract traders.`,
+    `The "fat wallet" problem update: with $150B+ of marketable securities, Berkshire can't find enough undervalued stocks. The answer: acquire entire businesses (BNSF was $34B).`,
+    `Post-crisis recovery: the economy is healing, but unemployment remains high. Buffett is optimistic about the long-term — but realistic about the short-term.`,
+    `The letter's tone is confident and relaxed. The crisis is over. Berkshire is larger than ever. Buffett is 80 years old and showing no signs of slowing down.`
+  ],
+
+  sections: [
+    {
+      title: "BNSF: Why Buffett Bought a Railroad",
+      type: "event",
+      content: `The 2010 letter contains Buffett's most detailed explanation of why he bought BNSF (the largest railroad in the U.S.).
+
+His argument: BNSF is a bet on U.S. economic growth. If the U.S. economy grows, BNSF grows (more freight, more revenue). There's no better way to bet on America than owning its railroad.
+
+He also explains why railroads are "wonderful" businesses: (1) they have duraple competitive advantages (it's nearly impossible to build a new transcontinental railroad), (2) they generate massive cash flow, and (3) they have excellent management (who stay after the acquisition).
+
+The $34 billion price tag raised eyebrows. But Buffett explains that BNSF's normalized earnings power was about $6 billion/year. At 6x earnings, it was a fair price for a wonderful business.
+
+The lesson: the best acquisitions are "wonderful" businesses at fair prices. BNSF was exactly that.`
+    },
+    {
+      title: "Interest Rates: The Lollipop Effect",
+      type: "insight",
+      content: `The 2010 letter contains Buffett's most important discussion of interest rates since the 1970s.
+
+He calls interest rates the "lollipop" that makes all assets look cheap. Here's why: when interest rates are near zero (as they were in 2010), the "risk-free" return (T-bills) is near zero. Stocks, which historically return 10%/year, are mathematically *cheaper* than when interest rates are high.
+
+Buffett explains that most investors don't understand this. They look at "the market" and see "risk." But the *mathematics* say: with interest rates at 0.25%, stocks are the best asset class.
+
+The challenge: you need to be *patient* (stocks can be volatile in the short run). And you need to *understand* what you're buying (don't buy overvalued stocks just because interest rates are low).
+
+The lesson: interest rates are the most important variable in investing. When they're low, stocks are mathematically more attractive. But you still need to buy good businesses at fair prices.`
+    },
+    {
+      title: "Why No Stock Split? Owners vs. Traders",
+      type: "principle",
+      content: `The 2010 letter contains Buffett's definitive explanation of why Berkshire doesn't split its stock.
+
+His argument: stock splits attract *traders* (short-term speculators). If your stock price is $100,000/share (as Berkshire's was in 2010), only *serious long-term investors* will buy it.
+
+Buffett wants *owners*, not *traders*. Owners care about the business's long-term performance. Traders care about short-term price movements. By keeping the stock price high, Buffett filters out the traders.
+
+He also explains that stock splits are a "feel-good" gesture that doesn't create value. If you have 1 share at $100,000 or 50 shares at $2,000 — you own the same percentage of the company.
+
+The lesson: stock splits are a placebo. They don't create value, and they attract the wrong kind of shareholder. Buffett's approach is different — and better.`
+    },
+    {
+      title: "The Fat Wallet Problem Intensifies",
+      type: "background",
+      content: `The 2010 letter candidly discusses the "fat wallet" problem. With $150B+ of marketable securities, Berkshire can't find enough undervalued stocks to move the needle.
+
+The math: to compound $150B at 15%/year, Buffett needs to find $22.5B of undervalued securities *every year*. That's difficult even for the world's greatest investor.
+
+Buffett's answer: acquire entire businesses ("elephants"). A $34B acquisition (BNSF) moves the needle much more than a $34B position in Coca-Cola (which is already owned).
+
+The challenge: good businesses are rarely for sale, and when they are, the price is usually too high. Buffett's solution: patience and a reputation for keeping management in place.
+
+The lesson: size is the enemy of returns. The best returns are achieved with small amounts of capital. Berkshire's $150B market cap means it will never again achieve its historical returns — but it can still achieve superior returns.`
+    },
+    {
+      title: "Post-Crisis Recovery: Realistic Optimism",
+      type: "background",
+      content: `The 2010 letter reflects on the post-crisis recovery. The economy is healing, but unemployment remains high and the housing market is still broken.
+
+Buffett is *optimistic* about the long-term (the U.S. economy is resilient, and crises are always followed by recoveries). But he's *realistic* about the short-term (unemployment will take years to normalize, and housing will take even longer).
+
+He also explains why Berkshire's businesses are recovering at different speeds. See's Candies (a luxury business) recovered quickly (affluent consumers came back first). But construction-related businesses (carpeting, insulation) are still depressed.
+
+The lesson: macroeconomic recovories are never "V-shaped." Different sectors recover at different speeds. Patient investors wait for the recovery — impatient investors panic and sell at the bottom.`
+    }
+  ],
+
+  relatedConcepts: [
+    "acquisition-strategy",
+    "interest-rates",
+    "stock-split",
+    "fat-wallet-problem",
+    "post-crisis-recovery"
+  ],
+
+  relatedCompanies: [
+    "berkshire-hathaway",
+    "burlington-northern",
+    "see's-candies"
+  ],
+
+  relatedPeople: ["warren-buffett", "charlie-munger"],
+
+  marketContext: {
+    description: `2010 was a post-crisis recovery year. The S&P 500 returned about +15.1% (including dividends) — a strong rebound from the 2008 crash. The Fed Funds rate was 0.25% (the lowest in history, part of the "zero interest rate policy" or ZIRP). Inflation was low (~1.6%). Unemployment was still high (~9.6%) as the economy struggled to recover. Housing prices were still declining in many markets. Berkshire's stock price recovered strongly from the 2008 lows. Buffett was 80 years old and had been running Berkshire for 45 years. The BNSF acquisition had just closed. In hindsight, 2010 was an excellent buying opportunity — but few had the courage to buy.`,
+    sp500Return: "+15.1%",
+    fedFundsRate: "0.25% (ZIRP, emergency low)",
+    inflation: "1.6%",
+    marketPhase: "recovery"
+  },
+
+  keyNumbers: [
+    { label: "Book Value Growth (2010)", value: "13.0", unit: "%", context: "Calendar year 2010" },
+    { label: "46-Year CAGR (1965-2010)", value: "20.2", unit: "%", context: "Book value per share" },
+    { label: "BNSF Revenue (2010)", value: "$32.0B", unit: "", context: "First full year after acquisition" },
+    { label: "Insurance Float (2010)", value: "$66.0B", unit: "", context: "Up from $63.0B in 2009" },
+    { label: "S&P 500 Return (2010)", value: "+15.1", unit: "%", context: "Including dividends — strong recovery year" },
+    { label: "Berkshire vs. S&P (2008-2010)", value: "+15.7", unit: "%", context: "Berkshire outperformed during the crash and recovery" }
+  ],
+
+  thenVsNow: {
+    then: `In 2010, the financial crisis was over and the economy was recovering. Unemployment was still high (9.6%). Housing prices were still declining. Berkshire had just closed the $34B BNSF acquisition. Buffett was 80 years old and had been running Berkshire for 46 years. The annual meeting drew about 25,000 people. The "lollipop" of low interest rates was just starting to have its effect.`,
+    now: `Today, the 2010 letter's discussion of interest rates seems prophetic. The Fed kept rates near zero for 7 more years (until 2017). Stocks soared. The BNSF acquisition was wildly successful — it's now one of Berkshire's most valuable businesses. Buffett is 94 and has stepped back. The annual meeting draws 40,000+ shareholders. The "fat wallet" problem is now a "mega-wallet" problem.`
+  },
+
+  publishedDate: '2026-06-03',
+
+  annotations: [
+    {
+      id: "2010-bnsf-quote",
+      quote: "We acquired Burlington Northern Santa Fe — our largest acquisition ever.",
+      comment: `This is the BNSF discussion. $34 billion for the largest railroad in the U.S. Buffett explains why he bought it (bet on U.S. economic growth, durable competitive advantage, excellent management). The acquisition transformed Berkshire's business mix.`
+    },
+    {
+      id: "2010-interest-rates-quote",
+      quote: "Interest rates are the lollipop that makes all assets look cheap.",
+      comment: `This is the interest rate discussion. With the Fed Funds rate at 0.25%, stocks are mathematically more attractive than bonds. Most investors don't understand this — which is why they miss the best buying opportunities.`
+    },
+    {
+      id: "2010-no-split-quote",
+      quote: "We don't split our stock. We want owners, not traders.",
+      comment: `This is the "no stock split" explanation. Buffett wants *owners* (long-term holders), not *traders* (short-term speculators). Stock splits attract traders. By keeping the stock price high, Buffett filters out the traders.`
+    }
+  ]
+
   }
 
 }
