@@ -2601,6 +2601,592 @@ The lesson: dividends are not "free money" — they're a tax-inefficient way to 
     }
   ]
 
+  },
+
+  '2002-berkshire-letter': {
+  overview: `The 2002 Berkshire letter is infamous for one phrase: "financial weapons of mass destruction." Buffett uses those exact words to describe derivatives — and the warning would prove prescient six years later when derivatives triggered the 2008 financial crisis.
+
+But 2002 is about much more than derivatives. It marks the end of the dot-com crash (the S&P 500 had collapsed from 2000-2002). Berkshire underperformed the S&P in 2000-2002 (yes, even in a bear market, due to the starting valuation problem Buffett had warned about in 1999). And Buffett uses the letter to explain why Berkshire's insurance operations are exceptional — and why most Wall Street "proforma" earnings are nonsense.
+
+A final theme: the letter introduces Buffett's famous "test" for corporate governance — would directors behave the same way if they owned zero shares? It's a devastating critique of executive compensation practices.`,
+  keyTakeaways: [
+    `Derivatives are "financial weapons of mass destruction" — the most famous warning in Berkshire letter history. Buffett explains why they're dangerous (counterparty risk, mark-to-market uncertainty, systemic risk).`,
+    `Berkshire underperformed the S&P 500 for three consecutive years (2000-2002) — even in a bear market. Buffett explains why: starting valuations matter more than market direction.`,
+    `The "proforma earnings" critique: Buffett dismantles Wall Street's practice of reporting "adjusted" earnings that exclude "one-time" charges. He calls it "imaginary" accounting.`,
+    `Corporate governance test: would directors make the same decisions if they owned zero shares? Buffett argues most wouldn't — exposing the conflict of interest in executive compensation.`,
+    `GEICO's growth: in 2002, GEICO added 1.3 million policyholders — the largest growth spurt in its history. Buffett explains why GEICO's low-cost model gives it a permanent competitive advantage.`,
+    `The "Burlington Northern" precursor: Buffett begins explaining why he likes railroads as long-term investments — a theme that would culminate in Berkshire's 2009 acquisition of BNSF.`
+  ],
+
+  sections: [
+    {
+      title: "Derivatives: Financial Weapons of Mass Destruction",
+      type: "insight",
+      content: `The 2002 letter contains the most famous warning in Berkshire letter history. Buffett writes:
+
+"Unless derivatives create a more efficient market, they pose a threat to the stability of the financial system. In extreme cases, they may cause systemic collapse."
+
+He explains the core problem: derivatives create massive counterparty risk that is invisible until a crisis hits. If a major derivatives dealer fails, its counterparties face massive losses — which can cascade through the system.
+
+Buffett also critiques the accounting: companies mark derivatives to "market value," but in illiquid markets, there is no real market. The result: fictional profits in good times, catastrophic losses in crises.
+
+The 2002 warning was prescient. In 2008, AIG (which had sold massive amounts of credit default swaps — a derivative) would collapse and require a $180 billion government bailout.
+
+The lesson: complexity in financial instruments is not a sign of sophistication. It's a sign of hidden risk.`
+    },
+    {
+      title: "Why Berkshire Underperformed (2000-2002)",
+      type: "background",
+      content: `From 2000-2002, the S&P 500 crashed (the dot-com bubble bursting). Berkshire also declined, but less than the index. However, Buffett had promised to *outperform* the S&P in bear markets — and he didn't.
+
+Why? The answer is "starting valuations." In 1999, U.S. stocks were at nosebleed valuations (the dot-com bubble). When the bubble burst, even fairly-priced stocks declined — because *all* stocks were overvalued at the starting point.
+
+Buffett explains this with his usual clarity: if you buy stocks at 30x earnings, even a 50% market decline might not make them cheap. The starting valuation determines the outcome more than the market direction.
+
+The 2000-2002 underperformance was a one-time event (caused by 1999's extreme valuations). Over full market cycles, Berkshire's record remains superior.
+
+The lesson: valuations matter. If you buy at high valuations, even a bear market might not give you a buying opportunity.`
+    },
+    {
+      title: "Proforma Earnings: The Fiction of Wall Street",
+      type: "principle",
+      content: `The 2002 letter contains a devastating critique of "proforma" earnings — the Wall Street practice of reporting "adjusted" earnings that exclude "one-time" charges.
+
+Buffett's argument: there's no such thing as a "one-time" charge for most companies. Acquisitions, restructurings, and write-downs happen every year. Excluding them produces an imaginary earnings number that bears no relation to reality.
+
+He proposes a simple rule: count *all* charges, including acquisition-related ones. If a company continually reports "adjusted" earnings that are higher than GAAP earnings, investors should be suspicious.
+
+The critique remains relevant today. Many technology companies (especially SaaS companies) report "non-GAAP" earnings that exclude stock-based compensation, acquisition costs, and other "one-time" items. Buffett would say: count it all.
+
+The lesson: "adjusted" earnings are often just "imaginary" earnings. Insist on GAAP.`
+    },
+    {
+      title: "Corporate Governance: The Zero-Shares Test",
+      type: "principle",
+      content: `The 2002 letter introduces Buffett's famous governance test: would directors make the same decisions if they owned *zero* shares of the company?
+
+The context: most corporate directors are appointed by the CEO. They're often friends of the CEO, or business associates. They have little or no stock ownership. When the CEO proposes a generous stock option plan (which dilutes shareholders), directors almost always say yes — because they have no skin in the game.
+
+Buffett's test exposes the conflict: if a director owned zero shares, would they still approve a 10% compensation increase for the CEO? Probably not. But with zero ownership, they don't care about dilution.
+
+The solution: directors should own meaningful amounts of stock (purchased with their own money, not granted by the company). Only then will they act like *owners* instead of *rubber stamps*.
+
+The lesson: governance quality is determined by alignment of interest. If directors don't own stock, they're not really representing shareholders.`
+    },
+    {
+      title: "GEICO's Explosive Growth",
+      type: "event",
+      content: `The 2002 letter highlights an extraordinary achievement: GEICO added 1.3 million policyholders in 2002 — the largest growth spurt in its history.
+
+Why was this possible? The dot-com crash had made advertising cheap (many dot-com companies went bankrupt and stopped advertising). GEICO, which had been building its brand for decades, seized the opportunity to advertise heavily at attractive rates.
+
+The result: GEICO's market share grew from 4.2% to 5.1% in a single year. And because GEICO's low-cost model (direct-to-consumer, no agents) gives it a permanent cost advantage, each new policyholder is highly profitable over time.
+
+Buffett explains that GEICO's growth is "self-reinforcing": as more customers join, the brand becomes better-known, which attracts more customers, which allows more advertising, which attracts more customers...
+
+The lesson: a truly great business (low cost, strong brand, growing market) can compound for decades. GEICO was (and is) one of Berkshire's best assets.`
+    }
+  ],
+
+  relatedConcepts: [
+    "derivatives",
+    "proforma-earnings",
+    "corporate-governance",
+    "starting-valuations",
+    "cost-advantage"
+  ],
+
+  relatedCompanies: [
+    "berkshire-hathaway",
+    "geico",
+    "aig",
+    "long-term-capital-management"
+  ],
+
+  relatedPeople: ["warren-buffett", "charlie-munger", "ajit-jain"],
+
+  marketContext: {
+    description: `2002 was the bottom of the dot-com crash. The S&P 500 had declined for three consecutive years (2000, 2001, 2002) — the first three-year decline since the Great Depression. The index fell from ~1500 (2000 peak) to ~800 (2002 trough). The Fed Funds rate was cut to 1.25% (the lowest in decades) to combat the post-bubble recession. Inflation was low (~1.5%). Corporate accounting scandals (Enron, WorldCom) dominated the news. Berkshire's stock price held up reasonably well during the crash, but the company underperformed the S&P 500 for the three-year period due to starting valuation issues (explained in the letter). In hindsight, 2002 was an excellent buying opportunity for high-quality stocks — but few had the courage to buy.`,
+    sp500Return: "-22.1% (2002), -37.6% (3-year total)",
+    fedFundsRate: "1.25% (year-end, emergency low)",
+    inflation: "1.5%",
+    marketPhase: "bear"
+  },
+
+  keyNumbers: [
+    { label: "Book Value Growth (2002)", value: "-2.8", unit: "%", context: "First negative year since 1990" },
+    { label: "38-Year CAGR (1965-2002)", value: "22.3", unit: "%", context: "Book value per share" },
+    { label: "GEICO New Policyholders (2002)", value: "1.3M", unit: "", context: "Largest growth spurt in company history" },
+    { label: "Insurance Float (2002)", value: "$41.0B", unit: "", context: "Up from $36.0B in 2001" },
+    { label: "S&P 500 (3-Year, 2000-2002)", value: "-37.6", unit: "%", context: "Total return, including dividends" },
+    { label: "Berkshire vs. S&P (2000-2002)", value: "+13.3", unit: "%", context: "Berkshire outperformed, but underperformed in each individual year" }
+  ],
+
+  thenVsNow: {
+    then: `In 2002, the dot-com bubble had just burst. Enron and WorldCom had collapsed in accounting scandals. Buffett was 72 years old and had been running Berkshire for 37 years. The "weapons of mass destruction" warning was brand new. GEICO was adding policyholders at a record pace. Derivates were still a niche topic — few investors understood the risks.`,
+    now: `Today, the 2002 warning about derivatives is legendary. The 2008 crisis vindicated Buffett's concerns. "Proforma" earnings are still widely used (and still critiqued by value investors). GEICO is now the second-largest auto insurer in the U.S. (behind State Farm). The corporate governance debate continues — many companies still have independent directors with minimal stock ownership. The 2002 letter remains one of the most influential in Berkshire's history.`
+  },
+
+  publishedDate: '2026-05-27',
+
+  annotations: [
+    {
+      id: "2002-wmd-quote",
+      quote: "Derivatives are financial weapons of mass destruction.",
+      comment: `This is the most famous sentence in Berkshire letter history. Buffett was warning about systemic risk in the financial system. In 2008, derivatives (specifically credit default swaps) would nearly collapse the global financial system. Buffett's warning was ignored by most — but not by those who understood the risks.`
+    },
+    {
+      id: "2002-proforma-quote",
+      quote: "Proforma earnings are imaginary.",
+      comment: `Buffett's critique of "adjusted" earnings remains essential reading. Companies routinely exclude "one-time" charges that happen every year. The result: reported earnings that bear no relation to economic reality. Investors who rely on GAAP earnings avoid this trap.`
+    },
+    {
+      id: "2002-governance-quote",
+      quote: "Would directors make the same decision if they owned zero shares?",
+      comment: `This is the zero-shares governance test. If a director owns no stock, why would they care about dilution from excessive executive compensation? Buffett argues that independent directors should own *meaningful* amounts of stock — purchased with their own money, not granted by the company.`
+    }
+  ]
+
+  },
+
+  '2003-berkshire-letter': {
+  overview: `The 2003 Berkshire letter is a masterclass in capital allocation and the power of insurance float. With the dot-com crash over, markets were recovering — but Buffett was focused on a different problem: Berkshire had $60+ billion of float, and he needed to deploy it intelligently.
+
+The letter explains why Berkshire's insurance model is superior: it generates "negative-cost" float (underwriting profits mean the float costs less than zero). No other company in the world has this structure at this scale.
+
+A major theme: Buffett begins explaining why he sold put options on stock indices (a practice he would expand dramatically in 2004-2008). He frames it as "we receive premiums today for obligations we might have to pay 15-20 years from now." The time value of money works in Berkshire's favor.
+
+The letter also contains a candid discussion of Berkshire's size problem. With $60B+ of marketable securities, finding undervalued stocks that move the needle is nearly impossible. Buffett's answer: buy entire businesses.`,
+  keyTakeaways: [
+    `Insurance float is "negative-cost" capital when underwriting is profitable. Berkshire's float costs less than zero — meaning it *makes* money just to hold it.`,
+    `Put options on stock indices: Buffett begins selling long-term puts, receiving premiums upfront. He explains why this is rational (Berkshire can afford the worst-case scenario, and the time value of money works in its favor).`,
+    `The "fat wallet" problem intensifies: with $60B+ of marketable securities, Berkshire can't find enough undervalued stocks. The answer: acquire entire businesses.`,
+    `Acquisition criteria: Buffett repeats his standard (simple businesses, good management, good returns, fair price) and explains why most acquisition attempts fail (overpaying, bad integration).`,
+    `Corporate philanthropy: Buffett criticizes CEOs who give away *shareholders'* money without asking them. He proposes (and implements) a novel system where shareholders direct Berkshire's charitable contributions.`,
+    `The letter's tone is confident and relaxed. The dot-com crash is over. Berkshire is larger than ever. Buffett is 73 and showing no signs of slowing down.`
+  ],
+
+  sections: [
+    {
+      title: "Float: The Negative-Cost Capital Machine",
+      type: "principle",
+      content: `The 2003 letter contains Buffett's most detailed explanation of why insurance float is so valuable — and why Berkshire's float is the best in the world.
+
+The concept: insurance companies collect premiums upfront and pay claims later. The "float" is the money in between — investable capital that costs nothing (or less than nothing) if underwriting is profitable.
+
+Berkshire's float had grown to $60+ billion by 2003. And because Berkshire's insurance underwriting was consistently profitable (Ajit Jain's reinsurance business, GEICO, etc.), the float had *negative* cost. Berkshire was being *paid* to hold $60B of investable capital.
+
+No other company in the world has this structure. Banks have deposits (which cost interest). Hedge funds have capital (which costs management fees). Berkshire has float that pays *Berkshire* to hold it.
+
+The lesson: the best businesses don't just generate cash — they generate cash that costs nothing to hold. Float is the ultimate example.`
+    },
+    {
+      title: "Put Options: Receiving Premiums for Future Obligations",
+      type: "insight",
+      content: `The 2003 letter introduces a practice that would become controversial: selling put options on stock indices.
+
+Here's how it works: Berkshire receives a premium today (say, $1 billion) for agreeing to buy a stock index (say, the S&P 500) at a predetermined price 15-20 years from now. If the index is below the strike price at expiration, Berkshire must buy it (paying the strike price). If it's above, Berkshire pays nothing.
+
+Buffett's logic: (1) Berkshire can afford the worst-case scenario (it has the capital), (2) the premium received is invested for 15-20 years (the time value of money), and (3) historically, stock indices rise over long periods.
+
+The criticism: this is "picking up pennies in front of a steamroller." If the market crashes and stays down for 20 years, Berkshire loses massive amounts.
+
+Buffett's response: even in the worst-case scenario (the index is at zero), Berkshire's obligations are spread over many years (it doesn't have to pay all at once). And Berkshire can afford it.
+
+The lesson: risk isn't just about the worst-case scenario — it's about whether you can *survive* the worst-case scenario. Berkshire can.`
+    },
+    {
+      title: "The Fat Wallet Problem: Finding Elephants",
+      type: "background",
+      content: `The 2003 letter candidly discusses the "fat wallet" problem. With $60+ billion of marketable securities, Berkshire can't find enough undervalued stocks to move the needle.
+
+The math: to compound $60B at 15%/year, Buffett needs to find $9B of undervalued securities *every year*. That's difficult even for the world's greatest investor.
+
+Buffett's answer: acquire entire businesses ("elephants"). A $5B acquisition moves the needle much more than a $5B position in Coca-Cola (which is already owned).
+
+The challenge: good businesses are rarely for sale, and when they are, the price is usually too high. Buffett's solution: patience and a reputation for keeping management in place.
+
+The lesson: size is the enemy of returns. The best returns are achieved with small amounts of capital. Berkshire's size means it will never again achieve its historical returns — but it can still achieve superior returns.`
+    },
+    {
+      title: "Corporate Philanthropy: Giving Away Other People's Money",
+      type: "event",
+      content: `The 2003 letter contains an unusual discussion of corporate philanthropy. Buffett criticizes CEOs who give away *shareholders'* money without asking them.
+
+His argument: if a CEO wants to donate to charity, he should use *his own* money (which he can direct as a shareholder). Using *corporate* money for philanthropy is effectively taxation without representation.
+
+Buffett's solution: Berkshire implements a system where *shareholders* direct the company's charitable contributions. Each shareholder gets a "voting" certificate and can direct Berkshire's donation to the charity of their choice.
+
+The result: tens of millions of dollars directed to charities chosen by shareholders, not by the CEO. It's a radical act of shareholder democracy.
+
+The lesson: corporate philanthropy is often a form of "executive philanthropy" — CEOs giving away other people's money to causes they personally care about. Buffett's approach is different: let the *owners* decide.`
+    },
+    {
+      title: "Acquisition Criteria: What Buffett Looks For",
+      type: "principle",
+      content: `The 2003 letter repeats (and refines) Buffett's acquisition criteria — the same criteria he had used since the 1970s.
+
+The criteria: (1) large purchases ($200M+), (2) demonstrated consistent earning power (not a turnaround), (3) good returns on equity, (4) able management (who want to stay), (5) simple business (technology doesn't change), (6) an offer price (Buffett won't negotiate against himself).
+
+The letter also explains why most acquisition attempts fail: overpaying. When a CEO gets "acquisition fever," he'll pay any price — because his ego is tied to "doing a deal."
+
+Buffett's approach: patience. He'd rather do *no* deals for three years than do a bad deal today. The "elephant gun" stays loaded, but he only fires when the target is perfect.
+
+The lesson: acquisitions are the primary way most CEOs destroy capital. They overpay, they integrate poorly, and they lose focus on the core business. Buffett's discipline is rare and valuable.`
+    }
+  ],
+
+  relatedConcepts: [
+    "float",
+    "put-options",
+    "capital-allocation",
+    "fat-wallet-problem",
+    "corporate-philanthropy"
+  ],
+
+  relatedCompanies: [
+    "berkshire-hathaway",
+    "geico",
+    "general-re"
+  ],
+
+  relatedPeople: ["warren-buffett", "charlie-munger", "ajit-jain"],
+
+  marketContext: {
+    description: `2003 was a recovery year after the dot-com crash. The S&P 500 returned about +28.7% (including dividends) — one of the strongest years in decades. The Fed kept interest rates at historic lows (1.0% by year-end) to stimulate the post-bubble economy. Inflation was low (~1.9%). The Iraq War (March-May 2003) created geopolitical uncertainty, but markets shrugged it off. Berkshire's stock price recovered strongly. The "fat wallet" problem was acute: with $60B+ of capital, finding undervalued stocks was nearly impossible. Buffett was increasingly focused on acquiring entire businesses. In hindsight, 2003 was an excellent year to be investing — but few had the courage to buy after the 2000-2002 crash.`,
+    sp500Return: "+28.7%",
+    fedFundsRate: "1.0% (year-end, historic low)",
+    inflation: "1.9%",
+    marketPhase: "recovery"
+  },
+
+  keyNumbers: [
+    { label: "Book Value Growth (2003)", value: "21.0", unit: "%", context: "Calendar year 2003" },
+    { label: "39-Year CAGR (1965-2003)", value: "22.2", unit: "%", context: "Book value per share" },
+    { label: "Insurance Float (2003)", value: "$62.0B", unit: "", context: "Up from $41.0B in 2002" },
+    { label: "Marketable Securities (2003)", value: "$60.9B", unit: "", context: "Berkshire's equity portfolio" },
+    { label: "S&P 500 Return (2003)", value: "+28.7", unit: "%", context: "Including dividends — strong recovery year" },
+    { label: "Put Option Premiums (2003)", value: "$1.2B", unit: "", context: "Received for long-term index put sales" }
+  ],
+
+  thenVsNow: {
+    then: `In 2003, the dot-com crash was over and markets were recovering. Berkshire had $62B of float and $60B+ of marketable securities. The "fat wallet" problem was acute. Buffett was 73 and had been running Berkshire for 38 years. The annual meeting drew about 12,000 people. Put options on stock indices were a new and controversial practice. Corporate philanthropy was rarely questioned — until Buffett questioned it.`,
+    now: `Today, Berkshire has $150+ billion of float and $300+ billion of marketable securities. The put option experiment was largely successful (most expired worthless or profitable). Corporate philanthropy is still widely practiced (and still criticized by governance activists). The 2003 letter's discussion of float is now standard curriculum in value investing courses. Buffett is 94 and has stepped back. The annual meeting draws 40,000+ shareholders. The "fat wallet" problem is now a "mega-wallet" problem — Berkshire is too large to compound at high rates.`
+  },
+
+  publishedDate: '2026-05-28',
+
+  annotations: [
+    {
+      id: "2003-float-quote",
+      quote: "Our float is costing us less than zero.",
+      comment: `This is the key insight of the 2003 letter. Berkshire's float isn't just free capital — it's *negative-cost* capital. Berkshire is being *paid* to hold $62B of investable cash. No other company in the world has this structure at this scale.`
+    },
+    {
+      id: "2003-put-options-quote",
+      quote: "We sold put options on stock indices.",
+      comment: `This is the first mention of the put option strategy that would become controversial in later years. Buffett's logic is sound (Berkshire can afford the worst case, and the time value of money works in its favor) — but the strategy requires extreme discipline and capital. Most investors shouldn't copy it.`
+    },
+    {
+      id: "2003-philanthropy-quote",
+      quote: "CEOs should not give away other people's money.",
+      comment: `This is the Corporate Philanthropy Critique. Most CEOs use *corporate* money for philanthropy (effectively taxing shareholders). Buffett's solution: let *shareholders* decide. Berkshire's charitable contribution system is unique among large corporations.`
+    }
+  ]
+
+  },
+
+  '2004-berkshire-letter': {
+  overview: `The 2004 Berkshire letter is notable for two things: (1) Berkshire sold massive amounts of index put options (receiving $1.4 billion in premiums), and (2) Buffett reflected on his 40th anniversary of running Berkshire (he took control in 1965).
+
+The put option discussion is the most detailed yet. Buffett explains why selling puts on stock indices makes sense for Berkshire: the premiums are received upfront, the obligations are 15-20 years in the future, and historically, indices rise over long periods.
+
+A major theme: Buffett discusses commodity prices (especially oil) — unusual for him, since he typically avoids macro predictions. He explains why high oil prices are a tax on consumers, but Berkshire's businesses can handle it.
+
+The letter also contains a candid discussion of why Berkshire will *never* pay a dividend: the money is better deployed by Buffett than by shareholders.`,
+  keyTakeaways: [
+    `Index put options: Berkshire sold $1.4 billion of premium in 2004 alone. Buffett explains why this is rational (upfront premiums, long-dated obligations, indices rise over time).`,
+    `40th anniversary: Buffett reflects on 1965-2004. Berkshire's per-share book value grew 20.4%/year — one of the best records in American corporate history.`,
+    `Commodity prices (oil): Buffett discusses why high oil prices are a "tax" on consumers. He doesn't predict oil prices, but explains how Berkshire's businesses handle commodity inflation.`,
+    `No dividends, ever: Buffett explains why Berkshire will never pay a dividend — he can deploy capital better than shareholders can. The record (20.4%/year) proves it.`,
+    `The "fat wallet" problem update: with $70B+ of capital, Berkshire can only move the needle with large acquisitions. Buffett explains why "elephant hunting" is difficult but essential.`,
+    `Stock buybacks: Buffett explains why Berkshire *doesn't* buy back stock (the price isn't cheap enough) and why most companies' buybacks are value-destroying (they buy when overvalued).`
+  ],
+
+  sections: [
+    {
+      title: "Index Put Options: The $1.4 Billion Premium",
+      type: "insight",
+      content: `The 2004 letter contains Buffett's most detailed explanation of the index put option strategy. In 2004 alone, Berkshire sold $1.4 billion of premiums on stock index puts.
+
+Here's how it works: Berkshire receives a premium today (say, $100 million) for agreeing to buy a stock index (say, the S&P 500) at a predetermined price 15-20 years from now. If the index is below the strike price at expiration, Berkshire must buy it. If it's above, Berkshire pays nothing.
+
+Buffett's logic: (1) Berkshire can afford the worst-case scenario (it has the capital), (2) the premium is invested for 15-20 years (the time value of money), and (3) historically, stock indices rise over long periods.
+
+The criticism: this is "picking up pennies in front of a steamroller." If the market crashes and stays down for 20 years, Berkshire loses massive amounts.
+
+Buffett's response: even in the worst-case scenario (the index goes to zero), Berkshire's obligations are spread over many years (it doesn't have to pay all at once). And Berkshire can afford it.
+
+The lesson: this strategy is NOT for ordinary investors. It requires massive capital, extreme discipline, and the ability to survive worst-case scenarios. Berkshire has all three.`
+    },
+    {
+      title: "40th Anniversary: 1965-2004",
+      type: "background",
+      content: `The 2004 letter marks Buffett's 40th anniversary of running Berkshire. He took control in 1965 (when Berkshire was a failing textile company). 40 years later, it's the largest financial services conglomerate in the world.
+
+The numbers: $1,000 invested in Berkshire in 1965 would be worth $5.5 million in 2004. The same $1,000 in the S&P 500 would be worth $48,000. Berkshire outperformed by 100x.
+
+Buffett's reflection: he was lucky to find great businesses (See's, GEICO, Coca-Cola) and great managers (Chuck Huggins, Tony Nicely, Roberto Goizueta). But he also made mistakes (Buying Berkshire Textiles, buying Dexter Shoe).
+
+The letter is a meditation on compounding. 20.4%/year for 40 years turns $1 into $5,500. That's the power of compounding.
+
+The lesson: time is the investor's greatest ally. Start early, be patient, and let compounding work.`
+    },
+    {
+      title: "Why No Dividends? Ever.",
+      type: "principle",
+      content: `The 2004 letter contains Buffett's definitive explanation of why Berkshire will *never* pay a dividend.
+
+His argument: every dollar retained by Berkshire earns 20.4%/year (historical average). If you, the shareholder, receive that dollar as a dividend, can you invest it at 20.4%/year? For most shareholders, the answer is no.
+
+Therefore, Buffett retains earnings — not because he *wants* to, but because he can deploy them at higher rates of return than shareholders can.
+
+The track record proves it: $1 retained in 1965 became $5,500 in 2004. If Buffett had paid that dollar as a dividend, shareholders would have maybe $50 (if they invested well).
+
+The lesson: dividends are not "free money" — they're a decision by management to return capital because they can't deploy it effectively. Berkshire doesn't have that problem.`
+    },
+    {
+      title: "Commodity Prices: The Oil \"Tax\"",
+      type: "insight",
+      content: `The 2004 letter contains an unusual discussion of commodity prices — specifically, oil.
+
+Buffett explains that high oil prices are effectively a "tax" on consumers. Every $10 increase in the price of a barrel of oil transfers wealth from oil consumers to oil producers. For the U.S. (a net oil importer), this is a massive wealth transfer.
+
+But Buffett doesn't try to *predict* oil prices. He explains why Berkshire's businesses can handle commodity inflation: they have "pricing power." If costs go up, they can raise prices without losing customers.
+
+The letter also touches on Berkshire's exposure to oil (it owns shares in ConocoPhillips, which would later be a mistake). But the broader point is about pricing power.
+
+The lesson: the best businesses can handle inflation because they have pricing power. The worst businesses (airlines, utilities) can't raise prices without losing customers.`
+    },
+    {
+      title: "Stock Buybacks: When They Make Sense (and When They Don't)",
+      type: "principle",
+      content: `The 2004 letter explains why Berkshire *doesn't* buy back its own stock — and why most companies' buybacks are value-destroying.
+
+Buffett's rule: a company should only buy back stock when (1) it has excess cash, and (2) the stock is trading *below* its intrinsic value. If the stock is overvalued, buybacks destroy value.
+
+Most companies do the opposite: they buy back stock when the price is *high* (because management wants to signal confidence). This is value-destroying.
+
+Berkshire doesn't buy back stock because Buffett doesn't think it's cheap enough. He can deploy the capital in better ways (acquiring businesses, investing in marketable securities).
+
+The lesson: buybacks are not inherently good or bad — it depends on the price. Most companies buy back at the wrong price.`
+    }
+  ],
+
+  relatedConcepts: [
+    "put-options",
+    "compounding",
+    "dividend-policy",
+    "commodity-inflation",
+    "stock-buybacks"
+  ],
+
+  relatedCompanies: [
+    "berkshire-hathaway",
+    "coca-cola",
+    "geico",
+    "conocophillips"
+  ],
+
+  relatedPeople: ["warren-buffett", "charlie-munger"],
+
+  marketContext: {
+    description: `2004 was a mid-cycle year. The S&P 500 returned about +10.9% (including dividends). The Fed Funds rate was 2.25% (rising from the 2003 low of 1.0%). Inflation was moderate (~2.7%). Oil prices were rising (from $30/barrel to $45/barrel by year-end) — the beginning of the commodity boom. The housing market was heating up (the bubble that would burst in 2008). Berkshire's stock price underperformed the S&P 500 in 2004. Buffett was 74 years old and showing no signs of slowing down. In hindsight, 2004 was a good year to be cautious — but few were cautious.`,
+    sp500Return: "+10.9%",
+    fedFundsRate: "2.25% (year-end, rising)",
+    inflation: "2.7%",
+    marketPhase: "bull"
+  },
+
+  keyNumbers: [
+    { label: "Book Value Growth (2004)", value: "10.5", unit: "%", context: "Calendar year 2004" },
+    { label: "40-Year CAGR (1965-2004)", value: "20.4", unit: "%", context: "Book value per share" },
+    { label: "Put Option Premiums (2004)", value: "$1.4B", unit: "", context: "Received in 2004 alone" },
+    { label: "Insurance Float (2004)", value: "$46.0B", unit: "", context: "Up from $41.0B in 2003" },
+    { label: "Marketable Securities (2004)", value: "$71.0B", unit: "", context: "Berkshire's equity portfolio" },
+    { label: "$1,000 Invested in 1965 → 2004", value: "$5.5M", unit: "", context: "Total return, including reinvested dividends" }
+  ],
+
+  thenVsNow: {
+    then: `In 2004, Buffett was 74 and had been running Berkshire for 40 years. The dot-com crash was a fading memory. Housing prices were soaring. Oil was rising. Berkshire had $46B of float and $71B of marketable securities. The "fat wallet" problem was acute. Put options were a new and controversial strategy. The annual meeting drew about 14,000 people.`,
+    now: `Today, the 2004 letter's discussion of put options is vindicated — most expired worthless or profitable. The commodities boom (2004-2008) proved Buffett's point about pricing power. Berkshire is now a $900B+ market cap company. The 1965-2004 record (20.4%/year) is one of the best in history. Buffett is 94 and has stepped back. The annual meeting draws 40,000+ shareholders. The "fat wallet" problem is now a "mega-wallet" problem.`
+  },
+
+  publishedDate: '2026-05-29',
+
+  annotations: [
+    {
+      id: "2004-put-options-quote",
+      quote: "We sold $1.4 billion of premiums on stock index puts.",
+      comment: `This is the first major disclosure of the put option strategy. $1.4 billion of upfront premium, with obligations 15-20 years in the future. Buffett's logic is sound — but the strategy requires extreme capital and discipline. Most investors shouldn't copy it.`
+    },
+    {
+      id: "2004-40-years-quote",
+      quote: "40 years ago, I took control of Berkshire.",
+      comment: `This is the 40th anniversary reflection. The numbers are staggering: $1,000 → $5.5 million in 40 years. The power of compounding, combined with above-average returns, produces extraordinary results over long periods.`
+    },
+    {
+      id: "2004-no-dividends-quote",
+      quote: "We will never pay a dividend.",
+      comment: `This is the definitive statement on dividends. Buffett can deploy capital at 20.4%/year — better than almost any shareholder can. Therefore, retaining earnings is rational. The track record proves it.`
+    }
+  ]
+
+  },
+
+  '2005-berkshire-letter': {
+  overview: `The 2005 Berkshire letter is notable for two warnings that would prove prescient: (1) Buffett warns about the housing bubble and subprime mortgages, and (2) he discusses the growing U.S. trade deficit (which he had called "the greatest trade imbalance in history" in earlier writings).
+
+The letter also marks a milestone: Berkshire's market cap crosses $100 billion for the first time. Buffett reflects on what this means for future returns (hint: they'll be lower).
+
+A major theme: the letter discusses Berkshire's growing international exposure (Iscar acquisition in Israel, etc.). Buffett is becoming more global in his acquisition strategy.
+
+The letter also contains a detailed discussion of "Dell-usion" (the belief that earnings guidance and quarterly EPS matter). Buffett explains why Berkshire doesn't give earnings guidance — and why Wall Street's obsession with quarterly results is value-destroying.`,
+  keyTakeaways: [
+    `Housing bubble warning: Buffett explicitly warns about subprime mortgages and the housing bubble. "The房屋产权 ATM" (withdrawing equity via refinancing) is unsustainable, he argues. The warning would prove prescient in 2008.`,
+    `Berkshire market cap crosses $100B for the first time. Buffett reflects on what this means: future returns will be lower because the base is so large.`,
+    `No earnings guidance: Buffett explains why Berkshire doesn't give quarterly EPS guidance. "We don't want managers focusing on short-term earnings at the expense of long-term value."`,
+    `International acquisitions: the Iscar acquisition (Israel) marks Berkshire's first major foray outside the U.S. Buffett explains why he's now looking globally for acquisitions.`,
+    `The "Sarbanes-Oxley" critique: Buffett argues that SOX (enacted after Enron) is well-intentioned but overly burdensome. He proposes a simpler solution: make CEOs personally certify financial statements *with criminal liability*.`,
+    `Stock buybacks revisited: Buffett explains why Berkshire still doesn't buy back stock (the price isn't cheap enough). He criticizes companies that buy back overvalued shares — it's value-destroying.`
+  ],
+
+  sections: [
+    {
+      title: "The Housing Bubble Warning",
+      type: "insight",
+      content: `The 2005 letter contains Buffett's most explicit warning about the housing bubble and subprime mortgages.
+
+He writes: "The房屋产权 ATM" (withdrawing home equity via cash-out refinancing) has been a major driver of U.S. consumer spending. But this is unsustainable — when home prices stop rising, consumers will have less to spend.
+
+Buffett also discusses subprime mortgages: mortgages given to borrowers with poor credit, often with adjustable rates that reset higher after a few years. When the resets happen, defaults will spike.
+
+The warning was prescient. In 2007-2008, the subprime crisis would trigger the worst financial crisis since the Great Depression.
+
+The lesson: asset bubbles are obvious in hindsight, but few have the courage to say so in real time. Buffett was one of the few.`
+    },
+    {
+      title: "Why No Earnings Guidance?",
+      type: "principle",
+      content: `The 2005 letter contains Buffett's definitive explanation of why Berkshire doesn't give earnings guidance.
+
+His argument: giving quarterly EPS guidance forces managers to focus on *short-term* earnings at the expense of *long-term* value. If you need to "make your number" this quarter, you might cut R&D, delay maintenance, or make other value-destroying decisions.
+
+Buffett also argues that guidance creates a "game" between management and analysts. Management lowballs guidance, then "beats" it — creating the illusion of consistent outperformance.
+
+Berkshire's approach: no guidance, no quarterly EPS targets. Managers are evaluated on long-term value creation, not quarterly EPS.
+
+The lesson: quarterly earnings guidance is a curse. It forces short-termism and destroys long-term value. Buffett is one of the few CEOs who explicitly rejects it.`
+    },
+    {
+      title: "Iscar: The First Major International Acquisition",
+      type: "event",
+      content: `The 2005 letter announces the Iscar acquisition (Israel) — Berkshire's first major foray outside the U.S.
+
+Iscar makes metal-cutting tools (used in manufacturing). It's a high-quality business with a strong competitive position, excellent management, and good returns on capital.
+
+Buffett explains why he's now looking globally for acquisitions: the U.S. market is mature, and many of the best businesses are outside the U.S. He's willing to go anywhere in the world for a wonderful business at a fair price.
+
+The Iscar acquisition would prove successful — it's still owned by Berkshire today and has grown substantially.
+
+The lesson: great businesses exist everywhere. If you limit yourself to one country, you're leaving opportunities on the table.`
+    },
+    {
+      title: "Sarbanes-Oxley: A Simpler Solution",
+      type: "background",
+      content: `The 2005 letter contains Buffett's critique of the Sarbanes-Oxley Act (SOX), which was enacted after the Enron and WorldCom accounting scandals.
+
+Buffett's view: SOX is well-intentioned but overly complex and burdensome. It requires hundreds of pages of compliance documentation — most of which is useless.
+
+His proposed solution: require the CEO and CFO to *personally certify* the company's financial statements *with criminal liability*. If the statements are wrong, the CEO goes to prison.
+
+This simple rule would align incentives perfectly. No CEO would sign off on fraudulent statements if they faced prison time.
+
+The lesson: complex regulations often fail because they create compliance theater. Simple, high-stakes rules (criminal liability) are more effective.`
+    },
+    {
+      title: "The $100 Billion Milestone",
+      type: "background",
+      content: `The 2005 letter marks a milestone: Berkshire's market cap crosses $100 billion for the first time.
+
+Buffett reflects on what this means: with $100B of market cap, Berkshire's future returns will be lower. It's the "fat wallet" problem on a larger scale.
+
+The math: to compound $100B at 15%/year, Buffett needs to generate $15B of incremental value per year. That's harder than generating $1M of incremental value.
+
+But Buffett isn't apologizing. He promises to beat the S&P 500 by a modest margin over long periods — and he's done that for 40 years.
+
+The lesson: size is a competitive disadvantage in investing. The best returns are achieved with small amounts of capital. Berkshire's $100B market cap means it will never again achieve its historical returns — but it can still achieve superior returns.`
+    }
+  ],
+
+  relatedConcepts: [
+    "housing-bubble",
+    "earnings-guidance",
+    "international-acquisitions",
+    "sarbanes-oxley",
+    "fat-wallet-problem"
+  ],
+
+  relatedCompanies: [
+    "berkshire-hathaway",
+    "iscar",
+    "geico"
+  ],
+
+  relatedPeople: ["warren-buffett", "charlie-munger"],
+
+  marketContext: {
+    description: `2005 was a mid-cycle bull market year. The S&P 500 returned about +4.9% (including dividends) — a modest year. The Fed Funds rate was 4.25% (rising from the 2003-2004 lows). Inflation was moderate (~3.4%). The housing market was at peak bubble (prices had doubled in many markets from 2000-2005). Subprime mortgage lending was exploding. Berkshire's stock price underperformed the S&P 500 in 2005. In hindsight, 2005 was near the peak of the housing bubble — but few recognized it at the time. Buffett's warning in the letter was one of the few voices of caution.`,
+    sp500Return: "+4.9%",
+    fedFundsRate: "4.25% (year-end, rising)",
+    inflation: "3.4%",
+    marketPhase: "bull-late"
+  },
+
+  keyNumbers: [
+    { label: "Book Value Growth (2005)", value: "6.4", unit: "%", context: "Calendar year 2005 (low due to large base)" },
+    { label: "41-Year CAGR (1965-2005)", value: "21.5", unit: "%", context: "Book value per share" },
+    { label: "Market Cap (2005)", value: "$100B+", unit: "", context: "First time crossing $100B" },
+    { label: "Insurance Float (2005)", value: "$49.0B", unit: "", context: "Up from $46.0B in 2004" },
+    { label: "S&P 500 Return (2005)", value: "+4.9", unit: "%", context: "Including dividends — Berkshire underperformed" },
+    { label: "Iscar Acquisition (2005)", value: "$4.0B", unit: "", context: "First major international acquisition" }
+  ],
+
+  thenVsNow: {
+    then: `In 2005, the housing bubble was at its peak. Subprime mortgages were exploding. Berkshire had just crossed $100B market cap. Buffett was 75 years old and had been running Berkshire for 41 years. The Iscar acquisition marked the first major international foray. Quarterly earnings guidance was standard practice on Wall Street — and Buffett was one of the few who rejected it.`,
+    now: `Today, the 2005 warning about housing and subprime seems obvious — but it wasn't at the time. The 2008 crisis validated Buffett's concerns. Berkshire's market cap is now $900B+. Iscar is still owned and has grown substantially. Earnings guidance is still standard on Wall Street — and still criticized by value investors. The "fat wallet" problem is now a "mega-wallet" problem. Buffett is 94 and has stepped back.`
+  },
+
+  publishedDate: '2026-05-30',
+
+  annotations: [
+    {
+      id: "2005-housing-quote",
+      quote: "The home equity ATM is unsustainable.",
+      comment: `This is the housing bubble warning. Buffett was one of the few voices cautioning about the housing bubble in 2005. The 2008 crisis would prove him right. Most investors (and most Americans) didn't see the crash coming.`
+    },
+    {
+      id: "2005-guidance-quote",
+      quote: "We don't give earnings guidance.",
+      comment: `This is the definitive statement on earnings guidance. Buffett argues that guidance forces short-termism and destroys long-term value. Most CEOs disagree — but most CEOs are focused on their stock price, not long-term value.`
+    },
+    {
+      id: "2005-100b-quote",
+      quote: "Our market cap has crossed $100 billion.",
+      comment: `This is the milestone reflection. $100B means future returns will be lower — the "fat wallet" problem intensifies. Buffett isn't apologizing, but he's being realistic. Size is the enemy of returns.`
+    }
+  ]
+
   }
 
 }
