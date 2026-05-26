@@ -83,6 +83,9 @@ export default function LetterPage({ params }: PageProps) {
 
   const interpretation = letter.interpretation || interpretations[letter.slug]
 
+  // Merge annotations from both sources (letter.annotations has priority)
+  const allAnnotations = letter.annotations || interpretation?.annotations || []
+
   // JSON-LD must be declared AFTER `interpretation` (line 78)
   const jsonLdArticle = {
     '@context': 'https://schema.org',
@@ -288,10 +291,10 @@ export default function LetterPage({ params }: PageProps) {
             </div>
 
             {/* Editor's Annotations */}
-            {interpretation?.annotations && interpretation.annotations.length > 0 && (
+            {allAnnotations.length > 0 && (
               <div className="mt-8 space-y-4">
                 <h2 className="text-lg font-semibold mb-4" style={{ color: '#18181B' }}>Editor&apos;s Annotations</h2>
-                {interpretation.annotations.map((ann) => (
+                {allAnnotations.map((ann) => (
                   <div key={ann.id} className="p-5 rounded-xl" style={{ backgroundColor: 'rgba(249, 247, 243, 0.8)', border: '1px solid #E6E2D9' }}>
                     <blockquote className="text-sm italic mb-3" style={{ color: '#B45309' }}>&ldquo;{ann.quote}&rdquo;</blockquote>
                     <p className="text-sm leading-relaxed" style={{ color: '#18181B' }}>{ann.comment}</p>
