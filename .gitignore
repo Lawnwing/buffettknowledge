@@ -71,3 +71,6 @@ add_*.py
 *.backup*
 *.workers-backup
 wrangler.toml.workers-backup
+
+# Debug / temp files
+debug.log
