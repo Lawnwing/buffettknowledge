@@ -3,6 +3,7 @@ import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { ArrowLeft, Building2 } from 'lucide-react'
 import { JsonLd } from '@/components/JsonLd'
+import { BreadcrumbJsonLd } from '@/components/BreadcrumbJsonLd'
 import { companies, getCompanyBySlug } from '@/data/companies'
 import { allLetters, getLetterBySlug } from '@/data/letters'
 
@@ -69,6 +70,13 @@ export default function CompanyPage({ params }: PageProps) {
   return (
     <div>
       <JsonLd value={jsonLdCompany} />
+      <BreadcrumbJsonLd
+        items={[
+          { name: 'Home', item: 'https://buffettknowledge.com/' },
+          { name: 'Companies', item: 'https://buffettknowledge.com/companies' },
+          { name: company.name, item: `https://buffettknowledge.com/companies/${company.slug}` },
+        ]}
+      />
       {/* Breadcrumb */}
       <div className="sticky top-14 z-30 bg-white/95 backdrop-blur-sm" style={{ borderBottom: '1px solid #E6E2D9' }}>
         <div className="max-w-7xl mx-auto px-6 sm:px-10">

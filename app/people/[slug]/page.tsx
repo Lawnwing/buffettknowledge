@@ -3,6 +3,7 @@ import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { ArrowLeft, Users } from 'lucide-react'
 import { JsonLd } from '@/components/JsonLd'
+import { BreadcrumbJsonLd } from '@/components/BreadcrumbJsonLd'
 import { people, getPersonBySlug } from '@/data/people'
 import { allLetters, getLetterBySlug } from '@/data/letters'
 
@@ -44,6 +45,13 @@ export default function PersonPage({ params }: PageProps) {
   return (
     <div>
       <JsonLd value={jsonLdPerson} />
+      <BreadcrumbJsonLd
+        items={[
+          { name: 'Home', item: 'https://buffettknowledge.com/' },
+          { name: 'People', item: 'https://buffettknowledge.com/people' },
+          { name: person.name, item: `https://buffettknowledge.com/people/${person.slug}` },
+        ]}
+      />
       {/* Breadcrumb */}
       <div className="sticky top-14 z-30 bg-white/95 backdrop-blur-sm" style={{ borderBottom: '1px solid #E6E2D9' }}>
         <div className="max-w-7xl mx-auto px-6 sm:px-10">

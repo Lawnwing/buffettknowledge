@@ -3,6 +3,8 @@ import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { ArrowLeft, ArrowRight, Clock, ExternalLink, BookOpen } from 'lucide-react'
 import { JsonLd } from '@/components/JsonLd'
+import { BreadcrumbJsonLd } from '@/components/BreadcrumbJsonLd'
+import { FAQJsonLd } from '@/components/FAQJsonLd'
 import { AdUnit } from '@/components/AdUnit'
 import LetterInterpretation from '@/components/LetterInterpretation'
 import ShareToolbar from '@/components/ShareToolbar'
@@ -114,6 +116,16 @@ export default function LetterPage({ params }: PageProps) {
 
   const backlinkGroups = getLetterBacklinks(letter.slug)
 
+  // Generate FAQ items from interpretation sections (truncate answers to ~300 chars for SEO)
+  const faqItems = interpretation?.sections
+    ?.filter((s) => s.title && s.content)
+    ?.slice(0, 6)
+    ?.map((s) => ({
+      question: s.title,
+      answer:
+        s.content.length > 300 ? s.content.slice(0, 297).trim() + '...' : s.content,
+    })) ?? []
+
   const linkEntities = [
     ...concepts.map((c) => ({ name: c.name, slug: c.slug, type: 'concepts' as const })),
     ...companies.map((c) => ({ name: c.name, slug: c.slug, type: 'companies' as const })),
@@ -123,6 +135,14 @@ export default function LetterPage({ params }: PageProps) {
   return (
     <div>
       <JsonLd value={jsonLdArticle} />
+      <BreadcrumbJsonLd
+        items={[
+          { name: 'Home', item: 'https://buffettknowledge.com/' },
+          { name: 'Letters', item: 'https://buffettknowledge.com/letters' },
+          { name: letter.title, item: `https://buffettknowledge.com/letters/${letter.slug}` },
+        ]}
+      />
+      <FAQJsonLd items={faqItems} />
       {/* Top Navigation Bar */}
       <div className="sticky top-14 z-30 bg-white/95 backdrop-blur-sm" style={{ borderBottom: '1px solid #E6E2D9' }}>
         <div className="max-w-7xl mx-auto px-6 sm:px-10">

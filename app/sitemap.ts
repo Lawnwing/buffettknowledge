@@ -4,6 +4,7 @@ import { concepts } from '@/data/concepts'
 import { companies } from '@/data/companies'
 import { people } from '@/data/people'
 import { blogPosts } from '@/data/blog-posts'
+import { interpretations } from '@/data/interpretations'
 
 // Google requires lastmod in YYYY-MM-DD format (no milliseconds or timezone offset)
 function today(): string {
@@ -23,12 +24,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${baseUrl}/about`, lastModified: today(), changeFrequency: 'monthly' as const, priority: 0.5 },
   ]
 
-  const letterPages = allLetters.map((letter) => ({
-    url: `${baseUrl}/letters/${letter.slug}`,
-    lastModified: `${letter.year}-01-01`,
-    changeFrequency: 'monthly' as const,
-    priority: letter.featured ? 0.8 : 0.6,
-  }))
+  const letterPages = allLetters.map((letter) => {
+    const interp = interpretations[letter.slug]
+    const lastMod = interp?.lastUpdated || letter.date || `${letter.year}-01-01`
+    return {
+      url: `${baseUrl}/letters/${letter.slug}`,
+      lastModified: lastMod,
+      changeFrequency: 'monthly' as const,
+      priority: letter.featured ? 0.8 : 0.6,
+    }
+  })
 
   const conceptPages = concepts.map((concept) => ({
     url: `${baseUrl}/concepts/${concept.slug}`,

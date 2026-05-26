@@ -3,6 +3,7 @@ import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { ArrowLeft, TrendingUp } from 'lucide-react'
 import { JsonLd } from '@/components/JsonLd'
+import { BreadcrumbJsonLd } from '@/components/BreadcrumbJsonLd'
 import { concepts, getConceptBySlug } from '@/data/concepts'
 import { getLetterBySlug } from '@/data/letters'
 import { getConceptStats } from '@/lib/citationStats'
@@ -84,6 +85,13 @@ export default function ConceptPage({ params }: PageProps) {
   return (
     <div>
       <JsonLd value={jsonLdConcept} />
+      <BreadcrumbJsonLd
+        items={[
+          { name: 'Home', item: 'https://buffettknowledge.com/' },
+          { name: 'Concepts', item: 'https://buffettknowledge.com/concepts' },
+          { name: concept.name, item: `https://buffettknowledge.com/concepts/${concept.slug}` },
+        ]}
+      />
       <div className="sticky top-14 z-30 bg-white/95 backdrop-blur-sm" style={{ borderBottom: '1px solid #E6E2D9' }}>
         <div className="max-w-7xl mx-auto px-6 sm:px-10">
           <div className="flex items-center h-12">
