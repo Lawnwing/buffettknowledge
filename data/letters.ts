@@ -4126,6 +4126,23 @@ Miscellaneous</p>
     featured: true,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1967.html',
     readingTimeMinutes: 12,
+    annotations: [
+        {
+            id: 'ann-001',
+            quote: `Over the past eleven years, I have consistently set forth as the BPL investment goal an average advantage in our performance often percentage points per annum in comparison with the Dow Jones Industrial Average.`,
+            comment: `1967年，巴菲特宣布降低业绩目标：从"跑赢道指10个百分点"降至"跑赢道指9个百分点或年化9%"。这是一个极其重要的信号：当资金规模变大，业绩相对优势会自然缩小。这种"主动降低预期"的诚实，在今天的基金经理中，已经绝迹了。`
+        },
+        {
+            id: 'ann-002',
+            quote: `The evaluation of securities and businesses for investment purposes has always involved a mixture of qualitative and quantitative factors.`,
+            comment: `1967年，巴菲特阐述了"质化vs量化"的投资分析框架。他说：评估证券和企业总是涉及质化和量化因素的结合。但他随即指出：真正让他赚大钱的，是质化洞察（qualitative insights）——"让收银机真正歌唱的东西"。`
+        },
+        {
+            id: 'ann-003',
+            quote: `Interestingly enough, although I consider myself to be primarily in the quantitative school... the really sensational ideas I have had over the years have been heavily weighted toward the qualitative side where I have had a "high-probability insight."`,
+            comment: `1967年，巴菲特承认：虽然他自认为属于"量化学派"，但多年来真正绝妙的想法，都严重偏向质化侧——那些他有"高概率洞察"的领域。这是他投资哲学的重大转折点：从"捡烟蒂"转向"买 great companies at fair prices"。`
+        }
+    ],
     interpretation:     {
         overview: "This special letter from 1967 addressed specific situations that required partner attention outside the normal semi-annual schedule. Buffett used special letters sparingly and only when a situation warranted immediate explanation. The 1967 special letter demonstrated his willingness to communicate directly and transparently with partners about important developments, rather than waiting for the next scheduled letter. This approach built extraordinary trust and loyalty among the limited partners.",
         keyTakeaways: [
