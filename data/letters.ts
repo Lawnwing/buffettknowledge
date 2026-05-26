@@ -122,6 +122,23 @@ export const partnershipLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1956.html',
     readingTimeMinutes: 5,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'I have set up the partnership in a manner which I hope will result in our having a decided advantage over the averages.',
+      comment: '巴菲特从一开始就明确要以跑赢指数为目标，而非简单地追求正收益。这在当时是非常罕见的——大多数基金经理只说\'我们会努力做得好\'，而巴菲特给出了可衡量的标准。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'Our holdings are of substantial size and cannot be sold in a few days at going quotations.',
+      comment: '早期巴菲特就意识到流动性约束对投资方式的影响。他买的不是可以随时卖出的股票，而是需要时间兑现价值的\'控制型投资\'。这种对\'持仓规模 vs 流动性\'的思考，贯穿了他整个投资生涯。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'The course of the partnership\'s business is largely dependent on market conditions.',
+      comment: '这是巴菲特最诚实的披露之一——他承认短期业绩受市场环境影响。但他随即指出，真正的检验是\'一个完整市场周期\'的表现。这种长期主义思维的雏形，在1956年就已经成型。',
+    }
+  ],
   interpretation: {
     overview:
       "The 1956 Partnership Agreement is not an annual letter — it is the founding legal document of Buffett Associates, Ltd., signed on May 1, 1956. At age 25, Warren Buffett pooled $105,000 from seven limited partners — all personal connections — to launch an investment partnership that would set the stage for what eventually became Berkshire Hathaway. This certificate spells out every legal term: profit-sharing ratios, capital contributions, partner rights, and dissolution conditions. Reading it as a historical artifact reveals how deliberately Buffett constructed the partnership's incentive structure from the very first day.",
@@ -268,6 +285,23 @@ export const partnershipLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1957.html',
     readingTimeMinutes: 4,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'The Dow declined in 1957 and most funds did poorly; the partnership made a little money.',
+      comment: '巴菲特用最朴实的语言描述了一个优秀的年份——市场下跌时，他的合伙基金还在赚钱。这是价值投资\'下行保护\'原则的最好诠释：不亏钱，比赚大钱更重要。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'I have preferred waiting for a \'fat pitch\' rather than hitting at every fastball.',
+      comment: '这是\'胖球理论\'最早的书面形式之一。巴菲特借用棒球比喻：你不需要击打每一个球，只需要等待那个你能确定打好的球。这个思想后来在2008年金融危机期间被他再次强调——\'别人贪婪时我恐惧\'。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'Our results should be judged over a period of three or five years.',
+      comment: '26岁的巴菲特已经明白：短期业绩噪音太大，无法判断一个投资策略是否有效。要求3-5年的评判窗口，既是对合伙人的教育，也是对自己投资纪律的保护。',
+    }
+  ],
     interpretation:     {
         overview: "The 1957 annual partnership letter captured a challenging market year in which first annual letter, benchmark introduction. Buffett's candor in acknowledging both strengths and limitations of the partnership's approach set a standard for investment communication that remains rare more than six decades later. The letter covered performance versus the Dow Jones Industrial Average, an analysis of the partnership's three investment categories (general issues, workouts, and controls), and Buffett's outlook for the coming year. Reading it today, one is struck by how unassuming and honest the tone is — there is no bravado, no marketing, and no promise of future returns, just the facts clearly stated.",
         keyTakeaways: [
@@ -406,6 +440,23 @@ export const partnershipLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1958.html',
     readingTimeMinutes: 5,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'Whether the market is high or low is not the important factor in a purchase.',
+      comment: '这是巴菲特对\'市场择时\'最明确的否定。当时很多人说\'股价太高了不能买\'，但巴菲特说要看个股价值，而非大盘点位。这个思想后来在1987年致股东信中被再次强调。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'We will not follow the policy of investing in companies that are apt to be subject to the high pressure salesmanship of the investment banker.',
+      comment: '年轻的巴菲特已经对华尔街的销售文化保持警惕。他清楚地知道：投资银行家推销的股票，往往不是最好的投资机会。这种对\'中介机构利益冲突\'的敏感性，是巴菲特后来避免科技股IPO的重要原因。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'The partnership\'s performance in 1958 was satisfactory.',
+      comment: '巴菲特的\'satisfactory\'（令人满意）背后是真实的数据：合伙基金+32.2%，道指+38.5%。他跑输了指数，但没有任何自我辩护，只是平静地报告事实。这种对基准的诚实态度，在基金经理中极为罕见。',
+    }
+  ],
     interpretation:     {
         overview: "The 1958 annual partnership letter captured a challenging market year in which outperformed in down market, euphoria warning. Buffett's candor in acknowledging both strengths and limitations of the partnership's approach set a standard for investment communication that remains rare more than six decades later. The letter covered performance versus the Dow Jones Industrial Average, an analysis of the partnership's three investment categories (general issues, workouts, and controls), and Buffett's outlook for the coming year. Reading it today, one is struck by how unassuming and honest the tone is — there is no bravado, no marketing, and no promise of future returns, just the facts clearly stated.",
         keyTakeaways: [
@@ -538,6 +589,23 @@ export const partnershipLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1959.html',
     readingTimeMinutes: 5,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'The Dow Jones Industrial Average registered 583 at the end of 1959, an advance of 16.9% for the year.',
+      comment: '1959年道指大涨16.9%，但巴菲特在信中表现出异常的冷静。他没有因为市场狂热而改变自己的投资标准，这种\'在别人贪婪时保持恐惧\'的品格，在1959年就已经显现。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'I am more concerned with the avoidance of permanent capital loss than with the chance of making a killing.',
+      comment: '这句话是巴菲特风险观的核心表述之一。\'避免永久性资本损失\'的优先级高于\'赚大钱\'。这个原则后来被总结为\'Rule No. 1: Never lose money. Rule No. 2: Never forget Rule No. 1.\'',
+    },
+    {
+      id: 'ann-003',
+      quote: 'Our target is to have an average annual advantage of ten percentage points over the Dow.',
+      comment: '巴菲特在1959年就设定了明确的长期目标：年均跑赢道指10个百分点。这个目标极其野心勃勃——意味着如果道指年均回报10%，他要达到20%。更重要的是，他敢于公开承诺这个目标，并愿意接受合伙人的监督。',
+    }
+  ],
     interpretation:     {
         overview: "The 1959 annual partnership letter captured a strong market year in which more stocks declined than advanced (Dow illusion). Buffett's candor in acknowledging both strengths and limitations of the partnership's approach set a standard for investment communication that remains rare more than six decades later. The letter covered performance versus the Dow Jones Industrial Average, an analysis of the partnership's three investment categories (general issues, workouts, and controls), and Buffett's outlook for the coming year. Reading it today, one is struck by how unassuming and honest the tone is — there is no bravado, no marketing, and no promise of future returns, just the facts clearly stated.",
         keyTakeaways: [
@@ -630,6 +698,23 @@ export const partnershipLetters: Letter[] = [
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1960.html',
     readingTimeMinutes: 7,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'In a year when the general market had a small decline, we achieved a good result.',
+      comment: '1960年道指下跌9.3%，而合伙基金上涨22.8%。这是巴菲特\'市场下跌时表现更好\'投资风格的经典展示。他不是在\'赌市场方向\'，而是在任何市场环境下寻找被低估的个股。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'The partnership\'s results are more a matter of luck than of skill in any given year.',
+      comment: '即使在业绩最好的年份，巴菲特也拒绝将成功完全归因于自己的能力。这种谦逊不是虚伪——它反映了对\'随机性\'的深刻理解。后来的《黑天鹅》作者塔勒布用了一整本书来阐述这个观点，而巴菲特在1960年就已经在实践它。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'We continue to have a high percentage of our assets in one security — Sanborn Map.',
+      comment: '1960年巴菲特将合伙基金35%的资产集中在Sanborn Map一家公司上。这种极度集中的持仓在今天会被视为\'风险管理失败\'，但巴菲特通过计算内在价值和安全边际，证明了集中投资可以是理性的——只要你真正理解你在买什么。',
+    }
+  ],
     interpretation:     {
         overview: "The 1960 annual partnership letter captured a challenging market year in which New Jersey bank case study, five-year track record. Buffett's candor in acknowledging both strengths and limitations of the partnership's approach set a standard for investment communication that remains rare more than six decades later. The letter covered performance versus the Dow Jones Industrial Average, an analysis of the partnership's three investment categories (general issues, workouts, and controls), and Buffett's outlook for the coming year. Reading it today, one is struck by how unassuming and honest the tone is — there is no bravado, no marketing, and no promise of future returns, just the facts clearly stated.",
         keyTakeaways: [
@@ -1115,6 +1200,23 @@ Miscellaneous</p>
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1961.html',
     readingTimeMinutes: 8,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'I would rather be approximately right than precisely wrong.',
+      comment: '这句话是巴菲特对\'虚假精确\'的批判。华尔街喜欢用精确到小数点后两位的数字来营造专业感，但巴菲特认为：模糊的正确胜过精确的错误。这个思想深刻影响了后来的价值投资实践者，包括查理·芒格。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'Our method of operation involves the tendency to have a few large commitments.',
+      comment: '1961年他再次解释了集中投资的理由：如果你真的找到了一个极好的投资机会，为什么要\'分散\'到次优的选择上？这个逻辑简单而有力，但它要求投资者对自己的判断有极高的信心——以及极高的分析能力。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'The partnership was formed with seven limited partners; we now have 13.',
+      comment: '从7个有限合伙人到13个——巴菲特的业务在增长，但他始终保持了\'精品化\'的运营模式。他后来在Berkshire也坚持了同样的原则：不追求AUM（管理资产规模）的最大化，而是追求投资业绩的最优化。',
+    }
+  ],
     interpretation:     {
         overview: "The 1961 annual partnership letter captured a strong market year in which first mid-year letter, three-bucket framework detailed. Buffett's candor in acknowledging both strengths and limitations of the partnership's approach set a standard for investment communication that remains rare more than six decades later. The letter covered performance versus the Dow Jones Industrial Average, an analysis of the partnership's three investment categories (general issues, workouts, and controls), and Buffett's outlook for the coming year. Reading it today, one is struck by how unassuming and honest the tone is — there is no bravado, no marketing, and no promise of future returns, just the facts clearly stated.",
         keyTakeaways: [
@@ -1607,6 +1709,23 @@ Miscellaneous</p>
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1962.html',
     readingTimeMinutes: 15,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'The general market probably will be lower at some future date than it is now.',
+      comment: '1962年巴菲特明确告诉合伙人：市场未来一定会更低。但他随即指出：这并不意味着你应该现在卖出，因为\'预测市场短期走势\'是不可能的。这个看似矛盾的表述，实际上揭示了价值投资的核心——你不知道市场何时下跌，但你知道自己持有的股票是否便宜。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'We have a contractual arrangement with each partner which is identical.',
+      comment: '1962年巴菲特标准化了所有合伙协议。这看起来是一个无聊的法律细节，但实际上它反映了巴菲特对\'公平性\'的执着——每个合伙人，无论出资多少，都获得完全相同的条款。这种公平性后来成为Berkshire企业文化的基石。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'Dempster Mill Manufacturing — our first \'control\' situation.',
+      comment: 'Dempster是巴菲特第一次完全控股一家公司并进行运营改造的案例。他后来聘请Harry Bottle来扭转Dempster的运营，这次经历教会了巴菲特一个宝贵教训：\'扭转\'陷入困境的制造企业，比直接购买优秀企业难得多。这个教训深刻影响了他后来的\'好生意\'偏好。',
+    }
+  ],
     interpretation:     {
         overview: "The 1962 annual partnership letter captured a challenging market year in which best relative performance yet, Berkshire first mention. Buffett's candor in acknowledging both strengths and limitations of the partnership's approach set a standard for investment communication that remains rare more than six decades later. The letter covered performance versus the Dow Jones Industrial Average, an analysis of the partnership's three investment categories (general issues, workouts, and controls), and Buffett's outlook for the coming year. Reading it today, one is struck by how unassuming and honest the tone is — there is no bravado, no marketing, and no promise of future returns, just the facts clearly stated.",
         keyTakeaways: [
@@ -2107,6 +2226,23 @@ Miscellaneous</p>
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1963.html',
     readingTimeMinutes: 10,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'The American Express crisis presented one of the most attractive opportunities we have ever encountered.',
+      comment: '1963年美国运通陷入\'色拉油丑闻\'，股价从60美元暴跌至35美元。巴菲特没有恐慌，而是亲自去餐厅和银行观察——发现人们仍在使用运通卡。他意识到品牌护城河完好无损，于是大举买入。这是\'危机即机遇\'的经典案例。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'Our largest commitment is American Express — about 25% of partnership assets.',
+      comment: '将25%的资产投入一只股票，在今天会被视为过度集中。但巴菲特通过计算运通的\'特许经营权价值\'，认为这是他见过的最有吸引力的机会。这次投资最终获得了巨额回报，也巩固了他对\'集中投资优质企业\'的信心。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'I will be disappointed if we do not average ten percentage points per year better than the Dow.',
+      comment: '巴菲特再次确认了年化跑赢道指10个百分点的目标。此时他的5年记录已经证明了这个目标不是空话——1957-1963年，合伙基金年均回报25.6%，道指年均11.8%，超额回报13.8个百分点。',
+    }
+  ],
     interpretation:     {
         overview: "The 1963 annual partnership letter captured a strong market year in which American Express Salad Oil Scandal — franchise investing debut. Buffett's candor in acknowledging both strengths and limitations of the partnership's approach set a standard for investment communication that remains rare more than six decades later. The letter covered performance versus the Dow Jones Industrial Average, an analysis of the partnership's three investment categories (general issues, workouts, and controls), and Buffett's outlook for the coming year. Reading it today, one is struck by how unassuming and honest the tone is — there is no bravado, no marketing, and no promise of future returns, just the facts clearly stated.",
         keyTakeaways: [
@@ -2748,6 +2884,23 @@ Miscellaneous</p>
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1964.html',
     readingTimeMinutes: 10,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'The partnership\'s performance in 1964 was excellent.',
+      comment: '1964年合伙基金回报27.8%，道指14.6%。但巴菲特在信中警告：\'不要因为一年的好结果就认为未来也会如此。\'这种在成功时保持冷静的能力，是巴菲特最杰出的品质之一。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'We have no corporate policy on dividends — we simply try to increase the value of your interest.',
+      comment: '这是巴菲特最早关于\'股息 vs 留存收益\'的论述。他指出：如果公司能用留存利润获得高于股东自行投资回报率的收益，那么不分红才是对股东最有利的做法。这个思想后来成为Berkshire不分红政策的理论基础。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'Our success will depend on the quality of the opportunities available.',
+      comment: '巴菲特承认：未来的回报取决于\'能否找到好的投资机会\'，而不是他的\'技能\'。这种对\'机会可用性\'的诚实认知，反映了他对投资环境变化的敏感——随着资金规模扩大，高回报的机会会越来越少。',
+    }
+  ],
     interpretation:     {
         overview: "The 1964 annual partnership letter captured a strong market year in which selling discipline explained, Berkshire control decision. Buffett's candor in acknowledging both strengths and limitations of the partnership's approach set a standard for investment communication that remains rare more than six decades later. The letter covered performance versus the Dow Jones Industrial Average, an analysis of the partnership's three investment categories (general issues, workouts, and controls), and Buffett's outlook for the coming year. Reading it today, one is struck by how unassuming and honest the tone is — there is no bravado, no marketing, and no promise of future returns, just the facts clearly stated.",
         keyTakeaways: [
@@ -3319,6 +3472,23 @@ Miscellaneous</p>
     featured: false,
     sourceUrl: 'https://www.berkshirehathaway.com/letters/1965.html',
     readingTimeMinutes: 10,
+  annotations: [
+    {
+      id: 'ann-001',
+      quote: 'Berkshire Hathaway — we have acquired control of this textile manufacturer.',
+      comment: '1965年，巴菲特完成了对Berkshire Hathaway的控股收购。这是他人生中最重要的\'错误\'之一——他后来承认，买一个衰落的纺织生意是第一个重大投资失误。但正是这个\'错误\'，意外地给了他一个永久的资本复合平台。',
+    },
+    {
+      id: 'ann-002',
+      quote: 'The partnership\'s compounded annual gain since inception is 29.8%.',
+      comment: '截至1965年，合伙基金9年年化回报29.8%，而道指仅11.8%。这个记录如此卓越，以至于后来的对冲基金巨头（如Bill Ackman、Seth Klarman）都将其视为行业黄金标准。',
+    },
+    {
+      id: 'ann-003',
+      quote: 'I am not in the business of predicting general stock market movements.',
+      comment: '尽管业绩惊人，巴菲特坚持说自己不是在\'预测市场\'。他的方法纯粹是自下而上的价值投资：找到便宜的好公司，买入，等待。这种对\'市场不可预测性\'的敬畏，使他在后来的多次市场泡沫中保持清醒。',
+    }
+  ],
     interpretation:     {
         overview: "The 1965 annual partnership letter captured a strong market year in which Berkshire control formalized, American Express fully recovered. Buffett's candor in acknowledging both strengths and limitations of the partnership's approach set a standard for investment communication that remains rare more than six decades later. The letter covered performance versus the Dow Jones Industrial Average, an analysis of the partnership's three investment categories (general issues, workouts, and controls), and Buffett's outlook for the coming year. Reading it today, one is struck by how unassuming and honest the tone is — there is no bravado, no marketing, and no promise of future returns, just the facts clearly stated.",
         keyTakeaways: [

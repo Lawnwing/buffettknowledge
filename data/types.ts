@@ -84,6 +84,7 @@ export interface Letter {
   sourceUrl: string
   readingTimeMinutes: number
   interpretation?: Interpretation
+  annotations?: Annotation[]
 }
 
 // --------------------------------------------------------
