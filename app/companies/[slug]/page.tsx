@@ -13,9 +13,34 @@ interface PageProps {
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const company = getCompanyBySlug(params.slug)
   if (!company) return {}
+  const pageUrl = `https://buffettknowledge.com/companies/${company.slug}`
   return {
     title: company.name,
     description: `${company.name} (${company.industry}) — mentioned ${company.letterCount} times in Buffett's letters.`,
+    openGraph: {
+      title: `${company.name} — Buffett Stock Holding`,
+      description: `${company.name} (${company.industry}) — mentioned ${company.letterCount} times in Buffett's letters.`,
+      url: pageUrl,
+      siteName: 'BuffettKnowledge',
+      type: 'website',
+      images: [
+        {
+          url: '/og-image.png',
+          width: 1200,
+          height: 630,
+          alt: 'BuffettKnowledge',
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: `${company.name} — BuffettKnowledge`,
+      description: `${company.name} (${company.industry}) — mentioned ${company.letterCount} times.`,
+      images: ['/og-image.png'],
+    },
+    alternates: {
+      canonical: pageUrl,
+    },
   }
 }
 

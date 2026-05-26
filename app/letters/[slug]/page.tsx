@@ -26,9 +26,38 @@ interface PageProps {
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const letter = getLetterBySlug(params.slug)
   if (!letter) return {}
+  const interpretation = interpretations[letter.slug]
+  const pageUrl = `https://buffettknowledge.com/letters/${letter.slug}`
   return {
     title: `${letter.year} — ${letter.title}`,
     description: letter.summary,
+    openGraph: {
+      title: `${letter.year} Buffett Letter: ${letter.title}`,
+      description: letter.summary,
+      url: pageUrl,
+      siteName: 'BuffettKnowledge',
+      type: 'article',
+      publishedTime: letter.date,
+      modifiedTime: interpretation?.lastUpdated || letter.date,
+      authors: ['Warren Buffett'],
+      images: [
+        {
+          url: '/og-image.png',
+          width: 1200,
+          height: 630,
+          alt: 'BuffettKnowledge',
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: `${letter.year} — ${letter.title}`,
+      description: letter.summary,
+      images: ['/og-image.png'],
+    },
+    alternates: {
+      canonical: pageUrl,
+    },
   }
 }
 

@@ -14,9 +14,34 @@ interface PageProps {
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const concept = getConceptBySlug(params.slug)
   if (!concept) return {}
+  const pageUrl = `https://buffettknowledge.com/concepts/${concept.slug}`
   return {
     title: concept.name,
     description: concept.definition,
+    openGraph: {
+      title: `${concept.name} — Buffett Investment Concept`,
+      description: concept.definition,
+      url: pageUrl,
+      siteName: 'BuffettKnowledge',
+      type: 'website',
+      images: [
+        {
+          url: '/og-image.png',
+          width: 1200,
+          height: 630,
+          alt: 'BuffettKnowledge',
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: `${concept.name} — BuffettKnowledge`,
+      description: concept.definition,
+      images: ['/og-image.png'],
+    },
+    alternates: {
+      canonical: pageUrl,
+    },
   }
 }
 
